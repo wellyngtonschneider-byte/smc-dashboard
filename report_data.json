@@ -1,0 +1,58 @@
+{
+  "timestamp": "01/04/2026 — 11:19 (BRT)",
+  "sessao": "MANHÃ (Abertura Londres/NY)",
+  "confianca": 50,
+  "confianca_label": "MODERADA",
+  "confianca_classe": "medium",
+  "setup": {
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "contexto": "Estrutura Daily bullish intacta em ATH. Aguardando pullback para Order Block 4H antes da execução no M15.",
+    "zona_1h": "FVG 1H em 4.760–4.775",
+    "estrutura_m15": "BOS bullish formado, reteste do OB M15 em andamento",
+    "gatilho": "CHoCH bullish no M15 após toque no OB — esperar fechamento acima da máxima anterior",
+    "sweep": "Mínimas das últimas 3 velas M15 — sweep obrigatório antes da entrada",
+    "entrada": "4.765",
+    "sl": "4.748",
+    "tp1": "4.782",
+    "tp2": "4.816",
+    "rr": "1:3.0",
+    "invalidacao": "Fechamento de vela M15 abaixo de 4.745",
+    "janela": "09:30–12:00 BRT — Overlap Londres/NY"
+  },
+  "fatores": [
+    {"nome": "Estrutura Daily", "ok": true,  "pts": "15pts"},
+    {"nome": "OB 4H Intacto",  "ok": true,  "pts": "15pts"},
+    {"nome": "Liq. Varrida",   "ok": false, "pts": "20pts"},
+    {"nome": "FVG 1H",         "ok": true,  "pts": "10pts"},
+    {"nome": "Gatilho M15",    "ok": false, "pts": "20pts"},
+    {"nome": "Sem Alto Imp.",  "ok": false, "pts": "10pts"},
+    {"nome": "DXY Alinhado",   "ok": true,  "pts": "10pts"}
+  ],
+  "precos": {
+    "BTC":    {"price": "$68,234", "change": "+0.94%", "up": true},
+    "ETH":    {"price": "$2,120",  "change": "+1.67%", "up": true},
+    "XAUUSD": {"price": "$4,771",  "change": "+1.12%", "up": true},
+    "GBPUSD": {"price": "1.32415", "change": "-0.08%", "up": false},
+    "EURUSD": {"price": "1.1498",  "change": "+0.03%", "up": true},
+    "USDJPY": {"price": "159.50",  "change": "+0.18%", "up": true},
+    "NAS100": {"price": "24,154",  "change": "+1.00%", "up": true}
+  },
+  "ativos": [
+    {"nome": "GBPUSD", "price": "1.32415", "bias": "BEARISH", "zona": "SSL 1.3180 · OB supply 1.3290"},
+    {"nome": "EURUSD", "price": "1.1498",  "bias": "BULLISH", "zona": "BSL 1.1530 · OB demand 1.1460"},
+    {"nome": "USDJPY", "price": "159.50",  "bias": "BEARISH", "zona": "BSL 160.00 · OB supply 159.80"},
+    {"nome": "BTCUSD", "price": "$68,234", "bias": "BULLISH", "zona": "SSL $66.5k · OB demand $67.2k"},
+    {"nome": "ETHUSD", "price": "$2,120",  "bias": "BULLISH", "zona": "OB demand $2,050 · BSL $2,180"},
+    {"nome": "NAS100", "price": "24,154",  "bias": "BULLISH", "zona": "Alvo 24,500 · suporte 23,900"}
+  ],
+  "eventos": [
+    {"hora": "09:15", "nome": "ADP Non-Farm Employment Change", "impacto": "high",   "ant": "63K",   "prev": "41K",   "resultado": "Aguardando"},
+    {"hora": "09:30", "nome": "Core Retail Sales m/m",          "impacto": "high",   "ant": "0.0%",  "prev": "0.3%",  "resultado": "Aguardando"},
+    {"hora": "09:30", "nome": "Retail Sales m/m",               "impacto": "high",   "ant": "-0.2%", "prev": "0.5%",  "resultado": "Aguardando"},
+    {"hora": "11:00", "nome": "ISM Manufacturing PMI",          "impacto": "high",   "ant": "52.4",  "prev": "52.3",  "resultado": "Aguardando"},
+    {"hora": "11:00", "nome": "ISM Manufacturing Prices",       "impacto": "medium", "ant": "70.5",  "prev": "74.0",  "resultado": "Aguardando"},
+    {"hora": "22:00", "nome": "President Trump Speaks",         "impacto": "high",   "ant": "—",     "prev": "—",     "resultado": "Aguardando"}
+  ],
+  "relatorio": "MACRO: Risk-on prevalecendo com NAS100 +1% e BTC acima de $68k. DXY fraco favorece XAUUSD em ATH e criptos. Agenda pesada hoje: ADP às 09:15, Retail Sales às 09:30 e ISM Manufacturing às 11:00 — todos de alto impacto no USD. Evitar entradas 15min antes/depois dos eventos.\n\nFOREX: GBPUSD bearish estrutural no Daily — aguardar sweep abaixo de 1.3180 antes de qualquer long. EURUSD bullish com BSL intacta em 1.1530. USDJPY testando resistência crítica em 160.00 com risco de intervenção BoJ.\n\nCRIPTO: BTC rompeu acima de $68k com estrutura bullish no 4H. ETH mais forte que BTC hoje — CHoCH bullish formado no 1H. Sem setup de alta qualidade ainda no M15.\n\nXAUUSD: Tendência bullish intacta em ATH acima de $4,770. Pullback para OB $4,748–$4,760 seria a entrada ideal com confirmação M15. Melhor R:R do dia."
+}
