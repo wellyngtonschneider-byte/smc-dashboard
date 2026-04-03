@@ -1,5 +1,5 @@
 {
-  "timestamp": "02/04/2026 — 12:26 (BRT)",
+  "timestamp": "02/04/2026 — 22:51 (BRT)",
   "sessao": "TARDE (Sessão NY)",
   "confianca": 90,
   "confianca_label": "ALTA",
@@ -7,10 +7,10 @@
   "setup": {
     "ativo": "XAUUSD",
     "direcao": "SHORT",
-    "contexto": "Estrutura daily bearish forte com queda de 5405 para 4699, order block 4h em 4726 rejeitado perfeitamente, liquidez acima varrida e FVG bearish preenchido",
+    "contexto": "XAUUSD em estrutura bearish daily, rejection claro no OB 4720-4726 do 4H, liquidity sweep em 4825 já executado e BOS bearish confirmado no M15",
     "zona_1h": "Ver análise completa",
-    "estrutura_m15": "Quebra de estrutura bearish confirmada com rejeição em 4707 após testar ordem block de 4726, rejection candle formado",
-    "gatilho": "Quebra de estrutura bearish confirmada com rejeição em 4707 após testar ordem block de 4726, rejection candle formado",
+    "estrutura_m15": "BOS bearish confirmado com quebra de 4626 no M15, rejection no OB 4720-4726 e price action vendedora estabelecida",
+    "gatilho": "BOS bearish confirmado com quebra de 4626 no M15, rejection no OB 4720-4726 e price action vendedora estabelecida",
     "sweep": "Ver análise completa",
     "entrada": "Ver análise",
     "sl": "Ver análise",
@@ -59,17 +59,17 @@
   ],
   "precos": {
     "BTC": {
-      "price": "$66,713",
-      "change": "-2.94%",
+      "price": "$66,532",
+      "change": "-0.92%",
       "up": false
     },
     "ETH": {
-      "price": "$2,049.87",
-      "change": "-3.81%",
+      "price": "$2,046.74",
+      "change": "-2.32%",
       "up": false
     },
     "XAUUSD": {
-      "price": "$4699.4",
+      "price": "$4702.7",
       "change": "—",
       "up": true
     },
@@ -89,9 +89,9 @@
       "up": true
     },
     "NAS100": {
-      "price": "24178.25",
-      "change": "-0.07%",
-      "up": false
+      "price": "24213.75",
+      "change": "+0.08%",
+      "up": true
     }
   },
   "ativos": [
@@ -115,19 +115,19 @@
     },
     {
       "nome": "BTCUSD",
-      "price": "$66,713",
+      "price": "$66,532",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "ETHUSD",
-      "price": "$2,049.87",
+      "price": "$2,046.74",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "NAS100",
-      "price": "24178.25",
+      "price": "24213.75",
       "bias": "BULLISH",
       "zona": "Ver análise"
     }
@@ -142,5 +142,5 @@
       "resultado": "Aguardando"
     }
   ],
-  "relatorio": "*🌍 MACRO DO DIA*\nUnemployment Claims às 09:30 BRT pode impactar USD levemente. DXY em territórios altos (~105+) mantém pressão sobre commodities e assets de risco. Risk-off prevalece com ouro testando suportes críticos após correção sharp desde máximas em 5405. Correlação negativa USD/XAUUSD funcionando perfeitamente.\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n*GBPUSD:* Neutro em 1.32086. Aguardar rompimento de 1.3150 (BSL) para long ou 1.3180 (SSL) para short.\n*EURUSD:* Consolidação em 1.1525. Zona crítica entre 1.1480-1.1560. Aguardar evento USD para direcionamento.\n*USDJPY:* Bullish em 159.6, próximo de máximas históricas. Cuidado com intervenção BoJ acima de 160.00.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n*BTCUSD:* Bearish em $66,713 (-2.94%). Perdeu suporte chave $67,500. Próximo alvo $65,000-64,500. SSL em $68,200 como resistência.\n*ETHUSD:* Weakness maior em $2,049 (-3.81%). Testando suporte $2,040. Break confirma queda para $1,980-1,950.\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\n*Daily:* Estrutura bearish confirmada. Rompeu baixa anterior 4570 e fechou em 4699 após queda desde 4825. Próximo alvo 4400-4350.\n*4H:* Order Block formado entre 4720-4726 (alta de 03/31 20:00-21:00) rejeitado perfeitamente. \n*1H:* FVG bearish entre 4720-4738 preenchido. Estrutura de lower highs confirmada.\n*M15:* Em consolidação após test do OB 4H.\n\n*📈 NAS100*\nFlat em 24,178 (-0.07%). Aguardando Unemployment Claims. Suporte em 24,100, resistência em 24,300. Viés neutro até definição macro.\n\n*🎯 SETUP DO DIA — XAUUSD SHORT — EXECUÇÃO M15*\n*Confiança do Sinal: 🟢 ALTA (90%)*\n✅ Estrutura Daily alinhada (15pts)\n✅ Order Block 4H intacto (15pts) \n✅ Liquidez varrida (20pts)\n✅ FVG 1H presente (10pts)\n✅ Gatilho M15 formado (20pts) — GATILHO CONFIRMADO\n❌ Sem evento alto impacto (10pts)\n✅ DXY confirmando direção (10pts)\n\n*Contexto Daily/4H:* Queda estrutural de 5405 para 4699. Order Block 4H entre 4720-4726 (formado em 03/31 20:00-21:00 com high 4728.7998) rejeitado com precisão após teste.\n\n*Zona de interesse 1H:* FVG bearish 4720-4738 já preenchido. Order Block 1H complementar em 4707-4710 (vela 04/01 00:00-01:00).\n\n*Estrutura M15 atual:* Consolidação após rejeição do OB 4H. Última vela às 12:15 em 4699.5, aguardando definição.\n\n*⚠️ Gatilho de entrada M15:* Break da baixa 4692.5 (04/02 12:00) com fechamento bearish.\n\n*⚠️ Aguardar sweep M15:* Possível sweep da alta 4710.2998 (04/02 12:00) antes da queda.\n\n*Entrada:* 4691 (break confirmado da baixa 4692.5)\n*Stop Loss:* 4712 (acima do OB 1H 4707-4710)\n*Take Profit 1:* 4670 (próxima liquidez — 1R)  \n*Take Profit 2:* 4625 (suporte 1H anterior — 3.14R)\n*R:R:* 1:3.14\n*Invalidação M15:* Fechamento acima de 4715\n*Janela de execução:* 12:30-16:00 BRT (sessão NY ativa)\n*Gestão:* Mover SL para BE após TP1 (4670)\n\n*⚠️ ATENÇÃO DO DIA*\n09:30 BRT - Unemployment Claims pode gerar volatilidade inicial. Aguardar 15min pós-evento para execução. Sessão NY até 17:00 oferece melhor liquidez para execução.\n\n*📋 RESUMO EXECUTIVO*\nViés bearish predomina com XAUUSD oferecendo melhor setup após rejeição técnica precisa. DXY forte pressiona commodities enquanto crypto segue correção. Nível crítico M15: break de 4692.5 confirma continuação da queda estrutural para 4625-4600."
+  "relatorio": "*🌍 MACRO DO DIA*\n\n📅 02/04/2026 | Sessão NY em andamento\n🔴 *Unemployment Claims* às 09:30 BRT (ant: 210K) — evento chave para DXY\n💵 DXY pressionando alta, fortalecendo o viés bearish em XAUUSD\n📊 Risk-off moderado com ouro perdendo força após sweep em máximas\n⚡ Correlação negativa DXY/XAUUSD funcionando perfeitamente\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n\n**GBPUSD (1.32086)**\n📉 *Daily:* Estrutura bearish, rejeitando resistência em 1.3250\n🔍 *4H:* SSL em 1.3180 vulnerável para sweep\n📍 *1H:* Order Block bearish em 1.3220-1.3230 intacto\n⚡ *M15:* Aguardando quebra de 1.3200 para continuação\n\n**EURUSD (1.1525)**\n📊 *Daily:* Range entre 1.1480-1.1580, sem direção clara\n🎯 *4H:* BSL em 1.1560 como alvo de liquidez\n📉 *1H:* FVG bearish em 1.1540-1.1550 em teste\n🔄 *M15:* Consolidação — aguardar quebra definitiva\n\n**USDJPY (159.6)**\n📈 *Daily:* Bullish forte, testando resistência em 160.00\n💪 *4H:* Múltiplos BSL acima de 160.00 para varrer\n⚡ *1H:* Order Block bullish em 159.20-159.40 defendendo\n🎯 *M15:* Setup bullish ativo acima de 159.50\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n**BTCUSD ($66,532 | -0.92%)**\n📊 *Daily:* Range 65k-68k, rejeitando resistência em 67.5k\n🔍 *4H:* SSL em 66.8k como próxima liquidez\n📉 *1H:* FVG bearish em 67.2k-67.4k não testado\n⚠️ *M15:* Estrutura neutra — aguardar quebra de 66k ou 67k\n\n**ETHUSD ($2,046 | -2.32%)**\n📉 *Daily:* Weakness relativa, perdendo suporte em 2050\n🎯 *4H:* SSL em 2020 como alvo principal\n💔 *1H:* BOS bearish confirmado abaixo de 2050\n⚡ *M15:* Continuação bearish esperada\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\n\n📉 *Daily:* Estrutura bearish após máxima em 4825. Rejection claro e BOS confirmado\n🎯 *4H:* Order Block bearish 4720-4726 sendo respeitado, próximo target em 4580\n📍 *1H:* FVG bearish em 4750-4760 preenchido. Estrutura quebrada em 4680\n⚡ *M15:* Consolidação em 4690-4710, aguardando quebra para 4580\n\n*📈 NAS100 (24,213 | +0.08%)*\n\n📊 *Daily:* Bullish estrutura intacta, consolidando em máximas\n🔍 *4H:* BSL em 24.280 como próxima liquidez\n📈 *1H:* Order Block bullish em 24.180-24.200 defendendo\n⚡ *M15:* Setup bullish ativo acima de 24.200\n\n*🎯 SETUP DO DIA — XAUUSD SHORT — EXECUÇÃO M15*\n\n*Confiança do Sinal: 🟢 ALTA (90%)*\n✅ Estrutura Daily alinhada (15pts)\n✅ Order Block 4H intacto (15pts) \n✅ Liquidez varrida (20pts)\n✅ FVG 1H presente (10pts)\n✅ Gatilho M15 formado (20pts) — GATILHO CONFIRMADO\n❌ Sem evento alto impacto (10pts)\n✅ DXY confirmando direção (10pts)\n\n*Contexto Daily/4H:* Estrutura bearish confirmada após sweep em 4825.89 (01/04). Order Block 4H em 4720-4726 sendo respeitado com rejection. BOS daily confirmado com fechamento abaixo de 4750.\n\n*Zona de interesse 1H:* FVG bearish 4750-4760 já preenchido. Estrutura quebrada em 4680, agora resistência. SSL em 4580 como target principal.\n\n*Estrutura M15 atual:* Consolidação em range 4690-4710. Últimas velas mostrando weakness com rejection em 4708. Estrutura interna quebrada.\n\n*⚠️ Gatilho de entrada M15:* Quebra e rejeição abaixo de 4690 com BOS confirmado\n\n*⚠️ Aguardar sweep M15:* Possível sweep final em 4710-4715 antes da queda\n\n*Entrada:* 4688 (após quebra confirmada de 4690)\n*Stop Loss:* 4718 (acima do Order Block 4H)\n*Take Profit 1:* 4658 (1R — 30 pips)  \n*Take Profit 2:* 4598 (3R — 90 pips)\n*R:R:* 1:3\n*Invalidação M15:* Reclaim acima de 4720\n*Janela de execução:* 23:00-02:00 BRT (sobreposição NY/Ásia)\n*Gestão:* mover SL para BE após TP1 (4658)\n\n*⚠️ ATENÇÃO DO DIA*\n\n🔴 *09:30 BRT — USD Unemployment Claims*\n📊 Expectativa 210K vs 212K anterior\n💵 Dado abaixo = DXY weakness = possível relief em XAUUSD \n💪 Dado acima = DXY strength = continuação bearish XAUUSD\n⚠️ *Estratégia:* Aguardar reação inicial e entrar no M15 após confirmação\n\n*📋 RESUMO EXECUTIVO*\n\n🎯 *Viés predominante bearish* em XAUUSD com estrutura daily quebrada e Order Block 4H sendo respeitado. *XAUUSD é o ativo com melhor setup* para swing short com target em 4580. *Nível crítico M15: 4690* — quebra confirma continuação para 4580, hold mantém consolidação até Unemployment Claims."
 }
