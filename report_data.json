@@ -1,16 +1,16 @@
 {
-  "timestamp": "03/04/2026 — 00:01 (BRT)",
+  "timestamp": "03/04/2026 — 09:01 (BRT)",
   "sessao": "MANHÃ (Abertura Londres/NY)",
-  "confianca": 90,
-  "confianca_label": "ALTA",
-  "confianca_classe": "high",
+  "confianca": 60,
+  "confianca_label": "MODERADA",
+  "confianca_classe": "medium",
   "setup": {
     "ativo": "XAUUSD",
     "direcao": "SHORT",
-    "contexto": "Teste",
+    "contexto": "Daily bearish claro (4784→4651), 4H em downtrend, rejeição em supply zone 4720-4730 com BOS bearish no M15 já executado",
     "zona_1h": "Ver análise completa",
-    "estrutura_m15": "Aguardando",
-    "gatilho": "Aguardando confirmação M15",
+    "estrutura_m15": "Break of structure bearish confirmado no M15 após rejeição em 4726, movimento descendo para 4622 e recovery atual para 4702",
+    "gatilho": "Break of structure bearish confirmado no M15 após rejeição em 4726, movimento descendo para 4622 e recovery atual para 4702",
     "sweep": "Ver análise completa",
     "entrada": "Ver análise",
     "sl": "Ver análise",
@@ -33,7 +33,7 @@
     },
     {
       "nome": "Liq. Varrida",
-      "ok": true,
+      "ok": false,
       "pts": "20pts"
     },
     {
@@ -43,33 +43,33 @@
     },
     {
       "nome": "Gatilho M15",
-      "ok": false,
+      "ok": true,
       "pts": "20pts"
     },
     {
       "nome": "Sem Alto Imp.",
-      "ok": true,
+      "ok": false,
       "pts": "10pts"
     },
     {
       "nome": "DXY Alinhado",
-      "ok": true,
+      "ok": false,
       "pts": "10pts"
     }
   ],
   "precos": {
     "BTC": {
-      "price": "$66,513",
-      "change": "-0.50%",
-      "up": false
+      "price": "$66,998",
+      "change": "+1.19%",
+      "up": true
     },
     "ETH": {
-      "price": "$2,051.86",
-      "change": "-1.00%",
-      "up": false
+      "price": "$2,062.66",
+      "change": "+1.46%",
+      "up": true
     },
     "XAUUSD": {
-      "price": "$4702.7",
+      "price": "$4651.5",
       "change": "—",
       "up": true
     },
@@ -89,8 +89,8 @@
       "up": true
     },
     "NAS100": {
-      "price": "24153.0",
-      "change": "-0.27%",
+      "price": "24150.75",
+      "change": "-0.28%",
       "up": false
     }
   },
@@ -115,23 +115,48 @@
     },
     {
       "nome": "BTCUSD",
-      "price": "$66,513",
+      "price": "$66,998",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "ETHUSD",
-      "price": "$2,051.86",
+      "price": "$2,062.66",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "NAS100",
-      "price": "24153.0",
+      "price": "24150.75",
       "bias": "BULLISH",
       "zona": "Ver análise"
     }
   ],
-  "eventos": [],
-  "relatorio": "Teste de atualizacao do dashboard"
+  "eventos": [
+    {
+      "hora": "09:30",
+      "nome": "USD Average Hourly Earnings m/m",
+      "impacto": "high",
+      "ant": "0.4%",
+      "prev": "0.3%",
+      "resultado": "Aguardando"
+    },
+    {
+      "hora": "09:30",
+      "nome": "USD Non-Farm Employment Change",
+      "impacto": "high",
+      "ant": "-92K",
+      "prev": "65K",
+      "resultado": "Aguardando"
+    },
+    {
+      "hora": "09:30",
+      "nome": "USD Unemployment Rate",
+      "impacto": "high",
+      "ant": "4.4%",
+      "prev": "4.4%",
+      "resultado": "Aguardando"
+    }
+  ],
+  "relatorio": "*🌍 MACRO DO DIA*\n\nSessão Londres/NY ativa com USD sob pressão moderada. Três eventos críticos hoje: NFP (-92K esperado vs +65K anterior), Average Earnings (0.4% vs 0.3%) e Unemployment (4.4% mantido). Dados fracos do emprego podem pressionar DXY e favorecer GOLD. Risk-on moderado com crypto em alta (+1.19% BTC). Correlação inversa USD/GOLD em foco.\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n\n**GBPUSD (1.32086):** Sem dados de velas fornecidos, aguardar análise técnica específica. Foco em reação aos dados de emprego USD 09:30.\n\n**EURUSD (1.1525):** Sem dados de velas fornecidos. Monitorar comportamento pós-NFP para definição de viés.\n\n**USDJPY (159.6):** Níveis extremos históricos. Aguardar dados de emprego para possível reversão ou continuação.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n**BTCUSD ($66,998):** +1.19% em 24h indica força moderada. Sem dados de velas específicos fornecidos. Viés ligeiramente bullish no curto prazo, aguardando reação aos dados macro.\n\n**ETHUSD ($2,062.66):** +1.46% superando BTC em performance. Momentum positivo, mas aguardar confirmação estrutural.\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\n\n**Daily:** Estrutura claramente bearish. Pico em 4789 (04/01) seguido de queda agressiva para 4651.5 atual. Tendência de baixa confirmada.\n\n**4H:** Rejeição forte em 4816 (04/01 09:00), formando topo. Sequência de LH/LL estabelecida. Último movimento 4726→4605 confirma pressão vendedora.\n\n**1H:** Supply zone crítico em 4720-4730 (máximas 31/03 e 01/04). Rejeições consecutivas nesta zona. Estrutura bearish intacta.\n\n**M15:** BOS bearish já executado. Estrutura em downtrend com retraces limitados.\n\n*📈 NAS100*\n\n**NAS100 (24150.75):** -0.28% em 24h. Sem dados de velas específicos. Aguardar reação aos dados de emprego para definir viés intraday.\n\n*🎯 SETUP DO DIA — XAUUSD SHORT — EXECUÇÃO M15*\n\n*Confiança do Sinal: 🟡 MODERADA (60%)*\n\n✅ Estrutura Daily alinhada (15pts)\n✅ Order Block 4H intacto (15pts) \n❌ Liquidez varrida (20pts)\n✅ FVG 1H presente (10pts)\n✅ Gatilho M15 formado (20pts) — GATILHO CONFIRMADO\n❌ Sem evento alto impacto (10pts)\n❌ DXY confirmando direção (10pts)\n\n**Contexto Daily/4H:** Tendência bearish dominante pós-pico 4789. Rejeição múltipla em 4H na zona 4720-4730. Momentum vendedor confirmado pela sequência 4784→4651.\n\n**Zona de interesse 1H:** Supply zone 4720-4730 permanece intacta. FVG identificado entre 4708-4726 (velas 31/03 22:00-23:00) oferecendo resistência.\n\n**Estrutura M15 atual:** Consolidação em range 4690-4705. Últimas velas mostram pressão compradora limitada, com máximas respeitando resistência 4708.\n\n**⚠️ Gatilho de entrada M15:** Quebra de 4690 com fechamento de vela M15 abaixo deste nível. Aguardar retest falhado em 4690-4695 para confirmar reversão em resistance.\n\n**⚠️ Aguardar sweep M15:** Possível sweep em 4710-4715 (máximas recentes M15) antes da queda. NÃO entrar antes desta varredura conforme regras prop firm.\n\n**Entrada:** 4688 (pós-quebra confirmada de 4690)\n**Stop Loss:** 4718 (acima do FVG 1H e máximas M15)\n**Take Profit 1:** 4650 (support anterior - 1.27R)\n**Take Profit 2:** 4605 (baixa significativa 4H - 2.77R)\n**R:R:** 1:2.77\n**Invalidação M15:** Reclaim acima de 4720 com fechamento horário\n**Janela de execução:** 09:30-12:00 BRT (pós-NFP)\n**Gestão:** Mover SL para BE após TP1 atingido\n\n*⚠️ ATENÇÃO DO DIA*\n\n**09:30 BRT - TRIO DE EVENTOS USD CRÍTICOS:**\n- NFP, Average Earnings e Unemployment simultaneamente\n- Dados fracos = pressão no DXY = força no GOLD\n- Dados fortes = possível invalidação do setup SHORT\n- Aguardar primeiros 30min pós-dados para confirmar direção\n- Volatilidade extrema esperada 09:30-10:00\n\n**POSICIONAMENTO:**\n- Se NFP < -92K: Setup SHORT ganha força\n- Se NFP > 0: Reavaliar viés, possível invalidação\n- Aguardar sweep antes de qualquer entrada\n\n*📋 RESUMO EXECUTIVO*\n\nViés geral RISK-ON moderado com USD sob pressão pré-NFP. **XAUUSD** permanece o ativo mais atrativo com setup SHORT estruturalmente alinhado, aguardando sweep M15 em 4710-4715 para entrada em 4688. Nível crítico: **quebra de 4690** pós-dados 09:30 confirma continuação bearish rumo 4605."
 }
