@@ -1,0 +1,22 @@
+[
+  {
+    "id": "20260404_1400",
+    "data": "04/04/2026",
+    "hora": "14:00",
+    "horario_iso": "2026-04-04T14:00:55.878971",
+    "ativo": "BTCUSD",
+    "direcao": "SHORT",
+    "confianca": 25,
+    "entrada": "67.15",
+    "entrada_valor": 67.15,
+    "sl": "67.55",
+    "sl_valor": 67.55,
+    "tp1": "66.75",
+    "tp1_valor": 66.75,
+    "tp2": "65.90",
+    "tp2_valor": 65.9,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily bearish claro com máximas decrescentes desde 75.9k, estrutura de baixa intacta apesar da recuperação recente de 65k"
+  }
+]
