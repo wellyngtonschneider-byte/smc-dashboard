@@ -18,5 +18,25 @@
     "rr": "1",
     "resultado": "SL",
     "justificativa": "Daily bearish claro com máximas decrescentes desde 75.9k, estrutura de baixa intacta apesar da recuperação recente de 65k"
+  },
+  {
+    "id": "20260405_0901",
+    "data": "05/04/2026",
+    "hora": "09:01",
+    "horario_iso": "2026-04-05T09:01:10.349063",
+    "ativo": "BTCUSD",
+    "direcao": "SHORT",
+    "confianca": 35,
+    "entrada": "66945",
+    "entrada_valor": 66945.0,
+    "sl": "67135",
+    "sl_valor": 67135.0,
+    "tp1": "66600",
+    "tp1_valor": 66600.0,
+    "tp2": "65950",
+    "tp2_valor": 65950.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily bearish confirmado com 5 velas vermelhas consecutivas, FVG bearish 1H em 67300-67329 oferece zona de entrada para continuidade da queda"
   }
 ]
