@@ -1,16 +1,16 @@
 {
-  "timestamp": "05/04/2026 — 09:01 (BRT)",
-  "sessao": "MANHÃ (Abertura Londres/NY)",
-  "confianca": 35,
+  "timestamp": "05/04/2026 — 14:01 (BRT)",
+  "sessao": "TARDE (Sessão NY)",
+  "confianca": 45,
   "confianca_label": "BAIXA",
   "confianca_classe": "low",
   "setup": {
     "ativo": "BTCUSD",
     "direcao": "SHORT",
-    "contexto": "Daily bearish confirmado com 5 velas vermelhas consecutivas, FVG bearish 1H em 67300-67329 oferece zona de entrada para continuidade da queda",
+    "contexto": "Daily bearish claro com rejeição em 67812 seguida de queda para 67188 — múltiplos FVGs bullish ativos indicam zonas de retração para entrada short",
     "zona_1h": "Ver análise completa",
-    "estrutura_m15": "Preço em zona neutra 66988.97, aguardando pullback para FVG bearish 67300-67329 ou teste de resistência para confirmar entrada short",
-    "gatilho": "Preço em zona neutra 66988.97, aguardando pullback para FVG bearish 67300-67329 ou teste de resistência para confirmar entrada short",
+    "estrutura_m15": "Preço fora de sessão principal, aguardando NY (14:00) para formar gatilho bearish válido",
+    "gatilho": "Preço fora de sessão principal, aguardando NY (14:00) para formar gatilho bearish válido",
     "sweep": "Ver análise completa",
     "entrada": "Ver análise",
     "sl": "Ver análise",
@@ -53,19 +53,19 @@
     },
     {
       "nome": "DXY Alinhado",
-      "ok": false,
+      "ok": true,
       "pts": "10pts"
     }
   ],
   "precos": {
     "BTC": {
-      "price": "$66,983",
-      "change": "-0.20%",
+      "price": "$67,188",
+      "change": "-0.36%",
       "up": false
     },
     "ETH": {
-      "price": "$2,041.75",
-      "change": "-0.46%",
+      "price": "$2,050.77",
+      "change": "-0.33%",
       "up": false
     },
     "XAUUSD": {
@@ -115,13 +115,13 @@
     },
     {
       "nome": "BTCUSD",
-      "price": "$66,983",
+      "price": "$67,188",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "ETHUSD",
-      "price": "$2,041.75",
+      "price": "$2,050.77",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
@@ -133,5 +133,5 @@
     }
   ],
   "eventos": [],
-  "relatorio": "*🌍 MACRO DO DIA*\nFinal de semana com movimentação mínima nos mercados. BTC (-0.20%) e ETH (-0.46%) consolidando lateralmente após recente pressão vendedora. DXY em alta nas sessões anteriores continua pressionando risk assets. Sem eventos econômicos hoje - foco puramente técnico nas estruturas cripto.\n\n*💷 FOREX — MERCADOS FECHADOS*\nForex indisponível no final de semana. GBPUSD (1.32086), EURUSD (1.1525) e USDJPY (159.6) mantêm níveis da sexta anterior. Aguardar reabertura domingo 21h BRT.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n*BTCUSD:* Estrutura Daily claramente bearish com 5 velas consecutivas de queda desde $74,886. Quebra estrutural confirmada abaixo de $68,000. No 4H, formação de Lower Highs e Lower Lows desde $69,285. Preço atual $66,988 testando suporte dos $66,500-66,800.\n\nZona crítica 1H: FVG bearish ativo em $67,300-67,329 (formado em 1775354400000) oferece resistência dinâmica para shorts. FVGs bullish menores em $66,873-66,896 e $66,926-66,950 podem gerar bounces técnicos.\n\n*ETHUSD:* Seguindo correlação com BTC, pressionado para baixo. Estrutura Daily também bearish, necessário aguardar retest de níveis superiores para entrada short com confluência.\n\n*🥇 XAUUSD — MERCADO FECHADO*\nOuro indisponível no fim de semana. Última cotação $4,702.7 aguarda reabertura.\n\n*📈 NAS100 — MERCADO FECHADO*\nÍndice fechado no weekend. Última referência 24,129.75 (-0.36%).\n\n*🎯 SETUP DO DIA — BTCUSD SHORT — EXECUÇÃO M15*\n*Confiança do Sinal: 🔴 BAIXA (35%) — considere aguardar*\n\n✅ Estrutura Daily alinhada (15pts)\n❌ Order Block 4H intacto (15pts)\n❌ Liquidez varrida (20pts)\n✅ FVG 1H presente (10pts)\n❌ Gatilho M15 formado (20pts) — AGUARDANDO GATILHO\n✅ Sem evento alto impacto (10pts)\n❌ DXY confirmando direção (10pts)\n\n*Contexto Daily/4H:* Tendência bearish confirmada com 5 daily consecutivas de queda desde máxima $74,886. No 4H, padrão claro de Lower Highs ($69,285 → $68,824 → $68,652) validando continuidade da pressão vendedora.\n\n*Zona de interesse 1H:* FVG bearish $67,300.25 - $67,329.36 (formado às 13h do dia anterior) permanece intacto como resistência dinâmica. Esta zona coincide com rejeição anterior e oferece R:R favorável.\n\n*Estrutura M15 atual:* Consolidação lateral entre $66,950-67,100 após impulso bearish. Últimas 4 velas M15 mostram indecisão com range comprimido $66,980-67,028.\n\n*⚠️ Gatilho de entrada M15:* Break da mínima $66,950 com vela de fechamento abaixo + momentum bearish confirmado por vela seguinte.\n\n*⚠️ Aguardar sweep M15:* Liquidez em $67,100-67,127 (máximas recentes M15) deve ser varrida primeiro antes do movimento bearish.\n\n*Entrada:* $66,945 (break da estrutura M15)\n*Stop Loss:* $67,135 (acima do FVG bearish 1H)\n*Take Profit 1:* $66,600 (suporte anterior - 1.8R)\n*Take Profit 2:* $65,950 (baixa do dia anterior - 5.2R)\n*R:R:* 1:5.2\n*Invalidação M15:* Fechamento acima $67,135\n*Janela de execução:* 09h-15h BRT (baixa volatilidade weekend)\n*Gestão:* Mover SL para BE após TP1\n\n*⚠️ ATENÇÃO DO DIA*\nSetup válido mas volume reduzido no weekend pode gerar falsos sinais. Considere aguardar domingo noite (21h+) quando liquidez asiática retorna. Monitorar DXY na reabertura - fortalecimento pode catalisar queda adicional do BTC.\n\n*📋 RESUMO EXECUTIVO*\nViés bearish dominante em BTC com estrutura Daily/4H alinhada para continuidade da queda. BTCUSD apresenta melhor setup short via FVG $67,300-329, mas aguardar gatilho M15 definitivo. Nível crítico: break de $66,945 com target $65,950 oferece R:R 1:5.2, porém baixa confiança (35%) devido liquidez weekend."
+  "relatorio": "*🌍 MACRO DO DIA*\nFinal de semana com mercados tradicionais fechados. DXY mantendo força em 102.5, pressionando cripto. Sem eventos econômicos hoje, foco na ação do preço pura. Risk-off prevalecendo com BTC e ETH em queda semanal, refletindo cautela antes da próxima semana.\n\n*💷 FOREX — MERCADOS FECHADOS*\nForex encerrado para o final de semana. GBPUSD, EURUSD e USDJPY retomam segunda-feira. DXY forte sugere pressão vendedora em pares EUR e GBP na reabertura.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n*BTCUSD:* Estrutura Daily claramente bearish. Rejeição em 67812 (máxima de 05/04) seguida de queda para 67188 atual. Daily formou shooting star, confirmando pressão vendedora.\n\n4H: Estrutura de Lower Highs e Lower Lows estabelecida. Último swing high em 67812, atual em 67188 respeitando tendência descendente.\n\n1H: Múltiplos FVGs bullish ativos indicam zonas de retração:\n- FVG 67052.23 (CE) | topo 67144.51\n- FVG 66938.005 (CE) | topo 66950.01  \n- FVG 67031.86 (CE) | topo 67070.01\n\nM15: Preço em 67188, testando resistência da zona 67144-67188. Estrutura de pullback em andamento.\n\n*ETHUSD:* Seguindo correlação com BTC. Estrutura Daily bearish alinhada, aguardando confirmação de continuação.\n\n*🥇 XAUUSD — MERCADOS FECHADOS*\nOuro pausado em $4702.7. Retoma segunda com foco em DXY e dados macro semanais.\n\n*📈 NAS100 — MERCADOS FECHADOS*\nÍndice fechou em 24129.75 (-0.36%). Correlação negativa com DXY mantida.\n\n*🎯 SETUP DO DIA — BTCUSD SHORT — EXECUÇÃO M15*\n*Confiança do Sinal: 🔴 BAIXA (45%) — considere aguardar*\n\n✅ Estrutura Daily alinhada (15pts)\n❌ Order Block 4H intacto (15pts)\n❌ Liquidez varrida (20pts)\n✅ FVG 1H presente (10pts)\n❌ Gatilho M15 formado (20pts) — AGUARDANDO GATILHO\n✅ Sem evento alto impacto (10pts)\n✅ DXY confirmando direção (10pts)\n\n*Contexto Daily/4H:* Daily bearish confirmado com shooting star em 67812. 4H mantendo Lower Highs/Lower Lows. Rejeição clara na zona 67800-67812, seguida de impulso descendente para 67188.\n\n*Zona de interesse 1H:* FVG bullish ativo 67052.23-67144.51. Preço atual (67188) acima do FVG, aguardando retração para zona de entrada.\n\n*Estrutura M15 atual:* Pullback em curso após queda de 66669 para 67812. Velas M15 mostram indecisão entre 67144-67396, formando consolidação antes de próximo movimento.\n\n*⚠️ Gatilho de entrada M15:* Quebra e close M15 abaixo de 67144 (topo do FVG 1H) com volume. Aguardar confirmação de continuação bearish.\n\n*⚠️ Aguardar sweep M15:* Liquidez em 67400-67450 (máximas recentes M15) deve ser testada antes da queda. Não entrar antes do sweep.\n\n*Entrada:* 67100 (após break de 67144 e reteste)\n*Stop Loss:* 67450 (acima do sweep esperado)\n*Take Profit 1:* 66770 (suporte anterior) — 1R\n*Take Profit 2:* 66200 (próxima zona de liquidez) — 2.6R\n*R:R:* 1:2.6\n*Invalidação M15:* Close acima de 67500\n*Janela de execução:* Final de semana até segunda 09:00 BRT\n*Gestão:* Mover SL para BE após TP1\n\n⚠️ *ATENÇÃO:* Setup válido mas com confiança BAIXA devido à falta de gatilho M15 confirmado. Aguardar o sweep da liquidez em 67400+ antes de considerar entrada. Final de semana pode trazer volatilidade reduzida.\n\n*⚠️ ATENÇÃO DO DIA*\nSessão de final de semana com liquidez reduzida. Aguardar confirmações claras no M15 antes de executar. Próxima semana traz dados importantes que podem alterar o cenário.\n\n*📋 RESUMO EXECUTIVO*\nViés bearish dominante com BTC rejeitando 67812 e caindo para 67188. Melhor setup: BTCUSD short após sweep de 67400 e break de 67144. Nível crítico M15: 67144 (break confirma continuação bearish)."
 }
