@@ -38,5 +38,25 @@
     "rr": "1",
     "resultado": "ABERTO",
     "justificativa": "Daily bearish confirmado com 5 velas vermelhas consecutivas, FVG bearish 1H em 67300-67329 oferece zona de entrada para continuidade da queda"
+  },
+  {
+    "id": "20260405_1401",
+    "data": "05/04/2026",
+    "hora": "14:01",
+    "horario_iso": "2026-04-05T14:01:12.088992",
+    "ativo": "BTCUSD",
+    "direcao": "SHORT",
+    "confianca": 45,
+    "entrada": "67100",
+    "entrada_valor": 67100.0,
+    "sl": "67450",
+    "sl_valor": 67450.0,
+    "tp1": "66770",
+    "tp1_valor": 66770.0,
+    "tp2": "66200",
+    "tp2_valor": 66200.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily bearish claro com rejeição em 67812 seguida de queda para 67188 — múltiplos FVGs bullish ativos indicam zonas de retração para entrada short"
   }
 ]
