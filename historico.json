@@ -36,7 +36,7 @@
     "tp2": "65950",
     "tp2_valor": 65950.0,
     "rr": "1",
-    "resultado": "ABERTO",
+    "resultado": "SL",
     "justificativa": "Daily bearish confirmado com 5 velas vermelhas consecutivas, FVG bearish 1H em 67300-67329 oferece zona de entrada para continuidade da queda"
   },
   {
@@ -56,7 +56,7 @@
     "tp2": "66200",
     "tp2_valor": 66200.0,
     "rr": "1",
-    "resultado": "ABERTO",
+    "resultado": "SL",
     "justificativa": "Daily bearish claro com rejeição em 67812 seguida de queda para 67188 — múltiplos FVGs bullish ativos indicam zonas de retração para entrada short"
   }
 ]
