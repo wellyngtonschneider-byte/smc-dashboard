@@ -58,5 +58,25 @@
     "rr": "1",
     "resultado": "SL",
     "justificativa": "Daily bearish claro com rejeição em 67812 seguida de queda para 67188 — múltiplos FVGs bullish ativos indicam zonas de retração para entrada short"
+  },
+  {
+    "id": "20260406_0901",
+    "data": "06/04/2026",
+    "hora": "09:01",
+    "horario_iso": "2026-04-06T09:01:33.920478",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "confianca": 55,
+    "entrada": "4678.00",
+    "entrada_valor": 4678.0,
+    "sl": "4674.00",
+    "sl_valor": 4674.0,
+    "tp1": "4690.00",
+    "tp1_valor": 4690.0,
+    "tp2": "4720.00",
+    "tp2_valor": 4720.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily em recuperação após queda de 5200 para 4400, sweep de liquidez baixa executado, preço recuperando acima de 4690 confirmando viés de alta"
   }
 ]
