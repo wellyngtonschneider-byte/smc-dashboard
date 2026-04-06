@@ -76,7 +76,7 @@
     "tp2": "4720.00",
     "tp2_valor": 4720.0,
     "rr": "1",
-    "resultado": "ABERTO",
+    "resultado": "TP2",
     "justificativa": "Daily em recuperação após queda de 5200 para 4400, sweep de liquidez baixa executado, preço recuperando acima de 4690 confirmando viés de alta"
   },
   {
@@ -96,7 +96,7 @@
     "tp2": "4655.00",
     "tp2_valor": 4655.0,
     "rr": "1",
-    "resultado": "ABERTO",
+    "resultado": "SL",
     "justificativa": "Daily bearish com queda de 4792 para 4660, estrutura de lower lows confirmada, mas sem OBs ou FVGs listados para entrada precisa"
   }
 ]
