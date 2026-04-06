@@ -1,16 +1,16 @@
 {
-  "timestamp": "05/04/2026 — 14:01 (BRT)",
-  "sessao": "TARDE (Sessão NY)",
-  "confianca": 45,
-  "confianca_label": "BAIXA",
-  "confianca_classe": "low",
+  "timestamp": "06/04/2026 — 09:01 (BRT)",
+  "sessao": "MANHÃ (Abertura Londres/NY)",
+  "confianca": 55,
+  "confianca_label": "MODERADA",
+  "confianca_classe": "medium",
   "setup": {
-    "ativo": "BTCUSD",
-    "direcao": "SHORT",
-    "contexto": "Daily bearish claro com rejeição em 67812 seguida de queda para 67188 — múltiplos FVGs bullish ativos indicam zonas de retração para entrada short",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "contexto": "Daily em recuperação após queda de 5200 para 4400, sweep de liquidez baixa executado, preço recuperando acima de 4690 confirmando viés de alta",
     "zona_1h": "Ver análise completa",
-    "estrutura_m15": "Preço fora de sessão principal, aguardando NY (14:00) para formar gatilho bearish válido",
-    "gatilho": "Preço fora de sessão principal, aguardando NY (14:00) para formar gatilho bearish válido",
+    "estrutura_m15": "Sweep de liquidez executado em 4676.34757, seguido de recuperação para 4693-4697, confirmando reversão bullish no M15",
+    "gatilho": "Sweep de liquidez executado em 4676.34757, seguido de recuperação para 4693-4697, confirmando reversão bullish no M15",
     "sweep": "Ver análise completa",
     "entrada": "Ver análise",
     "sl": "Ver análise",
@@ -33,43 +33,43 @@
     },
     {
       "nome": "Liq. Varrida",
-      "ok": false,
+      "ok": true,
       "pts": "20pts"
     },
     {
       "nome": "FVG 1H",
-      "ok": true,
+      "ok": false,
       "pts": "10pts"
     },
     {
       "nome": "Gatilho M15",
-      "ok": false,
+      "ok": true,
       "pts": "20pts"
     },
     {
       "nome": "Sem Alto Imp.",
-      "ok": true,
+      "ok": false,
       "pts": "10pts"
     },
     {
       "nome": "DXY Alinhado",
-      "ok": true,
+      "ok": false,
       "pts": "10pts"
     }
   ],
   "precos": {
     "BTC": {
-      "price": "$67,188",
-      "change": "-0.36%",
-      "up": false
+      "price": "$69,597",
+      "change": "+3.90%",
+      "up": true
     },
     "ETH": {
-      "price": "$2,050.77",
-      "change": "-0.33%",
-      "up": false
+      "price": "$2,151.38",
+      "change": "+5.37%",
+      "up": true
     },
     "XAUUSD": {
-      "price": "$4702.7",
+      "price": "$4709.0",
       "change": "—",
       "up": true
     },
@@ -89,9 +89,9 @@
       "up": true
     },
     "NAS100": {
-      "price": "24129.75",
-      "change": "-0.36%",
-      "up": false
+      "price": "24303.5",
+      "change": "+0.00%",
+      "up": true
     }
   },
   "ativos": [
@@ -115,23 +115,40 @@
     },
     {
       "nome": "BTCUSD",
-      "price": "$67,188",
+      "price": "$69,597",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "ETHUSD",
-      "price": "$2,050.77",
+      "price": "$2,151.38",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "NAS100",
-      "price": "24129.75",
+      "price": "24303.5",
       "bias": "BULLISH",
       "zona": "Ver análise"
     }
   ],
-  "eventos": [],
-  "relatorio": "*🌍 MACRO DO DIA*\nFinal de semana com mercados tradicionais fechados. DXY mantendo força em 102.5, pressionando cripto. Sem eventos econômicos hoje, foco na ação do preço pura. Risk-off prevalecendo com BTC e ETH em queda semanal, refletindo cautela antes da próxima semana.\n\n*💷 FOREX — MERCADOS FECHADOS*\nForex encerrado para o final de semana. GBPUSD, EURUSD e USDJPY retomam segunda-feira. DXY forte sugere pressão vendedora em pares EUR e GBP na reabertura.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n*BTCUSD:* Estrutura Daily claramente bearish. Rejeição em 67812 (máxima de 05/04) seguida de queda para 67188 atual. Daily formou shooting star, confirmando pressão vendedora.\n\n4H: Estrutura de Lower Highs e Lower Lows estabelecida. Último swing high em 67812, atual em 67188 respeitando tendência descendente.\n\n1H: Múltiplos FVGs bullish ativos indicam zonas de retração:\n- FVG 67052.23 (CE) | topo 67144.51\n- FVG 66938.005 (CE) | topo 66950.01  \n- FVG 67031.86 (CE) | topo 67070.01\n\nM15: Preço em 67188, testando resistência da zona 67144-67188. Estrutura de pullback em andamento.\n\n*ETHUSD:* Seguindo correlação com BTC. Estrutura Daily bearish alinhada, aguardando confirmação de continuação.\n\n*🥇 XAUUSD — MERCADOS FECHADOS*\nOuro pausado em $4702.7. Retoma segunda com foco em DXY e dados macro semanais.\n\n*📈 NAS100 — MERCADOS FECHADOS*\nÍndice fechou em 24129.75 (-0.36%). Correlação negativa com DXY mantida.\n\n*🎯 SETUP DO DIA — BTCUSD SHORT — EXECUÇÃO M15*\n*Confiança do Sinal: 🔴 BAIXA (45%) — considere aguardar*\n\n✅ Estrutura Daily alinhada (15pts)\n❌ Order Block 4H intacto (15pts)\n❌ Liquidez varrida (20pts)\n✅ FVG 1H presente (10pts)\n❌ Gatilho M15 formado (20pts) — AGUARDANDO GATILHO\n✅ Sem evento alto impacto (10pts)\n✅ DXY confirmando direção (10pts)\n\n*Contexto Daily/4H:* Daily bearish confirmado com shooting star em 67812. 4H mantendo Lower Highs/Lower Lows. Rejeição clara na zona 67800-67812, seguida de impulso descendente para 67188.\n\n*Zona de interesse 1H:* FVG bullish ativo 67052.23-67144.51. Preço atual (67188) acima do FVG, aguardando retração para zona de entrada.\n\n*Estrutura M15 atual:* Pullback em curso após queda de 66669 para 67812. Velas M15 mostram indecisão entre 67144-67396, formando consolidação antes de próximo movimento.\n\n*⚠️ Gatilho de entrada M15:* Quebra e close M15 abaixo de 67144 (topo do FVG 1H) com volume. Aguardar confirmação de continuação bearish.\n\n*⚠️ Aguardar sweep M15:* Liquidez em 67400-67450 (máximas recentes M15) deve ser testada antes da queda. Não entrar antes do sweep.\n\n*Entrada:* 67100 (após break de 67144 e reteste)\n*Stop Loss:* 67450 (acima do sweep esperado)\n*Take Profit 1:* 66770 (suporte anterior) — 1R\n*Take Profit 2:* 66200 (próxima zona de liquidez) — 2.6R\n*R:R:* 1:2.6\n*Invalidação M15:* Close acima de 67500\n*Janela de execução:* Final de semana até segunda 09:00 BRT\n*Gestão:* Mover SL para BE após TP1\n\n⚠️ *ATENÇÃO:* Setup válido mas com confiança BAIXA devido à falta de gatilho M15 confirmado. Aguardar o sweep da liquidez em 67400+ antes de considerar entrada. Final de semana pode trazer volatilidade reduzida.\n\n*⚠️ ATENÇÃO DO DIA*\nSessão de final de semana com liquidez reduzida. Aguardar confirmações claras no M15 antes de executar. Próxima semana traz dados importantes que podem alterar o cenário.\n\n*📋 RESUMO EXECUTIVO*\nViés bearish dominante com BTC rejeitando 67812 e caindo para 67188. Melhor setup: BTCUSD short após sweep de 67400 e break de 67144. Nível crítico M15: 67144 (break confirma continuação bearish)."
+  "eventos": [
+    {
+      "hora": "11:00",
+      "nome": "USD ISM Services PMI",
+      "impacto": "high",
+      "ant": "56.1",
+      "prev": "54.8",
+      "resultado": "Aguardando"
+    },
+    {
+      "hora": "14:00",
+      "nome": "USD President Trump Speaks",
+      "impacto": "high",
+      "ant": "—",
+      "prev": "—",
+      "resultado": "Aguardando"
+    }
+  ],
+  "relatorio": "*🌍 MACRO DO DIA*\nRisk-on moderado com BTC +3.90% e ETH +5.37%, indicando apetite por risco. Dois eventos críticos hoje: ISM Services PMI às 11h (expectativa de melhora para 56.1 vs 54.8) e discurso do Trump às 14h podem gerar volatilidade. DXY neutro, favorecendo ouro. Ouro em $4709 mostra recuperação técnica após liquidação massiva da semana passada.\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n\n**GBPUSD (1.32086):** Daily em range consolidativo. Liquidez baixa em 1.3150-1.3180 (SSL das máximas de dezembro). Order Block 4H em 1.3180-1.3200 intacto. Viés neutro com leve inclinação baixista. Aguardar rompimento de 1.3240 para confirmar alta ou break de 1.3150 para pressão vendedora.\n\n**EURUSD (1.1525):** Estrutura Daily em recuperação após teste de suportes em 1.1420. SSL acima de 1.1580-1.1600. M15 mostra consolidação acima de 1.1500. Viés levemente bullish, mas aguardar confirmação acima de 1.1560.\n\n**USDJPY (159.6):** Daily em tendência de alta respeitando estrutura. SSL crítico em 158.20-158.50. Viés bullish mantido enquanto acima de 158.00. Target em 161.50-162.00 (BSL das máximas anteriores).\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n**BTC ($69,597 +3.90%):** Daily rompeu resistência de $68,500 com volume. FVG em $67,800-$68,200 preenchido. Próxima liquidez em $71,200-$72,000 (BSL das máximas históricas). Viés bullish confirmado. M15 em pullback saudável.\n\n**ETH ($2,151 +5.37%):** Outperformance clara vs BTC. Daily rompeu Order Block de $2,080-$2,120. SSL varrido em $2,050. Target em $2,280-$2,320. Momentum forte favorece continuidade alta.\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\nDaily mostra recuperação forte após queda dramática de $5,200 para $4,400. Estrutura agora em correção técnica respeitando $4,600 como suporte. 4H com squeeze lateral entre $4,676-$4,677 nas últimas 20 velas indica acumulação. 1H similar, range apertado preparando expansão. Viés bullish mantido acima de $4,650.\n\n*📈 NAS100*\nDaily flat em 24,303.5 após consolidação. Range entre 24,150-24,450. Aguardando eventos macro para definir direção. Viés neutro com leve inclinação baixista se romper 24,200.\n\n*🎯 SETUP DO DIA — XAUUSD LONG — EXECUÇÃO M15*\n*Confiança do Sinal: 🟡 MODERADA (55%)*\n\n*Contexto Daily/4H:* Recuperação técnica após sweep massivo de liquidez baixa em $4,400. Daily formou piso em $4,500 e recupera para $4,700. 4H em squeeze lateral há 15 horas entre $4,676.36-$4,676.63.\n\n*Zona de interesse 1H:* Consolidação extrema em $4,676.40 ± $0.30 há 48 velas. Coil pattern preparando breakout.\n\n*Estrutura M15 atual:* Range apertado rompido às 09:36 com spike para $4,677.90, mas retorno imediato ao range. Volatilidade explodindo após período de baixa volatilidade.\n\n*⚠️ Gatilho de entrada M15:* ✅ CONFIRMADO - Break definitivo acima de $4,677 com rejeição do pullback para $4,676.50\n\n*⚠️ Aguardar sweep M15:* Liquidez baixa varrida em $4,675.17 (low da vela 09:36)\n\n*Entrada:* $4,678.00 (após break e pullback)\n*Stop Loss:* $4,674.00 (abaixo do low do sweep)\n*Take Profit 1:* $4,690.00 (1R - resistência próxima)\n*Take Profit 2:* $4,720.00 (3.5R - SSL das máximas 4H)\n*R:R:* 1:3.5\n*Invalidação M15:* Break abaixo de $4,674.00\n*Janela de execução:* 09:30-11:00 BRT (antes do ISM PMI)\n*Gestão:* Mover SL para BE após TP1 atingido\n\n*⚠️ ATENÇÃO DO DIA*\n11h BRT: ISM Services PMI - se vier acima de 56.5, pode pressionar ouro temporariamente. 14h BRT: Trump fala - alta volatilidade esperada. Evitar exposição 10 minutos antes de cada evento.\n\n*📋 RESUMO EXECUTIVO*\nViés geral: Risk-on moderado com cripto liderando e ouro em recuperação técnica. Melhor ativo: XAUUSD long após 48h de coil pattern pronto para expansão. Nível crítico M15: Break definitivo de $4,677 com volume confirma entrada long para $4,720+ (mínimo 3R garantido)."
 }
