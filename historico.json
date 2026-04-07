@@ -98,5 +98,25 @@
     "rr": "1",
     "resultado": "SL",
     "justificativa": "Daily bearish com queda de 4792 para 4660, estrutura de lower lows confirmada, mas sem OBs ou FVGs listados para entrada precisa"
+  },
+  {
+    "id": "20260407_0901",
+    "data": "07/04/2026",
+    "hora": "09:01",
+    "horario_iso": "2026-04-07T09:01:46.719655",
+    "ativo": "XAUUSD",
+    "direcao": "SHORT",
+    "confianca": 25,
+    "entrada": "Ver análise",
+    "entrada_valor": null,
+    "sl": "Ver análise",
+    "sl_valor": null,
+    "tp1": "Ver análise",
+    "tp1_valor": null,
+    "tp2": "Ver análise",
+    "tp2_valor": null,
+    "rr": "Ver análise",
+    "resultado": "ABERTO",
+    "justificativa": "Daily mostra clara tendência de baixa com LLs e LHs formados, preço rejeitou zona de resistência 4790 e está consolidando antes de próxima perna baixista"
   }
 ]
