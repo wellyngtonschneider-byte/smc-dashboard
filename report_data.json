@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-04-08T09:00:41.764549",
+  "timestamp": "2026-04-08T14:00:40.022677",
   "data": "08/04/2026",
-  "hora": "09:00",
+  "hora": "14:00",
   "ranking": [
     {
       "posicao": 1,
       "ativo": "XAUUSD",
-      "score": 87,
+      "score": 80,
       "direcao": "LONG",
-      "preco": 4801.5734,
+      "preco": 4760.52989,
       "trend_d1": "bullish",
       "trend_h4": "bullish",
-      "zona": "4794.91258–4805.41651",
+      "zona": "4705.27016–4706.97797",
       "fatores": [
         "✅ Daily bullish",
         "✅ 4H alinhado",
-        "🟡 1H neutro",
+        "❌ 1H contra (bearish)",
         "🟡 M15 neutro",
         "✅ OB 1H (2 zona(s))",
         "✅ FVG ativo (1H:2 M15:2)"
@@ -44,7 +44,7 @@
       "ativo": "GBPUSD",
       "score": 0,
       "direcao": "NEUTRO",
-      "preco": 1.34663,
+      "preco": 1.34226,
       "trend_d1": "neutro",
       "trend_h4": "bullish",
       "zona": null,
@@ -53,5 +53,5 @@
       ]
     }
   ],
-  "relatorio": "📊 *RANKING SMC — 09:00 BRT*\n_08/04/2026 | Abertura Londres / NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — 87% confluência — LONG*\n\n**Contexto Multi-Timeframe:**\nD1 mantém estrutura bullish sólida com último candle fechando em 4801.57, confirmando continuação após correção. 4H alinhado com viés de alta, mostrando recuperação desde mínimas em 4604.80. 1H e M15 em lateralização, criando ambiente ideal para entrada em correção.\n\n**Estruturas SMC Identificadas:**\n• **Order Block 1H:** Zona 4794.91-4805.41 (2 blocos confirmados)\n• **FVG 1H:** 2 gaps ativos entre 4785-4795\n• **FVG M15:** 2 gaps menores em 4788-4792 e 4795-4800\n\n**Setup de Entrada:**\n📈 **LONG em 4794.91-4805.41**\n• **SL:** 4774.94 (mínima M15 recente)\n• **TP1:** 4821.84 (resistência 1H anterior)  \n• **TP2:** 4842.80 (high 1H máximo)\n\n**Confluências:** Daily bullish + 4H alinhado + OB 1H duplo + FVGs múltiplos confirmam zona de demanda forte. Correção atual oferece entrada em desconto para continuação da tendência primária.\n\n━━━━━━━━━━━━━━━━━━━━\n🥈 *NAS100 — 50% confluência — LONG*\n\nConflito entre timeframes limita qualidade do setup. D1 bullish em 22.2, mas 1H e M15 bearish criam divergência. Zona de interesse entre 21.6-22.4 para possível reversão, mas aguardar alinhamento de estruturas menores antes de posicionar.\n\n━━━━━━━━━━━━━━━━━━━━\n🥉 *GBPUSD — 0% confluência — NEUTRO*\n\nDaily neutro em 1.34663 elimina contexto direcional claro. Apesar de 4H, 1H e M15 bullish, sem viés D1 definido, sem setup claro no momento. Aguardar definição de estrutura maior para entrada.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🔴 **15:00 BRT — USD FOMC Minutes**\nPotencial alta volatilidade em pares USD e metais. Aguardar clareza pós-evento para novos setups.\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO*\n• FOMC Minutes podem inverter cenário atual do XAUUSD\n• NAS100 com divergência entre timeframes - evitar\n• Gestão rigorosa de risco pre-evento fundamental\n• Preferência para XAUUSD com SL apertado"
+  "relatorio": "📊 *RANKING SMC — 14:00 BRT*\n_08/04/2026 | Sessão NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — 80% confluência — LONG*\n\nO ouro apresenta estrutura altista sólida no D1, com impulso recente levando o preço de 4.513 para máxima em 4.855, fechando em 4.760. O 4H confirma a tendência bullish, mostrando movimento de acumulação após correção para 4.604.\n\nIdentifico Order Block bullish em 1H na região 4.734-4.764 (velas anteriores), coincidindo com FVG não preenchido entre 4.739-4.756. A estrutura atual sugere continuação altista após correção.\n\n**Zona de Entrada**: 4.705-4.707\n**Stop Loss**: 4.690 (abaixo da correção)  \n**TP1**: 4.785 (resistência próxima)\n**TP2**: 4.820 (extensão 1:2)\n\nA confluência entre OB 1H, FVG ativo e alinhamento D1/4H oferece alta probabilidade. Aguardar retorno à zona para entrada.\n\n🥈 *NAS100 — 50% confluência — LONG*\n\nTendência D1 bullish, mas timeframes menores mostram correção em andamento. O 1H e M15 bearish indicam movimento de limpeza antes de possível continuação altista.\n\n**Zona de interesse**: 21.6-22.4 para possível entrada long em caso de reversão. Aguardar sinais de força nos timeframes menores.\n\n🥉 *GBPUSD — 0% confluência — NEUTRO*\n\nSem setup claro no momento. D1 neutro após impulso de 1.329 para 1.348. O 4H bullish contrasta com M15 bearish, gerando conflito estrutural. \n\nAguardar definição de tendência antes de posicionamento.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🔴 **15:00 BRT — USD FOMC Meeting Minutes**\nAlto impacto para USD e ouro. Volatilidade esperada.\n\n⚠️ *ATENÇÃO*\nFOMC Minutes podem gerar movimentos bruscos em XAUUSD. Considere reduzir posição antes do evento ou ajustar stops. Mercado pode reagir fortemente a sinais de mudança na política monetária do Fed."
 }
