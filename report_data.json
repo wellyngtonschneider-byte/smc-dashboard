@@ -1,52 +1,57 @@
 {
-  "timestamp": "2026-04-07T14:00:39.246178",
-  "data": "07/04/2026",
-  "hora": "14:00",
+  "timestamp": "2026-04-08T09:00:41.764549",
+  "data": "08/04/2026",
+  "hora": "09:00",
   "ranking": [
     {
       "posicao": 1,
       "ativo": "XAUUSD",
-      "score": 90,
+      "score": 87,
       "direcao": "LONG",
-      "preco": 4657.58567,
+      "preco": 4801.5734,
       "trend_d1": "bullish",
-      "trend_h4": "neutro",
-      "zona": "4649.53561–4658.66465",
+      "trend_h4": "bullish",
+      "zona": "4794.91258–4805.41651",
       "fatores": [
         "✅ Daily bullish",
-        "🟡 4H neutro",
-        "✅ 1H alinhado",
-        "✅ M15 alinhado",
+        "✅ 4H alinhado",
+        "🟡 1H neutro",
+        "🟡 M15 neutro",
         "✅ OB 1H (2 zona(s))",
         "✅ FVG ativo (1H:2 M15:2)"
       ]
     },
     {
       "posicao": 2,
+      "ativo": "NAS100",
+      "score": 50,
+      "direcao": "LONG",
+      "preco": 22.2,
+      "trend_d1": "bullish",
+      "trend_h4": "neutro",
+      "zona": "21.6–22.4",
+      "fatores": [
+        "✅ Daily bullish",
+        "🟡 4H neutro",
+        "❌ 1H contra (bearish)",
+        "❌ M15 contra (bearish)",
+        "❌ Sem OB 1H",
+        "✅ FVG ativo (1H:2 M15:2)"
+      ]
+    },
+    {
+      "posicao": 3,
       "ativo": "GBPUSD",
       "score": 0,
       "direcao": "NEUTRO",
-      "preco": 1.32485,
+      "preco": 1.34663,
       "trend_d1": "neutro",
       "trend_h4": "bullish",
       "zona": null,
       "fatores": [
         "❌ Daily neutro"
       ]
-    },
-    {
-      "posicao": 3,
-      "ativo": "NAS100",
-      "score": 0,
-      "direcao": "NEUTRO",
-      "preco": 21.6,
-      "trend_d1": "neutro",
-      "trend_h4": "bearish",
-      "zona": null,
-      "fatores": [
-        "❌ Daily neutro"
-      ]
     }
   ],
-  "relatorio": "📊 *RANKING SMC — 14:00 BRT*\n_07/04/2026 | Sessão NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — 90% confluência — LONG*\n\n**Contexto Multi-Timeframe:**\nDaily mantém estrutura bullish sólida com movimento de $4649 → $4694 nas últimas sessões. 4H apresenta neutralidade após correção de $4705 → $4604, criando oportunidade de reentrada. 1H confirma retomada bullish com rompimento de $4655, enquanto M15 consolida acima de $4657.\n\n**Confluências Técnicas:**\n✅ Ordem Block 1H: $4649.63–$4655.58 (zona de demanda institucional ativa)\n✅ FVG 1H: $4654.19–$4657.74 (gap de liquidez preenchido)\n✅ FVG M15: $4656.48–$4659.26 + $4657.53–$4662.30 (zonas de continuação)\n\n**Setup Operacional:**\n📍 **Entrada:** $4657.00 (preço atual confirmando suporte)\n🛑 **Stop Loss:** $4648.00 (abaixo OB 1H + margem)\n🎯 **TP1:** $4672.00 (resistência 4H anterior)\n🎯 **TP2:** $4694.00 (high recente 4H)\n\n**R/R:** 1:3.2 | **Confluência:** 90% — Setup de alta probabilidade\n\n━━━━━━━━━━━━━━━━━━━━\n🥈 *GBPUSD — 0% confluência — NEUTRO*\n\nDaily em consolidação entre $1.3180–$1.3284 sem direção clara. 4H e 1H mostram leve viés bullish, mas sem confluências suficientes. Aguardar rompimento de $1.3284 para LONG ou perda de $1.3220 para SHORT. Sem setup claro no momento.\n\n━━━━━━━━━━━━━━━━━━━━\n🥉 *NAS100 — 0% confluência — NEUTRO*\n\nEstrutura daily indefinida com movimento lateral. 4H, 1H e M15 apresentam viés bearish, mas dados sintéticos indicam baixa confiabilidade. Range 21.2–22.8 dominando. Aguardar quebra estrutural para definição direcional. Sem setup claro no momento.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🟡 **09:30** — USD Core Durable Goods Orders m/m\n🟡 **09:30** — USD Durable Goods Orders m/m\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO*\n• **Volatilidade esperada** nos dados de Durable Goods - impacto direto no USD\n• **XAUUSD**: Monitorar reação em $4694 (resistência chave)\n• **Gestão rigorosa** de risco na sessão NY\n\n*Análise baseada em confluências SMC | Risco sempre presente*"
+  "relatorio": "📊 *RANKING SMC — 09:00 BRT*\n_08/04/2026 | Abertura Londres / NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — 87% confluência — LONG*\n\n**Contexto Multi-Timeframe:**\nD1 mantém estrutura bullish sólida com último candle fechando em 4801.57, confirmando continuação após correção. 4H alinhado com viés de alta, mostrando recuperação desde mínimas em 4604.80. 1H e M15 em lateralização, criando ambiente ideal para entrada em correção.\n\n**Estruturas SMC Identificadas:**\n• **Order Block 1H:** Zona 4794.91-4805.41 (2 blocos confirmados)\n• **FVG 1H:** 2 gaps ativos entre 4785-4795\n• **FVG M15:** 2 gaps menores em 4788-4792 e 4795-4800\n\n**Setup de Entrada:**\n📈 **LONG em 4794.91-4805.41**\n• **SL:** 4774.94 (mínima M15 recente)\n• **TP1:** 4821.84 (resistência 1H anterior)  \n• **TP2:** 4842.80 (high 1H máximo)\n\n**Confluências:** Daily bullish + 4H alinhado + OB 1H duplo + FVGs múltiplos confirmam zona de demanda forte. Correção atual oferece entrada em desconto para continuação da tendência primária.\n\n━━━━━━━━━━━━━━━━━━━━\n🥈 *NAS100 — 50% confluência — LONG*\n\nConflito entre timeframes limita qualidade do setup. D1 bullish em 22.2, mas 1H e M15 bearish criam divergência. Zona de interesse entre 21.6-22.4 para possível reversão, mas aguardar alinhamento de estruturas menores antes de posicionar.\n\n━━━━━━━━━━━━━━━━━━━━\n🥉 *GBPUSD — 0% confluência — NEUTRO*\n\nDaily neutro em 1.34663 elimina contexto direcional claro. Apesar de 4H, 1H e M15 bullish, sem viés D1 definido, sem setup claro no momento. Aguardar definição de estrutura maior para entrada.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🔴 **15:00 BRT — USD FOMC Minutes**\nPotencial alta volatilidade em pares USD e metais. Aguardar clareza pós-evento para novos setups.\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO*\n• FOMC Minutes podem inverter cenário atual do XAUUSD\n• NAS100 com divergência entre timeframes - evitar\n• Gestão rigorosa de risco pre-evento fundamental\n• Preferência para XAUUSD com SL apertado"
 }
