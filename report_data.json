@@ -1,57 +1,52 @@
 {
-  "timestamp": "2026-04-08T14:00:40.022677",
-  "data": "08/04/2026",
-  "hora": "14:00",
+  "timestamp": "2026-04-09T09:00:48.871283",
+  "data": "09/04/2026",
+  "hora": "09:00",
   "ranking": [
     {
       "posicao": 1,
-      "ativo": "XAUUSD",
-      "score": 80,
-      "direcao": "LONG",
-      "preco": 4760.52989,
-      "trend_d1": "bullish",
-      "trend_h4": "bullish",
-      "zona": "4705.27016–4706.97797",
-      "fatores": [
-        "✅ Daily bullish",
-        "✅ 4H alinhado",
-        "❌ 1H contra (bearish)",
-        "🟡 M15 neutro",
-        "✅ OB 1H (2 zona(s))",
-        "✅ FVG ativo (1H:2 M15:2)"
-      ]
-    },
-    {
-      "posicao": 2,
       "ativo": "NAS100",
-      "score": 50,
+      "score": 52,
       "direcao": "LONG",
       "preco": 22.2,
       "trend_d1": "bullish",
-      "trend_h4": "neutro",
-      "zona": "21.6–22.4",
+      "trend_h4": "bearish",
+      "zona": "21.6–22.2",
       "fatores": [
         "✅ Daily bullish",
-        "🟡 4H neutro",
-        "❌ 1H contra (bearish)",
-        "❌ M15 contra (bearish)",
+        "❌ 4H contra (bearish)",
+        "🟡 1H neutro",
+        "🟡 M15 neutro",
         "❌ Sem OB 1H",
         "✅ FVG ativo (1H:2 M15:2)"
       ]
     },
     {
-      "posicao": 3,
+      "posicao": 2,
       "ativo": "GBPUSD",
       "score": 0,
       "direcao": "NEUTRO",
-      "preco": 1.34226,
+      "preco": 1.34274,
       "trend_d1": "neutro",
       "trend_h4": "bullish",
       "zona": null,
       "fatores": [
         "❌ Daily neutro"
       ]
+    },
+    {
+      "posicao": 3,
+      "ativo": "XAUUSD",
+      "score": 0,
+      "direcao": "NEUTRO",
+      "preco": 4756.99382,
+      "trend_d1": "neutro",
+      "trend_h4": "neutro",
+      "zona": null,
+      "fatores": [
+        "❌ Daily neutro"
+      ]
     }
   ],
-  "relatorio": "📊 *RANKING SMC — 14:00 BRT*\n_08/04/2026 | Sessão NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — 80% confluência — LONG*\n\nO ouro apresenta estrutura altista sólida no D1, com impulso recente levando o preço de 4.513 para máxima em 4.855, fechando em 4.760. O 4H confirma a tendência bullish, mostrando movimento de acumulação após correção para 4.604.\n\nIdentifico Order Block bullish em 1H na região 4.734-4.764 (velas anteriores), coincidindo com FVG não preenchido entre 4.739-4.756. A estrutura atual sugere continuação altista após correção.\n\n**Zona de Entrada**: 4.705-4.707\n**Stop Loss**: 4.690 (abaixo da correção)  \n**TP1**: 4.785 (resistência próxima)\n**TP2**: 4.820 (extensão 1:2)\n\nA confluência entre OB 1H, FVG ativo e alinhamento D1/4H oferece alta probabilidade. Aguardar retorno à zona para entrada.\n\n🥈 *NAS100 — 50% confluência — LONG*\n\nTendência D1 bullish, mas timeframes menores mostram correção em andamento. O 1H e M15 bearish indicam movimento de limpeza antes de possível continuação altista.\n\n**Zona de interesse**: 21.6-22.4 para possível entrada long em caso de reversão. Aguardar sinais de força nos timeframes menores.\n\n🥉 *GBPUSD — 0% confluência — NEUTRO*\n\nSem setup claro no momento. D1 neutro após impulso de 1.329 para 1.348. O 4H bullish contrasta com M15 bearish, gerando conflito estrutural. \n\nAguardar definição de tendência antes de posicionamento.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🔴 **15:00 BRT — USD FOMC Meeting Minutes**\nAlto impacto para USD e ouro. Volatilidade esperada.\n\n⚠️ *ATENÇÃO*\nFOMC Minutes podem gerar movimentos bruscos em XAUUSD. Considere reduzir posição antes do evento ou ajustar stops. Mercado pode reagir fortemente a sinais de mudança na política monetária do Fed."
+  "relatorio": "📊 *RANKING SMC — 09:00 BRT*\n_09/04/2026 | Abertura Londres / NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *NAS100 — 52% confluência — LONG*\n\n**Contexto Multi-Timeframe:**\nD1 mantém viés bullish após recuperação de 21.2 para 22.2, formando Higher Low consistente. Estrutura diária preservada com rejeição nos mínimos e busca por novos topos.\n\n4H apresenta correção bearish temporária, criando divergência com o daily - movimento típico de pullback saudável dentro da tendência maior de alta.\n\n1H e M15 neutros indicam consolidação após o movimento corretivo, preparando terreno para nova perna de alta alinhada ao contexto diário.\n\n**Zonas de Interesse:**\n- **FVG Ativo 1H:** Entre 22.0-22.2 (baseado nas últimas velas de rejeição)\n- **FVG M15:** Gaps entre 21.8-22.0 e 22.6-22.8 identificados na estrutura\n\n**Setup LONG:**\n- **Entrada:** 21.8-22.0 (aproveitando FVG + zona de valor)\n- **SL:** 21.6 (abaixo do Low de suporte estrutural)\n- **TP1:** 22.6 (primeiro target de resistência)\n- **TP2:** 23.2 (extensão baseada no movimento anterior)\n\nAguardar preenchimento das lacunas entre 21.8-22.0 para entrada otimizada, com confluence do FVG M15 e contexto bullish do daily.\n\n🥈 *GBPUSD — 0% confluência — NEUTRO*\n\nSem setup claro no momento. Daily neutro invalida qualquer viés direcional consistente, apesar do 4H bullish e M15 em alta. Preço em 1.34274 encontra-se em zona de indecisão. Aguardar definição estrutural mais clara antes de posicionamento. Zona de interesse potencial entre 1.3380-1.3420 para reavaliação.\n\n🥉 *XAUUSD — 0% confluência — NEUTRO*\n\nSem setup claro no momento. Daily neutro após movimento volátil de 4555 para 4855, agora consolidando em 4756. Apesar do 1H e M15 bullish, ausência de confluência do timeframe maior impede setup de qualidade. Monitorar região 4700-4720 para possível definição direcional. Aguardar alinhamento dos timeframes superiores.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🔴 **09:30 BRT** — USD Core PCE (alta volatilidade esperada)\n🔴 **09:30 BRT** — USD Final GDP q/q \n🟡 **09:30 BRT** — USD GDP Price Index q/q\n🟡 **09:30 BRT** — USD Unemployment Claims\n\nOs dados do Core PCE podem gerar volatilidade significativa em todos os ativos, especialmente NAS100. GDP final pode confirmar ou reverter expectativas econômicas.\n\n⚠️ *ATENÇÃO*\n- **Alta volatilidade esperada** durante releases das 09:30\n- NAS100: Confluence limitada (52%) - gerenciar risco adequadamente  \n- Mercado em transição Londres/NY - spreads podem ampliar\n- GBPUSD e XAUUSD sem setups claros - evitar posições até definição\n- Aguardar confirmação pós-news para validar zonas identificadas\n\n_Mantenha disciplina nos stops e aguarde confirmações estruturais._"
 }
