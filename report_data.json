@@ -1,52 +1,37 @@
 {
-  "timestamp": "2026-04-09T09:00:48.871283",
+  "timestamp": "2026-04-09T23:58:31.340835",
   "data": "09/04/2026",
-  "hora": "09:00",
-  "ranking": [
-    {
-      "posicao": 1,
-      "ativo": "NAS100",
-      "score": 52,
-      "direcao": "LONG",
-      "preco": 22.2,
-      "trend_d1": "bullish",
-      "trend_h4": "bearish",
-      "zona": "21.6–22.2",
-      "fatores": [
-        "✅ Daily bullish",
-        "❌ 4H contra (bearish)",
-        "🟡 1H neutro",
-        "🟡 M15 neutro",
-        "❌ Sem OB 1H",
-        "✅ FVG ativo (1H:2 M15:2)"
-      ]
-    },
-    {
-      "posicao": 2,
-      "ativo": "GBPUSD",
-      "score": 0,
-      "direcao": "NEUTRO",
-      "preco": 1.34274,
-      "trend_d1": "neutro",
-      "trend_h4": "bullish",
-      "zona": null,
-      "fatores": [
-        "❌ Daily neutro"
-      ]
-    },
-    {
-      "posicao": 3,
-      "ativo": "XAUUSD",
-      "score": 0,
-      "direcao": "NEUTRO",
-      "preco": 4756.99382,
-      "trend_d1": "neutro",
-      "trend_h4": "neutro",
-      "zona": null,
-      "fatores": [
-        "❌ Daily neutro"
-      ]
+  "hora": "23:58",
+  "dxy": {
+    "preco": 25.705,
+    "trend_d1": "neutro",
+    "confluencia_xau": "NEUTRO"
+  },
+  "xauusd": {
+    "preco": 4749.38411,
+    "score": 55,
+    "direcao": "bullish",
+    "choch": false,
+    "ote": {},
+    "sessao_anterior": {
+      "high": null,
+      "low": null,
+      "nome": "NY (ontem)"
     }
-  ],
-  "relatorio": "📊 *RANKING SMC — 09:00 BRT*\n_09/04/2026 | Abertura Londres / NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *NAS100 — 52% confluência — LONG*\n\n**Contexto Multi-Timeframe:**\nD1 mantém viés bullish após recuperação de 21.2 para 22.2, formando Higher Low consistente. Estrutura diária preservada com rejeição nos mínimos e busca por novos topos.\n\n4H apresenta correção bearish temporária, criando divergência com o daily - movimento típico de pullback saudável dentro da tendência maior de alta.\n\n1H e M15 neutros indicam consolidação após o movimento corretivo, preparando terreno para nova perna de alta alinhada ao contexto diário.\n\n**Zonas de Interesse:**\n- **FVG Ativo 1H:** Entre 22.0-22.2 (baseado nas últimas velas de rejeição)\n- **FVG M15:** Gaps entre 21.8-22.0 e 22.6-22.8 identificados na estrutura\n\n**Setup LONG:**\n- **Entrada:** 21.8-22.0 (aproveitando FVG + zona de valor)\n- **SL:** 21.6 (abaixo do Low de suporte estrutural)\n- **TP1:** 22.6 (primeiro target de resistência)\n- **TP2:** 23.2 (extensão baseada no movimento anterior)\n\nAguardar preenchimento das lacunas entre 21.8-22.0 para entrada otimizada, com confluence do FVG M15 e contexto bullish do daily.\n\n🥈 *GBPUSD — 0% confluência — NEUTRO*\n\nSem setup claro no momento. Daily neutro invalida qualquer viés direcional consistente, apesar do 4H bullish e M15 em alta. Preço em 1.34274 encontra-se em zona de indecisão. Aguardar definição estrutural mais clara antes de posicionamento. Zona de interesse potencial entre 1.3380-1.3420 para reavaliação.\n\n🥉 *XAUUSD — 0% confluência — NEUTRO*\n\nSem setup claro no momento. Daily neutro após movimento volátil de 4555 para 4855, agora consolidando em 4756. Apesar do 1H e M15 bullish, ausência de confluência do timeframe maior impede setup de qualidade. Monitorar região 4700-4720 para possível definição direcional. Aguardar alinhamento dos timeframes superiores.\n\n━━━━━━━━━━━━━━━━━━━━\n📅 *AGENDA*\n🔴 **09:30 BRT** — USD Core PCE (alta volatilidade esperada)\n🔴 **09:30 BRT** — USD Final GDP q/q \n🟡 **09:30 BRT** — USD GDP Price Index q/q\n🟡 **09:30 BRT** — USD Unemployment Claims\n\nOs dados do Core PCE podem gerar volatilidade significativa em todos os ativos, especialmente NAS100. GDP final pode confirmar ou reverter expectativas econômicas.\n\n⚠️ *ATENÇÃO*\n- **Alta volatilidade esperada** durante releases das 09:30\n- NAS100: Confluence limitada (52%) - gerenciar risco adequadamente  \n- Mercado em transição Londres/NY - spreads podem ampliar\n- GBPUSD e XAUUSD sem setups claros - evitar posições até definição\n- Aguardar confirmação pós-news para validar zonas identificadas\n\n_Mantenha disciplina nos stops e aguarde confirmações estruturais._"
+  },
+  "ativos": {
+    "GBPUSD": {
+      "preco": 1.34251,
+      "trend_d1": "bullish"
+    },
+    "EURUSD": {
+      "preco": 1.16915,
+      "trend_d1": "bullish"
+    },
+    "BTCUSD": {
+      "preco": 71976.99,
+      "trend_d1": "bullish"
+    }
+  },
+  "relatorio": "📊 *MARKET REPORT — 23:57 BRT*\n_09/04/2026 | Análise Manual_\n\n━━━━━━━━━━━━━━━━━━━━\n🌍 *MACRO DO DIA*\n**DXY neutro em 25.705** - consolidação entre 25.64-25.75 nas últimas sessões, sem pressão direcional clara sobre o ouro. **Risk-on moderado** com BTC bullish em $71,976, sugerindo apetite por ativos de risco, mas sem divergência significativa do ouro. **Eventos críticos**: 09:30 Core PCE (0.4% prev.) e GDP Final (0.7% prev.) podem quebrar a lateralização do dólar e definir direção para NY.\n\n━━━━━━━━━━━━━━━━━━━━\n💷 **GBPUSD** — D1: bullish | 4H: neutro | M15: neutro\nEstrutura bullish sólida com HH em 1.34844, consolidando em 1.3420-1.3435. Respeita suporte em 1.3420 (4H low), próxima resistência em 1.3458 (sessão anterior high).\n\n💶 **EURUSD** — D1: bullish | 4H: neutro | M15: neutro  \nTendência bullish preservada, testando 1.1692 próximo ao topo. Suporte crítico em 1.1686 (4H), rompimento de 1.1723 (D1 high) confirma continuação para 1.1750+.\n\n₿ **BTCUSD** — D1: bullish | 4H: bullish\nMomentum bullish forte em $71,976, confirmando apetite a risco alinhado com metais preciosos. Suporte em $71,587, resistência em $72,421.\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 **XAUUSD — MAPA DA SESSÃO**\n\n**Sessão anterior (NY ontem):**\n• High: $4775.78 — liquidez BSL intacta\n• Low: $4739.80 — liquidez SSL testada  \n• OBs abertos: $4735.93-4743.91 (untested) | $4748.59-4763.27 (parcial)\n• Cenário provável: buscar liquidez SSL em $4739.80 antes de testar BSL $4775.78\n\n**Top-Down atual:**\n• **Daily:** estrutura bullish preservada, HH em $4855.11, consolidando após pullback de $4800.71\n• **4H:** neutro, range $4739-4775, aguardando definição direcional  \n• **1H:** neutro, compressão entre $4749-4765, sem momentum claro\n• **M15:** bearish, LH em $4775.78, testando suporte $4749, CHoCH pendente\n\n**DXY:** confluência ❌ - neutro não oferece pressão direcional clara\n**Score: 55%**\n\n**⏳ AGUARDANDO GATILHO**\n**O que monitorar:** break de $4747.83 com fechamento M15 abaixo para CHoCH bearish confirmado\n**Zona de interesse:** OB $4735.93-4743.91 para reversão ou continuação  \n**Invalida se:** rompimento de $4763.27 (FVG high) com momentum\n\nCenário 1 (60% prob.): Break $4747.83 → busca SSL $4739.80 → OB $4735.93-4743.91 para possível reversão\nCenário 2 (40% prob.): Rejeição $4747.83 → reclaim FVG $4750.57 → teste BSL $4775.78\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ **ATENÇÃO DO DIA**\n**09:30 Core PCE + GDP:** dados críticos para DXY. PCE > 0.4% = pressão no ouro | GDP < 0.7% = possível dovish Fed, bullish ouro. **Aguardar 09:35** para clear direction após volatilidade inicial.\n\n📋 **RESUMO EXECUTIVO**\n• **DXY:** neutro em 25.705, eventos 09:30 podem quebrar lateralização\n• **XAU:** compressão $4747-4763, favorece break bearish para $4739.80\n• **Ação:** aguardar CHoCH em $4747.83 ou invalidação em $4763.27\n\n*Sistema IA mapeou campo → Trader confirma entrada mediante CHoCH*"
 }
