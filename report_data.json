@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-04-10T17:26:01.312119",
+  "timestamp": "2026-04-10T19:04:21.848255",
   "data": "10/04/2026",
-  "hora": "17:26",
+  "hora": "19:04",
   "dxy": {
-    "preco": 98.9,
+    "preco": 98.947,
     "trend_d1": "bearish",
     "confluencia_xau": "LONG"
   },
   "xauusd": {
-    "preco": 4749.63333,
+    "preco": 4750.40635,
     "score": 75,
     "direcao": "LONG",
     "choch": false,
     "ote": {},
     "sessao_anterior": {
-      "high": 4771.77,
-      "low": 4739.8,
-      "nome": "Londres"
+      "high": null,
+      "low": null,
+      "nome": "NY (ontem)"
     },
     "setup": {
       "ativo": true,
@@ -27,22 +27,22 @@
       "sl": 4749.59,
       "tp": 4803.51,
       "score": 75,
-      "hora_brt": "17:26"
+      "hora_brt": "19:04"
     }
   },
   "ativos": {
     "GBPUSD": {
-      "preco": 1.34672,
+      "preco": 1.3456,
       "trend_d1": "bullish"
     },
     "EURUSD": {
-      "preco": 1.1729,
+      "preco": 1.17234,
       "trend_d1": "bullish"
     },
     "BTCUSD": {
-      "preco": 73200.0,
+      "preco": 73134.49,
       "trend_d1": "bullish"
     }
   },
-  "relatorio": "📊 *MARKET REPORT — 17:25 BRT*\n_10/04/2026 | Sessão NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🌍 *MACRO DO DIA*\n**DXY** em forte tendência bearish nos 3 timeframes (98.9), rompendo suportes estruturais desde 100.812. Esta fraqueza sustentada do dollar é combustível direto para o rally do ouro.\n\n**Risk-on confirmado:** BTC em $73.200 (+2.0%) mantendo bullish D1/4H, validando apetite por ativos de risco e metais preciosos simultaneamente.\n\n**CPI às 09:30** já passou com dados dovish (Core CPI m/m 0.2% vs 0.3% anterior), pressão deflacionária sustenta enfraquecimento do dollar. Consumer Sentiment às 11:00 pode amplificar movimento.\n\n━━━━━━━━━━━━━━━━━━━━\n💷 *GBPUSD* — D1: bullish | 4H: bullish | M15: neutro\nRompeu resistência 1.3400 e consolidou acima. Próxima resistência em 1.3480 (high 4H anterior).\nSuporte estrutural em 1.3420, invalidação do viés bullish apenas abaixo de 1.3380.\n\n💶 *EURUSD* — D1: bullish | 4H: bullish | M15: neutro  \nBreaking above 1.1720 após teste de 1.1678 (low 4H). Momentum sustentado para 1.1740-50.\nPullback controlado mantendo 1.1720 como suporte, confirmando continuação bullish major pairs.\n\n₿ *BTCUSD* — D1: bullish | 4H: bullish\nNova máxima em $73.339 confirma risk-on environment, alinhado perfeitamente com rally do ouro contra dollar fraco.\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — MAPA DA SESSÃO*\n\n*Sessão anterior (Londres):*\n• High: $4771.77 — liquidez BSL estrutural\n• Low: $4739.8 — liquidez SSL ⚠️ apenas $9.83 de distância\n• OBs abertos: Bullish $4743.22-$4754.55 (12:15), Bearish $4764.27-$4768.61 (15:45)  \n• Cenário provável: teste do SSL $4739.8 para liquidar posições long antes de buscar novos highs\n\n*Top-Down atual:*\n• **Daily:** estrutura bullish sólida, consolidação após rejeição em $4800.71. Viés de alta mantido.\n• **4H:** bullish confirmado, suporte crítico em $4748.69 (low atual), resistência em $4772.71\n• **1H:** neutro após pullback de $4795.33, aguardando definição estrutural\n• **M15:** bearish no curto prazo, pressão vendedora ativa rumo ao SSL de Londres\n\n*DXY:* confluência ✅ — dollar bearish em todos os timeframes sustenta rally do ouro\n*Score: 75%*\n\n*⏳ AGUARDANDO GATILHO*\n*O que monitorar:* CHoCH bullish em $4762.90 (high do OB M15) com volume\n*Zona de interesse:* $4745.38-$4749.59 (OB M15 ativo) para entrada long\n*Invalida se:* rompimento de $4732.48 (low do OB M15) cancela setup bullish\n\n**Estrutura M15:** preço testando região de $4749.63, dentro da FVG $4749.53-$4753.30. OB bullish em $4745.38-$4749.59 ainda não testado completamente. Aguardamos recuo para esta zona antes do CHoCH.\n\n**Confluências técnicas:**\n- DXY bearish sustentado (98.9) vs resistência 99.00\n- Major pairs (GBP/EUR) confirmando dollar weakness  \n- BTC risk-on ($73.200) alinhado com metais preciosos\n- CPI dovish (Core 0.2%) já pressionando dollar\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO DO DIA*\n**11:00 BRT — Consumer Sentiment:** se confirmar deterioração (prev: 51.6), pode acelerar queda do DXY e impulso no ouro. Posicionar-se antes do evento se CHoCH confirmar.\n\n**Zona de cuidado:** SSL Londres $4739.8 muito próximo. Pode haver spike rápido para liquidar stops antes de reverter.\n\n📋 *RESUMO EXECUTIVO*\n• **DXY:** bearish sustentado em 98.9, breaking suportes → ambiente ideal para ouro\n• **XAU:** pullback saudável rumo a $4745-4749 (OB M15), setup para nova leg up pós CHoCH\n• **Ação:** aguardar recuo para OB $4745.38-$4749.59 + CHoCH em $4762.90 para entrada long\n\n**Plano de execução:** monitorar chegada na zona $4745-4749, aguardar CHoCH bullish em $4762.90 com confirmação de volume. Target inicial $4771.77 (BSL Londres) e extensão para $4780+."
+  "relatorio": "📊 *MARKET REPORT — 19:03 BRT*\n_10/04/2026 | Análise Manual_\n\n━━━━━━━━━━━━━━━━━━━━\n🌍 *MACRO DO DIA*\n**DXY:** Estrutura bearish consolidada (98.947) com momentum descendente em D1 e 4H. Pressão vendedora sustentada desde 100.81, criando ambiente favorável para metais preciosos. **Risk-on confirmado:** BTC mantém força bullish em $73.134, validando apetite por risco e correlação positiva com ouro. **Eventos críticos:** CPI às 09:30 (core prev 0.2% vs ant 0.3%) pode acelerar movimento se vier abaixo das expectativas.\n\n━━━━━━━━━━━━━━━━━━━━\n💷 *GBPUSD* — D1: bullish | 4H: bullish | M15: neutro\nEstrutura de alta preservada com máxima em 1.34802. Suporte crítico em 1.34097 (low 4H) como base para continuação.\nResistência imediata em 1.34634-1.34802 (range atual). Break acima sinaliza extensão para 1.3500+.\n\n💶 *EURUSD* — D1: bullish | 4H: bullish | M15: neutro  \nImpulso bullish forte desde 1.1568, testando máximas em 1.17393. Consolidação atual em 1.17204-1.17287.\nSuporte estrutural em 1.1678 (low 4H). Break de 1.1740 confirma extensão para 1.1800+ área.\n\n₿ *BTCUSD* — D1: bullish | 4H: bullish\nMomentum altista robusto em $73.134, confirmando apetite a risco elevado e correlação positiva com metais preciosos.\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — MAPA DA SESSÃO*\n\n**Sessão anterior (NY ontem):**\n• High: $4795.34 — liquidez BSL principal\n• Low: $4732.48 — liquidez SSL testada e defendida  \n• OBs abertos: $4745.38-4732.48 | $4762.90-4749.59\n• Cenário provável: Varredura de liquidez em $4770+ antes de impulso para novas máximas\n\n**Top-Down atual:**\n• **Daily:** Estrutura bullish preservada, consolidação pós-impulso de $4855. Viés comprador dominante\n• **4H:** Pullback saudável desde máximas, testando suporte em $4749. Base para próxima perna alta\n• **1H:** Estrutura bearish de curto prazo, mas dentro de correção maior. Busca por liquidez vendedora\n• **M15:** Momentum bearish ativo, aguardando CHoCH para confirmar reversão bullish\n\n**DXY:** Confluência ✅ — Pressão vendedora no dólar sustenta cenário comprador para ouro\n**Score: 75%**\n\n**⏳ AGUARDANDO GATILHO**\n**O que monitorar:** CHoCH bullish no break de $4763.83 (último high M15 relevante)\n**Zona de interesse:** $4749.53-4753.30 (FVG ativo) + $4745.38-4732.48 (OB principal)\n**Invalida se:** Break abaixo de $4732.48 com fechamento horário confirmado\n\n**Cenário esperado:**\n1. **Fase atual:** Busca por liquidez de vendedores entre $4740-4745\n2. **Gatilho:** Reversão bullish com CHoCH em $4763.83+  \n3. **Alvo primário:** $4770-4775 (liquidity sweep da sessão anterior)\n4. **Alvo secundário:** $4800+ (extensão fibonacci + zona de value anterior)\n\n**Setup de entrada (pós-CHoCH):**\n- **OTE preferencial:** Retrace para $4749-4753 (FVG + zona de discount)\n- **Stop defensivo:** Abaixo do OB em $4732 (-$18 risco controlado)\n- **Take profit escalonado:** 50% em $4770 | 50% em $4795+\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO DO DIA*\n**09:30 BRT:** CPI core - se vier <= 0.1%, esperar aceleração bullish imediata. DXY pode quebrar 98.50 e catapultar ouro para $4780+. **11:00 BRT:** Sentiment pode amplificar movimento caso CPI seja dovish. Evitar trades 15min antes dos dados.\n\n📋 *RESUMO EXECUTIVO*\n• **DXY:** Tendência bearish consolidada favorece metais preciosos até 97.50\n• **XAU:** Viés comprador preservado, aguardando CHoCH em $4763.83 para entrada\n• **Ação:** Monitorar break de $4763.83 + retrace para $4749-4753 como setup ideal\n\n**Probabilidade:** Alta (75%) para movimento para $4770-4800 nas próximas 4-8 horas, especialmente se CPI vier abaixo das expectativas e confirmar pressão no DXY."
 }
