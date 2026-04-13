@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-04-13T15:36:06.863420",
+  "timestamp": "2026-04-13T18:05:09.386008",
   "data": "13/04/2026",
-  "hora": "15:36",
+  "hora": "18:05",
   "dxy": {
-    "preco": 98.744,
+    "preco": 98.653,
     "trend_d1": "bearish",
     "confluencia_xau": "LONG"
   },
   "xauusd": {
-    "preco": 4731.81993,
-    "score": 70,
+    "preco": 4741.01573,
+    "score": 55,
     "direcao": "bullish",
     "choch": false,
     "ote": {},
     "sessao_anterior": {
-      "high": 4732.68,
-      "low": 4708.96,
-      "nome": "Londres"
+      "high": null,
+      "low": null,
+      "nome": "NY (ontem)"
     },
     "setup": {
       "ativo": false,
@@ -26,23 +26,23 @@
       "entrada": null,
       "sl": null,
       "tp": null,
-      "score": 70,
-      "hora_brt": "15:36"
+      "score": 55,
+      "hora_brt": "18:05"
     }
   },
   "ativos": {
     "GBPUSD": {
-      "preco": 1.34972,
+      "preco": 1.35031,
       "trend_d1": "bullish"
     },
     "EURUSD": {
-      "preco": 1.17476,
+      "preco": 1.17584,
       "trend_d1": "bullish"
     },
     "BTCUSD": {
-      "preco": 72306.79,
+      "preco": 73189.89,
       "trend_d1": "bullish"
     }
   },
-  "relatorio": "📊 *MARKET REPORT — 15:35 BRT*\n_13/04/2026 | Sessão NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🌍 *MACRO DO DIA*\n\n**DXY (98.744):** Estrutura D1 claramente bearish — o índice perdeu suporte atrás de suporte nas últimas 10 sessões, saindo de 100.69 para 98.74. A mínima do D1 mais recente (98.742) é o fundo do range atual, ou seja, o dólar está batendo em novos lows. Isso é combustível direto para o ouro subir. Confluência LONG para XAU ✅.\n\n**Risk-on/off:** BTC em $72.306 com D1 bullish — apetite a risco presente nos mercados. Não há fuga clássica para safe-haven, mas com DXY derretendo, o ouro sobe por fundamento de moeda fraca, não por pânico. Contexto favorável para rally sustentado no XAU.\n\n**Agenda:** Sem eventos econômicos relevantes. Sessão NY tende a ter fluxo técnico puro — ideal para SMC, sem risco de spike por notícia.\n\n━━━━━━━━━━━━━━━━━━━━\n💷 *GBPUSD* — D1: bullish | 4H: neutro | M15: bullish\nRally agressivo no D1 de 1.3190 para 1.3497. No M15, preço acaba de imprimir nova máxima em 1.34975, confirmando momentum comprador. Zona de demanda 4H em 1.3414–1.3405. Dólar apanhando em todas as frentes — confirma fraqueza DXY.\n\n💶 *EURUSD* — D1: bullish | 4H: neutro | M15: bullish\nPreço em 1.17476 testando topo do range D1 (1.17478 = high da última vela). Estrutura D1 impecável de alta desde 1.1520. No M15, impulso limpo com velas consecutivas de alta. Mais uma confirmação de DXY em colapso.\n\n₿ *BTCUSD* — D1: bullish | 4H: neutro\nBTC segura acima de 72k com viés de alta no diário. Apetite a risco presente, mas 4H lateralizado entre 70.500–72.600. Não diverge do ouro — ambos subindo com dólar fraco.\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — MAPA DA SESSÃO*\n\n*Sessão anterior (Londres):*\n• High: $4732.68 — BSL ⚠️ preço atual a apenas $0.86 abaixo. Liquidez compradora acumulada logo acima\n• Low: $4708.96 — SSL intacto, pool de liquidez vendedora abaixo\n• OB Bullish 1: $4710.25–$4716.97 (14:15) — tocado e respeitado no impulso de alta\n• OB Bullish 2: $4719.13–$4726.71 (15:00) — zona de reação intermediária, preço veio de dentro dela\n• OBs Bearish: nenhum — Londres foi dominada por compradores\n• Cenário provável: Preço está comprimido logo abaixo do London High ($4732.68). NY tende a varrer essa liquidez BSL para cima, buscar o OB bearish M15 em $4726.94–$4738.59 como suporte por cima, e expandir em direção aos $4743–$4750. Alternativa: falha no rompimento e sweep do SSL em $4708.96 antes de reverter.\n\n*Top-Down atual:*\n• **Daily:** Bullish — última vela com range massivo ($4643.55–$4752.99), fechamento em $4731.81. Corpo grande de alta mostrando absorção de oferta. Estrutura macro intacta.\n• **4H:** Bearish — queda forte de $4756.19 até $4643.55, seguida de recuperação em V. Preço recuperou para $4731.81 mas ainda abaixo do high de $4756.19. A estrutura de 4H precisa romper $4750 para virar bullish.\n• **1H:** Bullish — sequência de fundos ascendentes: $4702.39 → $4710.56 → $4712.35 → $4724.07. Impulso limpo com velas de corpo cheio.\n• **M15:** Neutro — preço lateralizando entre $4724.07 e $4731.99 nas últimas 3 velas. CHoCH ainda não confirmado.\n\n*OBs M15 ativos:*\n• Bullish OB: $4703.83–$4710.58 (demanda profunda)\n• Supply OB: $4726.94–$4738.59 (preço operando dentro dessa zona)\n\n*FVGs M15 ativos:*\n• FVG 1: $4714.92–$4718.97 (imbalance de demanda)\n• FVG 2: $4719.76–$4729.92 (parcialmente preenchido)\n\n*DXY:* Confluência ✅ — D1 bearish com novo low em 98.742, dólar em queda livre favorece continuação de alta no ouro.\n\n*Score: 70%*\n\n━━━━━━━━━━━━━━━━━━━━\n\n*⏳ AGUARDANDO GATILHO*\n\nCHoCH M15 ainda pendente. O preço precisa confirmar a quebra de estrutura para validar entrada.\n\n*O que monitorar:*\nO último swing high relevante no M15 está em **$4733.08** (high da vela das \\~13:00). Um fechamento de corpo acima desse nível no M15 configura CHoCH bullish e ativa o setup.\n\n*Zona de interesse para entrada após CHoCH:*\n**$4726.94–$4729.92** — confluência entre o OB M15 ($4726.94–$4738.59 como base) e o topo do FVG ($4719.76–$4729.92). Retração OTE (0.62–0.79 de Fibonacci) do impulso que romper $4733.08 provavelmente cairá nesta faixa.\n\n*Projeção do sinal (caso CHoCH confirme):*\n• Direção: LONG 📈\n• Entrada estimada: ~$4728–$4730 (retração ao OB/FVG)\n• Stop Loss: abaixo de $4724.07 (último swing low 1H) → ~$4723.00\n• Risco: ~$6.00\n• TP1: $4737.00 (+1R)\n• TP2: $4749.00 (+3R, alinhado com resistência 4H em $4749.77–$4750.56)\n• R:R projetado: 1:3\n• Gestão: 50% em TP1 → SL para BE → 50% até TP2\n\n*Invalida se:*\nPreço perder **$4724.07** (swing low do 1H) com corpo fechado abaixo no M15. Isso quebraria a estrutura de alta do 1H e sinalizaria que o 4H bearish está dominando. Nesse cenário, a próxima zona de demanda seria o OB em $4703.83–$4710.58.\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO DO DIA*\n\nSem eventos no calendário — risco de notícia é zero. Porém, atenção ao comportamento do DXY: está testando mínima em 98.742. Se perder esse nível, espere aceleração no XAU para cima. Se DXY encontrar bid e bouncer, XAU pode rejeitar nos $4738–$4750 e recuar.\n\nHorário crítico: **16:00–16:30 BRT** — período típico de volume institucional na sessão NY. O CHoCH provavelmente se define nessa janela.\n\n━━━━━━━━━━━━━━━━━━━━\n📋 *RESUMO EXECUTIVO*\n\n• **DXY:** Bearish em queda livre (98.74), novo low do range → suporte direto para ouro LONG\n• **XAU:** Viés bullish no D1 e 1H, mas 4H ainda bearish e M15 sem CHoCH. Preço comprimido a $0.86 do London High ($4732.68) — momento decisivo\n• **Ação:** Aguardar CHoCH bullish no M15 acima de **$4733.08**. Se confirmar, buscar entrada na retração para **$4727–$4730** com alvo em **$4749**. Invalidação abaixo de **$4724.07**.\n\n_IA mapeou o campo. Agora é com o trader._ 🎯"
+  "relatorio": "📊 *MARKET REPORT — 18:04 BRT*\n_13/04/2026 | Análise Manual_\n\n━━━━━━━━━━━━━━━━━━━━\n🌍 *MACRO DO DIA*\n**DXY:** Movimento bearish consistente no D1 com preço em 98.653, vindo de máximas em 101.399. A fraqueza do dólar é confluência direta para LONG no ouro, especialmente com o 4H neutro sinalizando possível continuação da queda.\n\n**Risk-on:** BTC bullish forte no D1 ($73.189), confirmando apetite ao risco que tradicionalmente beneficia ativos alternativos como ouro quando há pressão inflacionária subjacente.\n\n**Eventos:** Sessão limpa hoje sem releases econômicos relevantes, permitindo foco puro na análise técnica e estruturas de preço.\n\n━━━━━━━━━━━━━━━━━━━━\n💷 *GBPUSD* — D1: bullish | 4H: neutro | M15: neutro\n• Estrutura bullish consolidada no D1 com máximas em 1.35091 e suporte em 1.34988\n• Range estreito no M15 entre 1.35031-1.35091 indicando compressão antes de movimento\n\n💶 *EURUSD* — D1: bullish | 4H: neutro | M15: neutro  \n• Movimento bullish sólido no D1, testando máximas em 1.17654 com correção para 1.17584\n• Consolidação no 4H entre 1.17253-1.17654 aguardando definição direcional\n\n₿ *BTCUSD* — D1: bullish | 4H: neutro\n• Forte recovery bullish confirmando apetite ao risco, alinhado com cenário de enfraquecimento do dólar\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — MAPA DA SESSÃO*\n\n**Sessão anterior (NY):**\n• High: $4752.99 — liquidez BSL pendente \n• Low: $4643.55 — SSL já varrida na sessão 4H anterior\n• Range: 109 pontos de volatilidade com rejeição nas máximas\n• Cenário provável: preço deve buscar liquidez acima de $4752.99 antes de possível reversão\n\n**Top-Down atual:**\n• **Daily:** Estrutura bullish intacta, mas com indecisão nas últimas velas. Range estreito $4740-$4743 sugere compressão\n• **4H:** Viés bearish ativo com baixas mais baixas desde $4756.19. Estrutura de correção em andamento\n• **1H:** Bullish recente com recuperação desde $4702.39, testando resistência em $4743.38\n• **M15:** Neutro em compressão. CHoCH aguardando confirmação para definir próximo movimento\n\n**DXY:** Confluência ✅ — Fraqueza do dólar favorece cenário bullish no ouro\n**Score: 55%**\n\n**⏳ AGUARDANDO GATILHO**\n\n**O que monitorar:** CHoCH bullish confirmado acima de $4743.38 (máxima atual do M15) ou CHoCH bearish abaixo de $4740.70 (mínima atual)\n\n**Cenário LONG (preferencial por confluência DXY):**\n• **Zona de interesse:** FVG ativo entre $4740.21-$4740.71 como OTE para entrada\n• **Trigger:** Break e retest acima de $4743.38 \n• **Target:** Liquidez BSL em $4752.99 (+120 pips)\n• **Invalida se:** Break abaixo de $4738.11 (baixa do 1H)\n\n**Cenário SHORT (alternativo):**\n• **Trigger:** Break abaixo de $4740.70 com retest\n• **Target:** Liquidez em $4724.07 (baixa significativa do 1H)\n• **Invalida se:** Break acima de $4748.98\n\n**Estruturas ativas:**\n• FVG $4730.93-$4732.83 (suporte secundário)\n• FVG $4740.21-$4740.71 (zona de entrada preferencial LONG)\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO DO DIA*\nSem eventos econômicos relevantes. Foco em 19:00-21:00 BRT para possível breakout da compressão atual. Sessão asiática overnight pode definir direção para segunda-feira.\n\n📋 *RESUMO EXECUTIVO*\n• **DXY:** Tendência bearish favorece ouro, mas aguardar confirmação técnica\n• **XAU:** Compressão em range $4740-$4743. Próximo movimento será significativo\n• **Ação:** Aguardar CHoCH em $4743.38 (LONG) ou $4740.70 (SHORT) para entrada com confluência\n\n*Sistema: IA mapeou campo + aguardando confirmação humana para entrada*"
 }
