@@ -218,5 +218,25 @@
     "rr": "1",
     "resultado": "ABERTO",
     "justificativa": "Daily bullish forte com HH/HL, BSL varrida em 4722, OB 4H intacto em 4752-4768 com volume FORTE, aguardando retest em Londres"
+  },
+  {
+    "id": "20260414_1401",
+    "data": "14/04/2026",
+    "hora": "14:01",
+    "horario_iso": "2026-04-14T14:01:16.310205",
+    "ativo": "N/A",
+    "direcao": "N/A",
+    "confianca": 0,
+    "entrada": "4800",
+    "entrada_valor": 4800.0,
+    "sl": "4785",
+    "sl_valor": 4785.0,
+    "tp1": "4830",
+    "tp1_valor": 4830.0,
+    "tp2": "4860",
+    "tp2_valor": 4860.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Erro na avaliação"
   }
 ]
