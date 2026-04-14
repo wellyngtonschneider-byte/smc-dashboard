@@ -1,170 +1,56 @@
 {
-  "timestamp": "14/04/2026 — 08:33 (BRT)",
-  "sessao": "MANHÃ (Abertura Londres/NY)",
-  "confianca": 70,
-  "confianca_label": "MODERADA",
-  "confianca_classe": "medium",
-  "setup": {
-    "ativo": "XAUUSD",
-    "direcao": "LONG",
-    "contexto": "Daily bullish forte com HH/HL, BSL varrida em 4722, OB 4H intacto em 4752-4768 com volume FORTE, aguardando retest em Londres",
-    "zona_1h": "Ver análise completa",
-    "estrutura_m15": "Aguardando pullback para retest do FVG 4752-4768 em killzone de Londres para confirmar entrada long",
-    "gatilho": "Aguardando pullback para retest do FVG 4752-4768 em killzone de Londres para confirmar entrada long",
-    "sweep": "Ver análise completa",
-    "entrada": "Ver análise",
-    "sl": "Ver análise",
-    "tp1": "Ver análise",
-    "tp2": "Ver análise",
-    "rr": "1:3+",
-    "invalidacao": "Ver análise",
-    "janela": "Sessão atual"
+  "timestamp": "2026-04-14T09:00:56.253931",
+  "data": "14/04/2026",
+  "hora": "09:00",
+  "dxy": {
+    "preco": 98.283,
+    "trend_d1": "bearish",
+    "confluencia_xau": "LONG"
   },
-  "fatores": [
-    {
-      "nome": "Estrutura Daily",
-      "ok": true,
-      "pts": "15pts"
+  "xauusd": {
+    "preco": 4780.55861,
+    "score": 75,
+    "direcao": "bullish",
+    "choch": false,
+    "ote": {},
+    "sessao_anterior": {
+      "high": 4776.18,
+      "low": 4712.36,
+      "nome": "Ásia"
     },
-    {
-      "nome": "OB 4H Intacto",
-      "ok": true,
-      "pts": "15pts"
-    },
-    {
-      "nome": "Liq. Varrida",
-      "ok": true,
-      "pts": "20pts"
-    },
-    {
-      "nome": "FVG 1H",
-      "ok": true,
-      "pts": "10pts"
-    },
-    {
-      "nome": "Gatilho M15",
-      "ok": false,
-      "pts": "20pts"
-    },
-    {
-      "nome": "Sem Alto Imp.",
-      "ok": false,
-      "pts": "10pts"
-    },
-    {
-      "nome": "DXY Alinhado",
-      "ok": true,
-      "pts": "10pts"
+    "setup": {
+      "ativo": false,
+      "direcao": "bullish",
+      "ob_high": null,
+      "ob_low": null,
+      "entrada": null,
+      "sl": null,
+      "tp": null,
+      "score": 75,
+      "hora_brt": "09:00"
     }
-  ],
-  "precos": {
-    "BTC": {
-      "price": "$74,370",
-      "change": "+4.96%",
-      "up": true
-    },
-    "ETH": {
-      "price": "$2,370.00",
-      "change": "+8.38%",
-      "up": true
-    },
-    "XAUUSD": {
-      "price": "$4799.4",
-      "change": "—",
-      "up": true
-    },
+  },
+  "ativos": {
     "GBPUSD": {
-      "price": "1.3421",
-      "change": "—",
-      "up": true
+      "preco": 1.35754,
+      "trend_d1": "bullish"
     },
     "EURUSD": {
-      "price": "1.1684",
-      "change": "—",
-      "up": true
+      "preco": 1.18027,
+      "trend_d1": "bullish"
+    },
+    "BTCUSD": {
+      "preco": 74466.65,
+      "trend_d1": "bullish"
     },
     "USDJPY": {
-      "price": "159.83",
-      "change": "—",
-      "up": true
+      "preco": 158.74449,
+      "trend_d1": "bearish"
     },
     "NAS100": {
-      "price": "25648.5",
-      "change": "+0.41%",
-      "up": true
+      "preco": 22.4,
+      "trend_d1": "bullish"
     }
   },
-  "ativos": [
-    {
-      "nome": "GBPUSD",
-      "price": "1.3421",
-      "bias": "BEARISH",
-      "zona": "Ver análise"
-    },
-    {
-      "nome": "EURUSD",
-      "price": "1.1684",
-      "bias": "BULLISH",
-      "zona": "Ver análise"
-    },
-    {
-      "nome": "USDJPY",
-      "price": "159.83",
-      "bias": "BEARISH",
-      "zona": "Ver análise"
-    },
-    {
-      "nome": "BTCUSD",
-      "price": "$74,370",
-      "bias": "NEUTRO",
-      "zona": "Ver análise"
-    },
-    {
-      "nome": "ETHUSD",
-      "price": "$2,370.00",
-      "bias": "NEUTRO",
-      "zona": "Ver análise"
-    },
-    {
-      "nome": "NAS100",
-      "price": "25648.5",
-      "bias": "BULLISH",
-      "zona": "Ver análise"
-    }
-  ],
-  "eventos": [
-    {
-      "hora": "09:30",
-      "nome": "USD Core PPI m/m",
-      "impacto": "high",
-      "ant": "—",
-      "prev": "—",
-      "resultado": "Aguardando"
-    },
-    {
-      "hora": "09:30",
-      "nome": "USD PPI m/m",
-      "impacto": "high",
-      "ant": "—",
-      "prev": "—",
-      "resultado": "Aguardando"
-    },
-    {
-      "hora": "13:05",
-      "nome": "GBP BOE Gov Bailey Speaks",
-      "impacto": "medium",
-      "ant": "—",
-      "prev": "—",
-      "resultado": "Aguardando"
-    },
-    {
-      "hora": "18:00",
-      "nome": "EUR ECB President Lagarde Speaks",
-      "impacto": "medium",
-      "ant": "—",
-      "prev": "—",
-      "resultado": "Aguardando"
-    }
-  ],
-  "relatorio": "*🌍 MACRO DO DIA*\nDXY consolidando após recuo, favorecendo commodities. Risk-on moderado com BTC +4.96% e ETH +8.38%. Atenção aos dados de PPI (09:30 BRT) - Core PPI esperado em 0.5% vs 0.4% anterior pode fortalecer USD. Bailey (13:05) e Lagarde (18:00) podem trazer volatilidade para EUR/GBP.\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n\n*GBPUSD:* Daily bullish confirmado com HH em 1.3421. OB algorítmico 1.35115-1.35169 aguardando retest. Estrutura saudável pós-sweep de SSL em 1.33xx. Setup LONG aguardando pullback para zona de entrada 1.35184.\n\n*EURUSD:* Tendência Daily bullish, rompimento de 1.1684 consolida força. OB identificado em 1.17761-1.17797, aguardando retest. Liquidez superior em 1.17987 como alvo principal.\n\n*USDJPY:* Daily BEARISH após BOS confirmado em 158.76479. OB bearish 159.193-159.284 oferece zona de venda. Atual em 159.83 próximo da zona - setup SHORT ativo para retorno aos 158.87.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n*BTCUSD:* Daily bullish forte, recuperação dos $74k confirma demanda institucional. OB em 74193-74329 como suporte, atual em $74,370 próximo da zona de entrada 74364. Liquidez superior em $74,877.\n\n*ETHUSD:* Outperformance significativa +8.38%, seguindo BTC com força relativa. Daily bullish, buscando rompimento definitivo dos $2,400.\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\nBaseado nas velas reais: Daily em forte tendência bullish desde dezembro, com sequência de HH/HL. Último HH em 3447 (timestamp 1749870000000), atualmente em $4799.4 - movimento histórico. Consolidação entre 3295-3400 nas últimas sessões antes do breakout atual.\n\n*📈 NAS100*\nDaily bullish mantido, 25648.5 (+0.41%). Estrutura de HH/HL preservada, aguardando rompimento dos máximos para continuidade.\n\n*🎯 SETUP DO DIA — XAUUSD LONG — EXECUÇÃO M15*\n*Confiança do Sinal: 🟡 MODERADA (70%)*\n\n*Contexto Daily/4H:* Baseado nas velas reais, XAUUSD rompeu decisivamente a resistência histórica de 3447 (vela final dos dados), estabelecendo novo patamar acima de $4700. Movimento impulsivo sustentado por demanda institucional e hedge inflacionário.\n\n*Zona de interesse 1H:* Região 4752-4768 (OB calculado algoritmicamente) representa último pullback antes da extensão atual. FVG presente nesta zona oferece confluência adicional.\n\n*Estrutura M15 atual:* Impulso bullish em curso, aguardando correção técnica para zona de valor. Liquidez BSL varrida em 4722 confirma força compradora.\n\n*⚠️ Gatilho de entrada M15:* Rejeição (pin bar/doji) na zona OB 4752-4768 OU break da estrutura de correção com close acima do último HH M15.\n\n*⚠️ Aguardar sweep M15:* Possível sweep de SSL em 4740-4750 antes da continuidade bullish - aguardar para entrada.\n\n*Entrada:* 4768 (topo do OB)\n*Stop Loss:* 4720 (abaixo da liquidez varrida)\n*Take Profit 1:* 4850 (~1.7R)\n*Take Profit 2:* 4920 (~3.2R)\n*R:R:* 1:3.2\n*Invalidação M15:* Break e close abaixo de 4700\n*Janela de execução:* 09:00-12:00 BRT (overlap Londres/NY)\n*Gestão:* Mover SL para 4780 após TP1, trail stop a cada 20 pontos\n\n*⚠️ ATENÇÃO DO DIA*\n09:30 BRT - PPI Core pode gerar volatilidade no USD, impactando XAUUSD. Se PPI > 0.5%, aguardar estabilização antes da entrada. Bailey (13:05) e Lagarde (18:00) são eventos secundários mas podem afetar correlações EUR/GBP vs Gold.\n\n*📋 RESUMO EXECUTIVO*\nViés bullish predominante em todos os majors exceto USDJPY. XAUUSD oferece melhor R:R com setup técnico sólido aguardando correção. Nível crítico M15: rejeição em 4768 (entrada) vs break de 4700 (invalidação)."
+  "relatorio": "📊 *MARKET REPORT — 09:00 BRT*\n_14/04/2026 | Abertura Londres / NY_\n\n━━━━━━━━━━━━━━━━━━━━\n🌍 *MACRO DO DIA*\n\n**DXY:** Forte pressão baixista em 98.283 após romper estrutura dos 99k. Sequência de 10 velas diárias bearish confirma enfraquecimento do dólar, criando ambiente perfeito para rally do ouro. Próxima resistência apenas em 100.25.\n\n**Risk-on:** BTC em 74.466 mantém viés bullish no daily/4H apesar de correção M15, confirmando apetite por ativos de risco e metais preciosos simultaneamente.\n\n**Eventos críticos:** 09:30 PPI (Core 0.5% vs 0.4%) pode acelerar queda do DXY se vier abaixo. Bailey 13:05 e Lagarde 18:00 como catalisadores secundários.\n\n━━━━━━━━━━━━━━━━━━━━\n💷 *GBPUSD* — D1: bullish | 4H: bullish | M15: bullish\nRompeu 1.357 com força, próxima resistência em 1.361 (high sessão NY anterior). Suporte crítico mantido em 1.350 (OB daily). CHoCH confirmado, movimento para 1.365+ provável.\n\n💶 *EURUSD* — D1: bullish | 4H: bullish | M15: neutro  \nConsolidando em 1.180 após quebra dos 1.175. Resistência imediata em 1.1825 (high 4H), suporte em 1.1775. Aguarda confirmação acima de 1.182 para extensão até 1.187.\n\n₿ *BTCUSD* — D1: bullish | 4H: bullish\n74.466 confirma apetite a risco alinhado com metais preciosos, divergindo do padrão tradicional risk-off para ouro.\n\n━━━━━━━━━━━━━━━━━━━━\n🥇 *XAUUSD — MAPA DA SESSÃO*\n\n**Sessão anterior (Ásia):**\n• High: $4776.18 — liquidez BSL ⚠️ apenas $4.38 acima\n• Low: $4712.36 — liquidez SSL distante ($68.20)\n• OBs abertos: $4746.69-$4749.47 (08:15) e $4757.58-$4761.22 (09:45)\n• Cenário provável: busca do high $4776.18 para liquidar BSL antes de impulso maior\n\n**Top-Down atual:**\n• **Daily:** Estrutura altista sólida, fechou $4780.55 após rejeição dos $4796.59. Suporte em $4740 intacto\n• **4H:** Tendência bullish preservada, última vela mostra consolidação após high $4787.93\n• **1H:** Bullish com pullback saudável de $4796 → $4767, agora reagindo para cima\n• **M15:** Neutro, aguardando CHoCH acima de $4787.93 para confirmar próxima perna\n\n**DXY:** Confluência ✅ — queda para 98.283 alimenta demanda por ouro\n**Score: 75%**\n\n⏳ *AGUARDANDO GATILHO*\n**O que monitorar:** CHoCH confirmado acima de $4787.93 (último high M15)\n**Zona de interesse:** FVG $4770.27-$4781.95 oferece entrada com OTE favorável\n**Invalida se:** rompimento de $4759.98 (último low significativo M15)\n\n**Setup esperado após CHoCH:**\n- Entrada em pullback para OB $4757.58-$4761.22\n- Primeiro alvo: $4796.59 (high recente 4H)  \n- Segundo alvo: $4810+ (projeção estrutural)\n- SL abaixo de $4740 (suporte daily crítico)\n\n━━━━━━━━━━━━━━━━━━━━\n⚠️ *ATENÇÃO DO DIA*\n\n**09:30 PPI:** Se Core PPI < 0.5%, esperar aceleração da queda do DXY e possível spike imediato no ouro. Evitar entradas 09:25-09:35.\n\n**13:05 Bailey:** Historically dovish, pode pressionar GBP/USD e DXY simultaneamente se sinalizar cortes.\n\n**Sessão NY:** Abertura em 09:30 coincide com PPI — aguardar 15min pós-evento para entrada.\n\n📋 *RESUMO EXECUTIVO*\n• **DXY:** Tendência bearish forte em 98.283 sustenta ambiente bullish para ouro\n• **XAU:** Aguarda CHoCH em $4787.93, próximo high $4796-$4810 em vista\n• **Ação:** Monitorar rompimento $4787.93 → entrada em pullback para FVG/OB → target $4796+\n\n*Sistema IA confirmou mapeamento. Trader humano validará entrada pós-CHoCH.*"
 }
