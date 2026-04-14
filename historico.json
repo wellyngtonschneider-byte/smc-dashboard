@@ -118,5 +118,25 @@
     "rr": "Ver análise",
     "resultado": "INVALIDO",
     "justificativa": "Daily mostra clara tendência de baixa com LLs e LHs formados, preço rejeitou zona de resistência 4790 e está consolidando antes de próxima perna baixista"
+  },
+  {
+    "id": "20260413_2211",
+    "data": "13/04/2026",
+    "hora": "22:11",
+    "horario_iso": "2026-04-13T22:11:32.261168",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "confianca": 25,
+    "entrada": "4741.58",
+    "entrada_valor": 4741.58,
+    "sl": "4738.11",
+    "sl_valor": 4738.11,
+    "tp1": "4745.00",
+    "tp1_valor": 4745.0,
+    "tp2": "4751.99",
+    "tp2_valor": 4751.99,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily claramente bullish com sequência de higher highs/higher lows, preço rompeu $3400 com força, mas sem confluências SMC específicas disponíveis para entrada imediata"
   }
 ]
