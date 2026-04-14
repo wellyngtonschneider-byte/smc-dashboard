@@ -138,5 +138,25 @@
     "rr": "1",
     "resultado": "ABERTO",
     "justificativa": "Daily claramente bullish com sequência de higher highs/higher lows, preço rompeu $3400 com força, mas sem confluências SMC específicas disponíveis para entrada imediata"
+  },
+  {
+    "id": "20260414_0744",
+    "data": "14/04/2026",
+    "hora": "07:44",
+    "horario_iso": "2026-04-14T07:44:04.840476",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "confianca": 15,
+    "entrada": "4767",
+    "entrada_valor": 4767.0,
+    "sl": "4758",
+    "sl_valor": 4758.0,
+    "tp1": "4785",
+    "tp1_valor": 4785.0,
+    "tp2": "4793",
+    "tp2_valor": 4793.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily claramente bullish com sequência de closes altos e impulso forte — preço em $4806 aguarda pullback para confirmar continuação"
   }
 ]
