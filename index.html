@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>SMC · Intelligence Terminal</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Fira+Code:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -708,17 +708,12 @@ tbody tr:last-child td { border-bottom: none; }
   .panel-head { padding:12px 14px; }
   table { font-size:11px; }
   th,td { padding:9px 10px; }
-  .sa-grid { grid-template-columns:repeat(2,1fr); gap:6px; padding:10px 12px; }
-  .perf-val { font-size:16px; }
-  .perf-kpi-cell { padding:10px 12px; }
 }
 
 /* ── MOBILE PEQUENO (480px) ── */
 @media(max-width:480px) {
   .news-strip { grid-template-columns:1fr; }
   .canvas { padding:8px; gap:8px; }
-  .sa-grid { grid-template-columns:repeat(2,1fr); }
-  .perf-val { font-size:14px; }
   .ativo-sym { font-size:16px; }
   .tb-status { display:none; }
   .level-item { padding:8px 12px; }
@@ -730,6 +725,117 @@ tbody tr:last-child td { border-bottom: none; }
 }
 
 /* ── DISCLAIMER ── */
+.perf-kpis {
+  display: grid; grid-template-columns: repeat(3,1fr);
+  gap: 1px; background: var(--rim); border-bottom: 1px solid var(--rim);
+}
+.perf-kpi-cell {
+  padding: 13px 16px; background: var(--ink2);
+  display: flex; flex-direction: column; gap: 3px;
+}
+.perf-val {
+  font-family: var(--mono); font-size: 18px;
+  font-weight: var(--weight-black); letter-spacing: var(--tracking-tight); line-height: 1;
+}
+.perf-lbl {
+  font-size: 9px; color: var(--ash);
+  text-transform: uppercase; letter-spacing: var(--tracking-wider);
+}
+.sa-grid {
+  display: grid; grid-template-columns: repeat(3,1fr);
+  gap: 8px; padding: 12px 16px; border-bottom: 1px solid var(--rim);
+}
+.sa-item {
+  background: var(--glass); border: 1px solid var(--rim);
+  border-radius: var(--r-sm); padding: 8px 10px;
+  min-width: 0;
+}
+.sa-nome { font-family: var(--mono); font-size: 10px; color: var(--ash); margin-bottom: 3px; white-space: nowrap; }
+.sa-score { font-family: var(--mono); font-size: 15px; font-weight: var(--weight-bold); line-height: 1; }
+.sa-bar  { height: 2px; background: var(--rim); border-radius: 2px; margin: 5px 0 3px; }
+.sa-fill { height: 2px; border-radius: 2px; transition: width 1s ease; }
+.sa-dir  { font-size: 9px; color: var(--smoke); font-family: var(--mono); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fail-list { display: flex; flex-direction: column; gap: 5px; padding: 10px 16px 14px; }
+.fail-row {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 10px; border-radius: var(--r-sm);
+  background: rgba(255,85,102,0.05); border: 1px solid rgba(255,85,102,0.12);
+  min-width: 0;
+}
+.fail-tag  { font-family: var(--mono); font-size: 10px; font-weight: 700; color: var(--crimson); min-width: 55px; flex-shrink: 0; }
+.fail-info { font-size: 11px; color: var(--ash); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fail-sc   { font-family: var(--mono); font-size: 9px; color: var(--smoke); flex-shrink: 0; }
+.kill-banner {
+  display: none; position: fixed; top: 48px; left: 0; right: 0; z-index: 300;
+  background: rgba(255,204,68,0.12); border-bottom: 1px solid rgba(255,204,68,0.3);
+  padding: 7px 20px; text-align: center;
+  font-family: var(--mono); font-size: 11px; color: var(--amber); letter-spacing: 0.06em;
+}
+
+/* ── DEVICE-BASED RESPONSIVE ── */
+
+/* MOBILE via user-agent */
+.device-mobile .canvas {
+  grid-template-columns: 1fr !important;
+  grid-template-areas:
+    "news"
+    "macro"
+    "score"
+    "ativos"
+    "xau"
+    "cal"
+    "journal"
+    "disc" !important;
+  padding: 10px !important;
+  gap: 10px !important;
+}
+.device-mobile .news-strip  { grid-template-columns: 1fr !important; }
+.device-mobile .ativo-row   { grid-template-columns: 1fr !important; }
+.device-mobile .sa-grid     { grid-template-columns: repeat(2,1fr) !important; }
+.device-mobile .tb-time     { display: none !important; }
+.device-mobile .tick-chg    { display: none !important; }
+.device-mobile .perf-val    { font-size: 16px !important; }
+.device-mobile table        { display: block; overflow-x: auto; white-space: nowrap; font-size: 10px !important; }
+.device-mobile th,
+.device-mobile td           { padding: 7px 9px !important; }
+.device-mobile .score-ring  { width: 80px !important; height: 80px !important; }
+.device-mobile .score-ring svg { width: 80px !important; height: 80px !important; }
+.device-mobile .level-val   { font-size: 14px !important; }
+.device-mobile .panel-head  { padding: 11px 14px !important; }
+
+/* TABLET via user-agent */
+.device-tablet .canvas {
+  grid-template-columns: 1fr 1fr !important;
+  grid-template-areas:
+    "news    news"
+    "macro   score"
+    "ativos  ativos"
+    "xau     xau"
+    "cal     cal"
+    "journal journal"
+    "disc    disc" !important;
+  padding: 16px !important;
+  gap: 14px !important;
+}
+.device-tablet .news-strip { grid-template-columns: repeat(2,1fr) !important; }
+.device-tablet .ativo-row  { grid-template-columns: repeat(2,1fr) !important; }
+.device-tablet .sa-grid    { grid-template-columns: repeat(2,1fr) !important; }
+
+/* DESKTOP — layout original 4 colunas */
+.device-desktop .canvas {
+  grid-template-columns: 1fr 1fr 1fr 320px !important;
+  grid-template-areas:
+    "news    news    news    news"
+    "macro   macro   macro   score"
+    "ativos  ativos  ativos  score"
+    "xau     xau     xau     cal"
+    "journal journal journal journal"
+    "disc    disc    disc    disc" !important;
+}
+.device-desktop .news-strip { grid-template-columns: repeat(4,1fr) !important; }
+.device-desktop .ativo-row  { grid-template-columns: repeat(3,1fr) !important; }
+.device-desktop .sa-grid    { grid-template-columns: repeat(3,1fr) !important; }
+
 .disc { grid-area: disc;
   padding: 14px 20px; border-radius: var(--r-md);
   background: var(--glass); border: 1px solid var(--rim);
@@ -764,6 +870,21 @@ tbody tr:last-child td { border-bottom: none; }
   .tb-ticker { display: none; }
 }
 </style>
+<script>
+// Detecção de dispositivo — aplica classe no body para CSS condicional
+(function(){
+  var ua = navigator.userAgent || '';
+  var w  = window.innerWidth || screen.width;
+  var isMobile  = /Android|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua) || w <= 600;
+  var isTablet  = /iPad|Android(?!.*Mobile)/i.test(ua) || (w > 600 && w <= 1024);
+  var isDesktop = !isMobile && !isTablet;
+  document.documentElement.classList.add(
+    isMobile ? 'device-mobile' : isTablet ? 'device-tablet' : 'device-desktop'
+  );
+  // Salva para uso global
+  window.DEVICE = { mobile: isMobile, tablet: isTablet, desktop: isDesktop, width: w };
+})();
+</script>
 </head>
 <body>
 
@@ -998,19 +1119,13 @@ tbody tr:last-child td { border-bottom: none; }
     </div>
   </div>
 
-  <!-- KILL SWITCH BANNER -->
-  <div class="kill-banner" id="killBanner">⛔ KILL SWITCH ATIVO — Bot pausado. Remova o arquivo STOP para reativar.</div>
+  <div class="kill-banner" id="killBanner">⛔ KILL SWITCH ATIVO — Remova o arquivo STOP para reativar.</div>
 
-  <!-- JOURNAL + PERFORMANCE -->
   <div class="panel journal-panel anim a5">
-
-    <!-- PERFORMANCE HEADER -->
     <div class="panel-head">
       <div class="panel-label">Performance & Aprendizado</div>
-      <div id="perfTime" style="font-family:var(--mono);font-size:10px;color:var(--ash)">historico.json</div>
+      <div id="perfTime" style="font-family:var(--mono);font-size:10px;color:var(--ash)">—</div>
     </div>
-
-    <!-- KPIs -->
     <div class="perf-kpis">
       <div class="perf-kpi-cell">
         <div class="perf-val" id="perfR" style="color:var(--lime)">—</div>
@@ -1025,20 +1140,14 @@ tbody tr:last-child td { border-bottom: none; }
         <div class="perf-lbl">Lucro</div>
       </div>
     </div>
-
-    <!-- SCORE POR ATIVO -->
     <div style="padding:8px 16px 4px;font-family:var(--mono);font-size:9px;letter-spacing:0.12em;text-transform:uppercase;color:var(--fog)">Score — último sinal por ativo</div>
     <div class="sa-grid" id="saGrid">
-      <div style="grid-column:1/-1;color:var(--smoke);font-size:11px;padding:4px 0">Aguardando sinais...</div>
+      <div style="grid-column:1/-1;color:var(--smoke);font-size:11px;padding:2px 0">Aguardando sinais...</div>
     </div>
-
-    <!-- FALHAS -->
-    <div style="padding:8px 16px 4px;font-family:var(--mono);font-size:9px;letter-spacing:0.12em;text-transform:uppercase;color:var(--fog)">Aprendizado — últimas falhas</div>
+    <div style="padding:8px 16px 4px;font-family:var(--mono);font-size:9px;letter-spacing:0.12em;text-transform:uppercase;color:var(--fog)">Últimas falhas — aprendizado</div>
     <div class="fail-list" id="failList">
       <div style="color:var(--smoke);font-size:11px">Sem falhas registradas.</div>
     </div>
-
-    <!-- DIÁRIO -->
     <div class="panel-head" style="border-top:1px solid var(--rim)">
       <div class="panel-label">Diário de Trades</div>
       <div id="jStats" style="font-family:var(--mono);font-size:10px;color:var(--ash)">—</div>
@@ -1047,9 +1156,9 @@ tbody tr:last-child td { border-bottom: none; }
       <table>
         <thead>
           <tr>
-            <th>Data</th><th>Hora</th><th>Sessão</th><th>Direção</th>
+            <th>Data</th><th>Hora</th><th>Sessão</th><th>Dir.</th>
             <th>Entrada</th><th>SL</th><th>TP</th>
-            <th>Score</th><th>Resultado</th><th>R</th><th>USD</th>
+            <th>Score</th><th>Result.</th><th>R</th><th>USD</th>
           </tr>
         </thead>
         <tbody id="jBody"></tbody>
@@ -1461,50 +1570,37 @@ async function loadReport() {
 
 async function loadHistorico() {
   try {
-    const r = await fetch(GH + 'historico.json?_=' + Date.now());
+    const r = await fetch(GH+'historico.json?_='+Date.now());
     if(!r.ok) return;
     const h = await r.json();
     if(!h?.length) return;
-    const fc = h.filter(x => x.resultado !== 'ABERTO');
-    const tp = fc.filter(x => x.resultado === 'TP');
-    const sl = fc.filter(x => x.resultado === 'SL');
-    const rt = fc.reduce((s,x) => s+(x.r||0), 0);
-    const wr = fc.length ? tp.length/fc.length*100 : 0;
-    const ud = rt*1000;
-    const re = document.getElementById('perfR');
-    re.textContent = (rt>=0?'+':'')+rt.toFixed(1)+'R';
-    re.style.color = rt>=0?'var(--lime)':'var(--crimson)';
-    document.getElementById('perfWR').textContent  = fc.length ? wr.toFixed(1)+'%' : '—';
-    document.getElementById('perfUSD').textContent = (ud>=0?'+$':'-$')+Math.abs(ud).toLocaleString('pt-BR');
-    document.getElementById('perfTime').textContent = h.length+' sinais · '+fc.length+' fechados · '+tp.length+'TP/'+sl.length+'SL';
-    const pa = {};
-    h.forEach(x => { pa[x.ativo] = x; });
-    const ns = ['XAUUSD','GBPUSD','EURUSD','USDJPY','BTCUSD','NAS100'];
-    document.getElementById('saGrid').innerHTML = ns.map(n => {
-      const s = pa[n];
+    const fc=h.filter(x=>x.resultado!=='ABERTO');
+    const tp=fc.filter(x=>x.resultado==='TP');
+    const sl=fc.filter(x=>x.resultado==='SL');
+    const rt=fc.reduce((s,x)=>s+(x.r||0),0);
+    const wr=fc.length?tp.length/fc.length*100:0;
+    const re=document.getElementById('perfR');
+    re.textContent=(rt>=0?'+':'')+rt.toFixed(1)+'R';
+    re.style.color=rt>=0?'var(--lime)':'var(--crimson)';
+    document.getElementById('perfWR').textContent=fc.length?wr.toFixed(1)+'%':'—';
+    document.getElementById('perfUSD').textContent=(rt*1000>=0?'+$':'-$')+Math.abs(rt*1000).toLocaleString('pt-BR');
+    document.getElementById('perfTime').textContent=h.length+' sinais · '+tp.length+'TP/'+sl.length+'SL';
+    const pa={};h.forEach(x=>{pa[x.ativo]=x;});
+    document.getElementById('saGrid').innerHTML=['XAUUSD','GBPUSD','EURUSD','USDJPY','BTCUSD','NAS100'].map(n=>{
+      const s=pa[n];
       if(!s) return `<div class="sa-item"><div class="sa-nome">${n}</div><div class="sa-score" style="color:var(--fog)">—</div></div>`;
-      const sc = s.score||0;
-      const co = sc>=70?'var(--lime)':sc>=50?'var(--amber)':'var(--crimson)';
-      const de = s.direcao==='bullish'?'▲':'▼';
-      return `<div class="sa-item">
-        <div class="sa-nome">${n}</div>
-        <div class="sa-score" style="color:${co}">${sc}<span style="font-size:8px;color:var(--ash)">/100</span></div>
-        <div class="sa-bar"><div class="sa-fill" style="width:${sc}%;background:${co}"></div></div>
-        <div class="sa-dir">${de} ${(s.direcao||'').slice(0,4).toUpperCase()} · ${s.estrutura||'—'}</div>
-      </div>`;
+      const sc=s.score||0,co=sc>=70?'var(--lime)':sc>=50?'var(--amber)':'var(--crimson)';
+      return `<div class="sa-item"><div class="sa-nome">${n}</div><div class="sa-score" style="color:${co}">${sc}<span style="font-size:8px;color:var(--ash)">/100</span></div><div class="sa-bar"><div class="sa-fill" style="width:${sc}%;background:${co}"></div></div><div class="sa-dir">${s.direcao==='bullish'?'▲':'▼'} ${(s.estrutura||'—')}</div></div>`;
     }).join('');
   } catch(e){}
   try {
-    const r2 = await fetch(GH + 'failures.json?_=' + Date.now());
+    const r2=await fetch(GH+'failures.json?_='+Date.now());
     if(!r2.ok) return;
-    const fs = await r2.json();
+    const fs=await r2.json();
     if(!fs?.length) return;
-    document.getElementById('failList').innerHTML = [...fs].reverse().slice(0,4).map(f =>
-      `<div class="fail-row">
-        <span class="fail-tag">${f.ativo}</span>
-        <span class="fail-info">${(f.direcao||'').toUpperCase()} · ${f.estrutura||'—'} · ${f.data||'—'}</span>
-        <span class="fail-sc">Score ${f.score||'?'}</span>
-      </div>`).join('');
+    document.getElementById('failList').innerHTML=[...fs].reverse().slice(0,4).map(f=>
+      `<div class="fail-row"><span class="fail-tag">${f.ativo}</span><span class="fail-info">${(f.direcao||'').toUpperCase()} · ${f.estrutura||'—'} · ${f.data||'—'}</span><span class="fail-sc">S${f.score||'?'}</span></div>`
+    ).join('');
   } catch(e){}
 }
 
@@ -1569,6 +1665,22 @@ async function loadJournal() {
     document.getElementById('jEmpty').style.display = 'block';
   }
 }
+
+// ── RESPONSIVE RESIZE ──
+function applyDevice() {
+  var w = window.innerWidth;
+  var ua = navigator.userAgent || '';
+  var isMobile  = /Android|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua) || w <= 600;
+  var isTablet  = /iPad|Android(?!.*Mobile)/i.test(ua) || (w > 600 && w <= 1024);
+  var isDesktop = !isMobile && !isTablet;
+  document.documentElement.className = document.documentElement.className
+    .replace(/device-\w+/g, '').trim();
+  document.documentElement.classList.add(
+    isMobile ? 'device-mobile' : isTablet ? 'device-tablet' : 'device-desktop'
+  );
+  window.DEVICE = { mobile: isMobile, tablet: isTablet, desktop: isDesktop, width: w };
+}
+window.addEventListener('resize', applyDevice);
 
 // ── SPOTLIGHT BORDA ──
 document.addEventListener('mousemove', e => {
