@@ -1,16 +1,16 @@
 {
-  "timestamp": "14/04/2026 — 08:11 (BRT)",
+  "timestamp": "14/04/2026 — 08:33 (BRT)",
   "sessao": "MANHÃ (Abertura Londres/NY)",
-  "confianca": 50,
+  "confianca": 70,
   "confianca_label": "MODERADA",
   "confianca_classe": "medium",
   "setup": {
     "ativo": "XAUUSD",
     "direcao": "LONG",
-    "contexto": "Daily forte alta com última vela bullish de 3436 para 3447, OB 4H intacto em 3300-3315 oferece zona ideal para long",
+    "contexto": "Daily bullish forte com HH/HL, BSL varrida em 4722, OB 4H intacto em 4752-4768 com volume FORTE, aguardando retest em Londres",
     "zona_1h": "Ver análise completa",
-    "estrutura_m15": "Aguardando retorno ao OB 4H em 3300-3315 e rejection bullish no M15 para confirmação de entrada",
-    "gatilho": "Aguardando retorno ao OB 4H em 3300-3315 e rejection bullish no M15 para confirmação de entrada",
+    "estrutura_m15": "Aguardando pullback para retest do FVG 4752-4768 em killzone de Londres para confirmar entrada long",
+    "gatilho": "Aguardando pullback para retest do FVG 4752-4768 em killzone de Londres para confirmar entrada long",
     "sweep": "Ver análise completa",
     "entrada": "Ver análise",
     "sl": "Ver análise",
@@ -33,7 +33,7 @@
     },
     {
       "nome": "Liq. Varrida",
-      "ok": false,
+      "ok": true,
       "pts": "20pts"
     },
     {
@@ -59,17 +59,17 @@
   ],
   "precos": {
     "BTC": {
-      "price": "$74,417",
-      "change": "+5.02%",
+      "price": "$74,370",
+      "change": "+4.96%",
       "up": true
     },
     "ETH": {
-      "price": "$2,374.69",
-      "change": "+8.58%",
+      "price": "$2,370.00",
+      "change": "+8.38%",
       "up": true
     },
     "XAUUSD": {
-      "price": "$4790.1",
+      "price": "$4799.4",
       "change": "—",
       "up": true
     },
@@ -89,8 +89,8 @@
       "up": true
     },
     "NAS100": {
-      "price": "25622.25",
-      "change": "+0.31%",
+      "price": "25648.5",
+      "change": "+0.41%",
       "up": true
     }
   },
@@ -115,19 +115,19 @@
     },
     {
       "nome": "BTCUSD",
-      "price": "$74,417",
+      "price": "$74,370",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "ETHUSD",
-      "price": "$2,374.69",
+      "price": "$2,370.00",
       "bias": "NEUTRO",
       "zona": "Ver análise"
     },
     {
       "nome": "NAS100",
-      "price": "25622.25",
+      "price": "25648.5",
       "bias": "BULLISH",
       "zona": "Ver análise"
     }
@@ -166,5 +166,5 @@
       "resultado": "Aguardando"
     }
   ],
-  "relatorio": "*🌍 MACRO DO DIA*\n\n*14/04/2026 08:10 BRT — Segunda-feira de dados econômicos chave*\n\nRisk-on dominante com BTC em +5% e ETH +8.58%, indicando apetite por risco após fim de semana. Ouro em máximas históricas ($4790) sugere hedge contra inflação persistente. USD sob pressão com DXY fraco — EUR e GBP ganhando força.\n\n*Eventos críticos hoje:*\n• 09:30 PPI Core (esperado 0.5% vs 0.4% anterior) — alta volatilidade USD\n• 13:05 Bailey (BOE) pode sinalizar política GBP\n• 18:00 Lagarde (ECB) definirá tom EUR\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n\n*GBPUSD:* Daily bullish, velas mostram momentum forte desde 1.3200. Structure break confirmado acima 1.3380. OB 4H em 1.35115-1.35169 intacto. SSL anterior em 1.3480 varrido. Próxima liquidez BSL em 1.3560-1.3580. Aguardar pullback M15 para zona 1.3515-1.3520.\n\n*EURUSD:* BOS confirmado em 1.17987 (bullish). Daily em tendência de alta consolidada. Velas 4H respeitando 1.1750 como suporte. FVG 1H em 1.1765-1.1775. M15 buscando liquidez em 1.1820-1.1840. Structure sólida para continuação.\n\n*USDJPY:* Daily bearish confirmado — BOS em 158.81947. Rejeição forte de 160.00. OB 4H bearish 159.193-159.284 ativo. Liquidez SSL em 158.50-158.20. M15 aguardando break de 159.00 para acelerar queda.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n*BTC:* Daily explosivo — vela de $70k para $74k+ em momentum parabólico. Break estrutural acima $72k confirmado. OB 4H em $74.193-74.329k oferece suporte. Próxima resistência histórica $76k-78k. M15 em pullback saudável para $74.2k antes de continuação.\n\n*ETH:* Outperformance brutal +8.58%. Daily break de $2300 com volume. Ratio ETH/BTC fortalecendo. Zona $2320-2340 agora suporte. Target $2450-2500 em vista. M15 consolidando para próxima perna.\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\n\n*Daily:* Máximas históricas absolutas — vela atual $3436→3447+ em padrão parabólico. Trend secular intacto.\n*4H:* OB em $4758.36-4766.95 como última zona de demanda relevante.\n*1H:* FVG em $4770-4775 oferece entrada técnica.\n*M15:* Aguardando sweep de $4785 antes de continuação para $4800+.\n\n*📈 NAS100*\n\nDaily bullish em +25.622 (+0.31%). Consolidação técnica após ATH. Suporte 4H em 25.400. Resistência em 25.800-26.000. M15 lateral — aguardar PPI para direção clara.\n\n*🎯 SETUP DO DIA — XAUUSD LONG — EXECUÇÃO M15*\n\n*Confiança do Sinal: 🟡 MODERADA (50%)*\n\n✅ Estrutura Daily alinhada (15pts)  \n✅ Order Block 4H intacto (15pts)  \n❌ Liquidez varrida (20pts)  \n✅ FVG 1H presente (10pts)  \n❌ Gatilho M15 formado (20pts) — *AGUARDANDO GATILHO*  \n❌ Sem evento alto impacto (10pts)  \n✅ DXY confirmando direção (10pts)  \n\n*Contexto Daily/4H:* Ouro em descoberta de preço absoluta após break secular. Velas Daily mostram momentum parabólico de $3200→3447 sem resistência histórica. 4H com OB intacto em $4758-4767 oferecendo última zona técnica relevante.\n\n*Zona de interesse 1H:* FVG identificado entre $4770-4775 baseado em gap das velas. Confluência com retração de Fibonacci 38.2% do movimento $4750→4790.\n\n*Estrutura M15 atual:* Consolidação em $4785-4795. Higher lows formados. Aguardando sweep da liquidez em $4785 (low anterior M15) para confirmar shakeout antes de continuação.\n\n*⚠️ Gatilho de entrada M15:* Break e retest de $4795 COM vela de confirmação bullish (close acima da sombra). Aguardar pelo menos 2 velas M15 confirmando sustentação.\n\n*⚠️ Aguardar sweep M15:* Liquidez em $4785.50 deve ser varrida primeiro (stop hunts). Entrada APENAS após sweep + retorno acima $4790.\n\n*Entrada:* $4792.00 (após confirmação)  \n*Stop Loss:* $4783.00 (abaixo do sweep)  \n*Take Profit 1:* $4801.00 (+9 pontos — 1R)  \n*Take Profit 2:* $4819.00 (+27 pontos — 3R)  \n*R:R:* 1:3  \n*Invalidação M15:* Close abaixo $4780  \n*Janela de execução:* 09:00-12:00 BRT (pré-PPI)  \n*Gestão:* Mover SL para BE após TP1. Parcial de 50% no TP1.\n\n*⚠️ ATENÇÃO DO DIA*\n\n*09:30 BRT — PPI Core/PPI m/m*\nSetup VÁLIDO mas aguardar 30min pós-dados para volatilidade normalizar. Se PPI > expectativa → USD strong → possível rejeição temporária do ouro. Se PPI < expectativa → USD weak → aceleração do setup.\n\n*REGRA PROP FIRM:* 1 trade/dia, mínimo 3R. Se setup invalidar antes de 12h, aguardar Londres afternoon ou passar o dia.\n\n*📋 RESUMO EXECUTIVO*\n\n*Viés geral:* Risk-on com USD fraco — favor cryptos e GBP/EUR, cautela com USD/JPY shorts no PPI.  \n*Melhor ativo:* XAUUSD long após sweep $4785 — descoberta de preço sem resistência histórica.  \n*Nível crítico M15:* $4785 no ouro — sweep obrigatório antes de qualquer entrada long."
+  "relatorio": "*🌍 MACRO DO DIA*\nDXY consolidando após recuo, favorecendo commodities. Risk-on moderado com BTC +4.96% e ETH +8.38%. Atenção aos dados de PPI (09:30 BRT) - Core PPI esperado em 0.5% vs 0.4% anterior pode fortalecer USD. Bailey (13:05) e Lagarde (18:00) podem trazer volatilidade para EUR/GBP.\n\n*💷 FOREX — Top-Down Daily→4H→1H→M15*\n\n*GBPUSD:* Daily bullish confirmado com HH em 1.3421. OB algorítmico 1.35115-1.35169 aguardando retest. Estrutura saudável pós-sweep de SSL em 1.33xx. Setup LONG aguardando pullback para zona de entrada 1.35184.\n\n*EURUSD:* Tendência Daily bullish, rompimento de 1.1684 consolida força. OB identificado em 1.17761-1.17797, aguardando retest. Liquidez superior em 1.17987 como alvo principal.\n\n*USDJPY:* Daily BEARISH após BOS confirmado em 158.76479. OB bearish 159.193-159.284 oferece zona de venda. Atual em 159.83 próximo da zona - setup SHORT ativo para retorno aos 158.87.\n\n*₿ CRIPTO — Top-Down Daily→4H→1H→M15*\n\n*BTCUSD:* Daily bullish forte, recuperação dos $74k confirma demanda institucional. OB em 74193-74329 como suporte, atual em $74,370 próximo da zona de entrada 74364. Liquidez superior em $74,877.\n\n*ETHUSD:* Outperformance significativa +8.38%, seguindo BTC com força relativa. Daily bullish, buscando rompimento definitivo dos $2,400.\n\n*🥇 XAUUSD — Top-Down Daily→4H→1H→M15*\nBaseado nas velas reais: Daily em forte tendência bullish desde dezembro, com sequência de HH/HL. Último HH em 3447 (timestamp 1749870000000), atualmente em $4799.4 - movimento histórico. Consolidação entre 3295-3400 nas últimas sessões antes do breakout atual.\n\n*📈 NAS100*\nDaily bullish mantido, 25648.5 (+0.41%). Estrutura de HH/HL preservada, aguardando rompimento dos máximos para continuidade.\n\n*🎯 SETUP DO DIA — XAUUSD LONG — EXECUÇÃO M15*\n*Confiança do Sinal: 🟡 MODERADA (70%)*\n\n*Contexto Daily/4H:* Baseado nas velas reais, XAUUSD rompeu decisivamente a resistência histórica de 3447 (vela final dos dados), estabelecendo novo patamar acima de $4700. Movimento impulsivo sustentado por demanda institucional e hedge inflacionário.\n\n*Zona de interesse 1H:* Região 4752-4768 (OB calculado algoritmicamente) representa último pullback antes da extensão atual. FVG presente nesta zona oferece confluência adicional.\n\n*Estrutura M15 atual:* Impulso bullish em curso, aguardando correção técnica para zona de valor. Liquidez BSL varrida em 4722 confirma força compradora.\n\n*⚠️ Gatilho de entrada M15:* Rejeição (pin bar/doji) na zona OB 4752-4768 OU break da estrutura de correção com close acima do último HH M15.\n\n*⚠️ Aguardar sweep M15:* Possível sweep de SSL em 4740-4750 antes da continuidade bullish - aguardar para entrada.\n\n*Entrada:* 4768 (topo do OB)\n*Stop Loss:* 4720 (abaixo da liquidez varrida)\n*Take Profit 1:* 4850 (~1.7R)\n*Take Profit 2:* 4920 (~3.2R)\n*R:R:* 1:3.2\n*Invalidação M15:* Break e close abaixo de 4700\n*Janela de execução:* 09:00-12:00 BRT (overlap Londres/NY)\n*Gestão:* Mover SL para 4780 após TP1, trail stop a cada 20 pontos\n\n*⚠️ ATENÇÃO DO DIA*\n09:30 BRT - PPI Core pode gerar volatilidade no USD, impactando XAUUSD. Se PPI > 0.5%, aguardar estabilização antes da entrada. Bailey (13:05) e Lagarde (18:00) são eventos secundários mas podem afetar correlações EUR/GBP vs Gold.\n\n*📋 RESUMO EXECUTIVO*\nViés bullish predominante em todos os majors exceto USDJPY. XAUUSD oferece melhor R:R com setup técnico sólido aguardando correção. Nível crítico M15: rejeição em 4768 (entrada) vs break de 4700 (invalidação)."
 }
