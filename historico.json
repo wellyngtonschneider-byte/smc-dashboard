@@ -198,5 +198,25 @@
     "rr": "1",
     "resultado": "ABERTO",
     "justificativa": "Daily forte alta com última vela bullish de 3436 para 3447, OB 4H intacto em 3300-3315 oferece zona ideal para long"
+  },
+  {
+    "id": "20260414_0833",
+    "data": "14/04/2026",
+    "hora": "08:33",
+    "horario_iso": "2026-04-14T08:33:03.713651",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "confianca": 70,
+    "entrada": "4768",
+    "entrada_valor": 4768.0,
+    "sl": "4720",
+    "sl_valor": 4720.0,
+    "tp1": "4850",
+    "tp1_valor": 4850.0,
+    "tp2": "4920",
+    "tp2_valor": 4920.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily bullish forte com HH/HL, BSL varrida em 4722, OB 4H intacto em 4752-4768 com volume FORTE, aguardando retest em Londres"
   }
 ]
