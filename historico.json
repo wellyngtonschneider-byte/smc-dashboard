@@ -158,5 +158,25 @@
     "rr": "1",
     "resultado": "ABERTO",
     "justificativa": "Daily claramente bullish com sequência de closes altos e impulso forte — preço em $4806 aguarda pullback para confirmar continuação"
+  },
+  {
+    "id": "20260414_0810",
+    "data": "14/04/2026",
+    "hora": "08:10",
+    "horario_iso": "2026-04-14T08:10:25.543552",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "confianca": 50,
+    "entrada": "4767.12",
+    "entrada_valor": 4767.12,
+    "sl": "4758.36",
+    "sl_valor": 4758.36,
+    "tp1": "4780",
+    "tp1_valor": 4780.0,
+    "tp2": "4793.40",
+    "tp2_valor": 4793.4,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily bullish forte pós-breakout 4700, preço atual em 4792 próximo ao OB 4754 intacto com volume alto, FVG 4691 como suporte adicional"
   }
 ]
