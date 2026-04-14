@@ -178,5 +178,25 @@
     "rr": "1",
     "resultado": "ABERTO",
     "justificativa": "Daily bullish forte pós-breakout 4700, preço atual em 4792 próximo ao OB 4754 intacto com volume alto, FVG 4691 como suporte adicional"
+  },
+  {
+    "id": "20260414_0811",
+    "data": "14/04/2026",
+    "hora": "08:11",
+    "horario_iso": "2026-04-14T08:11:40.725263",
+    "ativo": "XAUUSD",
+    "direcao": "LONG",
+    "confianca": 50,
+    "entrada": "4792.00",
+    "entrada_valor": 4792.0,
+    "sl": "4783.00",
+    "sl_valor": 4783.0,
+    "tp1": "4801.00",
+    "tp1_valor": 4801.0,
+    "tp2": "4819.00",
+    "tp2_valor": 4819.0,
+    "rr": "1",
+    "resultado": "ABERTO",
+    "justificativa": "Daily forte alta com última vela bullish de 3436 para 3447, OB 4H intacto em 3300-3315 oferece zona ideal para long"
   }
 ]
