@@ -1,6 +1,6 @@
 {
   "date": "15/04/2026",
-  "time": "17:46",
+  "time": "19:55",
   "score": "—",
   "macro": "<b>DXY</b>: 📈 Fortalecendo — O dólar está ganhando força esta semana. Um dólar mais forte costuma pressionar para baixo ativos como ouro e libra-esterlina. Isso exige mais cuidado com posições compradas nesses ativos.",
   "events": [],
@@ -9,20 +9,20 @@
       "pair": "GBPUSD",
       "tfs": [
         "bullish",
-        "bullish",
+        "neutro",
         "neutro"
       ],
       "d1": "bullish",
-      "h4": "bullish",
+      "h4": "neutro",
       "m15": "neutro",
       "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 1.35669,
+      "h4_arrow": "→",
+      "price": 1.35681,
       "res": 1.36,
       "sup": 1.35,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "narrative": "O diário está em tendência de alta, mas o H4 está em pausa, sem direção clara. O mercado está descansando dentro de uma tendência maior de alta. É comum antes de uma retomada do movimento principal.",
+      "bias": "Diário em alta, mas DXY forte exige cautela",
+      "text": "O diário está em tendência de alta, mas o H4 está em pausa, sem direção clara. O mercado está descansando dentro de uma tendência maior de alta. É comum antes de uma retomada do movimento principal. Diário em alta, mas DXY forte exige cautela."
     },
     {
       "pair": "BTCUSD",
@@ -36,9 +36,9 @@
       "m15": "bullish",
       "d1_arrow": "↑",
       "h4_arrow": "↑",
-      "price": 74796.77,
+      "price": 75112.02,
       "res": null,
-      "sup": 73825.79,
+      "sup": 74570.52,
       "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
       "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
       "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
@@ -47,39 +47,39 @@
       "pair": "EURUSD",
       "tfs": [
         "bullish",
-        "bullish",
-        "neutro"
+        "neutro",
+        "bullish"
       ],
       "d1": "bullish",
-      "h4": "bullish",
-      "m15": "neutro",
+      "h4": "neutro",
+      "m15": "bullish",
       "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 1.17963,
+      "h4_arrow": "→",
+      "price": 1.18034,
       "res": null,
       "sup": null,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "narrative": "O diário está em tendência de alta, mas o H4 está em pausa, sem direção clara. O mercado está descansando dentro de uma tendência maior de alta. É comum antes de uma retomada do movimento principal.",
+      "bias": "Diário em alta, mas DXY forte exige cautela",
+      "text": "O diário está em tendência de alta, mas o H4 está em pausa, sem direção clara. O mercado está descansando dentro de uma tendência maior de alta. É comum antes de uma retomada do movimento principal. Diário em alta, mas DXY forte exige cautela."
     },
     {
       "pair": "USDJPY",
       "tfs": [
         "bearish",
-        "bearish",
-        "neutro"
+        "neutro",
+        "bearish"
       ],
       "d1": "bearish",
-      "h4": "bearish",
-      "m15": "neutro",
+      "h4": "neutro",
+      "m15": "bearish",
       "d1_arrow": "↓",
-      "h4_arrow": "↓",
-      "price": 158.998,
-      "res": 159.12,
-      "sup": 158.88,
-      "narrative": "Tanto o diário quanto o H4 estão em queda. A tendência está alinhada para baixo nos dois timeframes — os vendedores estão no controle do movimento.",
-      "bias": "Diário em queda com H4 confirmando e DXY fortalecendo — pressão sobre ativos de risco",
-      "text": "Tanto o diário quanto o H4 estão em queda. A tendência está alinhada para baixo nos dois timeframes — os vendedores estão no controle do movimento. Diário em queda com H4 confirmando e DXY fortalecendo — pressão sobre ativos de risco."
+      "h4_arrow": "→",
+      "price": 158.858,
+      "res": 159.02,
+      "sup": 158.72,
+      "narrative": "O diário está em queda, mas o H4 está em pausa. O movimento de baixa pode estar perdendo força momentaneamente ou acumulando para continuar.",
+      "bias": "Diário em queda e DXY fortalecendo — pressão sobre ativos de risco",
+      "text": "O diário está em queda, mas o H4 está em pausa. O movimento de baixa pode estar perdendo força momentaneamente ou acumulando para continuar. Diário em queda e DXY fortalecendo — pressão sobre ativos de risco."
     },
     {
       "pair": "ETHUSD",
@@ -93,9 +93,9 @@
       "m15": "bullish",
       "d1_arrow": "↑",
       "h4_arrow": "→",
-      "price": 2364.92,
+      "price": 2370.5,
       "res": null,
-      "sup": 2320.51,
+      "sup": 2353.84,
       "narrative": "O diário está em tendência de alta, mas o H4 está em pausa, sem direção clara. O mercado está descansando dentro de uma tendência maior de alta. É comum antes de uma retomada do movimento principal.",
       "bias": "Diário em alta, mas DXY forte exige cautela",
       "text": "O diário está em tendência de alta, mas o H4 está em pausa, sem direção clara. O mercado está descansando dentro de uma tendência maior de alta. É comum antes de uma retomada do movimento principal. Diário em alta, mas DXY forte exige cautela."
@@ -105,22 +105,22 @@
     "pair": "XAUUSD",
     "d1": "bullish",
     "h4": "bullish",
-    "m15": "neutro",
+    "m15": "bullish",
     "d1_arrow": "↑",
     "h4_arrow": "↑",
-    "m15_arrow": "→",
-    "topdown": "D1 📈 Subindo | H4 📈 Subindo junto | M15 Lateral. Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
+    "m15_arrow": "↑",
+    "topdown": "D1 📈 Subindo | H4 📈 Subindo junto | M15 Alta. Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
     "waiting": "Tendência forte em andamento. Aguardar um recuo para zona de suporte ou OB de qualidade no M15 para considerar uma entrada a favor da tendência. Não perseguir o movimento quando está esticado.",
-    "session": "Preço: <span class='lvl'>4793.37</span> | Resistência: <span class='slvl'>4803.70</span>",
+    "session": "Preço: <span class='lvl'>4809.30</span> | Resistência: <span class='slvl'>4816.01</span> | Suporte: <span class='lvl'>4790.89</span>",
     "scenarios": [
       "Viés atual: Diário em alta com H4 confirmando, mas DXY forte exige cautela",
       "Tendência forte em andamento. Aguardar um recuo para zona de suporte ou OB de qualidade no M15 para considerar uma entrada a favor da tendência. Não perseguir o movimento quando está esticado.",
-      "Perde validade se o diário mudar de caráter"
+      "Perde validade se o preço romper abaixo de 4790.89"
     ],
     "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
     "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-    "price": 4793.37,
-    "res": 4803.7,
-    "sup": null
+    "price": 4809.3,
+    "res": 4816.01,
+    "sup": 4790.89
   }
 }
