@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "18:58",
+  "hora_atualizacao": "19:14",
   "data": "15/04/2026",
   "sinais": [
     {
@@ -14,6 +14,20 @@
       "razao": "Acumulacao Wyckoff detectada. Acumulação H4 | D1 confirmando | Spring detectado",
       "detalhes": "Acumulação H4 | D1 confirmando | Spring detectado | Trading range definido",
       "hora": "18:58",
+      "data": "15/04/2026"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "SMC",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.35643,
+      "sl": 1.35594,
+      "tp": 1.35658,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 1.35594-1.35623",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 1.35594-1.35623 | Liquidez varrida",
+      "hora": "19:14",
       "data": "15/04/2026"
     }
   ]
