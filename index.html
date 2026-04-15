@@ -346,17 +346,51 @@ const fmt=(v,d)=>v.toFixed(d);
 const brtNow=()=>new Date(Date.now()-3*3600000).toISOString().slice(11,16);
 const todayStr=()=>new Date(Date.now()-3*3600000).toISOString().slice(0,10);
 
-const NARR={
-  'bull-bull':'Alta alinhada em D1 e H4 — compradores dominando nos dois timeframes. Tendência principal forte, sem sinais de reversão.',
-  'bull-bear':'D1 em alta mas H4 corrigindo — pullback saudável dentro da tendência maior. Aguardar fim da correção no H4 antes de considerar entrada.',
-  'bull-neut':'D1 em alta, H4 em consolidação. Mercado respirando dentro da tendência. Pullback pode estar se formando.',
-  'bear-bear':'Queda alinhada em D1 e H4 — vendedores dominando nos dois timeframes. Tendência de baixa forte, sem sinais de reversão.',
-  'bear-bull':'D1 em baixa, H4 tentando recuperar — provável pullback dentro da tendência maior. Aguardar exaustão do H4 antes de entrar vendido.',
-  'bear-neut':'D1 em baixa, H4 em pausa. Movimento de baixa pode estar perdendo força ou acumulando para continuar.',
-  'neut-bull':'D1 lateral sem tendência clara, H4 tentando subir. Sem confirmação do diário — movimento pode ser limitado.',
-  'neut-bear':'D1 lateral, H4 caindo dentro da consolidação. Mercado sem consenso de direção.',
-  'neut-neut':'Mercado sem direção nos dois timeframes. Melhor aguardar definição estrutural antes de qualquer análise.',
-};
+function gerarNarrativa(pair, d1, h4, m15, price, dec){
+  const p = price.toFixed(dec);
+  const arD1 = d1==='bull'?'subindo':d1==='bear'?'caindo':'lateral';
+  const arH4 = h4==='bull'?'subindo':h4==='bear'?'caindo':'em pausa';
+  const arM15 = m15==='bull'?'compradora':m15==='bear'?'vendedora':'neutra';
+
+  // Linha 1: contexto D1
+  const ctx = {
+    'bull-bull': `Tendência de alta sólida — D1 e H4 alinhados para cima. Compradores dominando nos dois timeframes principais, sem sinais de exaustão.`,
+    'bull-bear': `D1 em alta, H4 iniciando correção. O preço devolveu parte do movimento e busca suporte — pullback saudável dentro da tendência maior de alta.`,
+    'bull-neut': `D1 em alta, H4 consolidando após movimento recente. Mercado em pausa antes de definir o próximo impulso.`,
+    'bear-bear': `Tendência de baixa sólida — D1 e H4 alinhados para baixo. Vendedores no controle nos dois timeframes, sem sinais de reversão.`,
+    'bear-bull': `D1 em baixa, H4 recuperando. Provável pullback dentro da tendência maior de queda — movimento de alta pode ser temporário.`,
+    'bear-neut': `D1 em baixa, H4 em pausa. Queda pode estar perdendo força ou acumulando pressão para continuar.`,
+    'neut-bull': `D1 lateral sem direção definida, H4 tentando subir. Sem confirmação do diário, o movimento pode ser limitado.`,
+    'neut-bear': `D1 lateral, H4 caindo dentro da consolidação. Mercado indeciso sem consenso de direção.`,
+    'neut-neut': `Mercado lateral nos dois timeframes principais. Momento de paciência — aguardar definição estrutural.`,
+  };
+
+  const base = ctx[`${d1}-${h4}`] || 'Estrutura em definição.';
+
+  // Linha 2: momentum M15
+  const m15Line = m15==='bull'
+    ? `No curto prazo (M15) o momentum é comprador — pressão de alta no intraday.`
+    : m15==='bear'
+    ? `No curto prazo (M15) o momentum é vendedor — pressão de baixa no intraday.`
+    : `No M15 o mercado está neutro, sem momentum definido no curto prazo.`;
+
+  // Linha 3: o que fazer
+  let acao = '';
+  if(d1==='bull' && h4==='bear')
+    acao = `Aguardar o H4 mostrar reversão (CHoCH) para considerar entrada compradora alinhada ao D1.`;
+  else if(d1==='bull' && h4==='bull' && m15==='bull')
+    acao = `Tendência forte em andamento. Não perseguir — aguardar recuo ao M15 para entrada.`;
+  else if(d1==='bull' && h4==='bull' && m15==='bear')
+    acao = `Correção de curto prazo dentro da tendência. Buscar zona de suporte no M15 para entrada compradora.`;
+  else if(d1==='bear' && h4==='bull')
+    acao = `Aguardar exaustão do pullback no H4 para considerar entrada vendida alinhada ao D1.`;
+  else if(d1==='bear' && h4==='bear')
+    acao = `Tendência de baixa forte. Aguardar repique no M15 para entrada vendida.`;
+  else
+    acao = `Aguardar definição estrutural antes de considerar qualquer entrada.`;
+
+  return `${base} ${m15Line} ${acao}`;
+}
 
 function tfBadge(label,t){
   const cls=t==='bull'?'tf-bull':t==='bear'?'tf-bear':'tf-neut';
@@ -368,7 +402,7 @@ function tfBadge(label,t){
 function cardHTML(d, isXau=false){
   const bias=d.d1==='bull'?'bull':d.d1==='bear'?'bear':'neut';
   const biasLabel=d.d1==='bull'?'Comprador':d.d1==='bear'?'Vendedor':'Neutro';
-  const narr=NARR[`${d.d1}-${d.h4}`]||'Estrutura em definição.';
+  const narr=gerarNarrativa(d.pair, d.d1, d.h4, d.m15, d.price, d.dec);
   const intel=loadIntel();
 
   let intelHTML='';
