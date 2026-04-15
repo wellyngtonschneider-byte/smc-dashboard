@@ -882,39 +882,24 @@ function initTicker(){
   items.forEach(el => inner.appendChild(el.cloneNode(true)));
 }
 
-function animatePrice(el, from, to, dec){
-  if(!from || from === to){ el.textContent = to.toFixed(dec); return; }
-  const dur = 600;
-  const start = performance.now();
-  function step(now){
-    const t = Math.min((now-start)/dur, 1);
-    const ease = t<0.5 ? 2*t*t : -1+(4-2*t)*t;
-    el.textContent = (from + (to-from)*ease).toFixed(dec);
-    if(t<1) requestAnimationFrame(step);
-  }
-  requestAnimationFrame(step);
-}
-
 function updateTickerItem(pair, price, chg){
-  const dec = ATIVOS_SCAN.find(a=>a.pair===pair)?.dec||2;
-  const prev = prevPrices[pair];
   const items = document.querySelectorAll(`[data-pair="${pair}"]`);
   items.forEach(item => {
     const pp = item.querySelector('.tick-price');
     const pc = item.querySelector('.tick-chg');
     if(!pp||!pc) return;
-    // Smooth counter animation
-    animatePrice(pp, prev||price, price, dec);
-    // Color based on direction
+    const prev = prevPrices[pair];
     if(prev && price !== prev){
-      pp.style.color = price > prev ? 'var(--green)' : 'var(--red)';
-      setTimeout(()=>pp.style.color='', 800);
+      const cls = price > prev ? 'flash-up' : 'flash-dn';
+      pp.classList.remove('flash-up','flash-dn');
+      void pp.offsetWidth;
+      pp.classList.add(cls);
+      setTimeout(()=>pp.classList.remove(cls), 500);
     }
+    pp.textContent = price.toFixed(ATIVOS_SCAN.find(a=>a.pair===pair)?.dec||2);
     const chgStr = chg ? `${chg>0?'+':''}${chg.toFixed(2)}%` : '—';
     pc.textContent = chgStr;
     pc.className = `tick-chg ${chg>0.01?'up':chg<-0.01?'down':'flat'}`;
-    // Pair color
-    item.querySelector('.tick-sym').style.color = chg>0.01?'var(--green)':chg<-0.01?'var(--red)':'';
   });
   prevPrices[pair] = price;
 }
@@ -1245,34 +1230,26 @@ async function checkResults(){
 
 // ── UPDATES ──
 async function updateTicker(){
-  const prices = await Promise.all(
-    ATIVOS_SCAN.map(a => apiPrice(a.sym).then(p => ({pair:a.pair, p})).catch(()=>null))
-  );
-  for(const item of prices){
-    if(!item?.p) continue;
-    const prev = prevPrices[item.pair];
-    const chg = prev ? (item.p-prev)/prev*100 : 0;
-    updateTickerItem(item.pair, item.p, chg);
+  for(const a of ATIVOS_SCAN){
+    const p = await apiPrice(a.sym);
+    await new Promise(r=>setTimeout(r,200));
+    if(!p) continue;
+    const prev = prevPrices[a.pair];
+    const chg = prev ? (p-prev)/prev*100 : 0;
+    updateTickerItem(a.pair, p, chg);
   }
 }
 
 async function updateTD(){
-  // Fetch all ativos in parallel for speed
-  const results = await Promise.all(ATIVOS_TD.map(async a => {
-    try{
-      const [d1,h4,m15] = await Promise.all([
-        api(a.sym,'1day',50),
-        api(a.sym,'4h',50),
-        api(a.sym,'15min',50),
-      ]);
-      if(!m15.length) return null;
-      const price = m15.at(-1)?.c||0;
-      const z = detectZones(m15, price);
-      return { pair:a.pair, dec:a.dec, price, d1:trend(d1), h4:trend(h4), m15:trend(m15), ...z };
-    }catch{ return null; }
-  }));
-  const data = results.filter(Boolean);
-  if(data.length) renderTD(data);
+  const data = [];
+  for(const a of ATIVOS_TD){
+    const [d1,h4,m15] = await Promise.all([api(a.sym,'1day',60),api(a.sym,'4h',60),api(a.sym,'15min',60)]);
+    await new Promise(r=>setTimeout(r,300));
+    const price = m15.at(-1)?.c||0;
+    const z = detectZones(m15, price);
+    data.push({ pair:a.pair, dec:a.dec, price, d1:trend(d1), h4:trend(h4), m15:trend(m15), ...z });
+  }
+  renderTD(data);
 }
 
 
@@ -1313,20 +1290,19 @@ fetchIntel();
 async function init(){
   loadDiary(); renderDiary();
   initTicker();
-  // Load intel first so it shows in TD cards immediately
-  await fetchIntel();
   await updateTicker();
   await updateTD();
   await fetchSignals();
   setInterval(updateTicker, 15000);
   setInterval(updateTD,     300000);
-  setInterval(fetchIntel,   120000);  // intel a cada 2min
-  setInterval(fetchSignals,  30000);  // sinais a cada 30s
+  setInterval(fetchIntel,   300000);
+  setInterval(fetchSignals, 30000);   // sinais do signal_engine.py a cada 30s
 }
 
 init();
-
-// ── FETCH SIGNALS FROM signal_engine.py ──
+</script>
+</body>
+</html>// ── FETCH SIGNALS FROM signal_engine.py ──
 async function fetchSignals(){
   try{
     const r = await fetch('./signals.json?t='+Date.now());
@@ -1369,34 +1345,26 @@ async function fetchSignals(){
 
 // ── UPDATES ──
 async function updateTicker(){
-  const prices = await Promise.all(
-    ATIVOS_SCAN.map(a => apiPrice(a.sym).then(p => ({pair:a.pair, p})).catch(()=>null))
-  );
-  for(const item of prices){
-    if(!item?.p) continue;
-    const prev = prevPrices[item.pair];
-    const chg = prev ? (item.p-prev)/prev*100 : 0;
-    updateTickerItem(item.pair, item.p, chg);
+  for(const a of ATIVOS_SCAN){
+    const p = await apiPrice(a.sym);
+    await new Promise(r=>setTimeout(r,200));
+    if(!p) continue;
+    const prev = prevPrices[a.pair];
+    const chg = prev ? (p-prev)/prev*100 : 0;
+    updateTickerItem(a.pair, p, chg);
   }
 }
 
 async function updateTD(){
-  // Fetch all ativos in parallel for speed
-  const results = await Promise.all(ATIVOS_TD.map(async a => {
-    try{
-      const [d1,h4,m15] = await Promise.all([
-        api(a.sym,'1day',50),
-        api(a.sym,'4h',50),
-        api(a.sym,'15min',50),
-      ]);
-      if(!m15.length) return null;
-      const price = m15.at(-1)?.c||0;
-      const z = detectZones(m15, price);
-      return { pair:a.pair, dec:a.dec, price, d1:trend(d1), h4:trend(h4), m15:trend(m15), ...z };
-    }catch{ return null; }
-  }));
-  const data = results.filter(Boolean);
-  if(data.length) renderTD(data);
+  const data = [];
+  for(const a of ATIVOS_TD){
+    const [d1,h4,m15] = await Promise.all([api(a.sym,'1day',60),api(a.sym,'4h',60),api(a.sym,'15min',60)]);
+    await new Promise(r=>setTimeout(r,300));
+    const price = m15.at(-1)?.c||0;
+    const z = detectZones(m15, price);
+    data.push({ pair:a.pair, dec:a.dec, price, d1:trend(d1), h4:trend(h4), m15:trend(m15), ...z });
+  }
+  renderTD(data);
 }
 
 async function updateScan(){
@@ -1454,15 +1422,13 @@ fetchIntel();
 async function init(){
   loadDiary(); renderDiary();
   initTicker();
-  // Load intel first so it shows in TD cards immediately
-  await fetchIntel();
   await updateTicker();
   await updateTD();
   await fetchSignals();
   setInterval(updateTicker, 15000);
   setInterval(updateTD,     300000);
-  setInterval(fetchIntel,   120000);  // intel a cada 2min
-  setInterval(fetchSignals,  30000);  // sinais a cada 30s
+  setInterval(fetchIntel,   300000);
+  setInterval(fetchSignals, 30000);   // sinais do signal_engine.py a cada 30s
 }
 
 init();
