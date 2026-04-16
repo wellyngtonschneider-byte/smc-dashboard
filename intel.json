@@ -1,145 +1,35 @@
 {
   "date": "16/04/2026",
-  "time": "15:48",
-  "score": "—",
-  "macro": "<b>DXY</b>: 📈 Fortalecendo — O dólar está ganhando força esta semana. Um dólar mais forte costuma pressionar para baixo ativos como ouro e libra-esterlina. Isso exige mais cuidado com posições compradas nesses ativos.",
-  "events": [],
+  "time": "15:52",
+  "macro": "DXY em 98.08 — abaixo de 100 pela primeira vez desde 2022, fraqueza estrutural do dólar. Geopolítica dominando: tensão EUA-Irã no Estreito de Ormuz mantém risk-off e sustenta ouro. Trump sinalizou possibilidade de acordo com Irã, causando volatilidade. Fed: 99.5% de probabilidade de manutenção dos juros em abril. Jobless Claims hoje podem mover mercado. DXY fraco = combustível para XAUUSD, GBP e EUR. BTCUSD testando resistência em $75.000.",
   "assets": [
     {
-      "pair": "GBPUSD",
-      "tfs": [
-        "bullish",
-        "bullish",
-        "bullish"
-      ],
-      "d1": "bullish",
-      "h4": "bullish",
-      "m15": "bullish",
-      "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 1.35752,
-      "res": 1.36,
-      "sup": 1.35,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "pair": "XAUUSD",
+      "text": "XAUUSD em ~$4.800 — Daily claramente bullish, saindo do ATH de $5.042. Correção atual é saudável dentro da alta maior. H4 em fase corretiva após rejeição nos $4.850. DXY em 98 (fraco) é piso estrutural para quedas do ouro. Sem CHoCH D1 confirmado — viés comprador preservado. Aguardar sweep dos mínimos de $4.780–$4.800 com rápida reversão e CHoCH bullish no M5 para entrada compradora. Alvo primário $4.850, secundário $4.970. Invalida fechar D1 abaixo de $4.720."
     },
     {
-      "pair": "BTCUSD",
-      "tfs": [
-        "bullish",
-        "bullish",
-        "neutro"
-      ],
-      "d1": "bullish",
-      "h4": "bullish",
-      "m15": "neutro",
-      "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 74845.59,
-      "res": 75316.55,
-      "sup": 73825.79,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "pair": "GBPUSD",
+      "text": "GBPUSD em 1.3567 — Daily em alta, pares vs dólar se beneficiam da fraqueza do DXY. H4 mostrando continuidade bullish. GDP do Reino Unido amanhã pode trazer volatilidade. Atenção: uptrend pode ser desafiado por riscos de crescimento e reversão rápida do dólar caso geopolítica resfrie. Enquanto DXY < 100, viés comprador nos pares GBP. Aguardar pullback ao H4 e CHoCH bullish no M5 para entrada alinhada com D1."
     },
     {
       "pair": "EURUSD",
-      "tfs": [
-        "bullish",
-        "bullish",
-        "neutro"
-      ],
-      "d1": "bullish",
-      "h4": "bullish",
-      "m15": "neutro",
-      "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 1.18088,
-      "res": null,
-      "sup": 1.18,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "text": "EURUSD em 1.1798 — Daily em alta sustentada pelo DXY fraco. Trump pressionando por tarifa mínima de 15-20% sobre produtos europeus — risco de reversão se aprovado. Por ora, momentum comprador intacto. H4 em alta com pullbacks saudáveis. Fala de Lagarde pode trazer volatilidade ao EUR. Aguardar recuo ao suporte H4 e confirmação M5 antes de entrar comprado."
     },
     {
       "pair": "USDJPY",
-      "tfs": [
-        "bearish",
-        "bearish",
-        "bearish"
-      ],
-      "d1": "bearish",
-      "h4": "bearish",
-      "m15": "bearish",
-      "d1_arrow": "↓",
-      "h4_arrow": "↓",
-      "price": 158.696,
-      "res": 159.02,
-      "sup": null,
-      "narrative": "Tanto o diário quanto o H4 estão em queda. A tendência está alinhada para baixo nos dois timeframes — os vendedores estão no controle do movimento.",
-      "bias": "Diário em queda com H4 confirmando e DXY fortalecendo — pressão sobre ativos de risco",
-      "text": "Tanto o diário quanto o H4 estão em queda. A tendência está alinhada para baixo nos dois timeframes — os vendedores estão no controle do movimento. Diário em queda com H4 confirmando e DXY fortalecendo — pressão sobre ativos de risco."
+      "text": "USDJPY em ~158-159 — Daily em queda com DXY enfraquecendo. BOJ sinalizou vigilância ao risco de estagflação no Japão — pressão para alta de juros japoneses que fortalece JPY. H4 em correção. Par vendedor alinhado: D1 e H4 apontam para baixo. Aguardar repique para zona de resistência H4 e CHoCH bearish no M5 para entrada vendida. Risco: reversão do DXY."
+    },
+    {
+      "pair": "BTCUSD",
+      "text": "BTCUSD em ~$74-75K — Daily bullish testando resistência crítica em $75.000. Rompimento sustentado abre caminho para $80.000. Falha em romper pode manter range e renovar pressão vendedora. H4 em acumulação próximo à resistência. Contexto risk-off da geopolítica limita upside cripto. Aguardar rompimento confirmado do $75.000 com volume para entrar comprado, ou recuo ao suporte $72.000 com CHoCH bullish no M5."
     },
     {
       "pair": "ETHUSD",
-      "tfs": [
-        "bullish",
-        "bullish",
-        "neutro"
-      ],
-      "d1": "bullish",
-      "h4": "bullish",
-      "m15": "neutro",
-      "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 2365.96,
-      "res": 2380.51,
-      "sup": 2348.89,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "text": "ETHUSD em ~$2.350 — Seguindo BTC com correlação alta. Daily em recuperação após mínimas recentes. H4 tentando retomar momentum comprador. Mais fraco que BTC historicamente neste ciclo. Aguardar BTC romper $75.000 para confirmar movimento em ETH. Sem setup independente claro no momento."
     },
     {
       "pair": "NAS100",
-      "tfs": [
-        "bullish",
-        "bullish",
-        "bullish"
-      ],
-      "d1": "bullish",
-      "h4": "bullish",
-      "m15": "bullish",
-      "d1_arrow": "↑",
-      "h4_arrow": "↑",
-      "price": 637.77,
-      "res": null,
-      "sup": 630.95,
-      "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-      "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "text": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis. Diário em alta com H4 confirmando, mas DXY forte exige cautela."
+      "text": "NAS100 em ~$637 (QQQ) — Daily em recuperação mas mercado perdendo confiança nos sinais de Trump sobre Iran. Geopolítica e risco de escalada tarifária pesam nos índices americanos. S&P500 voltou ao viés bearish no curto prazo. H4 consolidando. Preferir esperar definição geopolítica antes de posicionar em índices. Risco elevado de volatilidade intraday."
     }
-  ],
-  "xau": {
-    "pair": "XAUUSD",
-    "d1": "bullish",
-    "h4": "bullish",
-    "m15": "bullish",
-    "d1_arrow": "↑",
-    "h4_arrow": "↑",
-    "m15_arrow": "↑",
-    "topdown": "D1 📈 Subindo | H4 📈 Subindo junto | M15 Alta. Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-    "waiting": "Tendência forte em andamento. Aguardar um recuo para zona de suporte ou OB de qualidade no M15 para considerar uma entrada a favor da tendência. Não perseguir o movimento quando está esticado.",
-    "session": "Preço: <span class='lvl'>4809.44</span> | Resistência: <span class='slvl'>4816.01</span> | Suporte: <span class='lvl'>4790.89</span>",
-    "scenarios": [
-      "Viés atual: Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-      "Tendência forte em andamento. Aguardar um recuo para zona de suporte ou OB de qualidade no M15 para considerar uma entrada a favor da tendência. Não perseguir o movimento quando está esticado.",
-      "Perde validade se o preço romper abaixo de 4790.89"
-    ],
-    "narrative": "Tanto o gráfico diário quanto o de 4 horas estão em tendência de alta. Isso significa que a tendência principal está forte e os dois timeframes estão apontando na mesma direção — um dos melhores alinhamentos possíveis.",
-    "bias": "Diário em alta com H4 confirmando, mas DXY forte exige cautela",
-    "price": 4809.44,
-    "res": 4816.01,
-    "sup": 4790.89
-  }
+  ]
 }
