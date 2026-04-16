@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "10:33",
+  "hora_atualizacao": "10:38",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -518,6 +518,20 @@
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.35451-1.35464",
       "detalhes": "D1 bullish | Killzone NY | FVG 1.35451-1.35464 | OTE 29.7%",
       "hora": "10:33",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "ICT",
+      "score": 100,
+      "direcao": "LONG",
+      "entrada": 2340.78,
+      "sl": 2332.69,
+      "tp": 2351.52,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
+      "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 2335.96-2338.78 | OTE 23.8%",
+      "hora": "10:38",
       "data": "16/04/2026"
     }
   ]
