@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "11:50",
+  "hora_atualizacao": "12:01",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -630,6 +630,20 @@
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.17784-1.17793",
       "detalhes": "D1 bullish | Killzone NY | FVG 1.17784-1.17793 | OTE 31.1%",
       "hora": "11:50",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "Wyckoff",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.35245,
+      "sl": 1.35094,
+      "tp": 1.35555,
+      "rr": 1.5,
+      "razao": "Acumulacao Wyckoff detectada. Acumulação H4 | D1 confirmando | Spring detectado",
+      "detalhes": "Acumulação H4 | D1 confirmando | Spring detectado | Trading range definido",
+      "hora": "12:01",
       "data": "16/04/2026"
     }
   ]
