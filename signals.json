@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "22:28",
+  "hora_atualizacao": "22:38",
   "data": "15/04/2026",
   "sinais": [
     {
@@ -70,6 +70,20 @@
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 2348.89-2357.39",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 2348.89-2357.39 | Liquidez varrida",
       "hora": "22:28",
+      "data": "15/04/2026"
+    },
+    {
+      "pair": "EURUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.17997,
+      "sl": 1.17966,
+      "tp": 1.18068,
+      "rr": 1.5,
+      "razao": "ICT FVG em Ásia. D1 bullish | Killzone Ásia | FVG 1.17981-1.17987",
+      "detalhes": "D1 bullish | Killzone Ásia | FVG 1.17981-1.17987 | OTE 31.0%",
+      "hora": "22:38",
       "data": "15/04/2026"
     }
   ]
