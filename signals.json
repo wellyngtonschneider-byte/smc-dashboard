@@ -30,7 +30,7 @@
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 1.17701-1.17817 | BOS/CHoCH 5min confirmado",
       "hora": "14:10",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "USDJPY",
@@ -45,7 +45,7 @@
       "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273 | BOS/CHoCH 5min confirmado",
       "hora": "14:10",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "ETHUSD",
