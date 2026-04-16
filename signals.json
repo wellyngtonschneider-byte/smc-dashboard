@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "12:01",
+  "hora_atualizacao": "12:06",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -644,6 +644,20 @@
       "razao": "Acumulacao Wyckoff detectada. Acumulação H4 | D1 confirmando | Spring detectado",
       "detalhes": "Acumulação H4 | D1 confirmando | Spring detectado | Trading range definido",
       "hora": "12:01",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 2310.44,
+      "sl": 2299.33,
+      "tp": 2351.52,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 2306.18-2308.44",
+      "detalhes": "D1 bullish | Killzone NY | FVG 2306.18-2308.44 | OTE 36.8%",
+      "hora": "12:06",
       "data": "16/04/2026"
     }
   ]
