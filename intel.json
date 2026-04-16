@@ -1,35 +1,71 @@
 {
   "date": "16/04/2026",
-  "time": "15:52",
-  "macro": "DXY em 98.08 — abaixo de 100 pela primeira vez desde 2022, fraqueza estrutural do dólar. Geopolítica dominando: tensão EUA-Irã no Estreito de Ormuz mantém risk-off e sustenta ouro. Trump sinalizou possibilidade de acordo com Irã, causando volatilidade. Fed: 99.5% de probabilidade de manutenção dos juros em abril. Jobless Claims hoje podem mover mercado. DXY fraco = combustível para XAUUSD, GBP e EUR. BTCUSD testando resistência em $75.000.",
+  "time": "19:19",
+  "macro": "Abril/2026: DXY em consolidação após Fed manter juros elevados com viés de corte gradual no 2º semestre. Geopolítica tensa (Oriente Médio e eleições EUA) sustenta fluxo para ouro e BTC como hedge. Dados de inflação CPI mais brandos pressionam dólar, favorecendo majors e risk-on em índices.",
   "assets": [
     {
       "pair": "XAUUSD",
-      "text": "XAUUSD em ~$4.800 — Daily claramente bullish, saindo do ATH de $5.042. Correção atual é saudável dentro da alta maior. H4 em fase corretiva após rejeição nos $4.850. DXY em 98 (fraco) é piso estrutural para quedas do ouro. Sem CHoCH D1 confirmado — viés comprador preservado. Aguardar sweep dos mínimos de $4.780–$4.800 com rápida reversão e CHoCH bullish no M5 para entrada compradora. Alvo primário $4.850, secundário $4.970. Invalida fechar D1 abaixo de $4.720."
+      "d1": "bullish",
+      "h4": "bullish",
+      "h1": "neutro",
+      "m15": "bearish",
+      "text": "Ouro em máxima histórica acima de 4790, estrutura HH/HL intacta no D1. H4 mantém BOS bullish, porém H1 mostra exaustão em premium zone. M15 corrige buscando FVG em 4770-4775 antes de nova perna."
     },
     {
       "pair": "GBPUSD",
-      "text": "GBPUSD em 1.3567 — Daily em alta, pares vs dólar se beneficiam da fraqueza do DXY. H4 mostrando continuidade bullish. GDP do Reino Unido amanhã pode trazer volatilidade. Atenção: uptrend pode ser desafiado por riscos de crescimento e reversão rápida do dólar caso geopolítica resfrie. Enquanto DXY < 100, viés comprador nos pares GBP. Aguardar pullback ao H4 e CHoCH bullish no M5 para entrada alinhada com D1."
+      "d1": "bullish",
+      "h4": "neutro",
+      "h1": "bullish",
+      "m15": "neutro",
+      "text": "Libra recuperou 1.35 com BOS no D1. H4 em range consolidando liquidez. H1 formou CHoCH bullish após mitigação de OB em 1.3480. M15 lateral aguardando sweep em 1.3550."
     },
     {
       "pair": "EURUSD",
-      "text": "EURUSD em 1.1798 — Daily em alta sustentada pelo DXY fraco. Trump pressionando por tarifa mínima de 15-20% sobre produtos europeus — risco de reversão se aprovado. Por ora, momentum comprador intacto. H4 em alta com pullbacks saudáveis. Fala de Lagarde pode trazer volatilidade ao EUR. Aguardar recuo ao suporte H4 e confirmação M5 antes de entrar comprado."
+      "d1": "bullish",
+      "h4": "bullish",
+      "h1": "neutro",
+      "m15": "bearish",
+      "text": "Euro rompeu 1.17 com estrutura bullish no D1/H4. H1 em premium, acumulando liquidez acima de 1.1800. M15 corrige para discount 1.1760-1.1770 antes de buscar 1.1850."
     },
     {
       "pair": "USDJPY",
-      "text": "USDJPY em ~158-159 — Daily em queda com DXY enfraquecendo. BOJ sinalizou vigilância ao risco de estagflação no Japão — pressão para alta de juros japoneses que fortalece JPY. H4 em correção. Par vendedor alinhado: D1 e H4 apontam para baixo. Aguardar repique para zona de resistência H4 e CHoCH bearish no M5 para entrada vendida. Risco: reversão do DXY."
+      "d1": "bearish",
+      "h4": "bearish",
+      "h1": "neutro",
+      "m15": "bullish",
+      "text": "USDJPY em 159 pressionado por BOJ hawkish e DXY fraco. D1 rompeu HL criando CHoCH bearish. H4 confirma, H1 neutro em discount. M15 pullback buscando OB em 159.40 para continuação de venda."
     },
     {
       "pair": "BTCUSD",
-      "text": "BTCUSD em ~$74-75K — Daily bullish testando resistência crítica em $75.000. Rompimento sustentado abre caminho para $80.000. Falha em romper pode manter range e renovar pressão vendedora. H4 em acumulação próximo à resistência. Contexto risk-off da geopolítica limita upside cripto. Aguardar rompimento confirmado do $75.000 com volume para entrar comprado, ou recuo ao suporte $72.000 com CHoCH bullish no M5."
+      "d1": "bullish",
+      "h4": "neutro",
+      "h1": "bearish",
+      "m15": "bearish",
+      "text": "BTC consolidando em 74-75k após topo histórico. D1 mantém estrutura bullish. H4 em range, H1 com CHoCH bearish buscando sweep em 74.200. M15 bearish, possível mitigação em 74.500-74.700."
     },
     {
       "pair": "ETHUSD",
-      "text": "ETHUSD em ~$2.350 — Seguindo BTC com correlação alta. Daily em recuperação após mínimas recentes. H4 tentando retomar momentum comprador. Mais fraco que BTC historicamente neste ciclo. Aguardar BTC romper $75.000 para confirmar movimento em ETH. Sem setup independente claro no momento."
+      "d1": "neutro",
+      "h4": "bearish",
+      "h1": "bearish",
+      "m15": "neutro",
+      "text": "ETH em 2341 underperform vs BTC. D1 em range 2280-2450 sem direção clara. H4/H1 bearish com BOS recente. M15 neutro aguardando reação em liquidez 2320."
     },
     {
       "pair": "NAS100",
-      "text": "NAS100 em ~$637 (QQQ) — Daily em recuperação mas mercado perdendo confiança nos sinais de Trump sobre Iran. Geopolítica e risco de escalada tarifária pesam nos índices americanos. S&P500 voltou ao viés bearish no curto prazo. H4 consolidando. Preferir esperar definição geopolítica antes de posicionar em índices. Risco elevado de volatilidade intraday."
+      "d1": "bullish",
+      "h4": "bullish",
+      "h1": "neutro",
+      "m15": "bullish",
+      "text": "QQQ em 640 mantém tendência bullish em todos timeframes macros. D1 e H4 com HH/HL claros. H1 neutro digerindo movimento, M15 reassumindo força após mitigação de FVG em 638."
+    },
+    {
+      "pair": "DXY",
+      "d1": "bearish",
+      "h4": "bearish",
+      "h1": "neutro",
+      "m15": "bullish",
+      "text": "DXY pressionado por expectativa de corte Fed e CPI fraco. D1/H4 bearish com BOS recente. H1 neutro em discount zone. M15 pullback técnico para OB antes de retomar venda estrutural."
     }
   ]
 }
