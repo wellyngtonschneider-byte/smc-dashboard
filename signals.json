@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "03:36",
+  "hora_atualizacao": "03:41",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -252,6 +252,20 @@
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 1.35619-1.35709",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 1.35619-1.35709 | Liquidez varrida",
       "hora": "03:36",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "SMC",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 4821.27,
+      "sl": 4812.31,
+      "tp": 4829.06449,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4812.31-4821.1",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4812.31-4821.1 | Liquidez varrida",
+      "hora": "03:41",
       "data": "16/04/2026"
     }
   ]
