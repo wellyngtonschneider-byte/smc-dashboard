@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "15:26",
+  "hora_atualizacao": "15:31",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -44,6 +44,21 @@
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 5min confirmado",
       "hora": "15:25",
+      "data": "16/04/2026",
+      "status": "open"
+    },
+    {
+      "pair": "NAS100",
+      "estrategia": "SMC",
+      "score": 95,
+      "direcao": "LONG",
+      "entrada": 638.63,
+      "sl": 635.3,
+      "tp": 640.73,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
+      "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 635.3-638.13 | BOS/CHoCH 5min confirmado",
+      "hora": "15:31",
       "data": "16/04/2026",
       "status": "open"
     }
