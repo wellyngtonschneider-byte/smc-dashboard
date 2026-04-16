@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "15:33",
+  "hora_atualizacao": "15:35",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -9,13 +9,28 @@
       "direcao": "LONG",
       "entrada": 4800.47,
       "sl": 4782.3,
-      "tp": 4816.67107,
+      "tp": 4838.06143,
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3 | BOS/CHoCH 1min confirmado",
-      "hora": "14:56",
+      "hora": "14:10",
       "data": "16/04/2026",
       "status": "open"
+    },
+    {
+      "pair": "EURUSD",
+      "estrategia": "SMC",
+      "score": 80,
+      "direcao": "LONG",
+      "entrada": 1.17827,
+      "sl": 1.17701,
+      "tp": 1.17887,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 1.17701-1.17817",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 1.17701-1.17817 | BOS/CHoCH 5min confirmado",
+      "hora": "14:10",
+      "data": "16/04/2026",
+      "status": "SL"
     },
     {
       "pair": "USDJPY",
@@ -27,8 +42,23 @@
       "tp": 159.03103,
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bearish. D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273",
-      "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273 | BOS/CHoCH 1min confirmado",
-      "hora": "15:01",
+      "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273 | BOS/CHoCH 5min confirmado",
+      "hora": "14:10",
+      "data": "16/04/2026",
+      "status": "SL"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "SMC",
+      "score": 80,
+      "direcao": "LONG",
+      "entrada": 2309.55,
+      "sl": 2285.0,
+      "tp": 2351.52,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 2285.0-2307.55",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 2285.0-2307.55 | BOS/CHoCH 1min confirmado",
+      "hora": "14:16",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -43,7 +73,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 5min confirmado",
-      "hora": "15:06",
+      "hora": "14:48",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -58,7 +88,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 635.3-638.13 | BOS/CHoCH 5min confirmado",
-      "hora": "15:12",
+      "hora": "15:09",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -73,22 +103,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4779.94-4788.46",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4779.94-4788.46 | BOS/CHoCH 5min confirmado",
-      "hora": "15:32",
-      "data": "16/04/2026",
-      "status": "open"
-    },
-    {
-      "pair": "USDJPY",
-      "estrategia": "SMC",
-      "score": 80,
-      "direcao": "SHORT",
-      "entrada": 159.238,
-      "sl": 159.277,
-      "tp": 159.03103,
-      "rr": 1.5,
-      "razao": "OB + BOS M15 com D1 bearish. D1 bearish | BOS/CHoCH M15 | OB 159.258-159.277",
-      "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.258-159.277 | BOS/CHoCH 5min confirmado",
-      "hora": "15:32",
+      "hora": "15:35",
       "data": "16/04/2026",
       "status": "open"
     }
