@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "10:22",
+  "hora_atualizacao": "10:33",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -504,6 +504,20 @@
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 4812.46-4816.04",
       "detalhes": "D1 bullish | Killzone NY | FVG 4812.46-4816.04 | OTE 37.7%",
       "hora": "10:22",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.35484,
+      "sl": 1.35421,
+      "tp": 1.35533,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.35451-1.35464",
+      "detalhes": "D1 bullish | Killzone NY | FVG 1.35451-1.35464 | OTE 29.7%",
+      "hora": "10:33",
       "data": "16/04/2026"
     }
   ]
