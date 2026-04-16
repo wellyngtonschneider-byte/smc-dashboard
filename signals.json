@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "15:35",
+  "hora_atualizacao": "15:41",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -9,11 +9,11 @@
       "direcao": "LONG",
       "entrada": 4800.47,
       "sl": 4782.3,
-      "tp": 4816.67107,
+      "tp": 4823.74167,
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3",
-      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3 | BOS/CHoCH 1min confirmado",
-      "hora": "14:38",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3 | BOS/CHoCH 5min confirmado",
+      "hora": "15:25",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -27,8 +27,8 @@
       "tp": 159.03103,
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bearish. D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273",
-      "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273 | BOS/CHoCH 1min confirmado",
-      "hora": "14:43",
+      "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273 | BOS/CHoCH 5min confirmado",
+      "hora": "15:25",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -43,7 +43,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 5min confirmado",
-      "hora": "14:48",
+      "hora": "15:25",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -58,7 +58,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 635.3-638.13 | BOS/CHoCH 5min confirmado",
-      "hora": "15:09",
+      "hora": "15:31",
       "data": "16/04/2026",
       "status": "open"
     },
@@ -73,7 +73,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4779.94-4788.46",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4779.94-4788.46 | BOS/CHoCH 5min confirmado",
-      "hora": "15:35",
+      "hora": "15:41",
       "data": "16/04/2026",
       "status": "open"
     }
