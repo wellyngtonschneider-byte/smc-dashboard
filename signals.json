@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "05:50",
+  "hora_atualizacao": "08:45",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -364,6 +364,48 @@
       "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | H4 alinhado",
       "detalhes": "D1 bullish | Killzone Londres | H4 alinhado | FVG 2341.46-2343.75 | OTE 30.6%",
       "hora": "05:49",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 4816.21,
+      "sl": 4809.67,
+      "tp": 4816.67107,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 4812.46-4816.04",
+      "detalhes": "D1 bullish | Killzone Londres | FVG 4812.46-4816.04 | OTE 34.5%",
+      "hora": "08:45",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.35481,
+      "sl": 1.35412,
+      "tp": 1.35727,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 1.35447-1.35461",
+      "detalhes": "D1 bullish | Killzone Londres | FVG 1.35447-1.35461 | OTE 23.7%",
+      "hora": "08:45",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "EURUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.17858,
+      "sl": 1.17776,
+      "tp": 1.17887,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 1.17801-1.17848",
+      "detalhes": "D1 bullish | Killzone Londres | FVG 1.17801-1.17848 | OTE 22.6%",
+      "hora": "08:45",
       "data": "16/04/2026"
     }
   ]
