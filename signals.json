@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "00:36",
+  "hora_atualizacao": "00:52",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -140,6 +140,20 @@
       "razao": "ICT FVG em Ásia. D1 bullish | Killzone Ásia | FVG 2356.86-2359.04",
       "detalhes": "D1 bullish | Killzone Ásia | FVG 2356.86-2359.04 | OTE 37.9%",
       "hora": "00:36",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 2361.04,
+      "sl": 2352.89,
+      "tp": 2363.77,
+      "rr": 1.5,
+      "razao": "ICT FVG em Ásia. D1 bullish | Killzone Ásia | FVG 2356.86-2359.04",
+      "detalhes": "D1 bullish | Killzone Ásia | FVG 2356.86-2359.04 | OTE 31.8%",
+      "hora": "00:52",
       "data": "16/04/2026"
     }
   ]
