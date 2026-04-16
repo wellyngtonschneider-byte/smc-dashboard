@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "10:17",
+  "hora_atualizacao": "10:22",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -490,6 +490,20 @@
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.17801-1.17848",
       "detalhes": "D1 bullish | Killzone NY | FVG 1.17801-1.17848 | OTE 23.2%",
       "hora": "10:17",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 4816.21,
+      "sl": 4809.63,
+      "tp": 4831.44942,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 4812.46-4816.04",
+      "detalhes": "D1 bullish | Killzone NY | FVG 4812.46-4816.04 | OTE 37.7%",
+      "hora": "10:22",
       "data": "16/04/2026"
     }
   ]
