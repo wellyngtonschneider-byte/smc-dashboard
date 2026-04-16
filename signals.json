@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "14:56",
+  "hora_atualizacao": "15:01",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -14,6 +14,21 @@
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3 | BOS/CHoCH 1min confirmado",
       "hora": "14:56",
+      "data": "16/04/2026",
+      "status": "open"
+    },
+    {
+      "pair": "USDJPY",
+      "estrategia": "SMC",
+      "score": 80,
+      "direcao": "SHORT",
+      "entrada": 159.132,
+      "sl": 159.273,
+      "tp": 159.03103,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bearish. D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273",
+      "detalhes": "D1 bearish | BOS/CHoCH M15 | OB 159.152-159.273 | BOS/CHoCH 1min confirmado",
+      "hora": "15:01",
       "data": "16/04/2026",
       "status": "open"
     }
