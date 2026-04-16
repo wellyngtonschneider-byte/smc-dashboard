@@ -1,21 +1,7 @@
 {
-  "hora_atualizacao": "12:37",
+  "hora_atualizacao": "12:42",
   "data": "16/04/2026",
   "sinais": [
-    {
-      "pair": "GBPUSD",
-      "estrategia": "Wyckoff",
-      "score": 85,
-      "direcao": "LONG",
-      "entrada": 1.35625,
-      "sl": 1.35549,
-      "tp": 1.35658,
-      "rr": 1.5,
-      "razao": "Acumulacao Wyckoff detectada. Acumulação H4 | D1 confirmando | Spring detectado",
-      "detalhes": "Acumulação H4 | D1 confirmando | Spring detectado | Trading range definido",
-      "hora": "18:58",
-      "data": "15/04/2026"
-    },
     {
       "pair": "GBPUSD",
       "estrategia": "SMC",
@@ -686,6 +672,34 @@
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 4793.42-4801.23",
       "detalhes": "D1 bullish | Killzone NY | FVG 4793.42-4801.23 | OTE 35.9%",
       "hora": "12:37",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.35306,
+      "sl": 1.35219,
+      "tp": 1.35555,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.3527-1.35286",
+      "detalhes": "D1 bullish | Killzone NY | FVG 1.3527-1.35286 | OTE 26.9%",
+      "hora": "12:42",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "EURUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.1781,
+      "sl": 1.17746,
+      "tp": 1.17887,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.1778-1.178",
+      "detalhes": "D1 bullish | Killzone NY | FVG 1.1778-1.178 | OTE 27.5%",
+      "hora": "12:42",
       "data": "16/04/2026"
     }
   ]
