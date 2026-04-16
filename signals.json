@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "05:39",
+  "hora_atualizacao": "05:50",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -350,6 +350,20 @@
       "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | H4 alinhado",
       "detalhes": "D1 bullish | Killzone Londres | H4 alinhado | FVG 74682.06-74706.01 | OTE 25.1%",
       "hora": "05:39",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "ICT",
+      "score": 100,
+      "direcao": "LONG",
+      "entrada": 2345.75,
+      "sl": 2338.76,
+      "tp": 2369.39,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | H4 alinhado",
+      "detalhes": "D1 bullish | Killzone Londres | H4 alinhado | FVG 2341.46-2343.75 | OTE 30.6%",
+      "hora": "05:49",
       "data": "16/04/2026"
     }
   ]
