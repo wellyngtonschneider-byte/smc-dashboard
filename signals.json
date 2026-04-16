@@ -1,21 +1,7 @@
 {
-  "hora_atualizacao": "12:58",
+  "hora_atualizacao": "13:24",
   "data": "16/04/2026",
   "sinais": [
-    {
-      "pair": "ETHUSD",
-      "estrategia": "SMC",
-      "score": 85,
-      "direcao": "LONG",
-      "entrada": 2359.39,
-      "sl": 2348.89,
-      "tp": 2368.17,
-      "rr": 1.5,
-      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 2348.89-2357.39",
-      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 2348.89-2357.39 | Liquidez varrida",
-      "hora": "22:12",
-      "data": "15/04/2026"
-    },
     {
       "pair": "ETHUSD",
       "estrategia": "SMC",
@@ -700,6 +686,20 @@
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.1778-1.178",
       "detalhes": "D1 bullish | Killzone NY | FVG 1.1778-1.178 | OTE 29.0%",
       "hora": "12:58",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "ICT",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 1.35416,
+      "sl": 1.35326,
+      "tp": 1.35555,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | FVG 1.35377-1.35396",
+      "detalhes": "D1 bullish | Killzone NY | FVG 1.35377-1.35396 | OTE 35.4%",
+      "hora": "13:23",
       "data": "16/04/2026"
     }
   ]
