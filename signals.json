@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "21:21",
+  "hora_atualizacao": "22:12",
   "data": "15/04/2026",
   "sinais": [
     {
@@ -42,6 +42,20 @@
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 73604.79-74052.6",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 73604.79-74052.6 | Liquidez varrida",
       "hora": "21:21",
+      "data": "15/04/2026"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "SMC",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 2359.39,
+      "sl": 2348.89,
+      "tp": 2368.17,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 2348.89-2357.39",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 2348.89-2357.39 | Liquidez varrida",
+      "hora": "22:12",
       "data": "15/04/2026"
     }
   ]
