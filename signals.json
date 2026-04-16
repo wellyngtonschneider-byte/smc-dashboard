@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "03:41",
+  "hora_atualizacao": "05:03",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -266,6 +266,34 @@
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4812.31-4821.1",
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4812.31-4821.1 | Liquidez varrida",
       "hora": "03:41",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "SMC",
+      "score": 85,
+      "direcao": "LONG",
+      "entrada": 4823.17,
+      "sl": 4816.01,
+      "tp": 4831.44942,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 4816.01-4823.0",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4816.01-4823.0 | Liquidez varrida",
+      "hora": "05:03",
+      "data": "16/04/2026"
+    },
+    {
+      "pair": "BTCUSD",
+      "estrategia": "ICT",
+      "score": 100,
+      "direcao": "LONG",
+      "entrada": 74711.01,
+      "sl": 74614.3,
+      "tp": 74899.16,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | H4 alinhado",
+      "detalhes": "D1 bullish | Killzone Londres | H4 alinhado | FVG 74682.06-74706.01 | OTE 23.9%",
+      "hora": "05:03",
       "data": "16/04/2026"
     }
   ]
