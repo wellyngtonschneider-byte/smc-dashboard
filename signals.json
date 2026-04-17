@@ -195,7 +195,7 @@
       "detalhes": "D1 bullish | Killzone Londres | FVG 1.35345-1.35374 | BOS/CHoCH 5min confirmado",
       "hora": "06:32",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "EURUSD",
@@ -210,7 +210,7 @@
       "detalhes": "D1 bullish | Killzone Londres | FVG 1.17965-1.17981 | BOS/CHoCH 5min confirmado",
       "hora": "06:32",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "ETHUSD",
