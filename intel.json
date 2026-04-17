@@ -1,15 +1,15 @@
 {
   "date": "17/04/2026",
-  "time": "10:01",
-  "macro": "Sessão de 17/04 com foco no discurso de Waller (FOMC) às 15:00, que pode reprecificar expectativas de corte de juros e mover DXY/yields. DXY em estrutura D1/H4 bearish mas com CHoCH de curto prazo bullish em 27.340, sugerindo repique corretivo antes de retomada vendedora — favorável a EURUSD, GBPUSD e metais. US10Y com yields pressionados (PST bearish em H4/H1) sustenta bid em ouro e tech. Risk-on amplo com NAS100, BTC e ETH em BOS de continuação; correlação inversa DXY–risco dominante até o evento das 15:00.",
+  "time": "10:39",
+  "macro": "Sessão marcada por fraqueza generalizada do dólar com DXY em estrutura bearish confirmada em todos os timeframes (último BOS down 27.270 em H4), favorecendo continuidade altista em EURUSD, GBPUSD e metais. US10Y com yields pressionados no intradiário (H1/H4 bearish) mas bias macro D1 ainda bullish, alimentando fluxo de risk-on em NAS100, BTC e ETH que imprimem BOS sucessivos. XAUUSD segue como principal beneficiário, com alinhamento bullish completo D1→M15 e rompimento recente de máximas. Único evento relevante hoje é Waller (FOMC) às 15:00 — tom hawkish pode resgatar DXY e pressionar ouro/cripto; tom dovish confirma continuidade dos movimentos atuais.",
   "assets": [
     {
       "pair": "XAUUSD",
-      "d1": "bearish",
+      "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "D1 bearish macro mas H4/H1/M15 alinhados bullish após BOS em 4838.061 e CHoCH em 4806.137 — estrutura de continuação compradora intradiária. Zonas de interesse nos OBs H1 4782.998–4794.737 e M15 4782.998–4790.070 com confluência no OB H4 4780.131–4806.137. Liquidez abaixo em 4816.007 e 4812.309 é alvo natural de sweep antes de retomada; gatilho = mitigação + MSS M15 acima de 4842.157. Invalidação = rompimento de 4780.131 (perde OB H4)."
+      "text": "Bias bullish pleno D1→M15 após CHoCH D1 em 4855.114 e BOS H4 em 4838.061. Zonas de interesse para longs em recuo: OB H1 4782.998–4794.737 e OB M15 4782.998–4790.070, com confluência no OB H4 4780.131–4806.137. Liquidez abaixo em 4816.007 e 4812.309 como targets de sweep antes de retomada. Invalidação estrutural abaixo de 4780.131; gatilho ideal é pullback ao OB H1 com reação M15 buscando extensão acima de 4861.851."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +17,7 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Conflito D1 bullish vs H4 bearish (CHoCH em 1.354) — H1/M15 recuperaram bullish em 1.354. Preço em 1.358 colado na liquidez acima (1.358/1.359) e dentro do OB H4 bear 1.356–1.359: zona crítica de reação vendedora. Cenário tático: sweep em 1.359 + CHoCH M15 down = short para liquidez 1.357/1.356 e recarga no OB H1 bull 1.352–1.354. Waller dovish inverte a tese e leva a 1.359+ com força."
+      "text": "Divergência entre H4 bearish (CHoCH down 1.354) e H1/M15 bullish recompostos pelo CHoCH up em 1.354 — cenário de reversão intradiária. Preço em 1.358 testando liquidez acima (1.358, 1.359) com OB H4 bear 1.356–1.359 como resistência crítica. Longs só válidos em recuo ao OB H1 bull 1.352–1.354 ou OB M15 1.352–1.353. Se Waller hawkish, rejeição no OB H4 bear reativa viés H4 baixista alvo 1.356; fluxo DXY bearish favorece rompimento limpo."
     },
     {
       "pair": "EURUSD",
@@ -25,15 +25,15 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Full bullish em todos TFs (D1 CHoCH 1.163, H4 BOS 1.182, H1 CHoCH 1.179, M15 BOS 1.180) — estrutura mais limpa do dia no FX. OBs M15 1.179–1.180 e 1.178–1.178 são gatilhos de recompra em pullback; OB H1 1.177–1.178 é a zona premium de swing. Liquidez abaixo em 1.180/1.180 pode ser varrida antes da continuação. Alvo = extensão acima de 1.183 pós-Waller se DXY quebrar 27.340."
+      "text": "Bias bullish alinhado D1→M15 sustentado por CHoCH D1 em 1.163 e BOS H4 em 1.182, reforçado pela estrutura bearish do DXY. Zonas de compra em pullback: OB M15 1.179–1.180 (imediato) e OB H1 1.177–1.178 em caso de sweep mais profundo, com OB H4 1.178–1.179 como confluência. Liquidez abaixo em 1.180 serve de isca antes de continuação. Invalidação abaixo de 1.177; alvo extensão acima de 1.184 buscando máximas recentes."
     },
     {
       "pair": "USDJPY",
       "d1": "bullish",
-      "h4": "bullish",
+      "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "D1/H4 bullish mas H1/M15 viraram bearish com CHoCH down em 159.024/159.015 — correção intradiária dentro de tendência maior. OB H1 bear 159.144–159.228 é zona de venda curta com alvo na liquidez abaixo em 158.246. OB D1 bull 158.042–159.648 sustenta o swing; reentrada comprada exige MSS H1 acima de 159.024. Waller hawkish = volta pro OB bear e retomada do uptrend D1."
+      "text": "Conflito entre D1 bullish e H4/H1/M15 bearish após CHoCH down H4 em 158.246 — ambiente de correção dentro de tendência maior. Preço em 158.194 testando OB D1 bull 158.042–159.648 pela borda inferior. Liquidez acima em 158.828 e 158.948 como alvo de short em pullback ao OB H1 bear 159.144–159.228 ou OB H4 bear 159.306–159.479. DXY fraco reforça shorts intraday; só reconsidera longs com reclaim acima de 159.024."
     },
     {
       "pair": "BTCUSD",
@@ -41,7 +41,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Alinhamento total bullish (D1/H4/H1/M15) com BOS sequenciais — momentum puro de continuação. OB H1 bull 74575.000–74828.390 é o único nível de recompra listado; pullback profundo até essa zona oferece R:R ótimo. Liquidez acima em 76386.680 é alvo imediato; abaixo em 75120.110 e 74846.010 servem como sweep antes de nova perna. Invalidação estrutural abaixo de 74575.000."
+      "text": "Estrutura bullish plena com BOS sucessivos em todos timeframes, último M15 em 76386.680 confirmando força comprada. Pullback saudável pode buscar OB M15 75672.890–75944.990 (zona preferencial de entrada) ou, em correção mais profunda, OB H1 74575.000–74828.390. Liquidez abaixo em 75120.110 e 74846.010 funciona como combustível antes de continuação. Invalidação estrutural abaixo de 74575.000; ambiente de risk-on com DXY bearish sustenta extensão acima de 76548.950."
     },
     {
       "pair": "ETHUSD",
@@ -49,23 +49,23 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Todos TFs bullish com CHoCH H1 em 2356.150 e BOS M15 em 2342.030 — segue BTC com beta maior. OBs M15 2330.110–2334.560 e 2318.350–2322.170 são pullbacks válidos para long continuation. Liquidez acima em 2377.000/2380.510 é magneto imediato; abaixo em 2348.890/2348.480 pode ser varrida em correção rápida antes da extensão. Gatilho = defesa do 2348.480 com reação M15."
+      "text": "Bullish alinhado D1→M15 após BOS D1 em 2385.210 e CHoCH H1 em 2356.150. Zonas de interesse para longs: OB M15 2354.200–2364.280 (imediato) com confluência no topo do OB D1 2285.000–2369.390, e OB M15 mais profundo 2330.110–2334.560. Liquidez abaixo em 2348.890 e 2348.480 como sweep antes de retomada. Correlação positiva com BTC reforça setup; invalidação abaixo de 2330.110 quebra estrutura M15."
     },
     {
       "pair": "NAS100",
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bearish",
-      "text": "D1/H4/H1 bullish com CHoCH D1 em 613.290 e BOS H1 em 613.670, mas M15 virou bearish em 639.019 — divergência sugere pullback corretivo dentro de uptrend. Preço em 640.410 pressiona liquidez acima 642.180; sweep + CHoCH down leva para liquidez abaixo em 639.019/637.200, coincidindo com nível do CHoCH M15. Reentrada comprada no teste de 637.200 com MSS. Waller dovish = breakout direto de 642.180."
+      "m15": "bullish",
+      "text": "Bullish em todos timeframes, CHoCH M15 recente em 642.180 confirma continuidade após CHoCH D1 em 613.290. Preço em 645.890 distante dos OBs estruturais — operar continuidade com pullbacks rasos mirando liquidez abaixo em 639.019 e 637.200 como possíveis zonas de reação. Fluxo DXY bearish e yields contidos no intradiário favorecem extensão. Invalidação tática abaixo de 637.200; Waller hawkish às 15:00 é o principal risco para reversão intraday."
     },
     {
       "pair": "DXY",
       "d1": "bearish",
       "h4": "bearish",
-      "h1": "bullish",
-      "m15": "bullish",
-      "text": "D1/H4 bearish macro (CHoCH em 27.480 e 27.625) com H1/M15 bullish corretivos — estrutura típica de repique antes de retomada vendedora. Liquidez acima em 27.490/27.505 alinha com OB H4 bear macro e é o alvo do pullback atual; sweep lá + CHoCH H1 down abre caminho para 27.330/27.290. Waller é o catalisador: tom dovish confirma a perna baixa D1, hawkish inverte estrutura curta."
+      "h1": "bearish",
+      "m15": "bearish",
+      "text": "Bearish alinhado D1→M15 com BOS H4 down em 27.270 e CHoCH M15 em 27.330 confirmando pressão vendedora. Liquidez acima em 27.325 e 27.490 como alvos de shorts em pullback — rejeições nessas zonas reativam continuidade baixista. Estrutura sustenta o ambiente de força em EUR, GBP e metais. Invalidação do bias intraday acima de 27.490; Waller é o catalisador capaz de inverter momentum, caso contrário continuação é cenário base."
     },
     {
       "pair": "US10Y",
@@ -73,7 +73,18 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "Yields com D1 bullish (CHoCH 22.460) mas H4/H1 bearish (CHoCH down em 22.490 e 22.290) — pressão de queda nos yields no curto prazo, suportando ouro e tech. M15 bullish em 22.450 sinaliza tentativa de repique; liquidez acima em 22.450/22.510 é alvo se Waller sair hawkish. Abaixo, 22.390/22.390 é o piso imediato — quebra acelera bid em XAUUSD e NAS100. Bias curto = yields pressionados até o evento."
+      "text": "Yields com bias macro bullish D1 (CHoCH up em 22.460) mas em correção intradiária com H4/H1 bearish após CHoCH down H4 em 22.490 — yields cedendo no curto prazo. M15 bullish em 22.450 sugere tentativa de reclaim. Liquidez de yield acima em 22.450 e 22.510 como alvo se yields retomarem; abaixo em 22.390 como destino se correção continuar. Yields em queda aliviam DXY e sustentam ouro/cripto; Waller hawkish pode reacender bid em yields e inverter quadro."
     }
-  ]
+  ],
+  "llm_narratives": {
+    "XAUUSD": "Bias bullish pleno D1→M15 após CHoCH D1 em 4855.114 e BOS H4 em 4838.061. Zonas de interesse para longs em recuo: OB H1 4782.998–4794.737 e OB M15 4782.998–4790.070, com confluência no OB H4 4780.131–4806.137. Liquidez abaixo em 4816.007 e 4812.309 como targets de sweep antes de retomada. Invalidação estrutural abaixo de 4780.131; gatilho ideal é pullback ao OB H1 com reação M15 buscando extensão acima de 4861.851.",
+    "GBPUSD": "Divergência entre H4 bearish (CHoCH down 1.354) e H1/M15 bullish recompostos pelo CHoCH up em 1.354 — cenário de reversão intradiária. Preço em 1.358 testando liquidez acima (1.358, 1.359) com OB H4 bear 1.356–1.359 como resistência crítica. Longs só válidos em recuo ao OB H1 bull 1.352–1.354 ou OB M15 1.352–1.353. Se Waller hawkish, rejeição no OB H4 bear reativa viés H4 baixista alvo 1.356; fluxo DXY bearish favorece rompimento limpo.",
+    "EURUSD": "Bias bullish alinhado D1→M15 sustentado por CHoCH D1 em 1.163 e BOS H4 em 1.182, reforçado pela estrutura bearish do DXY. Zonas de compra em pullback: OB M15 1.179–1.180 (imediato) e OB H1 1.177–1.178 em caso de sweep mais profundo, com OB H4 1.178–1.179 como confluência. Liquidez abaixo em 1.180 serve de isca antes de continuação. Invalidação abaixo de 1.177; alvo extensão acima de 1.184 buscando máximas recentes.",
+    "USDJPY": "Conflito entre D1 bullish e H4/H1/M15 bearish após CHoCH down H4 em 158.246 — ambiente de correção dentro de tendência maior. Preço em 158.194 testando OB D1 bull 158.042–159.648 pela borda inferior. Liquidez acima em 158.828 e 158.948 como alvo de short em pullback ao OB H1 bear 159.144–159.228 ou OB H4 bear 159.306–159.479. DXY fraco reforça shorts intraday; só reconsidera longs com reclaim acima de 159.024.",
+    "BTCUSD": "Estrutura bullish plena com BOS sucessivos em todos timeframes, último M15 em 76386.680 confirmando força comprada. Pullback saudável pode buscar OB M15 75672.890–75944.990 (zona preferencial de entrada) ou, em correção mais profunda, OB H1 74575.000–74828.390. Liquidez abaixo em 75120.110 e 74846.010 funciona como combustível antes de continuação. Invalidação estrutural abaixo de 74575.000; ambiente de risk-on com DXY bearish sustenta extensão acima de 76548.950.",
+    "ETHUSD": "Bullish alinhado D1→M15 após BOS D1 em 2385.210 e CHoCH H1 em 2356.150. Zonas de interesse para longs: OB M15 2354.200–2364.280 (imediato) com confluência no topo do OB D1 2285.000–2369.390, e OB M15 mais profundo 2330.110–2334.560. Liquidez abaixo em 2348.890 e 2348.480 como sweep antes de retomada. Correlação positiva com BTC reforça setup; invalidação abaixo de 2330.110 quebra estrutura M15.",
+    "NAS100": "Bullish em todos timeframes, CHoCH M15 recente em 642.180 confirma continuidade após CHoCH D1 em 613.290. Preço em 645.890 distante dos OBs estruturais — operar continuidade com pullbacks rasos mirando liquidez abaixo em 639.019 e 637.200 como possíveis zonas de reação. Fluxo DXY bearish e yields contidos no intradiário favorecem extensão. Invalidação tática abaixo de 637.200; Waller hawkish às 15:00 é o principal risco para reversão intraday.",
+    "DXY": "Bearish alinhado D1→M15 com BOS H4 down em 27.270 e CHoCH M15 em 27.330 confirmando pressão vendedora. Liquidez acima em 27.325 e 27.490 como alvos de shorts em pullback — rejeições nessas zonas reativam continuidade baixista. Estrutura sustenta o ambiente de força em EUR, GBP e metais. Invalidação do bias intraday acima de 27.490; Waller é o catalisador capaz de inverter momentum, caso contrário continuação é cenário base.",
+    "US10Y": "Yields com bias macro bullish D1 (CHoCH up em 22.460) mas em correção intradiária com H4/H1 bearish após CHoCH down H4 em 22.490 — yields cedendo no curto prazo. M15 bullish em 22.450 sugere tentativa de reclaim. Liquidez de yield acima em 22.450 e 22.510 como alvo se yields retomarem; abaixo em 22.390 como destino se correção continuar. Yields em queda aliviam DXY e sustentam ouro/cripto; Waller hawkish pode reacender bid em yields e inverter quadro."
+  }
 }
