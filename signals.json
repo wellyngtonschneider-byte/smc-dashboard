@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "11:03",
+  "hora_atualizacao": "11:08",
   "data": "17/04/2026",
   "sinais": [
     {
@@ -240,7 +240,7 @@
       "detalhes": "D1 bearish | Killzone NY | FVG 158.222-158.246 | BOS/CHoCH 5min confirmado",
       "hora": "10:47",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "XAUUSD",
