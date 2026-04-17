@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "19:23",
+  "hora_atualizacao": "21:02",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -135,7 +135,7 @@
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 1.35253-1.35308 | BOS/CHoCH 5min confirmado",
       "hora": "19:23",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     }
   ]
 }
