@@ -1,44 +1,26 @@
 {
-  "updated_at": "2026-04-16 19:28 BRT",
+  "updated_at": "2026-04-17 10:59 BRT",
   "events": [
     {
-      "title": "GDP m/m",
-      "country": "GBP",
-      "impact": "High",
-      "date": "2026-04-16",
-      "time": "03:00",
-      "forecast": "0.1%",
-      "previous": "0.0%"
+      "title": "Balance of Trade",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-17",
+      "time": "06:00",
+      "forecast": "11.7",
+      "previous": "-1"
     },
     {
-      "title": "Philly Fed Manufacturing Index",
+      "title": "Fed Barkin Speech",
       "country": "USD",
       "impact": "Medium",
-      "date": "2026-04-16",
-      "time": "09:30",
-      "forecast": "10.3",
-      "previous": "18.1"
-    },
-    {
-      "title": "Unemployment Claims",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-16",
-      "time": "09:30",
-      "forecast": "213K",
-      "previous": "219K"
-    },
-    {
-      "title": "President Trump Speaks",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-16",
-      "time": "20:00",
+      "date": "2026-04-17",
+      "time": "13:15",
       "forecast": "—",
       "previous": "—"
     },
     {
-      "title": "FOMC Member Waller Speaks",
+      "title": "Fed Waller Speech",
       "country": "USD",
       "impact": "Medium",
       "date": "2026-04-17",
