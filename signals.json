@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "08:58",
+  "hora_atualizacao": "09:08",
   "data": "17/04/2026",
   "sinais": [
     {
@@ -300,7 +300,7 @@
       "detalhes": "D1 bullish | Killzone Londres | FVG 4792.87-4796.29 | BOS/CHoCH 5min confirmado",
       "hora": "08:58",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     }
   ]
 }
