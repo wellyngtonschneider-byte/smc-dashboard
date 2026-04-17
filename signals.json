@@ -165,7 +165,7 @@
       "detalhes": "D1 bullish | Killzone Londres | FVG 1.35233-1.35281 | BOS/CHoCH 5min confirmado",
       "hora": "05:58",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "EURUSD",
@@ -180,7 +180,7 @@
       "detalhes": "D1 bullish | Killzone Londres | FVG 1.1791-1.17914 | BOS/CHoCH 5min confirmado",
       "hora": "06:16",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "GBPUSD",
