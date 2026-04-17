@@ -60,7 +60,7 @@
       "detalhes": "D1 bearish | Killzone NY | FVG 158.316-158.444 | BOS/CHoCH 5min confirmado",
       "hora": "10:21",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "ETHUSD",
@@ -270,7 +270,7 @@
       "detalhes": "D1 bearish | Killzone NY | FVG 158.067-158.118 | BOS/CHoCH 5min confirmado",
       "hora": "11:18",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "ETHUSD",
