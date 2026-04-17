@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "22:31",
+  "hora_atualizacao": "22:46",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -194,6 +194,21 @@
       "razao": "Acumulacao Wyckoff detectada. Acumulação H4 | D1 confirmando | Spring detectado",
       "detalhes": "Acumulação H4 | D1 confirmando | Spring detectado | Trading range definido",
       "hora": "22:30",
+      "data": "16/04/2026",
+      "status": "open"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "ICT",
+      "score": 80,
+      "direcao": "LONG",
+      "entrada": 4778.5,
+      "sl": 4767.03,
+      "tp": 4800.96399,
+      "rr": 1.5,
+      "razao": "ICT OTE em Ásia. D1 bullish | Killzone Ásia | OTE 22.9%",
+      "detalhes": "D1 bullish | Killzone Ásia | OTE 22.9% | BOS/CHoCH 5min confirmado",
+      "hora": "22:46",
       "data": "16/04/2026",
       "status": "open"
     }
