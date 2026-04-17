@@ -28,7 +28,7 @@
       "rr": 1.5,
       "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 2355.67-2357.59",
       "detalhes": "D1 bullish | Killzone Londres | FVG 2355.67-2357.59 | BOS/CHoCH 5min confirmado",
-      "hora": "06:33",
+      "hora": "06:32",
       "data": "17/04/2026",
       "status": "SL"
     },
@@ -103,7 +103,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 confirmando | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 confirmando | BOS/CHoCH M15 | OB 75120.11-75382.54 | BOS/CHoCH 5min confirmado",
-      "hora": "08:31",
+      "hora": "08:32",
       "data": "17/04/2026",
       "status": "TP"
     },
@@ -225,7 +225,7 @@
       "detalhes": "D1 bullish | Killzone NY | FVG 1.35823-1.35854 | BOS/CHoCH 5min confirmado",
       "hora": "10:21",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "BTCUSD",
