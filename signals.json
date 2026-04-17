@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "07:43",
+  "hora_atualizacao": "07:44",
   "data": "17/04/2026",
   "sinais": [
     {
@@ -225,7 +225,7 @@
       "detalhes": "D1 bullish | Killzone Londres | FVG 2355.67-2357.59 | BOS/CHoCH 5min confirmado",
       "hora": "06:32",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "BTCUSD",
@@ -240,7 +240,7 @@
       "detalhes": "D1 bullish | Killzone Londres | H4 alinhado | FVG 75438.74-75645.01 | BOS/CHoCH 5min confirmado",
       "hora": "06:48",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "ETHUSD",
