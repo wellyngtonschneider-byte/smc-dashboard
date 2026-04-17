@@ -3,36 +3,6 @@
   "data": "17/04/2026",
   "sinais": [
     {
-      "pair": "USDJPY",
-      "estrategia": "ICT",
-      "score": 75,
-      "direcao": "SHORT",
-      "entrada": 158.296,
-      "sl": 158.507,
-      "tp": 157.979,
-      "rr": 1.5,
-      "razao": "ICT FVG em NY. D1 bearish | Killzone NY | FVG 158.316-158.444",
-      "detalhes": "D1 bearish | Killzone NY | FVG 158.316-158.444 | BOS/CHoCH 5min confirmado",
-      "hora": "10:21",
-      "data": "17/04/2026",
-      "status": "TP"
-    },
-    {
-      "pair": "ETHUSD",
-      "estrategia": "ICT",
-      "score": 90,
-      "direcao": "LONG",
-      "entrada": 2397.89,
-      "sl": 2374.83,
-      "tp": 2432.48,
-      "rr": 1.5,
-      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
-      "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 2381.84-2395.89 | BOS/CHoCH 5min confirmado",
-      "hora": "10:31",
-      "data": "17/04/2026",
-      "status": "TP"
-    },
-    {
       "pair": "NAS100",
       "estrategia": "ICT",
       "score": 90,
@@ -93,19 +63,49 @@
       "status": "open"
     },
     {
+      "pair": "ETHUSD",
+      "estrategia": "ICT",
+      "score": 90,
+      "direcao": "LONG",
+      "entrada": 2397.89,
+      "sl": 2374.41,
+      "tp": 2426.29,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
+      "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 2381.84-2395.89 | BOS/CHoCH 5min confirmado",
+      "hora": "10:36",
+      "data": "17/04/2026",
+      "status": "TP"
+    },
+    {
       "pair": "USDJPY",
       "estrategia": "ICT",
       "score": 75,
       "direcao": "SHORT",
-      "entrada": 158.202,
+      "entrada": 158.201,
       "sl": 158.33,
       "tp": 158.09807,
       "rr": 1.5,
-      "razao": "ICT FVG em NY. D1 bearish | Killzone NY | FVG 158.222-158.246",
-      "detalhes": "D1 bearish | Killzone NY | FVG 158.222-158.246 | BOS/CHoCH 5min confirmado",
+      "razao": "ICT FVG em NY. D1 bearish | Killzone NY | FVG 158.221-158.246",
+      "detalhes": "D1 bearish | Killzone NY | FVG 158.221-158.246 | BOS/CHoCH 5min confirmado",
       "hora": "10:47",
       "data": "17/04/2026",
       "status": "TP"
+    },
+    {
+      "pair": "NAS100",
+      "estrategia": "ICT",
+      "score": 90,
+      "direcao": "LONG",
+      "entrada": 646.08,
+      "sl": 639.96,
+      "tp": 655.26,
+      "rr": 1.5,
+      "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
+      "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 640.72-645.58 | BOS/CHoCH 5min confirmado",
+      "hora": "10:47",
+      "data": "17/04/2026",
+      "status": "open"
     },
     {
       "pair": "XAUUSD",
@@ -118,7 +118,7 @@
       "rr": 1.5,
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
       "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 4871.44-4879.72 | BOS/CHoCH 5min confirmado",
-      "hora": "11:03",
+      "hora": "11:02",
       "data": "17/04/2026",
       "status": "open"
     },
@@ -133,7 +133,7 @@
       "rr": 1.5,
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
       "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 76980.29-77340.0 | BOS/CHoCH 5min confirmado",
-      "hora": "11:03",
+      "hora": "11:02",
       "data": "17/04/2026",
       "status": "open"
     },
@@ -165,7 +165,7 @@
       "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 646.22-646.35 | BOS/CHoCH 5min confirmado",
       "hora": "11:03",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "BTCUSD",
@@ -210,7 +210,7 @@
       "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 2420.22-2425.04 | BOS/CHoCH 5min confirmado",
       "hora": "11:18",
       "data": "17/04/2026",
-      "status": "open"
+      "status": "TP"
     },
     {
       "pair": "NAS100",
@@ -223,7 +223,7 @@
       "rr": 1.5,
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
       "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 646.65-646.77 | BOS/CHoCH 5min confirmado",
-      "hora": "11:19",
+      "hora": "11:18",
       "data": "17/04/2026",
       "status": "TP"
     },
@@ -262,12 +262,12 @@
       "estrategia": "ICT",
       "score": 75,
       "direcao": "SHORT",
-      "entrada": 157.704,
-      "sl": 157.937,
+      "entrada": 157.7,
+      "sl": 157.936,
       "tp": 157.62772,
       "rr": 1.5,
-      "razao": "ICT FVG em NY. D1 bearish | Killzone NY | FVG 157.724-157.825",
-      "detalhes": "D1 bearish | Killzone NY | FVG 157.724-157.825 | BOS/CHoCH 5min confirmado",
+      "razao": "ICT FVG em NY. D1 bearish | Killzone NY | FVG 157.72-157.825",
+      "detalhes": "D1 bearish | Killzone NY | FVG 157.72-157.825 | BOS/CHoCH 5min confirmado",
       "hora": "11:50",
       "data": "17/04/2026",
       "status": "open"
@@ -293,8 +293,8 @@
       "score": 90,
       "direcao": "LONG",
       "entrada": 649.21,
-      "sl": 646.54,
-      "tp": 653.22,
+      "sl": 646.55,
+      "tp": 653.2,
       "rr": 1.5,
       "razao": "ICT FVG em NY. D1 bullish | Killzone NY | H4 alinhado",
       "detalhes": "D1 bullish | Killzone NY | H4 alinhado | FVG 647.36-648.71 | BOS/CHoCH 5min confirmado",
