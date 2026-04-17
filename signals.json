@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "06:16",
+  "hora_atualizacao": "06:17",
   "data": "17/04/2026",
   "sinais": [
     {
@@ -118,7 +118,7 @@
       "rr": 1.5,
       "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 em pullback | BOS/CHoCH M15",
       "detalhes": "D1 bullish | H4 em pullback | BOS/CHoCH M15 | OB 4769.05-4784.61 | BOS/CHoCH 1min confirmado",
-      "hora": "03:36",
+      "hora": "03:35",
       "data": "17/04/2026",
       "status": "open"
     },
@@ -158,7 +158,7 @@
       "score": 75,
       "direcao": "LONG",
       "entrada": 1.35301,
-      "sl": 1.35202,
+      "sl": 1.35203,
       "tp": 1.35363,
       "rr": 1.5,
       "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 1.35233-1.35281",
@@ -178,7 +178,7 @@
       "rr": 1.5,
       "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 1.1791-1.17914",
       "detalhes": "D1 bullish | Killzone Londres | FVG 1.1791-1.17914 | BOS/CHoCH 5min confirmado",
-      "hora": "06:16",
+      "hora": "06:17",
       "data": "17/04/2026",
       "status": "open"
     }
