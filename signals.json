@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "03:20",
+  "hora_atualizacao": "03:36",
   "data": "17/04/2026",
   "sinais": [
     {
@@ -63,6 +63,21 @@
       "status": "open"
     },
     {
+      "pair": "ETHUSD",
+      "estrategia": "SMC",
+      "score": 80,
+      "direcao": "LONG",
+      "entrada": 2326.77,
+      "sl": 2309.1,
+      "tp": 2335.34,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 2309.1-2324.77",
+      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 1min confirmado",
+      "hora": "00:31",
+      "data": "17/04/2026",
+      "status": "open"
+    },
+    {
       "pair": "EURUSD",
       "estrategia": "ICT",
       "score": 75,
@@ -79,21 +94,6 @@
     },
     {
       "pair": "ETHUSD",
-      "estrategia": "SMC",
-      "score": 88,
-      "direcao": "LONG",
-      "entrada": 2326.77,
-      "sl": 2309.1,
-      "tp": 2335.34,
-      "rr": 1.5,
-      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 em pullback | BOS/CHoCH M15",
-      "detalhes": "D1 bullish | H4 em pullback | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 1min confirmado",
-      "hora": "01:14",
-      "data": "17/04/2026",
-      "status": "open"
-    },
-    {
-      "pair": "ETHUSD",
       "estrategia": "ICT",
       "score": 100,
       "direcao": "LONG",
@@ -106,6 +106,21 @@
       "hora": "01:45",
       "data": "17/04/2026",
       "status": "SL"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "SMC",
+      "score": 88,
+      "direcao": "LONG",
+      "entrada": 4784.78,
+      "sl": 4769.05,
+      "tp": 4800.57469,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 em pullback | BOS/CHoCH M15",
+      "detalhes": "D1 bullish | H4 em pullback | BOS/CHoCH M15 | OB 4769.05-4784.61 | BOS/CHoCH 1min confirmado",
+      "hora": "03:35",
+      "data": "17/04/2026",
+      "status": "open"
     }
   ]
 }
