@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "22:07",
+  "hora_atualizacao": "22:12",
   "data": "16/04/2026",
   "sinais": [
     {
@@ -15,7 +15,7 @@
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3 | BOS/CHoCH 1min confirmado",
       "hora": "14:10",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "EURUSD",
@@ -165,7 +165,7 @@
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4787.02-4792.86 | BOS/CHoCH 5min confirmado",
       "hora": "22:01",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "ETHUSD",
