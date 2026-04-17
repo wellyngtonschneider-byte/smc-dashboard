@@ -15,7 +15,7 @@
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4782.3-4800.3 | BOS/CHoCH 1min confirmado",
       "hora": "14:38",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "USDJPY",
@@ -75,7 +75,7 @@
       "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 4779.94-4788.46 | BOS/CHoCH 5min confirmado",
       "hora": "15:35",
       "data": "16/04/2026",
-      "status": "open"
+      "status": "SL"
     },
     {
       "pair": "USDJPY",
