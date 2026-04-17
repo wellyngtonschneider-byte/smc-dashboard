@@ -1,7 +1,7 @@
 {
   "date": "17/04/2026",
-  "time": "08:36",
-  "macro": "Contexto macro em 2026-04-17: DXY pressionado com Fed sinalizando cortes graduais após CPI em desaceleração; tensões geopolíticas no Oriente Médio sustentam ouro em máximas históricas. Fluxo de risco-on em tech (NAS100) coexiste com demanda por hedge (XAU, BTC). JPY segue fraco apesar de intervenções verbais do BoJ. Cripto consolida após realização pós-halving.",
+  "time": "08:39",
+  "macro": "Cenário macro em 2026-04-17: Fed mantém postura cautelosa com cortes graduais projetados após inflação persistente no Q1. DXY sem leitura disponível, mas contexto sugere dólar em consolidação após rally recente. Ouro em máximas históricas acima de 4790 reflete demanda por hedge geopolítico (tensões no Oriente Médio e Leste Europeu) e compras de bancos centrais. BTC corrigindo após topo, tech (NAS100) mostra rotação defensiva. JPY pressionado por diferencial de juros apesar de intervenções do BoJ.",
   "assets": [
     {
       "pair": "XAUUSD",
@@ -9,7 +9,7 @@
       "h4": "bullish",
       "h1": "neutro",
       "m15": "bearish",
-      "text": "Estrutura D1 em forte bullish com BOS contínuos e premium sustentado acima de 4750. H4 respeitando OB de demanda, mas H1 entra em consolidação com liquidez dupla. M15 mostra pullback corretivo buscando FVG abaixo; esperar mitigação para continuação."
+      "text": "D1 em forte tendência de alta com BOS consecutivos acima de 4700. H4 mantém estrutura bullish com OB de demanda em 4750. H1 lateralizando em premium zone pedindo correção para FVG em 4770-4775 antes de continuação."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +17,7 @@
       "h4": "neutro",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "D1 mantém estrutura bullish com HH/HL acima de 1.3400. H4 em range entre premium e discount sem BOS claro. H1 rompeu minor low gerando CHoCH bearish; M15 varrendo liquidez interna. Aguardar reação em OB de demanda H4 para retomada compradora."
+      "text": "D1 bullish com liquidez externa acima de 1.3550 ainda não tomada. H4 em range consolidando. H1/M15 mostram pullback saudável mirando OB de demanda em 1.3490-1.3500 para retomada."
     },
     {
       "pair": "EURUSD",
@@ -25,7 +25,7 @@
       "h4": "bullish",
       "h1": "neutro",
       "m15": "neutro",
-      "text": "D1 em tendência bullish com DXY fraco favorecendo euro acima de 1.1750. H4 respeitando OB de demanda recente com BOS confirmado. H1 e M15 em consolidação lateral acumulando liquidez; aguardar sweep de lows M15 antes de entrada long."
+      "text": "D1 rompeu máximas relevantes confirmando BOS bullish. H4 sustenta HH/HL com FVG não preenchido em 1.1760. H1 neutro aguardando mitigação antes de buscar liquidez em 1.1820."
     },
     {
       "pair": "USDJPY",
@@ -33,39 +33,39 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "neutro",
-      "text": "D1 estruturalmente bullish com par próximo de máximas históricas em 159. H4 mostrando CHoCH bearish após rejeição em premium extremo e risco de intervenção BoJ. H1 com BOS bearish; M15 consolidando. Viés de correção para OB H4 em 157.50."
+      "text": "D1 segue bullish estrutural acima de 158, mas H4 apresenta CHoCH bearish com rejeição em OB de oferta em 160. H1 mirando liquidez interna em 158.80 como possível demand zone."
     },
     {
       "pair": "BTCUSD",
-      "d1": "neutro",
+      "d1": "bearish",
       "h4": "bearish",
-      "h1": "bearish",
+      "h1": "neutro",
       "m15": "bullish",
-      "text": "D1 em range amplo entre 72k-78k após correção pós-halving, sem estrutura clara. H4 com sequência de LH/LL mantendo pressão vendedora. H1 bearish testando discount; M15 reagindo em OB de demanda com CHoCH bullish intraday para sweep de liquidez."
+      "text": "D1 em correção após topo histórico com CHoCH bearish e SSL em 74000 como alvo. H4 mantém pressão vendedora. M15 mostra reação em demand zone de curto prazo, pullback contra-tendência."
     },
     {
       "pair": "ETHUSD",
       "d1": "bearish",
       "h4": "bearish",
-      "h1": "neutro",
-      "m15": "bullish",
-      "text": "D1 perdeu estrutura bullish com BOS bearish abaixo de 2400, fraqueza relativa frente a BTC. H4 em downtrend com OBs de oferta não mitigados acima. H1 consolidando em discount extremo; M15 com reação corretiva buscando FVG H1 antes de continuação vendedora."
+      "h1": "bearish",
+      "m15": "neutro",
+      "text": "D1 com estrutura bearish confirmada abaixo de 2400 e FVG de oferta em 2400-2430. H4/H1 alinhados vendidos mirando liquidez em 2280. M15 consolidando antes de possível continuação baixista."
     },
     {
       "pair": "NAS100",
       "d1": "bullish",
-      "h4": "bullish",
-      "h1": "bullish",
-      "m15": "neutro",
-      "text": "QQQ em 640 mantém estrutura bullish em todos os TFs com BOS recorrentes e earnings tech favoráveis. H4 respeitando OB de demanda. H1 bullish com sweep de liquidez interna. M15 em consolidação acumulando antes de nova perna; viés comprador em pullbacks."
+      "h4": "neutro",
+      "h1": "bearish",
+      "m15": "bearish",
+      "text": "D1 mantém estrutura bullish macro, mas H4 entrou em consolidação após rejeição em 645. H1/M15 em pullback buscando demand zone em 635-637 e FVG de H4 para retomada bullish."
     },
     {
       "pair": "DXY",
-      "d1": "bearish",
-      "h4": "bearish",
+      "d1": "neutro",
+      "h4": "neutro",
       "h1": "neutro",
-      "m15": "bullish",
-      "text": "DXY em estrutura bearish D1 com Fed dovish pressionando dólar. H4 bearish mitigando OBs de oferta em premium. H1 lateral acumulando; M15 mostra reação corretiva bullish buscando FVG H1 superior antes de retomar queda estrutural."
+      "m15": "neutro",
+      "text": "Sem leitura de preço disponível. Contexto inferido sugere consolidação em range de médio prazo, com dólar perdendo força frente a EUR e GBP, mas ainda firme contra JPY. Aguardar dados concretos para definir viés."
     }
   ]
 }
