@@ -1,5 +1,5 @@
 {
-  "hora_atualizacao": "05:42",
+  "hora_atualizacao": "05:58",
   "data": "17/04/2026",
   "sinais": [
     {
@@ -63,21 +63,6 @@
       "status": "TP"
     },
     {
-      "pair": "ETHUSD",
-      "estrategia": "SMC",
-      "score": 80,
-      "direcao": "LONG",
-      "entrada": 2326.77,
-      "sl": 2309.1,
-      "tp": 2335.34,
-      "rr": 1.5,
-      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | BOS/CHoCH M15 | OB 2309.1-2324.77",
-      "detalhes": "D1 bullish | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 1min confirmado",
-      "hora": "00:31",
-      "data": "17/04/2026",
-      "status": "TP"
-    },
-    {
       "pair": "EURUSD",
       "estrategia": "ICT",
       "score": 75,
@@ -91,6 +76,21 @@
       "hora": "01:03",
       "data": "17/04/2026",
       "status": "SL"
+    },
+    {
+      "pair": "ETHUSD",
+      "estrategia": "SMC",
+      "score": 88,
+      "direcao": "LONG",
+      "entrada": 2326.77,
+      "sl": 2309.1,
+      "tp": 2335.34,
+      "rr": 1.5,
+      "razao": "OB + BOS M15 com D1 bullish. D1 bullish | H4 em pullback | BOS/CHoCH M15",
+      "detalhes": "D1 bullish | H4 em pullback | BOS/CHoCH M15 | OB 2309.1-2324.77 | BOS/CHoCH 1min confirmado",
+      "hora": "01:14",
+      "data": "17/04/2026",
+      "status": "TP"
     },
     {
       "pair": "ETHUSD",
@@ -134,6 +134,51 @@
       "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 2332.1-2334.18",
       "detalhes": "D1 bullish | Killzone Londres | FVG 2332.1-2334.18 | BOS/CHoCH 5min confirmado",
       "hora": "05:11",
+      "data": "17/04/2026",
+      "status": "open"
+    },
+    {
+      "pair": "XAUUSD",
+      "estrategia": "ICT",
+      "score": 75,
+      "direcao": "LONG",
+      "entrada": 4791.74,
+      "sl": 4782.99,
+      "tp": 4806.13706,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 4786.44-4791.57",
+      "detalhes": "D1 bullish | Killzone Londres | FVG 4786.44-4791.57 | BOS/CHoCH 5min confirmado",
+      "hora": "05:58",
+      "data": "17/04/2026",
+      "status": "open"
+    },
+    {
+      "pair": "GBPUSD",
+      "estrategia": "ICT",
+      "score": 75,
+      "direcao": "LONG",
+      "entrada": 1.35301,
+      "sl": 1.35203,
+      "tp": 1.35363,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 1.35233-1.35281",
+      "detalhes": "D1 bullish | Killzone Londres | FVG 1.35233-1.35281 | BOS/CHoCH 5min confirmado",
+      "hora": "05:58",
+      "data": "17/04/2026",
+      "status": "open"
+    },
+    {
+      "pair": "EURUSD",
+      "estrategia": "ICT",
+      "score": 75,
+      "direcao": "LONG",
+      "entrada": 1.17914,
+      "sl": 1.17825,
+      "tp": 1.18048,
+      "rr": 1.5,
+      "razao": "ICT FVG em Londres. D1 bullish | Killzone Londres | FVG 1.17846-1.17904",
+      "detalhes": "D1 bullish | Killzone Londres | FVG 1.17846-1.17904 | BOS/CHoCH 5min confirmado",
+      "hora": "05:58",
       "data": "17/04/2026",
       "status": "open"
     }
