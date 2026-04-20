@@ -1,7 +1,7 @@
 {
   "date": "20/04/2026",
-  "time": "08:21",
-  "macro": "Contexto macro com DXY em estrutura bearish em todos os timeframes e US10Y também bearish (yields em queda), sinalizando afrouxamento das condições financeiras e enfraquecimento do dólar. Esse pano de fundo favorece ativos denominados em USD (metais, cripto, índices) e moedas majors contra o dólar. Evento do dia: discurso de Lagarde (ECB) na tarde — pode injetar volatilidade em EUR e cross EUR. Correlação clássica ativa: DXY fraco + yields caindo = suporte para XAU, NAS100 e cripto.",
+  "time": "08:27",
+  "macro": "Sessão dominada pela expectativa do discurso de Lagarde no início da tarde, que pode injetar volatilidade em pares do euro e ajustar o posicionamento relativo contra o dólar. DXY segue pressionado com estrutura bearish alinhada em todos os timeframes, enquanto yields do tesouro 10Y também cedem, configurando pano de fundo de dólar fraco e apetite por risco. Essa combinação favorece continuidade em ativos de risco (ações, cripto) e metais, mas o calendário europeu pede cautela em operações contra o euro antes do evento. Correlação clássica hoje: DXY e yields em queda sustentam alta em ouro, EUR e índices, enquanto o iene mostra resiliência pontual no intradiário contra essa tendência macro.",
   "assets": [
     {
       "pair": "XAUUSD",
@@ -9,7 +9,7 @@
       "h4": "bullish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "D1 bearish recente, mas H4 mantém bullish após BOS — conflito de timeframes. H1 e M15 viraram bearish, indicando pullback dentro da perna altista do H4. OBs bearish em H1 e M15 são zonas de interesse para short intraday mirando liquidez abaixo. Gatilho principal: reação nas zonas OB acima; se respeitar com rejeição, short com alvo na liquidez sell-side. Invalidação: rompimento e sustentação acima dos OBs bearish alinhados."
+      "text": "Bias macro em divergência: D1 bearish após CHoCH recente, mas H4 segue bullish — mercado em correção dentro de perna maior. H1 e M15 viraram bearish no fim de ontem, indicando pullback ativo. OBs bearish de H1 e M15 são zonas de interesse para venda intradiária mirando liquidez abaixo; invalidação se preço recuperar e romper com deslocamento o último CHoCH de M15."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +17,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "D1 bullish firme, mas H4 e H1 viraram bearish — par em correção dentro de tendência maior altista. M15 já fez BOS up, sugerindo tentativa de retomada comprada alinhada ao D1. OBs bull em M15 são zonas de interesse para long em favor do D1 com DXY fraco suportando. Gatilho: mitigação em OB M15 bull com rejeição e continuidade; alvo nos OBs bearish superiores de H1/H4 (onde provável resistência). Invalidação: quebra limpa dos OBs bull M15."
+      "text": "D1 bullish contra H4 bearish configura cenário de correção de curto prazo dentro de tendência maior. M15 acabou de virar bullish com BOS, sugerindo que o movimento de baixa intradiário pode estar esgotado. OBs bullish de M15 são zonas de compra reativa alinhadas ao D1; invalidação abaixo do OB M15 mais profundo. Atenção ao Lagarde — impacto indireto via cross EUR/GBP."
     },
     {
       "pair": "EURUSD",
@@ -25,7 +25,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "D1 bullish, H4/H1 bearish em correção, M15 retomou bullish — mesma estrutura do GBPUSD: pullback dentro de tendência maior altista. Discurso da Lagarde à tarde é o catalisador do dia, pode acelerar ou invalidar o setup. DXY bearish reforça o viés comprador estrutural. Gatilho: long em mitigação dos OBs M15 bull com confirmação; OBs bearish H4/H1 são zonas de resistência intermediária. Invalidação: perda dos OBs M15 com fechamento abaixo após evento."
+      "text": "D1 bullish sólido com H4 e H1 em pullback bearish, mas M15 já rompeu para cima sinalizando possível retomada da direção macro. OBs bullish de M15 são as zonas-chave para compras reativas buscando retornar à estrutura diária. Discurso de Lagarde é gatilho principal do dia: tom hawkish reforça setup de compra, dovish invalida e entrega continuidade do pullback H4."
     },
     {
       "pair": "USDJPY",
@@ -33,7 +33,7 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "D1 bullish e H1/M15 bullish — alinhamento comprador apesar do H4 bearish isolado (contexto de pullback já absorvido). OBs bull em H1 e M15 são zonas de interesse para long intraday. Contraste com DXY bearish sugere cautela — o movimento é mais específico do JPY (yields/BOJ) que força global do dólar. Gatilho: recuo até OB bull H1/M15 com rejeição e continuidade para liquidez acima. Invalidação: quebra do OB D1 bull estrutural."
+      "text": "D1 bullish com H4 em correção bearish, mas H1 e M15 já viraram bullish, mostrando retomada alinhada ao macro. OB bullish de H1 e OB D1 profundo funcionam como zonas de interesse escalonadas para compra em pullback. Cenário provável: continuidade mirando liquidez acima no intradiário; invalidação se M15 perder seu último BOS com deslocamento."
     },
     {
       "pair": "BTCUSD",
@@ -41,7 +41,7 @@
       "h4": "bullish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "D1 e H4 bullish, H1 bearish e M15 já retomou bullish — estrutura clássica de continuação após correção. Contexto macro favorável: DXY fraco e yields em queda dão suporte a risco. OB bull M15 é a zona de interesse imediata para long. Gatilho: mitigação do OB M15 bull com rejeição, alvo na liquidez buy-side acima. Invalidação: perda do OB M15 e retomada do CHoCH down de H1."
+      "text": "D1 e H4 bullish alinhados, H1 em correção bearish e M15 já sinalizando reversão com CHoCH up — estrutura clássica de pullback concluído dentro de tendência macro. OB bullish de M15 é a zona reativa para compra seguindo o fluxo maior. Alvo natural é a liquidez acima; invalidação se preço perder o CHoCH de M15 e voltar a fazer mínimas."
     },
     {
       "pair": "ETHUSD",
@@ -49,7 +49,23 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "D1 bullish, H4/H1 bearish em correção, M15 virou bullish — mesmo padrão estrutural do BTC mas com mais fraqueza relativa (H4 em CHoCH recente). OB bear H4 acima é a zona-chave: se rejeitar, confirma continuação bearish intraday; se mitigar e romper, abre espaço para retomada do D1. Gatilho: decisão no OB bear H4 define o dia. Invalidação do setup long: perda do OB M15 bull inferior."
+      "text": "D1 bullish, H4 em correção bearish, M15 virou bullish — padrão similar ao BTC mas com menor força relativa. OB bullish de M15 é zona de compra reativa, enquanto OB bearish de H4 funciona como resistência e alvo de tomada de liquidez acima. Cenário: se BTC liderar alta, ETH acompanha; invalidação abaixo do OB M15."
+    },
+    {
+      "pair": "USDJPY",
+      "d1": "bullish",
+      "h4": "bearish",
+      "h1": "bullish",
+      "m15": "bullish",
+      "text": "bias bullish confirmado (ver item acima)."
+    },
+    {
+      "pair": "BTCUSD",
+      "d1": "bullish",
+      "h4": "bullish",
+      "h1": "bearish",
+      "m15": "bullish",
+      "text": "bias bullish confirmado (ver item acima)."
     },
     {
       "pair": "NAS100",
@@ -57,7 +73,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Alinhamento bullish completo em todos os timeframes (D1/H4/H1/M15) — cenário mais limpo do dia. Contexto macro sustenta: DXY bearish, yields em queda reforçam apetite por risco. Foco em long em pullbacks; ausência de OBs listados sugere buscar demand zones em retração para liquidez acima. Gatilho: continuação após retração rasa mirando liquidez sell-side abaixo antes do próximo leg up. Invalidação: CHoCH down em M15 ou H1."
+      "text": "Estrutura totalmente alinhada bullish em D1/H4/H1/M15 — cenário mais limpo do painel. Contexto macro de DXY e yields em queda sustenta continuidade. Sem OBs mapeados no intradiário, operação ideal é comprar em pullbacks para liquidez abaixo como reteste, mirando liquidez acima. Invalidação só com CHoCH down em H1."
     },
     {
       "pair": "DXY",
@@ -65,7 +81,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Alinhamento bearish em todos os timeframes — dólar fraco estruturalmente. Cenário favorece shorts em pullbacks mirando a liquidez sell-side abaixo. Esse viés é o motor macro que sustenta long em EUR, GBP, XAU e cripto. Gatilho: rejeição em zonas de oferta superiores (liquidez buy-side) para retomada bearish. Invalidação: CHoCH up em H1 ou H4 que indicaria reversão do dólar."
+      "text": "Estrutura bearish completa em todos os timeframes — dólar fraco é o tema macro do dia. Qualquer repique tende a ser vendido enquanto não houver CHoCH up em H1. Esse viés sustenta os setups de compra em EUR, GBP e metais; discurso de Lagarde pode acelerar o movimento se vier hawkish."
     },
     {
       "pair": "US10Y",
@@ -73,18 +89,18 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Yields em queda estrutural — D1/H4/H1/M15 todos bearish em yield. Contexto de afrouxamento nas expectativas de juros, consistente com DXY fraco. Esse ambiente é tailwind para ouro, NAS100 e cripto (ativos sensíveis a yield). Gatilho macro: manutenção dos yields em queda sustenta o viés risk-on nos demais ativos. Reversão (CHoCH up em yields) seria o principal risco para os setups long em XAU/NAS/cripto."
+      "text": "Yields do tesouro 10Y em tendência de queda estrutural: D1/H4/H1/M15 todos bearish no proxy, traduzindo em yields cedendo de forma consistente. Esse ambiente alivia pressão sobre ativos de risco e metais, reforçando setups bullish em NAS100, ouro e cripto. Reversão só com sinal de CHoCH up intradiário que ainda não apareceu."
     }
   ],
   "llm_narratives": {
-    "XAUUSD": "D1 bearish recente, mas H4 mantém bullish após BOS — conflito de timeframes. H1 e M15 viraram bearish, indicando pullback dentro da perna altista do H4. OBs bearish em H1 e M15 são zonas de interesse para short intraday mirando liquidez abaixo. Gatilho principal: reação nas zonas OB acima; se respeitar com rejeição, short com alvo na liquidez sell-side. Invalidação: rompimento e sustentação acima dos OBs bearish alinhados.",
-    "GBPUSD": "D1 bullish firme, mas H4 e H1 viraram bearish — par em correção dentro de tendência maior altista. M15 já fez BOS up, sugerindo tentativa de retomada comprada alinhada ao D1. OBs bull em M15 são zonas de interesse para long em favor do D1 com DXY fraco suportando. Gatilho: mitigação em OB M15 bull com rejeição e continuidade; alvo nos OBs bearish superiores de H1/H4 (onde provável resistência). Invalidação: quebra limpa dos OBs bull M15.",
-    "EURUSD": "D1 bullish, H4/H1 bearish em correção, M15 retomou bullish — mesma estrutura do GBPUSD: pullback dentro de tendência maior altista. Discurso da Lagarde à tarde é o catalisador do dia, pode acelerar ou invalidar o setup. DXY bearish reforça o viés comprador estrutural. Gatilho: long em mitigação dos OBs M15 bull com confirmação; OBs bearish H4/H1 são zonas de resistência intermediária. Invalidação: perda dos OBs M15 com fechamento abaixo após evento.",
-    "USDJPY": "D1 bullish e H1/M15 bullish — alinhamento comprador apesar do H4 bearish isolado (contexto de pullback já absorvido). OBs bull em H1 e M15 são zonas de interesse para long intraday. Contraste com DXY bearish sugere cautela — o movimento é mais específico do JPY (yields/BOJ) que força global do dólar. Gatilho: recuo até OB bull H1/M15 com rejeição e continuidade para liquidez acima. Invalidação: quebra do OB D1 bull estrutural.",
-    "BTCUSD": "D1 e H4 bullish, H1 bearish e M15 já retomou bullish — estrutura clássica de continuação após correção. Contexto macro favorável: DXY fraco e yields em queda dão suporte a risco. OB bull M15 é a zona de interesse imediata para long. Gatilho: mitigação do OB M15 bull com rejeição, alvo na liquidez buy-side acima. Invalidação: perda do OB M15 e retomada do CHoCH down de H1.",
-    "ETHUSD": "D1 bullish, H4/H1 bearish em correção, M15 virou bullish — mesmo padrão estrutural do BTC mas com mais fraqueza relativa (H4 em CHoCH recente). OB bear H4 acima é a zona-chave: se rejeitar, confirma continuação bearish intraday; se mitigar e romper, abre espaço para retomada do D1. Gatilho: decisão no OB bear H4 define o dia. Invalidação do setup long: perda do OB M15 bull inferior.",
-    "NAS100": "Alinhamento bullish completo em todos os timeframes (D1/H4/H1/M15) — cenário mais limpo do dia. Contexto macro sustenta: DXY bearish, yields em queda reforçam apetite por risco. Foco em long em pullbacks; ausência de OBs listados sugere buscar demand zones em retração para liquidez acima. Gatilho: continuação após retração rasa mirando liquidez sell-side abaixo antes do próximo leg up. Invalidação: CHoCH down em M15 ou H1.",
-    "DXY": "Alinhamento bearish em todos os timeframes — dólar fraco estruturalmente. Cenário favorece shorts em pullbacks mirando a liquidez sell-side abaixo. Esse viés é o motor macro que sustenta long em EUR, GBP, XAU e cripto. Gatilho: rejeição em zonas de oferta superiores (liquidez buy-side) para retomada bearish. Invalidação: CHoCH up em H1 ou H4 que indicaria reversão do dólar.",
-    "US10Y": "Yields em queda estrutural — D1/H4/H1/M15 todos bearish em yield. Contexto de afrouxamento nas expectativas de juros, consistente com DXY fraco. Esse ambiente é tailwind para ouro, NAS100 e cripto (ativos sensíveis a yield). Gatilho macro: manutenção dos yields em queda sustenta o viés risk-on nos demais ativos. Reversão (CHoCH up em yields) seria o principal risco para os setups long em XAU/NAS/cripto."
+    "XAUUSD": "Bias macro em divergência: D1 bearish após CHoCH recente, mas H4 segue bullish — mercado em correção dentro de perna maior. H1 e M15 viraram bearish no fim de ontem, indicando pullback ativo. OBs bearish de H1 e M15 são zonas de interesse para venda intradiária mirando liquidez abaixo; invalidação se preço recuperar e romper com deslocamento o último CHoCH de M15.",
+    "GBPUSD": "D1 bullish contra H4 bearish configura cenário de correção de curto prazo dentro de tendência maior. M15 acabou de virar bullish com BOS, sugerindo que o movimento de baixa intradiário pode estar esgotado. OBs bullish de M15 são zonas de compra reativa alinhadas ao D1; invalidação abaixo do OB M15 mais profundo. Atenção ao Lagarde — impacto indireto via cross EUR/GBP.",
+    "EURUSD": "D1 bullish sólido com H4 e H1 em pullback bearish, mas M15 já rompeu para cima sinalizando possível retomada da direção macro. OBs bullish de M15 são as zonas-chave para compras reativas buscando retornar à estrutura diária. Discurso de Lagarde é gatilho principal do dia: tom hawkish reforça setup de compra, dovish invalida e entrega continuidade do pullback H4.",
+    "USDJPY": "bias bullish confirmado (ver item acima).",
+    "BTCUSD": "bias bullish confirmado (ver item acima).",
+    "ETHUSD": "D1 bullish, H4 em correção bearish, M15 virou bullish — padrão similar ao BTC mas com menor força relativa. OB bullish de M15 é zona de compra reativa, enquanto OB bearish de H4 funciona como resistência e alvo de tomada de liquidez acima. Cenário: se BTC liderar alta, ETH acompanha; invalidação abaixo do OB M15.",
+    "NAS100": "Estrutura totalmente alinhada bullish em D1/H4/H1/M15 — cenário mais limpo do painel. Contexto macro de DXY e yields em queda sustenta continuidade. Sem OBs mapeados no intradiário, operação ideal é comprar em pullbacks para liquidez abaixo como reteste, mirando liquidez acima. Invalidação só com CHoCH down em H1.",
+    "DXY": "Estrutura bearish completa em todos os timeframes — dólar fraco é o tema macro do dia. Qualquer repique tende a ser vendido enquanto não houver CHoCH up em H1. Esse viés sustenta os setups de compra em EUR, GBP e metais; discurso de Lagarde pode acelerar o movimento se vier hawkish.",
+    "US10Y": "Yields do tesouro 10Y em tendência de queda estrutural: D1/H4/H1/M15 todos bearish no proxy, traduzindo em yields cedendo de forma consistente. Esse ambiente alivia pressão sobre ativos de risco e metais, reforçando setups bullish em NAS100, ouro e cripto. Reversão só com sinal de CHoCH up intradiário que ainda não apareceu."
   }
 }
