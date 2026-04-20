@@ -1,4 +1,149 @@
 {
-  "updated_at": "2026-04-18 21:15 BRT",
-  "events": []
+  "updated_at": "2026-04-20 07:45 BRT",
+  "events": [
+    {
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-20",
+      "time": "13:40",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Employment Change",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "03:00",
+      "forecast": "—",
+      "previous": "84"
+    },
+    {
+      "title": "Average Earnings incl. Bonus (3Mo/Yr)",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "03:00",
+      "forecast": "3.6",
+      "previous": "3.9"
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "GBP",
+      "impact": "High",
+      "date": "2026-04-21",
+      "time": "03:00",
+      "forecast": "5.2",
+      "previous": "5.2"
+    },
+    {
+      "title": "ZEW Economic Sentiment Index",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "06:00",
+      "forecast": "-3.6",
+      "previous": "-8.5"
+    },
+    {
+      "title": "ADP Employment Change Weekly",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "09:15",
+      "forecast": "—",
+      "previous": "39"
+    },
+    {
+      "title": "Retail Sales MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-21",
+      "time": "09:30",
+      "forecast": "1.4",
+      "previous": "0.6"
+    },
+    {
+      "title": "Retail Sales Ex Autos MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "09:30",
+      "forecast": "1.4",
+      "previous": "0.5"
+    },
+    {
+      "title": "Retail Sales Control Group MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "09:30",
+      "forecast": "0.2",
+      "previous": "0.5"
+    },
+    {
+      "title": "Pending Home Sales YoY",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "-0.8"
+    },
+    {
+      "title": "Business Inventories MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "11:00",
+      "forecast": "0.3",
+      "previous": "-0.1"
+    },
+    {
+      "title": "Pending Home Sales MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "11:00",
+      "forecast": "0.1",
+      "previous": "1.8"
+    },
+    {
+      "title": "Fed Waller Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "15:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "API Crude Oil Stock Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "17:30",
+      "forecast": "-1",
+      "previous": "6.1"
+    },
+    {
+      "title": "Exports YoY",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-21",
+      "time": "20:50",
+      "forecast": "11",
+      "previous": "4.2"
+    },
+    {
+      "title": "Balance of Trade",
+      "country": "JPY",
+      "impact": "High",
+      "date": "2026-04-21",
+      "time": "20:50",
+      "forecast": "1106",
+      "previous": "57.3"
+    }
+  ]
 }
