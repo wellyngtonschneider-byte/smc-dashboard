@@ -1,55 +1,55 @@
 {
-  "date": "17/04/2026",
-  "time": "16:31",
-  "macro": "O ambiente macro é dominado por fraqueza generalizada do dólar, com o DXY em estrutura bearish em todos os timeframes, pressionado por postura Fed crescentemente dovish e tensões geopolíticas que sustentam fluxo para refúgio e risco seletivo. Os yields do Tesouro de dez anos estão em queda estrutural em todos os timeframes, reduzindo o custo de oportunidade do ouro e favorecendo ativos de risco. Os discursos de Barkin e Waller ao longo da tarde são o principal risco de reversão do dia — tom mais hawkish que o esperado pode reacender compra de dólar e pressionar ouro e cripto. O dado de Balança Comercial europeia publicado pela manhã pode ter contribuído para o momentum recente do euro, reforçando o viés de fraqueza do dólar no contexto de sessão.",
+  "date": "20/04/2026",
+  "time": "08:04",
+  "macro": "Dólar estruturalmente fraco com alinhamento bearish em múltiplos timeframes, pressionando correlações clássicas: pares majors e commodities se beneficiam da fraqueza do USD. Yields do tesouro americano em queda consistente, configurando ambiente de apetite ao risco que favorece cripto e equities. Único evento relevante hoje é o discurso de Lagarde (ECB), de impacto médio, mas com potencial de gerar volatilidade pontual nos pares EUR — tom hawkish sustentaria EUR, dovish intensificaria a correção intraday. Sem catalisadores Fed hoje; fluxo dominado por dinâmica técnica e posicionamento pós-feriado.",
   "assets": [
     {
       "pair": "XAUUSD",
-      "d1": "bullish",
+      "d1": "bearish",
       "h4": "bullish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bearish",
-      "text": "Bias D1 e H4 plenamente alinhados em alta, confirmando tendência principal intacta e dominante. O mercado opera em pullback no M15, criando potencial zona de interesse nos order blocks bullish de timeframes inferiores como regiões de reacumulação. A liquidez varrida abaixo do preço atual representa armadilha clássica antes de retomada compradora. O gatilho provável é rejeição dos order blocks de suporte com retomada em direção à liquidez acima; os discursos do Fed à tarde podem catalisar o movimento dependendo do tom adotado."
+      "text": "Estrutura conflitante: D1 bearish enquanto H4 se manteve bullish — o movimento de alta recente configura correção dentro do trend maior de baixa. Intraday, H1 e M15 já retomaram viés bearish com CHoCH, confirmando esgotamento do impulso corretivo. OBs bearish em H1 e M15 representam zonas de pressão vendedora qualificadas; liquidez acima pode ser varrida pontualmente antes de nova perna descendente. Gatilho: rejeição nas zonas de OB bearish com sequência de CHoCH confirmando. Invalidação: expansão acima da estrutura H4 bullish."
     },
     {
       "pair": "GBPUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bullish",
-      "m15": "bearish",
-      "text": "Estrutura divergente com D1 bullish, mas H4 bearish — conflito de bias que torna o cenário de curto prazo ambíguo. A recuperação em H1 ainda não reverteu o domínio bearish de H4, mantendo o preço comprimido entre order block bearish acima e order blocks bullish abaixo. O cenário mais provável é reteste dos order blocks de suporte antes de qualquer tentativa de alta mais expressiva em direção à liquidez acima. Discursos do Fed à tarde podem amplificar volatilidade; enquanto H4 não virar bullish, o risco continua bidirecional."
+      "h1": "bearish",
+      "m15": "bullish",
+      "text": "D1 bullish sustenta o viés macro de alta, mas H4 e H1 bearish configuram correção intraday relevante. M15 retornou bullish, indicando suporte temporário e possível compressão antes da próxima direção. OBs bearish em H4 e H1 são zonas de resistência qualificadas para continuação corretiva; OBs bullish em M15 oferecem suporte de curto prazo. Cenário provável: pressão para busca de liquidez abaixo antes de retomada do trend D1. Invalidação: rompimento limpo acima dos OBs H4 com BOS bullish."
     },
     {
       "pair": "EURUSD",
       "d1": "bullish",
-      "h4": "bullish",
-      "h1": "bullish",
-      "m15": "bearish",
-      "text": "D1, H4 e H1 alinhados em alta — bias macro fortemente bullish com confluência de três timeframes. O pullback em M15 oferece contexto de entrada em potencial rejeição do order block bullish de H1 posicionado logo abaixo do preço. A liquidez acima representa alvos naturais e primários da estrutura em desenvolvimento. Tom dovish nos discursos do Fed à tarde tende a amplificar a fraqueza do dólar e acelerar o movimento. Invalidação do cenário bullish somente com quebra estrutural do CHoCH de H1."
+      "h4": "bearish",
+      "h1": "bearish",
+      "m15": "bullish",
+      "text": "D1 bullish com pullback intraday estabelecido em H4 e H1 — estrutura corretiva ainda ativa. M15 bullish sinaliza momentum ascendente de curtíssimo prazo, mas sem alinhamento suficiente para reverter a pressão intraday. Discurso de Lagarde hoje é o principal gatilho externo: hawkish sustenta EUR e pode provocar BOS bullish em H1; dovish aprofunda a correção em direção aos OBs H4. Liquidez comprimida nos dois sentidos sugere range com risco de expansão no evento. OBs bearish em H4 e H1 são as zonas de interesse para vendas intraday."
     },
     {
       "pair": "USDJPY",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bearish",
+      "h1": "bullish",
       "m15": "bullish",
-      "text": "Estrutura conflitante com D1 bullish, mas H4 e H1 bearish — correção intradiária dentro de tendência maior de alta no diário. O preço opera dentro do order block bullish de D1 como suporte de longo prazo, enquanto os order blocks bearish de H4 e H1 funcionam como resistências estruturais acima. O viés de curto e médio prazo favorece pressão vendedora enquanto H4 e H1 se mantiverem bearish. O M15 em recuperação pode ser armadilha compradora antes de retomada baixista em direção à liquidez abaixo."
+      "text": "D1 bullish com H4 bearish configura pullback dentro do trend maior — H1 e M15 já retomaram viés bullish, sinalizando provável retomada da direção D1. OB D1 bullish representa zona de suporte macro de alta relevância e foi testado recentemente. OBs bullish em H1 e M15 sustentam o momentum de curto prazo. Cenário provável: continuação de alta com alvo na liquidez acima; dólar fraco limita o upside mas estrutura técnica do par aponta para força residual do JPY como contrapeso. Invalidação: perda dos OBs intraday com CHoCH bearish em H1."
     },
     {
       "pair": "BTCUSD",
       "d1": "bullish",
       "h4": "bullish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bullish",
-      "text": "Alinhamento bullish completo em todos os quatro timeframes — D1, H4, H1 e M15 — configuração de confluência plena e sem ambiguidade. Momentum comprador sustentado com sucessivos BOS confirmando cada nível estrutural em cascata. Os order blocks abaixo do preço atual representam zonas de suporte válidas em caso de pullback. A liquidez acima é o alvo natural e imediato; fraqueza do DXY e queda dos yields reforçam o ambiente macro favorável a ativos de risco sem catalisador adverso identificado."
+      "text": "D1 e H4 alinhados bullish — bias de alta robusto e sem ambiguidade no médio prazo. H1 bearish representa pullback intraday dentro da tendência maior. M15 bullish com OB como suporte ativo sugere absorção e possível retomada. Ambiente macro favorável: yields em queda e dólar fraco corroboram o viés de alta em cripto. Cenário provável: busca de liquidez acima após consolidação intraday. Invalidação: perda do OB M15 com sequência de CHoCH bearish em H4."
     },
     {
       "pair": "ETHUSD",
       "d1": "bullish",
-      "h4": "bullish",
-      "h1": "bullish",
+      "h4": "bearish",
+      "h1": "bearish",
       "m15": "bullish",
-      "text": "Estrutura bullish alinhada em todos os timeframes — D1, H4, H1 e M15 — com múltiplos BOS consecutivos confirmando força compradora sustentada. Múltiplos order blocks de suporte em diferentes timeframes abaixo do preço oferecem camadas de proteção para o movimento alta. A liquidez acima é o alvo primário e imediato da estrutura atual. O ambiente macro de DXY fraco e yields em queda sustenta o setor cripto de maneira ampla. Invalidação apenas com quebra dos order blocks de M15 em sequência."
+      "text": "D1 bullish mas H4 e H1 bearish — correção intraday mais profunda do que BTC, sugerindo fraqueza relativa do ETH no curto prazo. M15 bullish indica tentativa de recuperação, mas sem alinhamento com H1. OB H4 bearish representa zona de resistência relevante acima; OB M15 bullish oferece suporte para eventual pullback antes de nova tentativa de alta. Cenário provável: pressão vendedora intraday com alvo em liquidez abaixo antes de eventual retomada do viés D1. Invalidação: rompimento e fechamento acima do OB H4 bear com BOS bullish em H1."
     },
     {
       "pair": "NAS100",
@@ -57,7 +57,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Alinhamento bullish completo em todos os timeframes — D1, H4, H1 e M15 — demonstrando momentum comprador consistente e sem divergência estrutural. Sem order blocks relevantes identificados abaixo do preço atual, a estrutura sugere impulso sem resistência interna próxima significativa. A liquidez acima representa o alvo imediato e primário. Contexto macro de yields em queda e dólar fraco favorece equities de crescimento; qualquer comentário dovish nos discursos do Fed pode servir de gatilho adicional para o movimento."
+      "text": "Todos os timeframes alinhados bullish (D1, H4, H1, M15) — bias de alta robusto, consistente e sem conflito estrutural. Estrutura limpa, sem OBs de resistência identificados imediatamente acima. Liquidez acima como alvo natural da continuação. Ambiente macro corrobora: dólar fraco e yields em queda favorecem equities. Cenário provável: continuação direcional de alta sem pullback significativo. Invalidação: formação de CHoCH bearish em H4 com perda de estrutura de suporte recente."
     },
     {
       "pair": "DXY",
@@ -65,7 +65,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Bearish em todos os quatro timeframes analisados — alinhamento de baixa completo, sem ambiguidade ou conflito estrutural. A tendência principal está em queda, corroborando o viés bullish em pares não-dólar e em ouro e cripto. A liquidez acima do preço representa pools de stops que podem ser varridos em correções pontuais antes de retomada do movimento baixista. Os discursos do Fed à tarde são o principal risco de reversão; tom hawkish seria o único catalisador capaz de interromper a estrutura bearish dominante."
+      "text": "Todos os timeframes alinhados bearish — fraqueza estrutural do dólar consolidada e sem sinal de reversão. Contexto macro corrobora: yields em queda e apetite ao risco elevado drenam demanda por USD. A pressão vendedora no dólar sustenta os pares majors e favorece ativos de risco em geral. Sem confluência de suporte técnico imediato — tendência bearish deve se manter. Próxima liquidez abaixo como alvo natural da continuação."
     },
     {
       "pair": "US10Y",
@@ -73,18 +73,18 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Yields do Tesouro de dez anos em queda estrutural em todos os timeframes — bearish alinhado em D1, H4, H1 e M15 sem divergência. A compressão de yields reduz a atratividade do dólar e o custo de oportunidade contra ativos alternativos como ouro e cripto, reforçando o cenário macro de risco seletivo favorável. Os discursos de Barkin e Waller são o principal risco do dia — tom hawkish inesperado poderia impulsionar yields de volta, pressionando ouro e cripto de forma imediata e potencialmente revertendo estruturas de timeframes inferiores."
+      "text": "Yields em queda com estrutura bearish alinhada em todos os timeframes — ambiente macro de apetite ao risco plenamente ativado. A queda consistente dos yields pressiona o dólar, favorece cripto, equities e pares majors contra USD. Sem confluência de suporte visível nos yields — tendência de queda deve se manter no curto prazo com liquidez abaixo como próximo alvo macro. Atenção: qualquer reversão nos yields (surpresa hawkish de Lagarde ou dados inesperados) pode gerar spike no DXY e pressão de curto prazo nos ativos de risco."
     }
   ],
   "llm_narratives": {
-    "XAUUSD": "Bias D1 e H4 plenamente alinhados em alta, confirmando tendência principal intacta e dominante. O mercado opera em pullback no M15, criando potencial zona de interesse nos order blocks bullish de timeframes inferiores como regiões de reacumulação. A liquidez varrida abaixo do preço atual representa armadilha clássica antes de retomada compradora. O gatilho provável é rejeição dos order blocks de suporte com retomada em direção à liquidez acima; os discursos do Fed à tarde podem catalisar o movimento dependendo do tom adotado.",
-    "GBPUSD": "Estrutura divergente com D1 bullish, mas H4 bearish — conflito de bias que torna o cenário de curto prazo ambíguo. A recuperação em H1 ainda não reverteu o domínio bearish de H4, mantendo o preço comprimido entre order block bearish acima e order blocks bullish abaixo. O cenário mais provável é reteste dos order blocks de suporte antes de qualquer tentativa de alta mais expressiva em direção à liquidez acima. Discursos do Fed à tarde podem amplificar volatilidade; enquanto H4 não virar bullish, o risco continua bidirecional.",
-    "EURUSD": "D1, H4 e H1 alinhados em alta — bias macro fortemente bullish com confluência de três timeframes. O pullback em M15 oferece contexto de entrada em potencial rejeição do order block bullish de H1 posicionado logo abaixo do preço. A liquidez acima representa alvos naturais e primários da estrutura em desenvolvimento. Tom dovish nos discursos do Fed à tarde tende a amplificar a fraqueza do dólar e acelerar o movimento. Invalidação do cenário bullish somente com quebra estrutural do CHoCH de H1.",
-    "USDJPY": "Estrutura conflitante com D1 bullish, mas H4 e H1 bearish — correção intradiária dentro de tendência maior de alta no diário. O preço opera dentro do order block bullish de D1 como suporte de longo prazo, enquanto os order blocks bearish de H4 e H1 funcionam como resistências estruturais acima. O viés de curto e médio prazo favorece pressão vendedora enquanto H4 e H1 se mantiverem bearish. O M15 em recuperação pode ser armadilha compradora antes de retomada baixista em direção à liquidez abaixo.",
-    "BTCUSD": "Alinhamento bullish completo em todos os quatro timeframes — D1, H4, H1 e M15 — configuração de confluência plena e sem ambiguidade. Momentum comprador sustentado com sucessivos BOS confirmando cada nível estrutural em cascata. Os order blocks abaixo do preço atual representam zonas de suporte válidas em caso de pullback. A liquidez acima é o alvo natural e imediato; fraqueza do DXY e queda dos yields reforçam o ambiente macro favorável a ativos de risco sem catalisador adverso identificado.",
-    "ETHUSD": "Estrutura bullish alinhada em todos os timeframes — D1, H4, H1 e M15 — com múltiplos BOS consecutivos confirmando força compradora sustentada. Múltiplos order blocks de suporte em diferentes timeframes abaixo do preço oferecem camadas de proteção para o movimento alta. A liquidez acima é o alvo primário e imediato da estrutura atual. O ambiente macro de DXY fraco e yields em queda sustenta o setor cripto de maneira ampla. Invalidação apenas com quebra dos order blocks de M15 em sequência.",
-    "NAS100": "Alinhamento bullish completo em todos os timeframes — D1, H4, H1 e M15 — demonstrando momentum comprador consistente e sem divergência estrutural. Sem order blocks relevantes identificados abaixo do preço atual, a estrutura sugere impulso sem resistência interna próxima significativa. A liquidez acima representa o alvo imediato e primário. Contexto macro de yields em queda e dólar fraco favorece equities de crescimento; qualquer comentário dovish nos discursos do Fed pode servir de gatilho adicional para o movimento.",
-    "DXY": "Bearish em todos os quatro timeframes analisados — alinhamento de baixa completo, sem ambiguidade ou conflito estrutural. A tendência principal está em queda, corroborando o viés bullish em pares não-dólar e em ouro e cripto. A liquidez acima do preço representa pools de stops que podem ser varridos em correções pontuais antes de retomada do movimento baixista. Os discursos do Fed à tarde são o principal risco de reversão; tom hawkish seria o único catalisador capaz de interromper a estrutura bearish dominante.",
-    "US10Y": "Yields do Tesouro de dez anos em queda estrutural em todos os timeframes — bearish alinhado em D1, H4, H1 e M15 sem divergência. A compressão de yields reduz a atratividade do dólar e o custo de oportunidade contra ativos alternativos como ouro e cripto, reforçando o cenário macro de risco seletivo favorável. Os discursos de Barkin e Waller são o principal risco do dia — tom hawkish inesperado poderia impulsionar yields de volta, pressionando ouro e cripto de forma imediata e potencialmente revertendo estruturas de timeframes inferiores."
+    "XAUUSD": "Estrutura conflitante: D1 bearish enquanto H4 se manteve bullish — o movimento de alta recente configura correção dentro do trend maior de baixa. Intraday, H1 e M15 já retomaram viés bearish com CHoCH, confirmando esgotamento do impulso corretivo. OBs bearish em H1 e M15 representam zonas de pressão vendedora qualificadas; liquidez acima pode ser varrida pontualmente antes de nova perna descendente. Gatilho: rejeição nas zonas de OB bearish com sequência de CHoCH confirmando. Invalidação: expansão acima da estrutura H4 bullish.",
+    "GBPUSD": "D1 bullish sustenta o viés macro de alta, mas H4 e H1 bearish configuram correção intraday relevante. M15 retornou bullish, indicando suporte temporário e possível compressão antes da próxima direção. OBs bearish em H4 e H1 são zonas de resistência qualificadas para continuação corretiva; OBs bullish em M15 oferecem suporte de curto prazo. Cenário provável: pressão para busca de liquidez abaixo antes de retomada do trend D1. Invalidação: rompimento limpo acima dos OBs H4 com BOS bullish.",
+    "EURUSD": "D1 bullish com pullback intraday estabelecido em H4 e H1 — estrutura corretiva ainda ativa. M15 bullish sinaliza momentum ascendente de curtíssimo prazo, mas sem alinhamento suficiente para reverter a pressão intraday. Discurso de Lagarde hoje é o principal gatilho externo: hawkish sustenta EUR e pode provocar BOS bullish em H1; dovish aprofunda a correção em direção aos OBs H4. Liquidez comprimida nos dois sentidos sugere range com risco de expansão no evento. OBs bearish em H4 e H1 são as zonas de interesse para vendas intraday.",
+    "USDJPY": "D1 bullish com H4 bearish configura pullback dentro do trend maior — H1 e M15 já retomaram viés bullish, sinalizando provável retomada da direção D1. OB D1 bullish representa zona de suporte macro de alta relevância e foi testado recentemente. OBs bullish em H1 e M15 sustentam o momentum de curto prazo. Cenário provável: continuação de alta com alvo na liquidez acima; dólar fraco limita o upside mas estrutura técnica do par aponta para força residual do JPY como contrapeso. Invalidação: perda dos OBs intraday com CHoCH bearish em H1.",
+    "BTCUSD": "D1 e H4 alinhados bullish — bias de alta robusto e sem ambiguidade no médio prazo. H1 bearish representa pullback intraday dentro da tendência maior. M15 bullish com OB como suporte ativo sugere absorção e possível retomada. Ambiente macro favorável: yields em queda e dólar fraco corroboram o viés de alta em cripto. Cenário provável: busca de liquidez acima após consolidação intraday. Invalidação: perda do OB M15 com sequência de CHoCH bearish em H4.",
+    "ETHUSD": "D1 bullish mas H4 e H1 bearish — correção intraday mais profunda do que BTC, sugerindo fraqueza relativa do ETH no curto prazo. M15 bullish indica tentativa de recuperação, mas sem alinhamento com H1. OB H4 bearish representa zona de resistência relevante acima; OB M15 bullish oferece suporte para eventual pullback antes de nova tentativa de alta. Cenário provável: pressão vendedora intraday com alvo em liquidez abaixo antes de eventual retomada do viés D1. Invalidação: rompimento e fechamento acima do OB H4 bear com BOS bullish em H1.",
+    "NAS100": "Todos os timeframes alinhados bullish (D1, H4, H1, M15) — bias de alta robusto, consistente e sem conflito estrutural. Estrutura limpa, sem OBs de resistência identificados imediatamente acima. Liquidez acima como alvo natural da continuação. Ambiente macro corrobora: dólar fraco e yields em queda favorecem equities. Cenário provável: continuação direcional de alta sem pullback significativo. Invalidação: formação de CHoCH bearish em H4 com perda de estrutura de suporte recente.",
+    "DXY": "Todos os timeframes alinhados bearish — fraqueza estrutural do dólar consolidada e sem sinal de reversão. Contexto macro corrobora: yields em queda e apetite ao risco elevado drenam demanda por USD. A pressão vendedora no dólar sustenta os pares majors e favorece ativos de risco em geral. Sem confluência de suporte técnico imediato — tendência bearish deve se manter. Próxima liquidez abaixo como alvo natural da continuação.",
+    "US10Y": "Yields em queda com estrutura bearish alinhada em todos os timeframes — ambiente macro de apetite ao risco plenamente ativado. A queda consistente dos yields pressiona o dólar, favorece cripto, equities e pares majors contra USD. Sem confluência de suporte visível nos yields — tendência de queda deve se manter no curto prazo com liquidez abaixo como próximo alvo macro. Atenção: qualquer reversão nos yields (surpresa hawkish de Lagarde ou dados inesperados) pode gerar spike no DXY e pressão de curto prazo nos ativos de risco."
   }
 }
