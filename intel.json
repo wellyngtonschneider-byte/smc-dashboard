@@ -1,13 +1,13 @@
 {
   "date": "20/04/2026",
-  "time": "19:45",
+  "time": "20:00",
   "macro": "O dólar exibe fraqueza estrutural consistente em todos os timeframes, sustentando um ambiente risk-on que favorece ativos de risco e commodities. Os yields do Tesouro americano de dez anos mantêm tendência de queda em todas as temporalidades, reduzindo o custo de oportunidade e reforçando o apetite por ouro e cripto. Sem eventos de calendário de alto ou médio impacto hoje, o mercado tende a continuar movimentos técnicos intraday sem catalisadores fundamentais externos. A correlação entre dólar e ouro permanece inversa e ativa — fraqueza estrutural do dólar sustenta o viés bullish de longo prazo em pares de commodities e moedas de risco.",
   "assets": [
     {
       "pair": "XAUUSD",
       "d1": "bearish",
       "h4": "bullish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bullish",
       "text": "Estrutura conflitante entre D1 bearish e H4 bullish, criando compressão entre tendências de prazo médio e longo sem alinhamento claro. No curto prazo, H1 reverteu para baixo enquanto M15 sinalizou reversão para cima, sugerindo indecisão e possível acumulação na zona atual. O order block bearish de H1 formado na sessão anterior atua como resistência relevante acima, enquanto o order block bullish de M15 sustenta possível ponto de demanda abaixo. Liquidez acumulada em ambas as direções torna os dois cenários viáveis — gatilho mais provável é toque no OB bullish de M15 antes de eventual impulso para varrer liquidez acima."
     },
@@ -87,5 +87,5 @@
     "DXY": "Fraqueza total e consistente com todos os timeframes alinhados bearish — D1, H4, H1 e M15 confirmam tendência de queda estrutural do dólar. Esse alinhamento quadruplo é o sinal mais claro do conjunto e serve como contexto macro fundamental para todo o quadro. A fraqueza do dólar é catalisador direto para que pares como EURUSD, GBPUSD e ouro mantenham seus vieses bullish em D1. Sem reversão de estrutura sequer em M15, não há sinal de recuperação iminente — qualquer pullback do DXY deve ser tratado como reteste de zona de oferta antes de nova queda.",
     "US10Y": "Yields do Tesouro americano de dez anos em tendência de queda em todos os timeframes — D1, H4, H1 e M15 alinhados bearish para yields, configurando declínio estrutural consistente. Esse alinhamento reforça o contexto macro de afrouxamento de condições financeiras, favorecendo ativos de risco, ouro e equities. A queda consistente dos yields combinada com fraqueza do DXY cria o ambiente macro mais propício ao risk-on generalizado. Atenção para qualquer reversão de estrutura nos yields como sinal de mudança de regime — enquanto não ocorrer, o contexto macro permanece favorável a comprados em cripto, ouro e índices."
   },
-  "bias_refreshed_at": "2026-04-20 19:45:01 -0300"
+  "bias_refreshed_at": "2026-04-20 20:00:01 -0300"
 }
