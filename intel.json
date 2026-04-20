@@ -1,6 +1,6 @@
 {
   "date": "20/04/2026",
-  "time": "20:00",
+  "time": "20:15",
   "macro": "Sem eventos de alto impacto no calendário de hoje, o mercado opera em modo de fluxo puramente técnico. O dólar exibe estrutura bajista em todos os timeframes monitorados, sinalizando fraqueza ampla do USD que favorece pares europeus e ativos de risco. Os yields do Tesouro americano de dez anos mantêm estrutura baixista nos timeframes maiores, com apenas tentativa de recuperação no curtíssimo prazo — combinação que reforça o ambiente risk-on predominante. Bitcoin e Nasdaq alinhados em alta nos principais timeframes corroboram esse sentimento, enquanto o ouro enfrenta conflito entre bias semanal bajista e recuperação intradiária.",
   "assets": [
     {
@@ -48,7 +48,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "D1 bullish, porém H4 ainda mantém estrutura bajista após CHoCH recente de baixa. H1 e M15 recuperaram para bullish, mas o preço opera dentro de order block bajista de H4, criando zona de decisão crítica. O conflito entre bias diário favorável e pressão vendedora de H4 torna este par menos nítido que o BTCUSD. O cenário mais provável é disputa nessa zona de OB de H4, com a resolução definindo direção: alta em direção à liquidez acima, ou retração para as zonas de demanda inferiores."
     },
     {
@@ -86,5 +86,6 @@
     "NAS100": "D1, H4 e H1 fortemente alinhados em alta, com apenas M15 exibindo estrutura bajista após CHoCH recente de curto prazo. Isso configura pullback técnico dentro de tendência maior bullish preservada. O recuo de M15 pode estar buscando rebalanceamento nas zonas de liquidez abaixo antes de retomar a alta estrutural. O bias dominante favorece compras em suporte, com alvos na liquidez acima. A invalidação da tendência maior exigiria deterioração progressiva e sequencial dos timeframes maiores.",
     "DXY": "Todos os timeframes — D1, H4, H1 e M15 — alinhados em baixa, confirmando fraqueza estrutural ampla e consistente do dólar americano. É o segundo ativo com alinhamento total de timeframes, porém na direção bajista, espelhando o alinhamento bullish do BTCUSD no sentido oposto. Essa fraqueza generalizada do USD funciona como vento de cauda para pares europeus e commodities precificadas em dólar. Qualquer repique para zonas de liquidez acima deve ser tratado como oportunidade de venda enquanto a estrutura baixista se mantiver intacta.",
     "US10Y": "Os yields do Tesouro americano de dez anos mantêm estrutura baixista em D1, H4 e H1, sinalizando queda nas taxas e ambiente de apetite moderado por risco. Apenas o M15 apresenta tentativa de recuperação dos yields, sem respaldo dos timeframes maiores. A queda estrutural dos yields, combinada com dólar fraco em todos os timeframes, reforça o contexto risk-on predominante e beneficia ativos como ouro, criptomoedas e índices de ações. A retomada da pressão altista nos yields exigiria rompimento estrutural confirmado nos timeframes intermediários, o que não está sinalizado no momento."
-  }
+  },
+  "bias_refreshed_at": "2026-04-20 20:15:01 -0300"
 }
