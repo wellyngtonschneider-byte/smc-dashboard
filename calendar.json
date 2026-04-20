@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20 11:45 BRT",
+  "updated_at": "2026-04-20 12:00 BRT",
   "events": [
     {
       "title": "ECB President Lagarde Speech",
@@ -108,15 +108,6 @@
       "time": "11:00",
       "forecast": "0.1",
       "previous": "1.8"
-    },
-    {
-      "title": "Fed Chair Nominee Kevin Warsh Confirmation Hearing",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "—"
     },
     {
       "title": "Fed Waller Speech",
