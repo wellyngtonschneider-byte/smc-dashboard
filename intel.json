@@ -1,6 +1,6 @@
 {
   "date": "21/04/2026",
-  "time": "08:45",
+  "time": "09:00",
   "macro": "O dólar mantém estrutura bearish completa em todos os timeframes, refletindo pressão vendedora sistêmica sobre o USD e favorecendo ativos de risco, metais e moedas majors contra o dólar. Os yields do tesouro americano de dez anos seguem tendência bearish dominante nas temporalidades maiores, indicando queda de juros como cenário macro, ainda que os timeframes menores mostrem tentativa de recuperação pontual. O evento de maior impacto do dia é o Retail Sales (alto impacto) — um resultado fraco amplia a fraqueza do dólar e favorece rallies em commodities e pares contra o USD, enquanto uma surpresa positiva pode acionar correção brusca e testar setups de compra. O discurso do Fed Waller e a audiência de confirmação de Warsh adicionam ruído de política monetária ao ambiente já volátil, com potencial de repricing de expectativas de corte.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Alinhamento bearish completo em todos os timeframes (D1, H4, H1, M15) — dólar com pressão vendedora sistêmica e sem sinais de reversão estrutural no momento. Esse contexto serve como macro-confirmação para setups longos em pares de moedas contra o USD e para commodities como ouro. O Retail Sales é o único catalisador do dia com potencial de reversão pontual — surpresa positiva pode acionar squeeze de curto prazo, mas sem alterar o bias dominante enquanto a estrutura bearish de D1 e H4 permanecer intacta. Qualquer recuperação deve ser interpretada como oportunidade de reentrada vendedora para traders de tendência.",
     "US10Y": "Os yields do tesouro de dez anos mantêm estrutura bearish dominante em D1, H4 e H1, indicando tendência de queda de juros como cenário macro prevalente — contexto favorável para ativos de risco, metais e equities de crescimento. O M15 apresenta CHoCH de alta, sugerindo recuperação pontual dos yields no curto prazo, possivelmente reagindo a dados de atividade ou discurso hawkish do Fed. Enquanto a estrutura bearish das temporalidades maiores não for rompida, qualquer alta de yield deve ser tratada como movimento corretivo e não como reversão de tendência. O discurso do Fed Waller pode ser o catalisador para extensão do repique ou para confirmação da continuidade bearish dos yields."
   },
-  "bias_refreshed_at": "2026-04-21 08:45:01 -0300"
+  "bias_refreshed_at": "2026-04-21 09:00:01 -0300"
 }
