@@ -1,6 +1,6 @@
 {
   "date": "21/04/2026",
-  "time": "11:15",
+  "time": "11:30",
   "macro": "O dólar exibe fraqueza estrutural alinhada em todos os timeframes, configurando contexto macro favorável a ativos de risco, metais preciosos e moedas rivais do USD. Os yields dos treasuries de dez anos mantêm estrutura de queda nos quadros maiores, com apenas recuperação pontual no curtíssimo prazo, reforçando precificação de ambiente dovish. Os eventos do dia concentram atenção no período americano: a audiência de confirmação do indicado à presidência do Fed e o discurso de Waller são os maiores catalisadores de volatilidade em USD e yields, com potencial de amplificar ou reverter os movimentos em curso. Dados de habitação e estoques empresariais às onze horas abrem a sessão americana e podem ajustar marginalmente a narrativa macroeconômica antes dos eventos mais pesados.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Estrutura bearish alinhada em todos os timeframes — D1, H4, H1 e M15 — configurando o sinal mais claro do dia para a direção do dólar. Essa fraqueza generalizada serve como contexto macro que sustenta o viés bullish em EUR, GBP, metais preciosos e cripto. A liquidez abaixo é o alvo natural da continuação bearish. Os eventos Fed do dia — audiência de confirmação de Warsh e discurso de Waller — representam os principais riscos de reversão ou aceleração do movimento; um tom hawkish inesperado seria a principal ameaça ao bias bearish atual.",
     "US10Y": "Yields em queda estrutural com D1, H4 e H1 alinhados em baixa; apenas o M15 apresenta um CHoCH de alta recente que, por ora, não configura reversão de tendência. O ambiente de yields cadentes sustenta o apetite por risco e é coerente com a fraqueza do DXY observada nos mesmos timeframes. O discurso de Waller às quinze horas e trinta é o catalisador central do dia: um tom hawkish poderia reforçar a recuperação do M15 e iniciar estrutura de alta mais relevante nos yields, enquanto um posicionamento dovish consolidaria a queda estrutural dominante. Cenário base mantém yields pressionados."
   },
-  "bias_refreshed_at": "2026-04-21 11:15:01 -0300"
+  "bias_refreshed_at": "2026-04-21 11:30:01 -0300"
 }
