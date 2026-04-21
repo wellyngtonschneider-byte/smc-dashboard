@@ -1,6 +1,6 @@
 {
   "date": "21/04/2026",
-  "time": "16:15",
+  "time": "16:30",
   "macro": "O mercado opera sob pressão dual: DXY estruturalmente baixista em timeframes maiores enquanto yields de longo prazo também comprimem, criando um ambiente misto para risk-on. O discurso do Fed Waller hoje é o principal gatilho do dia — qualquer sinalização hawkish pode reverter brevemente a fraqueza do dólar e pressionar ativos de risco, enquanto um tom dovish aprofunda a tendência atual. Os dados japoneses de balança comercial e exportações à noite (evento de alta relevância) podem acionar volatilidade no JPY e reverberar em correlações cruzadas. A correlação DXY fraco versus ouro, cripto e equities bullish em D1 permanece como tema dominante, mas o alinhamento intraday bearish em vários ativos sugere correção técnica em curso antes de eventual continuação.",
   "assets": [
     {
@@ -48,7 +48,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "D1 bullish mas H4, H1 e M15 todos bearish — desvio estrutural significativo onde a pressão intraday contraria a macro. O order block bearish de H4 acima é a zona de oferta dominante e referência para resistência. A liquidez abaixo é alvo prioritário. ETH mostra fraqueza relativa comparado ao BTC neste momento, com a estrutura bearish de H4 sendo o fator mais pesado. Recuperação sustentável exige reversão da estrutura de H4 como mínimo."
     },
     {
@@ -56,7 +56,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "D1, H4 e H1 bullish com M15 em CHoCH baixista recente — estrutura de correção de curto prazo dentro de tendência altista ampla. A liquidez acima permanece como alvo de médio prazo. Dips intraday podem buscar liquidez abaixo antes de retomada. O discurso do Waller hoje é catalisador direto: tom hawkish tende a pressionar equities e aprofundar a correção de M15, enquanto tom dovish favorece a continuação altista alinhada com D1/H4/H1."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Tendência macro baixista consolidada em D1 e H4, com recuperação técnica de curto prazo em H1 e M15. Os order blocks bullish de H1 e M15 suportam o bounce momentâneo, mas este é tratado como movimento corretivo dentro do bearish dominante. O discurso do Waller é o evento mais crítico do dia para o dólar: hawkish estende a recuperação intraday, dovish reforça a tendência baixista estrutural. A fraqueza de DXY em D1/H4 fornece vento de cauda para EUR, GBP e ouro em seus vieses macro.",
     "US10Y": "Yields em compressão estrutural: D1, H4 e H1 todos apontam para queda de rendimentos, configurando um ambiente macro de afrouxamento de pressão nos juros longos. O M15 exibe um repique técnico de curto prazo nos yields, mas sem força para reverter a estrutura maior. Yields caindo em D1/H4/H1 são historicamente favoráveis a equities de crescimento e ativos de risco. O discurso do Waller hoje é o principal catalisador: postura hawkish poderia interromper a compressão de yields e impactar transversalmente todos os ativos de risco analisados."
   },
-  "bias_refreshed_at": "2026-04-21 16:15:01 -0300"
+  "bias_refreshed_at": "2026-04-21 16:30:01 -0300"
 }
