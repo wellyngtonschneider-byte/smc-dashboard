@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-04-20 22:45 BRT",
+  "updated_at": "2026-04-21 06:00 BRT",
   "events": [
-    {
-      "title": "Employment Change",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "03:00",
-      "forecast": "—",
-      "previous": "84"
-    },
-    {
-      "title": "Average Earnings incl. Bonus (3Mo/Yr)",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "03:00",
-      "forecast": "3.6",
-      "previous": "3.9"
-    },
-    {
-      "title": "Unemployment Rate",
-      "country": "GBP",
-      "impact": "High",
-      "date": "2026-04-21",
-      "time": "03:00",
-      "forecast": "5.2",
-      "previous": "5.2"
-    },
-    {
-      "title": "ZEW Economic Sentiment Index",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "06:00",
-      "forecast": "-3.6",
-      "previous": "-8.5"
-    },
     {
       "title": "ADP Employment Change Weekly",
       "country": "USD",
@@ -144,6 +108,114 @@
       "time": "20:50",
       "forecast": "1106",
       "previous": "57.3"
+    },
+    {
+      "title": "Inflation Rate YoY",
+      "country": "GBP",
+      "impact": "High",
+      "date": "2026-04-22",
+      "time": "03:00",
+      "forecast": "3.3",
+      "previous": "3"
+    },
+    {
+      "title": "Inflation Rate MoM",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "03:00",
+      "forecast": "0.6",
+      "previous": "0.4"
+    },
+    {
+      "title": "Core Inflation Rate YoY",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "03:00",
+      "forecast": "3.2",
+      "previous": "3.2"
+    },
+    {
+      "title": "Government Budget to GDP",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "06:00",
+      "forecast": "—",
+      "previous": "-3.1"
+    },
+    {
+      "title": "Government Debt to GDP",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "06:00",
+      "forecast": "—",
+      "previous": "87.1"
+    },
+    {
+      "title": "MBA 30-Year Mortgage Rate",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "08:00",
+      "forecast": "—",
+      "previous": "6.42"
+    },
+    {
+      "title": "Consumer Confidence Flash",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "-16.3"
+    },
+    {
+      "title": "EIA Gasoline Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "11:30",
+      "forecast": "—",
+      "previous": "-6.328"
+    },
+    {
+      "title": "EIA Crude Oil Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "11:30",
+      "forecast": "-1",
+      "previous": "-0.913"
+    },
+    {
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "14:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "S&P Global Services PMI Flash",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "21:30",
+      "forecast": "—",
+      "previous": "53.4"
+    },
+    {
+      "title": "S&P Global Manufacturing PMI Flash",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-22",
+      "time": "21:30",
+      "forecast": "51.8",
+      "previous": "51.6"
     }
   ]
 }
