@@ -1,6 +1,6 @@
 {
   "date": "21/04/2026",
-  "time": "15:30",
+  "time": "15:45",
   "macro": "O mercado opera sob pressão dual: DXY estruturalmente baixista em timeframes maiores enquanto yields de longo prazo também comprimem, criando um ambiente misto para risk-on. O discurso do Fed Waller hoje é o principal gatilho do dia — qualquer sinalização hawkish pode reverter brevemente a fraqueza do dólar e pressionar ativos de risco, enquanto um tom dovish aprofunda a tendência atual. Os dados japoneses de balança comercial e exportações à noite (evento de alta relevância) podem acionar volatilidade no JPY e reverberar em correlações cruzadas. A correlação DXY fraco versus ouro, cripto e equities bullish em D1 permanece como tema dominante, mas o alinhamento intraday bearish em vários ativos sugere correção técnica em curso antes de eventual continuação.",
   "assets": [
     {
@@ -39,7 +39,7 @@
       "pair": "BTCUSD",
       "d1": "bullish",
       "h4": "bullish",
-      "h1": "bearish",
+      "h1": "bullish",
       "m15": "bearish",
       "text": "D1, H4 e H1 alinhados bullish com M15 em correção baixista — padrão clássico de pullback saudável dentro de uma tendência de alta. Os order blocks bearish de M15 acima funcionam como zonas de oferta que podem pressionar o preço brevemente antes de retomada. A liquidez tanto acima quanto abaixo cria ambiente de caçada bilateral no curto prazo. Viés macro permanece comprador enquanto a estrutura dos timeframes maiores não for violada."
     },
@@ -87,5 +87,5 @@
     "DXY": "Tendência macro baixista consolidada em D1 e H4, com recuperação técnica de curto prazo em H1 e M15. Os order blocks bullish de H1 e M15 suportam o bounce momentâneo, mas este é tratado como movimento corretivo dentro do bearish dominante. O discurso do Waller é o evento mais crítico do dia para o dólar: hawkish estende a recuperação intraday, dovish reforça a tendência baixista estrutural. A fraqueza de DXY em D1/H4 fornece vento de cauda para EUR, GBP e ouro em seus vieses macro.",
     "US10Y": "Yields em compressão estrutural: D1, H4 e H1 todos apontam para queda de rendimentos, configurando um ambiente macro de afrouxamento de pressão nos juros longos. O M15 exibe um repique técnico de curto prazo nos yields, mas sem força para reverter a estrutura maior. Yields caindo em D1/H4/H1 são historicamente favoráveis a equities de crescimento e ativos de risco. O discurso do Waller hoje é o principal catalisador: postura hawkish poderia interromper a compressão de yields e impactar transversalmente todos os ativos de risco analisados."
   },
-  "bias_refreshed_at": "2026-04-21 15:30:01 -0300"
+  "bias_refreshed_at": "2026-04-21 15:45:02 -0300"
 }
