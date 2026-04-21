@@ -1,33 +1,6 @@
 {
-  "updated_at": "2026-04-21 09:15 BRT",
+  "updated_at": "2026-04-21 09:30 BRT",
   "events": [
-    {
-      "title": "Retail Sales MoM",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-04-21",
-      "time": "09:30",
-      "forecast": "1.4",
-      "previous": "0.6"
-    },
-    {
-      "title": "Retail Sales Ex Autos MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "09:30",
-      "forecast": "1.4",
-      "previous": "0.5"
-    },
-    {
-      "title": "Retail Sales Control Group MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "09:30",
-      "forecast": "0.2",
-      "previous": "0.5"
-    },
     {
       "title": "Pending Home Sales YoY",
       "country": "USD",
