@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-04-21 10:45 BRT",
+  "updated_at": "2026-04-21 11:00 BRT",
   "events": [
-    {
-      "title": "Pending Home Sales YoY",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "-0.8"
-    },
-    {
-      "title": "Business Inventories MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "11:00",
-      "forecast": "0.3",
-      "previous": "-0.1"
-    },
-    {
-      "title": "Pending Home Sales MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "11:00",
-      "forecast": "0.1",
-      "previous": "1.8"
-    },
-    {
-      "title": "Fed Chair Nominee Kevin Warsh Confirmation Hearing",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "Fed Waller Speech",
       "country": "USD",
