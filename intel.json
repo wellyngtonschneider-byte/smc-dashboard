@@ -1,13 +1,13 @@
 {
   "date": "20/04/2026",
-  "time": "21:00",
+  "time": "21:15",
   "macro": "Sem eventos de alto impacto no calendário de hoje, o mercado opera em modo de fluxo puramente técnico. O dólar exibe estrutura bajista em todos os timeframes monitorados, sinalizando fraqueza ampla do USD que favorece pares europeus e ativos de risco. Os yields do Tesouro americano de dez anos mantêm estrutura baixista nos timeframes maiores, com apenas tentativa de recuperação no curtíssimo prazo — combinação que reforça o ambiente risk-on predominante. Bitcoin e Nasdaq alinhados em alta nos principais timeframes corroboram esse sentimento, enquanto o ouro enfrenta conflito entre bias semanal bajista e recuperação intradiária.",
   "assets": [
     {
       "pair": "XAUUSD",
       "d1": "bearish",
       "h4": "bullish",
-      "h1": "bearish",
+      "h1": "bullish",
       "m15": "bullish",
       "text": "Estrutura diária bajista em conflito com H4 bullish cria ambiente de incerteza direcional no médio prazo. O bias maior aponta para pressão vendedora estrutural, enquanto os timeframes intradiários oscilam sem alinhamento claro. Há zonas de demanda abaixo do preço atual que podem funcionar como suporte para recuperações, mas enquanto D1 mantiver viés bajista, altas tendem a encontrar resistência. O gatilho provável é uma busca pela liquidez imediata acima, com invalidação do cenário comprador intradiário caso o preço perca as zonas de demanda de curto prazo."
     },
@@ -16,7 +16,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "Bias diário bullish consolidado, porém H4 estruturalmente bajista após BOS de baixa recente cria conflito relevante. H1 e M15 alinhados em alta fornecem momentum comprador no intradiário. O preço opera sobre a liquidez imediata acima, tornando o nível atual uma zona de possível distribuição temporária antes de retração para as zonas de demanda abaixo. DXY em queda generalizada reforça o potencial altista do par no médio prazo, mas a confirmação depende de H4 retomar estrutura bullish."
     },
     {
@@ -24,7 +24,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "D1 bullish desde início de abril e H4 bajista configuram o mesmo conflito observado no GBPUSD. H1 e M15 alinhados em alta fornecem momentum comprador de curto prazo. O par opera exatamente sobre a liquidez acima identificada, o que sugere possível rebalanceamento nas zonas de demanda abaixo antes de eventual continuação da tendência diária. A fraqueza estrutural do DXY em todos os timeframes é o principal catalisador de suporte ao par no médio prazo."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Todos os timeframes — D1, H4, H1 e M15 — alinhados em baixa, confirmando fraqueza estrutural ampla e consistente do dólar americano. É o segundo ativo com alinhamento total de timeframes, porém na direção bajista, espelhando o alinhamento bullish do BTCUSD no sentido oposto. Essa fraqueza generalizada do USD funciona como vento de cauda para pares europeus e commodities precificadas em dólar. Qualquer repique para zonas de liquidez acima deve ser tratado como oportunidade de venda enquanto a estrutura baixista se mantiver intacta.",
     "US10Y": "Os yields do Tesouro americano de dez anos mantêm estrutura baixista em D1, H4 e H1, sinalizando queda nas taxas e ambiente de apetite moderado por risco. Apenas o M15 apresenta tentativa de recuperação dos yields, sem respaldo dos timeframes maiores. A queda estrutural dos yields, combinada com dólar fraco em todos os timeframes, reforça o contexto risk-on predominante e beneficia ativos como ouro, criptomoedas e índices de ações. A retomada da pressão altista nos yields exigiria rompimento estrutural confirmado nos timeframes intermediários, o que não está sinalizado no momento."
   },
-  "bias_refreshed_at": "2026-04-20 21:00:01 -0300"
+  "bias_refreshed_at": "2026-04-20 21:15:01 -0300"
 }
