@@ -1,6 +1,6 @@
 {
   "date": "21/04/2026",
-  "time": "07:15",
+  "time": "07:30",
   "macro": "Sem eventos de alto impacto no calendário de hoje, o mercado opera em modo de fluxo puramente técnico. O dólar exibe estrutura bajista em todos os timeframes monitorados, sinalizando fraqueza ampla do USD que favorece pares europeus e ativos de risco. Os yields do Tesouro americano de dez anos mantêm estrutura baixista nos timeframes maiores, com apenas tentativa de recuperação no curtíssimo prazo — combinação que reforça o ambiente risk-on predominante. Bitcoin e Nasdaq alinhados em alta nos principais timeframes corroboram esse sentimento, enquanto o ouro enfrenta conflito entre bias semanal bajista e recuperação intradiária.",
   "assets": [
     {
@@ -30,7 +30,7 @@
     {
       "pair": "USDJPY",
       "d1": "bullish",
-      "h4": "bullish",
+      "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
       "text": "H4 e H1 alinhados em baixa criam pressão vendedora nos timeframes intermediários, contrariando o bias bullish diário. M15 tentou recuperação mas enfrenta order blocks bajistas logo acima do preço atual. O par opera dentro de grande zona de demanda diária, o que pode sustentar o preço pontualmente, mas enquanto H4 e H1 mantiverem estrutura baixista, recuperações tendem a ser oportunidades de venda. A invalidação do cenário bajista intermediário exigiria rompimento limpo acima dos order blocks de H1."
@@ -87,5 +87,5 @@
     "DXY": "Todos os timeframes — D1, H4, H1 e M15 — alinhados em baixa, confirmando fraqueza estrutural ampla e consistente do dólar americano. É o segundo ativo com alinhamento total de timeframes, porém na direção bajista, espelhando o alinhamento bullish do BTCUSD no sentido oposto. Essa fraqueza generalizada do USD funciona como vento de cauda para pares europeus e commodities precificadas em dólar. Qualquer repique para zonas de liquidez acima deve ser tratado como oportunidade de venda enquanto a estrutura baixista se mantiver intacta.",
     "US10Y": "Os yields do Tesouro americano de dez anos mantêm estrutura baixista em D1, H4 e H1, sinalizando queda nas taxas e ambiente de apetite moderado por risco. Apenas o M15 apresenta tentativa de recuperação dos yields, sem respaldo dos timeframes maiores. A queda estrutural dos yields, combinada com dólar fraco em todos os timeframes, reforça o contexto risk-on predominante e beneficia ativos como ouro, criptomoedas e índices de ações. A retomada da pressão altista nos yields exigiria rompimento estrutural confirmado nos timeframes intermediários, o que não está sinalizado no momento."
   },
-  "bias_refreshed_at": "2026-04-21 07:15:01 -0300"
+  "bias_refreshed_at": "2026-04-21 07:30:02 -0300"
 }
