@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22 09:15 BRT",
+  "updated_at": "2026-04-22 09:30 BRT",
   "events": [
     {
       "title": "Consumer Confidence Flash",
@@ -16,7 +16,7 @@
       "impact": "Medium",
       "date": "2026-04-22",
       "time": "11:30",
-      "forecast": "—",
+      "forecast": "-1.5",
       "previous": "-6.328"
     },
     {
@@ -25,7 +25,7 @@
       "impact": "Medium",
       "date": "2026-04-22",
       "time": "11:30",
-      "forecast": "-1",
+      "forecast": "-1.2",
       "previous": "-0.913"
     },
     {
