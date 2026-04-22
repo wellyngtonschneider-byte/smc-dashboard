@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-21 20:45 BRT",
+  "updated_at": "2026-04-21 21:00 BRT",
   "events": [
-    {
-      "title": "Exports YoY",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-21",
-      "time": "20:50",
-      "forecast": "11",
-      "previous": "4.2"
-    },
-    {
-      "title": "Balance of Trade",
-      "country": "JPY",
-      "impact": "High",
-      "date": "2026-04-21",
-      "time": "20:50",
-      "forecast": "1106",
-      "previous": "57.3"
-    },
     {
       "title": "Inflation Rate YoY",
       "country": "GBP",
