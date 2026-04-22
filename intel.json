@@ -1,7 +1,7 @@
 {
   "date": "22/04/2026",
   "time": "11:01",
-  "macro": "Sessão dominada por revisão de risco com DXY perdendo força no diário mas tentando recuperação intraday, enquanto yields do US10Y mostram divergência entre macro bearish e fluxo bullish de curto prazo, sinalizando indecisão sobre o próximo passo do Fed. Calendário leve mas sensível: dados de petróleo da EIA podem mexer com risk-on/risk-off via energia, e o discurso da Lagarde no fim da tarde europeia é o evento de maior peso, capaz de redefinir tom em EUR e refletir em DXY. Ouro segue corrigindo após topo histórico, com fluxo de realização dominando enquanto cripto e equities americanos sustentam apetite por risco. Correlação clássica funcionando: USDJPY firme acompanha yields, DXY tenta segurar suporte intraday e metais/EUR pagam o preço.",
+  "macro": "O ambiente macro é marcado por fraqueza estrutural do dólar americano nas temporalidades maiores, com yields do tesouro de dez anos também em declínio no contexto diário e de quatro horas, sinalizando aversão a risco ou antecipação de afrouxamento monetário. A geopolítica segue como pano de fundo para o ouro, embora a estrutura técnica do ativo mostre pressão vendedora dominante nas maiores temporalidades, refletindo possível deleveraging. O discurso da presidente do BCE, Lagarde, programado para hoje à tarde, é o evento de maior potencial de impacto imediato, podendo gerar volatilidade acentuada no euro e em pares correlacionados a depender do tom adotado. Os dados de estoques de petróleo EIA pela manhã e os PMIs japoneses à noite completam a agenda com risco secundário, especialmente para o iene em função do horário e do nível de surpresa nos dados.",
   "assets": [
     {
       "pair": "XAUUSD",
@@ -9,7 +9,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Estrutura totalmente alinhada bearish do diário ao M15, com CHoCH recente no intraday confirmando continuação da correção após o pico. Cenário primário é venda em pullback nas zonas de OB H1 e H4 bearish acima do preço, que devem funcionar como reação após varredura de liquidez buy-side. Gatilho ideal seria reação rejeitiva nesses OBs com mitigação parcial, alvo na liquidez sell-side abaixo. Invalidação se o preço recuperar e fechar acima do OB H4 bearish em H1, sinalizando absorção comprada."
+      "text": "Bias dominante é vendedor com alinhamento pleno entre diário e quatro horas após quebras de estrutura consistentes em temporalidades decrescentes. O preço se encontra abaixo das zonas de oferta identificadas em quatro horas e em uma hora, que representam áreas de rejeição esperada em caso de reteste. A liquidez disponível acima do preço atual pode atrair um movimento de sweep antes de continuação vendedora, sendo essa zona de reteste às order blocks o principal gatilho para posicionamento vendido. A invalidação ocorre caso o preço penetre e feche acima da order block de quatro horas."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +17,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Conflito clássico: D1 ainda bullish após CHoCH up recente, mas H4/H1/M15 viraram bearish, indicando que estamos em pullback profundo dentro de tendência maior. O OB M15 bear acima do preço é zona de venda intraday tática, mas com risco de ser apenas reação contra-tendência maior. Cenário ideal: short rápido no OB M15 mirando liquidez sell-side próxima, sem prender posição. Invalidação se romper o OB M15 com volume — sinalizaria retomada do bias D1 bullish."
+      "text": "Estrutura conflitante: o diário mantém viés altista, mas as temporalidades intermediárias e de curto prazo mostram pressão vendedora dominante após quebras sequenciais, configurando pullback dentro de tendência maior. O preço encontra-se no entorno da zona de oferta de quinze minutos, que funciona como ponto de rejeição esperado para movimentação em direção à liquidez abaixo. Gatilho vendido é o respeito da zona atual sem rompimento acima dela; a invalidação é um fechamento acima da order block de curto prazo. Não há evento de calendário relevante para a libra hoje."
     },
     {
       "pair": "EURUSD",
@@ -25,7 +25,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Mesma estrutura técnica do GBPUSD: D1 bullish em conflito com intraday bearish desde o BOS down em H4. Discurso da Lagarde à tarde é o gatilho macro do dia e pode redefinir o bias intraday. Antes do evento, OB M15 bear acima do preço é zona de interesse para venda tática mirando liquidez sell-side abaixo. Operar com cautela no horário do discurso — preferível esperar reação pós-Lagarde do que entrar contra fluxo de notícia."
+      "text": "Diário com viés altista, mas quatro horas, uma hora e quinze minutos mostram estrutura vendedora consolidada após quebras encadeadas. O preço está na proximidade da zona de oferta de curto prazo, que pode funcionar como ponto de distribuição para movimento em direção à liquidez abaixo. O discurso de Lagarde hoje à tarde representa o principal risco fundamental do dia: tom hawkish pode interromper a pressão vendedora de curto prazo, enquanto tom dovish tende a acelerar o movimento de queda nas temporalidades menores. Gatilho vendido é a confirmação de rejeição na zona de oferta antes do evento."
     },
     {
       "pair": "USDJPY",
@@ -33,7 +33,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bearish",
-      "text": "Único par com D1, H4 e H1 todos bullish alinhados, apesar do M15 ter virado bearish em pullback técnico. Cenário primário é compra nas mitigações dos OBs bull em H1 e M15 abaixo do preço, esperando varredura da liquidez sell-side próxima como armadilha. Alvo natural é a liquidez buy-side acima. Gatilho: reação compradora no OB com retomada da estrutura M15. Invalidação se romper abaixo do OB H1 bull, o que negaria o bias intraday e abriria correção mais profunda."
+      "text": "Alinhamento altista robusto entre diário, quatro horas e uma hora, com a temporalidade de quinze minutos em retração — padrão típico de pullback em tendência de alta estabelecida. O preço está na região de zonas de demanda de curto prazo, que representam áreas de interesse para compras em continuação da estrutura maior. A liquidez disponível acima é o alvo provável após absorção da retração atual. Os PMIs japoneses no período da noite trazem risco de volatilidade e podem pressionar o iene, sendo ponto de atenção para invalidação do cenário altista caso os dados surpreendam favoravelmente ao iene."
     },
     {
       "pair": "BTCUSD",
@@ -41,7 +41,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Estrutura impecavelmente bullish em todos os timeframes — D1, H4, H1 e M15 todos alinhados após sequência de BOS up. Cenário é compra em pullback nos OBs bull, com preferência pelo OB M15 mais próximo do preço atual. Liquidez buy-side acima funciona como alvo magnético natural. Gatilho ideal é mitigação rápida do OB M15 com vela de absorção. Invalidação só ocorre se romper o OB H1 bull mais profundo, o que quebraria o momentum recente."
+      "text": "Estrutura completamente alinhada em todas as temporalidades analisadas, com viés de alta dominante e momentum confirmado por quebras de estrutura progressivas e recentes. O preço opera acima das zonas de demanda mais recentes, com possibilidade de sweep em direção à liquidez abaixo antes de eventual continuação altista. A zone de demanda de uma hora formada recentemente é o suporte estrutural mais relevante e próximo para os compradores. Invalidação ocorre com quebra e fechamento abaixo das order blocks de temporalidades maiores."
     },
     {
       "pair": "ETHUSD",
@@ -49,7 +49,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Espelha BTC: estrutura totalmente bullish com BOS recente no M15 confirmando continuação. Compra em pullback nos OBs bull é o caminho, com OB M15 mais próximo sendo a primeira zona de reação esperada. Liquidez buy-side acima é alvo claro. Operação alinhada ao fluxo de cripto e ao contexto de risk-on que sustenta também NAS100. Invalidação se perder o OB H1 bull, sinalizando que o pullback virou correção mais profunda."
+      "text": "Assim como o bitcoin, o ether apresenta alinhamento altista completo em todos os tempos gráficos, com estrutura fortalecida por quebras de estrutura progressivas e consistentes. O preço sustenta-se acima das zonas de demanda mais recentes, que funcionam como suporte para continuação do movimento. Liquidez abaixo pode ser testada em eventual pullback, sendo as order blocks de uma hora o ponto de defesa dos compradores. Enquanto o preço mantiver-se acima dessas zonas, o bias de alta permanece intacto e favorece continuação."
     },
     {
       "pair": "NAS100",
@@ -57,7 +57,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bearish",
-      "text": "D1, H4 e H1 bullish, mas M15 virou bearish em correção técnica intraday após CHoCH down. OB M15 bear acima do preço é zona tática de venda apenas para scalp contra-tendência mirando liquidez sell-side próxima. Cenário primário do dia continua sendo compra na mitigação da liquidez sell-side abaixo, alinhado ao bias maior. Operar com consciência de que vendas aqui são contrafluxo macro e devem ter alvo curto."
+      "text": "Três temporalidades maiores apontam para alta de forma consistente, com a temporalidade de quinze minutos em retração — padrão que favorece setup de compra em pullback dentro de estrutura altista. Não há order blocks mapeadas nas temporalidades menores para o período atual, mas a liquidez abaixo representa zona de atração para sweep antes de provável continuação. Gatilho de compra é a absorção da liquidez abaixo acompanhada de reação altista nas temporalidades menores. Invalidação seria quebra estrutural na temporalidade de uma hora."
     },
     {
       "pair": "DXY",
@@ -65,7 +65,7 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Conflito de tempos: D1 e H4 bearish após CHoCHs down recentes, mas H1 e M15 viraram bullish indicando tentativa de recuperação intraday contra a estrutura maior. OB M15 e H1 bull abaixo do preço são zonas de compra tática para reação rumo à liquidez buy-side acima. Discurso da Lagarde pode acelerar movimento via fraqueza do EUR. Invalidação intraday se perder o OB H1 bull, retomando bias bearish do H4."
+      "text": "Viés macro do dólar é baixista, com diário e quatro horas confirmando tendência de enfraquecimento estrutural do índice. As temporalidades mais curtas mostram recuperação técnica contratendência, com o preço acima das zonas de demanda de uma hora e quinze minutos. Esse repique de curto prazo é interpretado como movimento corretivo dentro de estrutura baixista maior, com potencial de esgotamento na liquidez disponível acima. O gatilho para retomada da queda seria o respeito dessa liquidez como resistência seguido de quebra das zonas de demanda de curto prazo."
     },
     {
       "pair": "US10Y",
@@ -73,19 +73,18 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Yields em estrutura bearish no diário e H4 (queda de juros), mas com tentativa de recuperação intraday — H1 e M15 bullish após CHoCHs up. Cenário tático: compra de yield em pullback nos OBs bull abaixo do preço, alvo na liquidez buy-side acima. Recuperação dos yields sustenta USDJPY e pressiona ouro, confirmando as leituras desses pares. Macro segue dovish, mas fluxo intraday corrige de curto."
+      "text": "Os yields do tesouro de dez anos mostram estrutura baixista nas temporalidades diária e de quatro horas, indicando tendência de queda nas taxas no médio prazo — contexto que favorece ativos de risco e pressiona o dólar de forma consistente com a leitura do DXY. A recuperação nas temporalidades de uma hora e quinze minutos representa um repique técnico de curto prazo dos yields dentro dessa tendência maior de queda. Enquanto as temporalidades maiores não reverterem, a leitura macro permanece de declínio gradual nas taxas. Uma aceleração da alta dos yields nas temporalidades menores seria sinal de atenção para reposicionamento em ativos sensíveis a juros."
     }
   ],
   "llm_narratives": {
-    "XAUUSD": "Estrutura totalmente alinhada bearish do diário ao M15, com CHoCH recente no intraday confirmando continuação da correção após o pico. Cenário primário é venda em pullback nas zonas de OB H1 e H4 bearish acima do preço, que devem funcionar como reação após varredura de liquidez buy-side. Gatilho ideal seria reação rejeitiva nesses OBs com mitigação parcial, alvo na liquidez sell-side abaixo. Invalidação se o preço recuperar e fechar acima do OB H4 bearish em H1, sinalizando absorção comprada.",
-    "GBPUSD": "Conflito clássico: D1 ainda bullish após CHoCH up recente, mas H4/H1/M15 viraram bearish, indicando que estamos em pullback profundo dentro de tendência maior. O OB M15 bear acima do preço é zona de venda intraday tática, mas com risco de ser apenas reação contra-tendência maior. Cenário ideal: short rápido no OB M15 mirando liquidez sell-side próxima, sem prender posição. Invalidação se romper o OB M15 com volume — sinalizaria retomada do bias D1 bullish.",
-    "EURUSD": "Mesma estrutura técnica do GBPUSD: D1 bullish em conflito com intraday bearish desde o BOS down em H4. Discurso da Lagarde à tarde é o gatilho macro do dia e pode redefinir o bias intraday. Antes do evento, OB M15 bear acima do preço é zona de interesse para venda tática mirando liquidez sell-side abaixo. Operar com cautela no horário do discurso — preferível esperar reação pós-Lagarde do que entrar contra fluxo de notícia.",
-    "USDJPY": "Único par com D1, H4 e H1 todos bullish alinhados, apesar do M15 ter virado bearish em pullback técnico. Cenário primário é compra nas mitigações dos OBs bull em H1 e M15 abaixo do preço, esperando varredura da liquidez sell-side próxima como armadilha. Alvo natural é a liquidez buy-side acima. Gatilho: reação compradora no OB com retomada da estrutura M15. Invalidação se romper abaixo do OB H1 bull, o que negaria o bias intraday e abriria correção mais profunda.",
-    "BTCUSD": "Estrutura impecavelmente bullish em todos os timeframes — D1, H4, H1 e M15 todos alinhados após sequência de BOS up. Cenário é compra em pullback nos OBs bull, com preferência pelo OB M15 mais próximo do preço atual. Liquidez buy-side acima funciona como alvo magnético natural. Gatilho ideal é mitigação rápida do OB M15 com vela de absorção. Invalidação só ocorre se romper o OB H1 bull mais profundo, o que quebraria o momentum recente.",
-    "ETHUSD": "Espelha BTC: estrutura totalmente bullish com BOS recente no M15 confirmando continuação. Compra em pullback nos OBs bull é o caminho, com OB M15 mais próximo sendo a primeira zona de reação esperada. Liquidez buy-side acima é alvo claro. Operação alinhada ao fluxo de cripto e ao contexto de risk-on que sustenta também NAS100. Invalidação se perder o OB H1 bull, sinalizando que o pullback virou correção mais profunda.",
-    "NAS100": "D1, H4 e H1 bullish, mas M15 virou bearish em correção técnica intraday após CHoCH down. OB M15 bear acima do preço é zona tática de venda apenas para scalp contra-tendência mirando liquidez sell-side próxima. Cenário primário do dia continua sendo compra na mitigação da liquidez sell-side abaixo, alinhado ao bias maior. Operar com consciência de que vendas aqui são contrafluxo macro e devem ter alvo curto.",
-    "DXY": "Conflito de tempos: D1 e H4 bearish após CHoCHs down recentes, mas H1 e M15 viraram bullish indicando tentativa de recuperação intraday contra a estrutura maior. OB M15 e H1 bull abaixo do preço são zonas de compra tática para reação rumo à liquidez buy-side acima. Discurso da Lagarde pode acelerar movimento via fraqueza do EUR. Invalidação intraday se perder o OB H1 bull, retomando bias bearish do H4.",
-    "US10Y": "Yields em estrutura bearish no diário e H4 (queda de juros), mas com tentativa de recuperação intraday — H1 e M15 bullish após CHoCHs up. Cenário tático: compra de yield em pullback nos OBs bull abaixo do preço, alvo na liquidez buy-side acima. Recuperação dos yields sustenta USDJPY e pressiona ouro, confirmando as leituras desses pares. Macro segue dovish, mas fluxo intraday corrige de curto."
-  },
-  "bias_refreshed_at": "2026-04-22 11:01:23 -0300"
+    "XAUUSD": "Bias dominante é vendedor com alinhamento pleno entre diário e quatro horas após quebras de estrutura consistentes em temporalidades decrescentes. O preço se encontra abaixo das zonas de oferta identificadas em quatro horas e em uma hora, que representam áreas de rejeição esperada em caso de reteste. A liquidez disponível acima do preço atual pode atrair um movimento de sweep antes de continuação vendedora, sendo essa zona de reteste às order blocks o principal gatilho para posicionamento vendido. A invalidação ocorre caso o preço penetre e feche acima da order block de quatro horas.",
+    "GBPUSD": "Estrutura conflitante: o diário mantém viés altista, mas as temporalidades intermediárias e de curto prazo mostram pressão vendedora dominante após quebras sequenciais, configurando pullback dentro de tendência maior. O preço encontra-se no entorno da zona de oferta de quinze minutos, que funciona como ponto de rejeição esperado para movimentação em direção à liquidez abaixo. Gatilho vendido é o respeito da zona atual sem rompimento acima dela; a invalidação é um fechamento acima da order block de curto prazo. Não há evento de calendário relevante para a libra hoje.",
+    "EURUSD": "Diário com viés altista, mas quatro horas, uma hora e quinze minutos mostram estrutura vendedora consolidada após quebras encadeadas. O preço está na proximidade da zona de oferta de curto prazo, que pode funcionar como ponto de distribuição para movimento em direção à liquidez abaixo. O discurso de Lagarde hoje à tarde representa o principal risco fundamental do dia: tom hawkish pode interromper a pressão vendedora de curto prazo, enquanto tom dovish tende a acelerar o movimento de queda nas temporalidades menores. Gatilho vendido é a confirmação de rejeição na zona de oferta antes do evento.",
+    "USDJPY": "Alinhamento altista robusto entre diário, quatro horas e uma hora, com a temporalidade de quinze minutos em retração — padrão típico de pullback em tendência de alta estabelecida. O preço está na região de zonas de demanda de curto prazo, que representam áreas de interesse para compras em continuação da estrutura maior. A liquidez disponível acima é o alvo provável após absorção da retração atual. Os PMIs japoneses no período da noite trazem risco de volatilidade e podem pressionar o iene, sendo ponto de atenção para invalidação do cenário altista caso os dados surpreendam favoravelmente ao iene.",
+    "BTCUSD": "Estrutura completamente alinhada em todas as temporalidades analisadas, com viés de alta dominante e momentum confirmado por quebras de estrutura progressivas e recentes. O preço opera acima das zonas de demanda mais recentes, com possibilidade de sweep em direção à liquidez abaixo antes de eventual continuação altista. A zone de demanda de uma hora formada recentemente é o suporte estrutural mais relevante e próximo para os compradores. Invalidação ocorre com quebra e fechamento abaixo das order blocks de temporalidades maiores.",
+    "ETHUSD": "Assim como o bitcoin, o ether apresenta alinhamento altista completo em todos os tempos gráficos, com estrutura fortalecida por quebras de estrutura progressivas e consistentes. O preço sustenta-se acima das zonas de demanda mais recentes, que funcionam como suporte para continuação do movimento. Liquidez abaixo pode ser testada em eventual pullback, sendo as order blocks de uma hora o ponto de defesa dos compradores. Enquanto o preço mantiver-se acima dessas zonas, o bias de alta permanece intacto e favorece continuação.",
+    "NAS100": "Três temporalidades maiores apontam para alta de forma consistente, com a temporalidade de quinze minutos em retração — padrão que favorece setup de compra em pullback dentro de estrutura altista. Não há order blocks mapeadas nas temporalidades menores para o período atual, mas a liquidez abaixo representa zona de atração para sweep antes de provável continuação. Gatilho de compra é a absorção da liquidez abaixo acompanhada de reação altista nas temporalidades menores. Invalidação seria quebra estrutural na temporalidade de uma hora.",
+    "DXY": "Viés macro do dólar é baixista, com diário e quatro horas confirmando tendência de enfraquecimento estrutural do índice. As temporalidades mais curtas mostram recuperação técnica contratendência, com o preço acima das zonas de demanda de uma hora e quinze minutos. Esse repique de curto prazo é interpretado como movimento corretivo dentro de estrutura baixista maior, com potencial de esgotamento na liquidez disponível acima. O gatilho para retomada da queda seria o respeito dessa liquidez como resistência seguido de quebra das zonas de demanda de curto prazo.",
+    "US10Y": "Os yields do tesouro de dez anos mostram estrutura baixista nas temporalidades diária e de quatro horas, indicando tendência de queda nas taxas no médio prazo — contexto que favorece ativos de risco e pressiona o dólar de forma consistente com a leitura do DXY. A recuperação nas temporalidades de uma hora e quinze minutos representa um repique técnico de curto prazo dos yields dentro dessa tendência maior de queda. Enquanto as temporalidades maiores não reverterem, a leitura macro permanece de declínio gradual nas taxas. Uma aceleração da alta dos yields nas temporalidades menores seria sinal de atenção para reposicionamento em ativos sensíveis a juros."
+  }
 }
