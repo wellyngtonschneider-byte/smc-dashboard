@@ -1,6 +1,6 @@
 {
   "date": "22/04/2026",
-  "time": "15:00",
+  "time": "15:15",
   "macro": "O dólar mantém viés macro de fraqueza com DXY em estrutura bearish tanto no diário quanto no H4, favorecendo ativos de risco e pares com USD vendido. Os yields dos treasuries de dez anos também exibem estrutura macro bearish, sinalizando expectativa de corte de juros ou aversão ao dólar — ambiente que sustenta cripto, índices e pares majors com viés anti-dólar no D1. As correlações são coerentes: fraqueza do DXY alinha-se com força em cripto, índices e EUR/GBP no macro, embora no intraday múltiplos ativos estejam em correção. O calendário desta sessão traz PMIs japoneses de Serviços e Manufatura, podendo gerar volatilidade relevante nos pares com JPY próximo ao fechamento da sessão.",
   "assets": [
     {
@@ -86,5 +86,6 @@
     "NAS100": "Todos os timeframes — diário, H4, H1 e M15 — alinhados em bullish, com CHoCH recente em M15 reforçando o momentum comprador de curtíssimo prazo. Não há order blocks mapeados para o ativo, de modo que o viés apoia-se inteiramente na estrutura de quebras progressivas. A liquidez abaixo representa zona de interesse apenas em contexto de inversão — cenário improvável dado o alinhamento total de timeframes. Cenário: continuação de alta sem resistência estrutural imediata mapeada; pullback para zona de quebra de estrutura mais recente seria oportunidade de entrada comprada.",
     "DXY": "Diário e H4 alinhados em bearish, confirmando tendência macro de fraqueza do dólar; H1 e M15 exibem correção bullish dentro dessa tendência maior. A recuperação intraday está em curso com liquidez próxima acima como alvo de curto prazo — inserida, porém, em contexto de distribuição macro. Cenário provável: conclusão da correção com varredura da liquidez acima, seguida de retomada do bias bearish macro alinhado ao D1 e H4. Invalidação do bearish macro requer quebra confirmada de estrutura bullish em H4, o que mudaria o panorama para os pares correlacionados.",
     "US10Y": "Os yields mantêm estrutura bearish no diário e no H4, indicando tendência macro de queda nas taxas de juros de dez anos — ambiente que sustenta apetite por risco e é coerente com a fraqueza do dólar e força em cripto e índices. No intraday, H1 e M15 mostram recuperação dos yields, com order block bullish em H1 atuando como suporte para esse bounce de curto prazo. A liquidez acima nos yields representa potencial alvo de curto prazo antes de possível retomada da queda macro. Cenário: recuperação pontual de yields no intraday dentro de tendência macro de queda; se a estrutura bearish em H4 se mantiver, o ambiente macro permanece favorável a ativos de risco."
-  }
+  },
+  "bias_refreshed_at": "2026-04-22 15:15:01 -0300"
 }
