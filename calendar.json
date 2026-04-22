@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-22 11:15 BRT",
+  "updated_at": "2026-04-22 11:30 BRT",
   "events": [
-    {
-      "title": "EIA Gasoline Stocks Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "11:30",
-      "forecast": "-1.5",
-      "previous": "-6.328"
-    },
-    {
-      "title": "EIA Crude Oil Stocks Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "11:30",
-      "forecast": "-1.2",
-      "previous": "-0.913"
-    },
     {
       "title": "ECB President Lagarde Speech",
       "country": "EUR",
