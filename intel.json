@@ -1,6 +1,6 @@
 {
   "date": "22/04/2026",
-  "time": "14:15",
+  "time": "14:30",
   "macro": "O ambiente macro é marcado por fraqueza estrutural do dólar americano nas temporalidades maiores, com yields do tesouro de dez anos também em declínio no contexto diário e de quatro horas, sinalizando aversão a risco ou antecipação de afrouxamento monetário. A geopolítica segue como pano de fundo para o ouro, embora a estrutura técnica do ativo mostre pressão vendedora dominante nas maiores temporalidades, refletindo possível deleveraging. O discurso da presidente do BCE, Lagarde, programado para hoje à tarde, é o evento de maior potencial de impacto imediato, podendo gerar volatilidade acentuada no euro e em pares correlacionados a depender do tom adotado. Os dados de estoques de petróleo EIA pela manhã e os PMIs japoneses à noite completam a agenda com risco secundário, especialmente para o iene em função do horário e do nível de surpresa nos dados.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Viés macro do dólar é baixista, com diário e quatro horas confirmando tendência de enfraquecimento estrutural do índice. As temporalidades mais curtas mostram recuperação técnica contratendência, com o preço acima das zonas de demanda de uma hora e quinze minutos. Esse repique de curto prazo é interpretado como movimento corretivo dentro de estrutura baixista maior, com potencial de esgotamento na liquidez disponível acima. O gatilho para retomada da queda seria o respeito dessa liquidez como resistência seguido de quebra das zonas de demanda de curto prazo.",
     "US10Y": "Os yields do tesouro de dez anos mostram estrutura baixista nas temporalidades diária e de quatro horas, indicando tendência de queda nas taxas no médio prazo — contexto que favorece ativos de risco e pressiona o dólar de forma consistente com a leitura do DXY. A recuperação nas temporalidades de uma hora e quinze minutos representa um repique técnico de curto prazo dos yields dentro dessa tendência maior de queda. Enquanto as temporalidades maiores não reverterem, a leitura macro permanece de declínio gradual nas taxas. Uma aceleração da alta dos yields nas temporalidades menores seria sinal de atenção para reposicionamento em ativos sensíveis a juros."
   },
-  "bias_refreshed_at": "2026-04-22 14:15:02 -0300"
+  "bias_refreshed_at": "2026-04-22 14:30:03 -0300"
 }
