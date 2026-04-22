@@ -1,6 +1,6 @@
 {
   "date": "22/04/2026",
-  "time": "09:45",
+  "time": "10:00",
   "macro": "Sessão dominada por revisão de risco com DXY perdendo força no diário mas tentando recuperação intraday, enquanto yields do US10Y mostram divergência entre macro bearish e fluxo bullish de curto prazo, sinalizando indecisão sobre o próximo passo do Fed. Calendário leve mas sensível: dados de petróleo da EIA podem mexer com risk-on/risk-off via energia, e o discurso da Lagarde no fim da tarde europeia é o evento de maior peso, capaz de redefinir tom em EUR e refletir em DXY. Ouro segue corrigindo após topo histórico, com fluxo de realização dominando enquanto cripto e equities americanos sustentam apetite por risco. Correlação clássica funcionando: USDJPY firme acompanha yields, DXY tenta segurar suporte intraday e metais/EUR pagam o preço.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Conflito de tempos: D1 e H4 bearish após CHoCHs down recentes, mas H1 e M15 viraram bullish indicando tentativa de recuperação intraday contra a estrutura maior. OB M15 e H1 bull abaixo do preço são zonas de compra tática para reação rumo à liquidez buy-side acima. Discurso da Lagarde pode acelerar movimento via fraqueza do EUR. Invalidação intraday se perder o OB H1 bull, retomando bias bearish do H4.",
     "US10Y": "Yields em estrutura bearish no diário e H4 (queda de juros), mas com tentativa de recuperação intraday — H1 e M15 bullish após CHoCHs up. Cenário tático: compra de yield em pullback nos OBs bull abaixo do preço, alvo na liquidez buy-side acima. Recuperação dos yields sustenta USDJPY e pressiona ouro, confirmando as leituras desses pares. Macro segue dovish, mas fluxo intraday corrige de curto."
   },
-  "bias_refreshed_at": "2026-04-22 09:45:01 -0300"
+  "bias_refreshed_at": "2026-04-22 10:00:01 -0300"
 }
