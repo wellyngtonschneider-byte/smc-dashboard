@@ -1,6 +1,6 @@
 {
   "date": "21/04/2026",
-  "time": "22:30",
+  "time": "22:45",
   "macro": "O ambiente macro está marcado por dólar em tendência de baixa nos timeframes maiores, refletindo expectativa de afrouxamento Fed ou busca por ativos de risco. Os yields do tesouro americano de dez anos também seguem estrutura baixista no macro, mas apresentam recuperação técnica de curto prazo que merece atenção. A fraqueza do DXY suporta a estrutura altista de D1 em pares como EURUSD e GBPUSD, embora os timeframes intradia estejam em correção. O calendário traz dados japoneses relevantes esta noite — Balança Comercial com impacto alto e Exportações — que podem servir de catalisador de volatilidade para o USDJPY, único ativo com alinhamento bullish completo entre todos os monitorados.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Dólar com estrutura macro baixista consolidada e alinhada em D1 e H4, mas protagonizando recuperação técnica de curto prazo em H1 e M15 — leitura de contratendência intradia. Os order blocks bullish de H1 e M15 abaixo do preço servem como suporte para esse bounce e definem a zona de invalidação do movimento de curto prazo. A liquidez acima ainda disponível pode ser o alvo imediato antes de retomada da fraqueza estrutural macro. A tendência maior de enfraquecimento do DXY permanece como pano de fundo que suporta EUR, GBP e commodities nos timeframes maiores.",
     "US10Y": "Yields do tesouro americano de dez anos em tendência de queda consolidada no macro — estrutura baixista alinhada em D1 e H4 — sinalizando precificação de afrouxamento monetário ou demanda por renda fixa como proteção. No curto prazo, os yields apresentam recuperação técnica com estrutura bullish em H1 e M15, suportada por order block bullish de H1 como zona de defesa do movimento. Esse bounce de curto prazo nos yields pode criar pressão pontual sobre ativos de risco e ouro intradia, mas a tendência macro de queda permanece dominante. O desfecho desta recuperação será relevante para calibrar o apetite a risco nas próximas sessões."
   },
-  "bias_refreshed_at": "2026-04-21 22:30:02 -0300"
+  "bias_refreshed_at": "2026-04-21 22:45:01 -0300"
 }
