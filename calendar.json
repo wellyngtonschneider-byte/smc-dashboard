@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-22 10:45 BRT",
+  "updated_at": "2026-04-22 11:00 BRT",
   "events": [
-    {
-      "title": "Consumer Confidence Flash",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "-16.3"
-    },
     {
       "title": "EIA Gasoline Stocks Change",
       "country": "USD",
