@@ -1,60 +1,6 @@
 {
-  "updated_at": "2026-04-21 22:45 BRT",
+  "updated_at": "2026-04-22 08:30 BRT",
   "events": [
-    {
-      "title": "Inflation Rate YoY",
-      "country": "GBP",
-      "impact": "High",
-      "date": "2026-04-22",
-      "time": "03:00",
-      "forecast": "3.3",
-      "previous": "3"
-    },
-    {
-      "title": "Inflation Rate MoM",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "03:00",
-      "forecast": "0.6",
-      "previous": "0.4"
-    },
-    {
-      "title": "Core Inflation Rate YoY",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "03:00",
-      "forecast": "3.2",
-      "previous": "3.2"
-    },
-    {
-      "title": "Government Budget to GDP",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "06:00",
-      "forecast": "—",
-      "previous": "-3.1"
-    },
-    {
-      "title": "Government Debt to GDP",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "06:00",
-      "forecast": "—",
-      "previous": "87.1"
-    },
-    {
-      "title": "MBA 30-Year Mortgage Rate",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "08:00",
-      "forecast": "—",
-      "previous": "6.42"
-    },
     {
       "title": "Consumer Confidence Flash",
       "country": "EUR",
@@ -108,6 +54,159 @@
       "time": "21:30",
       "forecast": "51.8",
       "previous": "51.6"
+    },
+    {
+      "title": "New Car Registrations YoY",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "01:00",
+      "forecast": "—",
+      "previous": "1.4"
+    },
+    {
+      "title": "S&P Global Manufacturing PMI Flash",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "05:00",
+      "forecast": "50.8",
+      "previous": "51.6"
+    },
+    {
+      "title": "S&P Global Services PMI Flash",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "05:00",
+      "forecast": "49.8",
+      "previous": "50.2"
+    },
+    {
+      "title": "S&P Global Composite PMI Flash",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "05:00",
+      "forecast": "50.2",
+      "previous": "50.7"
+    },
+    {
+      "title": "S&P Global Manufacturing PMI Flash",
+      "country": "GBP",
+      "impact": "High",
+      "date": "2026-04-23",
+      "time": "05:30",
+      "forecast": "49.9",
+      "previous": "51"
+    },
+    {
+      "title": "S&P Global Services PMI Flash",
+      "country": "GBP",
+      "impact": "High",
+      "date": "2026-04-23",
+      "time": "05:30",
+      "forecast": "50",
+      "previous": "50.5"
+    },
+    {
+      "title": "CBI Business Optimism Index",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "07:00",
+      "forecast": "—",
+      "previous": "-19"
+    },
+    {
+      "title": "CBI Industrial Trends Orders",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "07:00",
+      "forecast": "-30",
+      "previous": "-27"
+    },
+    {
+      "title": "ECB Non-Monetary Policy Meeting",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "07:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Initial Jobless Claims",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "09:30",
+      "forecast": "212",
+      "previous": "207"
+    },
+    {
+      "title": "Chicago Fed National Activity Index",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "-0.11"
+    },
+    {
+      "title": "S&P Global Services PMI Flash",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "10:45",
+      "forecast": "50",
+      "previous": "49.8"
+    },
+    {
+      "title": "S&P Global Manufacturing PMI Flash",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "10:45",
+      "forecast": "52.5",
+      "previous": "52.3"
+    },
+    {
+      "title": "S&P Global Composite PMI Flash",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "10:45",
+      "forecast": "—",
+      "previous": "50.3"
+    },
+    {
+      "title": "Gfk Consumer Confidence",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "20:01",
+      "forecast": "-25",
+      "previous": "-21"
+    },
+    {
+      "title": "Core Inflation Rate YoY",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-23",
+      "time": "20:30",
+      "forecast": "1.8",
+      "previous": "1.6"
+    },
+    {
+      "title": "Inflation Rate YoY",
+      "country": "JPY",
+      "impact": "High",
+      "date": "2026-04-23",
+      "time": "20:30",
+      "forecast": "—",
+      "previous": "1.3"
     }
   ]
 }
