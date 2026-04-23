@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-23 12:00 BRT",
+  "updated_at": "2026-04-23 12:15 BRT",
   "events": [
-    {
-      "title": "Gfk Consumer Confidence",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "20:01",
-      "forecast": "-24",
-      "previous": "-21"
-    },
     {
       "title": "Core Inflation Rate YoY",
       "country": "JPY",
