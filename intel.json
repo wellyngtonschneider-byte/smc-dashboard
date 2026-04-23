@@ -1,6 +1,6 @@
 {
   "date": "22/04/2026",
-  "time": "22:15",
+  "time": "22:30",
   "macro": "O ambiente macro é dominado pela fraqueza estrutural do dólar americano, com DXY exibindo bias bearish nos timeframes superiores, refletindo expectativas de afrouxamento monetário pelo Fed e pressão geopolítica sobre ativos denominados em dólar. Os yields dos treasuries de dez anos mantêm estrutura descendente no macro mas ensaiam recuperação de curto prazo, gerando tensão cruzada nos pares de moedas e em ativos de risco. A fraqueza do dólar sustenta o apetite por ouro e cripto no médio prazo, embora a estrutura técnica do ouro esteja completamente bearish em todos os timeframes neste momento. O evento do dia — PMI Flash do Japão, tanto de Serviços quanto de Manufatura — pode gerar volatilidade no iene de forma ampla, com potencial de catalisar redefinição de liquidez nos pares que envolvem o JPY.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "DXY exibe bias macro bearish com D1 e H4 alinhados em queda, refletindo fraqueza estrutural do dólar no médio prazo. No curto prazo, H1 e M15 mostram recuperação, com OB bullish de M15 servindo como suporte para o repique intraday. Esse bounce de curto prazo do dólar pode criar pressão pontual sobre pares como EURUSD e GBPUSD, além de atuar como headwind temporário para o ouro e cripto. Enquanto a recuperação intraday não reverter a estrutura macro, o DXY permanece em fase de repique dentro de tendência maior de baixa.",
     "US10Y": "Os yields do tesouro americano de dez anos mantêm estrutura descendente nas dimensões macro — D1 e H4 alinhados em queda — sinalizando que o mercado ainda precifica perspectiva de afrouxamento monetário ou redução de prêmio de risco de longo prazo. No curto prazo, H1 e M15 exibem recuperação de yields, criando tensão entre o fluxo macro desinflacionário e o repique tático intraday. O ambiente de yields macro em queda favorece ativos de risco como cripto e equity no médio prazo, mas o bounce intraday de yields pode gerar volatilidade momentânea nos mercados. Enquanto a estrutura D1 e H4 não reverter, o viés de fundo dos yields permanece baixista."
   },
-  "bias_refreshed_at": "2026-04-22 22:15:01 -0300"
+  "bias_refreshed_at": "2026-04-22 22:30:01 -0300"
 }
