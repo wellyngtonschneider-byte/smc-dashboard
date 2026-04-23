@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-23 20:15 BRT",
+  "updated_at": "2026-04-23 20:30 BRT",
   "events": [
-    {
-      "title": "Core Inflation Rate YoY",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "20:30",
-      "forecast": "1.8",
-      "previous": "1.6"
-    },
-    {
-      "title": "Inflation Rate YoY",
-      "country": "JPY",
-      "impact": "High",
-      "date": "2026-04-23",
-      "time": "20:30",
-      "forecast": "—",
-      "previous": "1.3"
-    },
     {
       "title": "Retail Sales MoM",
       "country": "GBP",
