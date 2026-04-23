@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-22 21:15 BRT",
+  "updated_at": "2026-04-22 21:30 BRT",
   "events": [
-    {
-      "title": "S&P Global Services PMI Flash",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "21:30",
-      "forecast": "—",
-      "previous": "53.4"
-    },
-    {
-      "title": "S&P Global Manufacturing PMI Flash",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-22",
-      "time": "21:30",
-      "forecast": "51.2",
-      "previous": "51.6"
-    },
     {
       "title": "New Car Registrations YoY",
       "country": "EUR",
