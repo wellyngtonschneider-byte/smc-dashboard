@@ -1,6 +1,6 @@
 {
   "date": "23/04/2026",
-  "time": "16:45",
+  "time": "17:00",
   "macro": "O ambiente macro atual apresenta o dólar em estrutura bearish nos timeframes maiores, porém com sinais de recuperação técnica intraday, sugerindo alívio pontual do movimento de enfraquecimento recente. Os yields dos Treasuries de dez anos refletem ambiguidade semelhante: bearish no diário mas em repique nos timeframes menores, indicando demanda oscilante por ativos seguros. O evento de destaque do dia é o dado de inflação japonesa de alto impacto, capaz de gerar volatilidade expressiva em pares relacionados ao iene e de influenciar o apetite por risco de forma mais ampla. A tensão entre dólar fraco no macro e recuperação intraday exige confirmação estrutural nos timeframes de execução antes de qualquer posicionamento direcional.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Estrutura bearish confirmada no D1 e H4, com recuperação técnica visível no H1 e M15 — movimento interpretado como pullback dentro de tendência maior de enfraquecimento do dólar. A liquidez abaixo representa o alvo provável da retomada bearish após o alívio intraday. O comportamento do DXY é variável de contexto para os demais ativos: aceleração de queda favorece ouro, majors e ativos de risco; manutenção do repique intraday pode gerar pressão pontual nesses ativos antes da retomada bearish macro.",
     "US10Y": "Yields em estrutura bearish no diário, porém com recuperação em andamento nos timeframes H4, H1 e M15, sinalizando repique técnico dos juros após queda recente. Essa alta dos yields no curto prazo pode exercer pressão sobre o ouro e sustentar parcialmente o dólar intraday, mas enquanto o diário mantiver bias bearish, o contexto macro aponta para yields em declínio. A liquidez acima representa o alvo do repique em curso; a liquidez abaixo sinaliza retomada da pressão vendedora nos yields quando o movimento de alta intraday se esgotar."
   },
-  "bias_refreshed_at": "2026-04-23 16:45:01 -0300"
+  "bias_refreshed_at": "2026-04-23 17:00:02 -0300"
 }
