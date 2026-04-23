@@ -1,6 +1,6 @@
 {
   "date": "23/04/2026",
-  "time": "10:15",
+  "time": "10:30",
   "macro": "Fed mantém postura cautelosa em meio a tensões tarifárias persistentes que sustentam demanda por ativos de refúgio e pressionam o dólar estruturalmente. O dólar mostra fraqueza macro nas maiores temporalidades, mas ensaia recuperação de curto prazo que testa pares como euro e libra. Yields americanos seguem em queda no horizonte diário e de H4, favorecendo ativos de risco no médio prazo, enquanto o bounce intraday de yields pode criar ruído pontual. Os dados de PMI composto, manufatura e serviços dos EUA, junto com os Jobless Claims, são os principais catalisadores do dia e devem ditar o próximo impulso direcional do dólar e dos ativos correlacionados.",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "Estrutura mista com viés comprador no diário e vendedor em H4 e H1, caracterizando uma fase corretiva intraday dentro de tendência maior de alta. O M15 virou comprador, sinalizando possível acumulação pontual dentro da zona de oferta de H1 que é o nível de atenção imediato. A publicação do índice GfK de confiança do consumidor britânico ao final do dia pode ampliar volatilidade e definir o próximo impulso na libra. Cenário provável: continuação da correção intraday com busca de liquidez acima antes de eventual reversão; invalidação do viés de H4 bearish se o par romper estrutura compradora nessa temporalidade."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Estrutura bearish no diário e em H4 confirma fraqueza estrutural do dólar no macro, mas H1 e M15 bullish indicam recuperação de curto prazo em andamento dentro da tendência maior de enfraquecimento. O order block de M15 abaixo é o suporte imediato do bounce intraday. Os PMIs e Jobless Claims de hoje são catalisadores diretos — dados fracos ampliam a tendência bearish macro e invalidam o bounce de curto prazo; dados fortes sustentam a recuperação intraday. Cenário provável: recuperação limitada com pressão vendedora crescente ao se aproximar de zonas de resistência maiores alinhadas à estrutura de H4.",
     "US10Y": "Yields em queda estrutural no diário e no H4, sinalizando demanda por treasuries e precificação de postura mais dovish do Fed no horizonte macro. No curto prazo, H1 e M15 mostram yields subindo, sugerindo recuperação temporária dentro da tendência de queda, com liquidez acima sendo o alvo imediato do bounce intraday. O contexto de yields baixos no macro é favorável a ativos de risco como NAS100 e cripto no médio prazo, enquanto pressiona o dólar — coerente com o que as estruturas desses ativos mostram. A inflação japonesa desta noite pode criar fluxo de arbitragem em treasuries; invalidação do cenário bearish macro de yields em caso de rompimento estrutural em H4 para cima."
   },
-  "bias_refreshed_at": "2026-04-23 10:15:01 -0300"
+  "bias_refreshed_at": "2026-04-23 10:30:01 -0300"
 }
