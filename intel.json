@@ -1,6 +1,6 @@
 {
   "date": "23/04/2026",
-  "time": "12:30",
+  "time": "12:45",
   "macro": "O dólar americano mantém viés macro de baixa alinhado em D1 e H4, mas apresenta recuperação técnica de curto prazo nos timeframes menores — o que cria divergência importante para ativos correlacionados como ouro, euro e libra. Os yields do tesouro americano de dez anos replicam essa dinâmica: tendência macro de queda nos yields, porém com recuperação intradiária em curso. O evento de maior impacto da sessão é a inflação japonesa (dado de alta relevância), que pode desencadear movimentos bruscos no iene e forçar reposicionamento em pares JPY; o dado de confiança do consumidor britânico, de impacto médio, serve como catalisador adicional para a libra. O contexto geral é de USD fraco estruturalmente, mas em correção técnica, o que sugere cautela em trades unidirecionais até que o impulso de curto prazo se esgote.",
   "assets": [
     {
@@ -23,7 +23,7 @@
       "pair": "EURUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bullish",
       "text": "Estrutura semelhante ao GBPUSD: D1 bullish preservando o viés macro positivo, mas H4, H1 e M15 alinhados bearish com consistência. Os OBs bearish de H1 e M15 situados acima do preço atual são zonas de oferta prioritárias para entradas vendedoras em caso de pullback. O alvo técnico de curto prazo aponta para a liquidez abaixo. Com DXY em recuperação técnica de curto prazo, o euro tende a permanecer pressionado intradiariamente; a invalidação do viés bearish intradiário exigiria recuperação acima das zonas de oferta mapeadas."
     },
@@ -48,7 +48,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "Dinâmica idêntica ao BTCUSD: D1 e H4 bullish sustentando o viés macro positivo, enquanto H1 e M15 executam correção bearish coordenada. O OB bullish de H1 abaixo é a zona de demanda de maior relevância para re-entrada comprada no contexto da tendência maior. O OB bearish de M15 acima representa resistência técnica para o caso de pullbacks de curto prazo. Cenário provável é sweep da liquidez abaixo com teste do OB de demanda H1 antes de retomada da alta; correlação com BTC deve ser monitorada para confirmar força do movimento."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Interpretado via proxy direcional: viés macro bearish com D1 e H4 alinhados para baixo, confirmando fraqueza estrutural do dólar. Os timeframes de H1 e M15 apresentam recuperação técnica contratendência, consistente com um pullback em estrutura maior de baixa. O OB bullish de M15 abaixo é o suporte dessa recuperação intradiária. O cenário mais provável é continuidade dessa correção de curto prazo até esgotamento, seguida de retomada da tendência bearish macro; essa dinâmica de alta intradiária do DXY cria resistência temporária para euro, libra e ouro no curto prazo.",
     "US10Y": "Yields em tendência macro de queda com D1 e H4 alinhados bearish — contexto favorável a ativos de risco no médio prazo. Porém, H1 e M15 indicam recuperação técnica dos yields no curto prazo, o que cria pressão temporária sobre ativos sensíveis a taxas. Essa alta intradiária dos yields reforça a recuperação do DXY e adiciona resistência ao ouro e aos pares de risco no imediato. O cenário de base é que essa alta de yields seja correção dentro da tendência macro de queda; yields voltando a cair confirmaria retomada do contexto macro risk-on e da fraqueza estrutural do dólar."
   },
-  "bias_refreshed_at": "2026-04-23 12:30:01 -0300"
+  "bias_refreshed_at": "2026-04-23 12:45:02 -0300"
 }
