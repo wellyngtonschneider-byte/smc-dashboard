@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-23 09:15 BRT",
+  "updated_at": "2026-04-23 09:30 BRT",
   "events": [
-    {
-      "title": "Initial Jobless Claims",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "09:30",
-      "forecast": "212",
-      "previous": "207"
-    },
-    {
-      "title": "Chicago Fed National Activity Index",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "-0.11"
-    },
     {
       "title": "S&P Global Services PMI Flash",
       "country": "USD",
