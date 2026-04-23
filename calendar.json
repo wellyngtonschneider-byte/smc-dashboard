@@ -1,33 +1,6 @@
 {
-  "updated_at": "2026-04-23 06:45 BRT",
+  "updated_at": "2026-04-23 07:00 BRT",
   "events": [
-    {
-      "title": "CBI Business Optimism Index",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "07:00",
-      "forecast": "—",
-      "previous": "-19"
-    },
-    {
-      "title": "CBI Industrial Trends Orders",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "07:00",
-      "forecast": "-30",
-      "previous": "-27"
-    },
-    {
-      "title": "ECB Non-Monetary Policy Meeting",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "07:00",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "Initial Jobless Claims",
       "country": "USD",
