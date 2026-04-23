@@ -1,33 +1,6 @@
 {
-  "updated_at": "2026-04-23 10:30 BRT",
+  "updated_at": "2026-04-23 10:45 BRT",
   "events": [
-    {
-      "title": "S&P Global Services PMI Flash",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "10:45",
-      "forecast": "50",
-      "previous": "49.8"
-    },
-    {
-      "title": "S&P Global Manufacturing PMI Flash",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "10:45",
-      "forecast": "52.5",
-      "previous": "52.3"
-    },
-    {
-      "title": "S&P Global Composite PMI Flash",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-23",
-      "time": "10:45",
-      "forecast": "—",
-      "previous": "50.3"
-    },
     {
       "title": "Gfk Consumer Confidence",
       "country": "GBP",
