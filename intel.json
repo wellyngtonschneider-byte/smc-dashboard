@@ -1,6 +1,6 @@
 {
   "date": "24/04/2026",
-  "time": "15:30",
+  "time": "15:45",
   "macro": "O contexto macro atual reflete um dólar americano em tendência de baixa nas maiores temporalidades, fornecendo pano de fundo favorável a ativos de risco e commodities precificadas em USD. Os yields do Tesouro de dez anos apresentam recuperação no intradiário após queda estrutural no diário, criando um ambiente misto que pode gerar volatilidade pontual em metais e índices. O único evento do calendário hoje é a leitura final do Sentimento do Consumidor de Michigan, de impacto médio, com potencial para mover o dólar caso a leitura surpreenda a prévia de forma significativa. A combinação de DXY estruturalmente fraco com yields se recuperando no curto prazo exige atenção ao timing de entrada: a tendência macro favorece fraqueza do dólar, mas o repique intradiário dos yields e do USD pode criar ruído temporário nos pares e ativos correlacionados.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "D1 e H4 alinhados em viés bearish, confirmando fraqueza estrutural do dólar nas maiores temporalidades. O H1 e M15 esboçam recuperação técnica de curto prazo, com zona de demanda M15 servindo de suporte para esse bounce intradiário. Esse repique é interpretado como correção dentro de tendência baixista maior, e não como reversão de viés. A fraqueza estrutural do DXY é o pano de fundo que sustenta o viés de alta em pares majors como EURUSD e GBPUSD, além de beneficiar ouro e cripto. O dado de Michigan pode gerar impulso pontual no USD sem alterar o quadro macro bearish.",
     "US10Y": "Os yields do Tesouro de dez anos apresentam divergência entre temporalidades: a estrutura diária é bearish, indicando tendência de queda de yields no médio prazo, enquanto H4, H1 e M15 estão em viés bullish, refletindo recuperação dos yields no curto prazo. Essa recuperação intradiária dos yields pode exercer pressão moderada sobre ativos de risco e ouro no curtíssimo prazo, gerando ruído contra o viés macro favorável ao risk-on. O contexto de queda estrutural de yields no diário permanece como pano de fundo de médio prazo favorável a equities e metais. Invalidação da recuperação intradiária caso a estrutura do H4 perca o CHoCH de alta recente."
   },
-  "bias_refreshed_at": "2026-04-24 15:30:02 -0300"
+  "bias_refreshed_at": "2026-04-24 15:45:01 -0300"
 }
