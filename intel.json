@@ -1,6 +1,6 @@
 {
   "date": "23/04/2026",
-  "time": "21:45",
+  "time": "22:00",
   "macro": "O ambiente macro segue marcado por incerteza em torno da política monetária do Fed, com yields do tesouro americano em recuperação de curto prazo dentro de uma tendência de queda de mais longo prazo, enquanto o dólar exibe leve força intraday contra um pano de fundo macro de enfraquecimento. O calendário do dia traz dados de inflação japonesa de alto impacto, que podem adicionar volatilidade ao USDJPY e pressionar o iene em função de eventual surpresa hawkish ou dovish do BoJ. A correlação inversa entre dólar e ouro permanece ativa, com ouro completamente bearish em todos os timeframes analisados. A ausência de catalisadores geopolíticos extremos favorece a continuidade das tendências técnicas já estabelecidas, com atenção especial ao dado japonês como principal evento capaz de romper o equilíbrio atual.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "O dólar apresenta estrutura macro (D1 e H4) bearish, confirmando tendência de enfraquecimento do dólar no médio prazo — contexto que em geral favorece ativos de risco e pares como EUR e GBP contra o dólar. No curto prazo, H1 e M15 reverteram para bullish, sinalizando recuperação técnica intraday que está sendo sustentada pelo order block bullish de M15 formado hoje. O cenário provável é de bounce limitado do dólar antes de retomada da pressão baixista macro; esse contexto intraday justifica as pressões vendedoras em EURUSD e GBPUSD no curto prazo, mas não invalida o viés de enfraquecimento estrutural do dólar.",
     "US10Y": "Os yields do tesouro americano de dez anos exibem divergência clara: na dimensão macro (D1) a tendência é de queda dos yields, sinalizando recuo dos juros no médio prazo; no curto prazo (H4, H1 e M15) os yields estão em recuperação, com estrutura bullish alinhada nos três timeframes intraday. O order block bullish de H1 sustenta a recuperação dos yields e serve como zona de suporte para continuidade do movimento de alta intraday. Yields em alta no curto prazo tendem a pressionar ativos de risco e conferir suporte ao dólar, mas o contexto macro de queda dos yields ainda domina o cenário de médio prazo, limitando o potencial de alta dos juros."
   },
-  "bias_refreshed_at": "2026-04-23 21:45:01 -0300"
+  "bias_refreshed_at": "2026-04-23 22:00:01 -0300"
 }
