@@ -1,7 +1,7 @@
 {
   "date": "24/04/2026",
   "time": "11:00",
-  "macro": "O ambiente macro permanece dominado pela incerteza do Fed em relação ao ritmo de cortes de juros, com o mercado reprecificando expectativas diante de dados mistos de inflação e emprego. Geopoliticamente, tensões comerciais e instabilidade em mercados emergentes sustentam demanda por ativos de refúgio. A estrutura do DXY aponta para fraqueza de médio prazo com D1 e H4 alinhados em baixa, enquanto yields do Tesouro exibem recuperação intermediária nos tempos menores, criando tensão entre pressão vendedora no dólar e suporte parcial a juros. O evento do dia — Michigan Consumer Sentiment Final (impacto médio) — pode gerar volatilidade pontual no USD e em pares correlacionados caso a leitura surpreenda as expectativas, funcionando como catalisador direcional para o fechamento da semana.",
+  "macro": "O contexto macro atual reflete um dólar americano em tendência de baixa nas maiores temporalidades, fornecendo pano de fundo favorável a ativos de risco e commodities precificadas em USD. Os yields do Tesouro de dez anos apresentam recuperação no intradiário após queda estrutural no diário, criando um ambiente misto que pode gerar volatilidade pontual em metais e índices. O único evento do calendário hoje é a leitura final do Sentimento do Consumidor de Michigan, de impacto médio, com potencial para mover o dólar caso a leitura surpreenda a prévia de forma significativa. A combinação de DXY estruturalmente fraco com yields se recuperando no curto prazo exige atenção ao timing de entrada: a tendência macro favorece fraqueza do dólar, mas o repique intradiário dos yields e do USD pode criar ruído temporário nos pares e ativos correlacionados.",
   "assets": [
     {
       "pair": "XAUUSD",
@@ -9,7 +9,7 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Bias D1 e H4 plenamente alinhados em baixa, confirmando pressão vendedora de médio prazo no ouro. O movimento de alta no M15 representa pullback contra a tendência principal, com potencial de buscar liquidez acima antes de retomar a queda. A zona de OB bearish no M15 é a principal região de interesse para gatilho vendedor alinhado à estrutura macro. Abaixo, a liquidez represada é o alvo natural; invalidação do cenário ocorre com rompimento estrutural altista no H4."
+      "text": "D1 e H4 estão alinhados em viés bearish, estabelecendo pressão vendedora dominante nas maiores temporalidades. O H1 registrou CHoCH de alta recente, criando zona de demanda intradiária que está servindo como suporte imediato ao preço atual. O cenário de curto prazo aponta para possível busca à liquidez acima, mas a zona de oferta M15 acima do preço representa resistência estrutural e gatilho provável de reversão alinhada ao bias macro. Invalidação do viés baixista somente com rompimento acima do CHoCH bearish do H4."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +17,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "Estrutura conflitante: D1 em alta mas H4 e H1 bearish, sinalizando fase corretiva dentro de tendência maior. O M15 exibe recuperação de curto prazo que pode alcançar a zona de OB bearish acima, configurando oportunidade de venda alinhada ao H4. O OB bullish no M15 abaixo serve como suporte caso o preço recue antes de novo impulso vendedor. O evento de Sentimento do Consumidor americano pode pressionar o par caso os dados venham fortes, reforçando o USD e acentuando a queda no H4."
+      "text": "Estrutura mista: D1 bullish em contraste com H4 e H1 bearish, indicando que o movimento ascendente diário está em fase corretiva nos timeframes intermediários. O M15 esboça recuperação com BOS de alta recente, mas ainda inserido dentro do contexto de pressão vendedora nos frames intermediários. A zona de demanda M15 abaixo do preço atual é o suporte de curto prazo mais relevante para eventual retomada compradora. O dado de Michigan pode influenciar o par via DXY, reforçando ou limitando o impulso de alta do M15."
     },
     {
       "pair": "EURUSD",
@@ -25,7 +25,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "Assim como a GBP, o EUR tem D1 bullish mas H4 e H1 claramente bearish, indicando correção dentro de tendência maior. O M15 tenta recuperação de curto prazo com apoio em OBs bullish abaixo, mas a zona de OB bearish no H1 acima representa resistência estrutural relevante. O cenário preferencial é rejeição nessa região de oferta com continuação da queda alinhada ao H4. Dado positivo de Sentimento do Consumidor americano pode amplificar a pressão vendedora e antecipar o gatilho."
+      "text": "Contexto análogo ao GBPUSD: D1 bullish contraposto por H4 e H1 bearish, sinalizando fase corretiva dentro de tendência diária ascendente. O M15 registrou BOS de alta, sugerindo tentativa de recuperação no curtíssimo prazo com as zonas de demanda M15 abaixo funcionando como suporte. A fraqueza estrutural do DXY nas maiores temporalidades favorece o viés comprador do EURUSD no médio prazo. O dado de Michigan pode ser o catalisador que define a direção imediata do par, acelerando ou interrompendo a recuperação do M15."
     },
     {
       "pair": "USDJPY",
@@ -33,7 +33,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bearish",
-      "text": "Bias fortemente bullish com D1, H4 e H1 todos alinhados em alta — estrutura das mais nítidas entre os ativos monitorados. O M15 exibe correção de curto prazo que representa oportunidade de compra na zona de OB bullish abaixo, alinhada à tendência principal em todos os timeframes relevantes. A liquidez acumulada acima é o alvo natural para continuação. Yields em recuperação intermediária reforçam o viés de fortalecimento do USD, sustentando o par; invalidação apenas com quebra estrutural bearish no H4."
+      "text": "D1, H4 e H1 alinhados em viés bullish, configurando uma das estruturas mais coesas e direcionais entre os ativos monitorados. O M15 apresenta retração bearish momentânea com zona de oferta M15 acima funcionando como resistência de curto prazo. O cenário provável é de pullback controlado no M15 reabastecendo demanda antes de retomada de alta em direção à liquidez acima. Invalidação do bias bullish apenas com quebra estrutural no H1 para baixo, o que ainda não ocorreu."
     },
     {
       "pair": "BTCUSD",
@@ -41,7 +41,7 @@
       "h4": "bullish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "D1 e H4 permanecem em estrutura bullish, mas H1 e M15 iniciaram movimento bearish, sugerindo fase de distribuição ou correção mais profunda no curto prazo. A zona de OB bearish no M15 acima é região de oferta de interesse para entradas vendedoras táticas dentro do contexto corretivo. A liquidez abaixo é o alvo provável do movimento antes de eventual retomada do viés macro bullish. Dado forte de Sentimento americano pode fortalecer o USD e reduzir apetite especulativo, acelerando a correção."
+      "text": "D1 e H4 alinhados em viés bullish, mantendo contexto macro favorável para continuação de alta. O H1 ainda carrega estrutura bearish após CHoCH de baixa, mas o M15 realizou CHoCH de alta sinalizando possível reversão do movimento corretivo no intradiário. A zona de demanda M15 abaixo representa suporte relevante para eventual recuo antes de nova perna de alta. A liquidez acima permanece como alvo primário dentro do viés macro dominante, com correlação positiva ao ambiente de risk-on favorecido pela fraqueza do DXY."
     },
     {
       "pair": "ETHUSD",
@@ -49,7 +49,7 @@
       "h4": "bullish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "Estrutura semelhante ao BTC: D1 e H4 bullish mas H1 e M15 em queda, configurando pullback dentro da tendência maior. A ausência de OBs identificados no curto prazo sugere que o preço pode buscar liquidez abaixo antes de encontrar suporte estrutural relevante. A falta de zona de demanda clara no M15 eleva o risco de continuação bearish no intraday. Viés operacional favorece paciência até que estruturas de suporte nos timeframes menores sejam estabelecidas e confirmem reacumulação."
+      "text": "D1 e H4 alinhados em viés bullish, com H1 ainda bearish após BOS de baixa, porém o M15 já registrou CHoCH de alta sinalizando retomada compradora no curtíssimo prazo. Comportamento correlacionado ao Bitcoin e sujeito ao mesmo viés macro favorável a ativos de risco. A zona de demanda M15 abaixo é suporte relevante; a liquidez imediatamente acima do preço é o primeiro alvo provável. Invalidação do viés intradiário comprador caso o M15 perca o CHoCH de alta recente."
     },
     {
       "pair": "NAS100",
@@ -57,7 +57,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Bias amplamente bullish com D1, H4 e H1 todos alinhados em alta, tornando este um dos setups mais favoráveis para compra entre os ativos monitorados. O M15 exibe correção com OB bearish acima que pode limitar o avanço imediato, mas o cenário preferencial é retração para zona de suporte antes de retomada da alta estrutural. A liquidez acima é o alvo de médio prazo. Dado de Sentimento do Consumidor acima do esperado pode servir de catalisador para o impulso comprador, reforçando o alinhamento de todos os timeframes."
+      "text": "Todas as temporalidades analisadas — D1, H4, H1 e M15 — estão alinhadas em viés bullish, configurando a estrutura mais consistente e direcional entre todos os ativos monitorados. Não há zonas de oferta relevantes mapeadas acima do preço atual, reduzindo a resistência estrutural imediata. A liquidez abaixo representa a única referência de suporte próximo e zona de interesse para entradas compradoras em eventual recuo. O viés é inequivocamente comprador em todos os frames; qualquer retração é interpretada como oportunidade de entrada a favor da tendência dominante."
     },
     {
       "pair": "DXY",
@@ -65,7 +65,7 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "D1 e H4 ambos bearish, confirmando enfraquecimento estrutural do dólar no médio prazo. H1 e M15 mostram recuperação de curto prazo — movimento contra a tendência principal que pode testar liquidez acima antes de retomar a queda. O OB bullish no M15 abaixo sustenta o pullback atual. O Michigan Sentiment é o principal catalisador do dia: leitura acima do esperado poderia intensificar a recuperação de curto prazo, enquanto dado fraco aceleraria a queda alinhada ao viés de médio prazo do D1 e H4."
+      "text": "D1 e H4 alinhados em viés bearish, confirmando fraqueza estrutural do dólar nas maiores temporalidades. O H1 e M15 esboçam recuperação técnica de curto prazo, com zona de demanda M15 servindo de suporte para esse bounce intradiário. Esse repique é interpretado como correção dentro de tendência baixista maior, e não como reversão de viés. A fraqueza estrutural do DXY é o pano de fundo que sustenta o viés de alta em pares majors como EURUSD e GBPUSD, além de beneficiar ouro e cripto. O dado de Michigan pode gerar impulso pontual no USD sem alterar o quadro macro bearish."
     },
     {
       "pair": "US10Y",
@@ -73,19 +73,18 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Os yields do Tesouro de dez anos apresentam estrutura bullish consolidada nos timeframes intermediários — H4, H1 e M15 alinhados em alta — sinalizando pressão de alta sobre as taxas no curto e médio prazo. O D1 ainda mantém viés bearish de longo prazo, indicando que a recuperação dos yields ocorre dentro de contexto macro ainda baixista. O OB bullish no H1 oferece suporte para continuação da alta dos yields no intraday. Yields em alta tendem a fortalecer o USD, pressionando ouro e pares como EUR e GBP, ao mesmo tempo que podem limitar avanços em ativos de risco como BTC e NAS100."
+      "text": "Os yields do Tesouro de dez anos apresentam divergência entre temporalidades: a estrutura diária é bearish, indicando tendência de queda de yields no médio prazo, enquanto H4, H1 e M15 estão em viés bullish, refletindo recuperação dos yields no curto prazo. Essa recuperação intradiária dos yields pode exercer pressão moderada sobre ativos de risco e ouro no curtíssimo prazo, gerando ruído contra o viés macro favorável ao risk-on. O contexto de queda estrutural de yields no diário permanece como pano de fundo de médio prazo favorável a equities e metais. Invalidação da recuperação intradiária caso a estrutura do H4 perca o CHoCH de alta recente."
     }
   ],
   "llm_narratives": {
-    "XAUUSD": "Bias D1 e H4 plenamente alinhados em baixa, confirmando pressão vendedora de médio prazo no ouro. O movimento de alta no M15 representa pullback contra a tendência principal, com potencial de buscar liquidez acima antes de retomar a queda. A zona de OB bearish no M15 é a principal região de interesse para gatilho vendedor alinhado à estrutura macro. Abaixo, a liquidez represada é o alvo natural; invalidação do cenário ocorre com rompimento estrutural altista no H4.",
-    "GBPUSD": "Estrutura conflitante: D1 em alta mas H4 e H1 bearish, sinalizando fase corretiva dentro de tendência maior. O M15 exibe recuperação de curto prazo que pode alcançar a zona de OB bearish acima, configurando oportunidade de venda alinhada ao H4. O OB bullish no M15 abaixo serve como suporte caso o preço recue antes de novo impulso vendedor. O evento de Sentimento do Consumidor americano pode pressionar o par caso os dados venham fortes, reforçando o USD e acentuando a queda no H4.",
-    "EURUSD": "Assim como a GBP, o EUR tem D1 bullish mas H4 e H1 claramente bearish, indicando correção dentro de tendência maior. O M15 tenta recuperação de curto prazo com apoio em OBs bullish abaixo, mas a zona de OB bearish no H1 acima representa resistência estrutural relevante. O cenário preferencial é rejeição nessa região de oferta com continuação da queda alinhada ao H4. Dado positivo de Sentimento do Consumidor americano pode amplificar a pressão vendedora e antecipar o gatilho.",
-    "USDJPY": "Bias fortemente bullish com D1, H4 e H1 todos alinhados em alta — estrutura das mais nítidas entre os ativos monitorados. O M15 exibe correção de curto prazo que representa oportunidade de compra na zona de OB bullish abaixo, alinhada à tendência principal em todos os timeframes relevantes. A liquidez acumulada acima é o alvo natural para continuação. Yields em recuperação intermediária reforçam o viés de fortalecimento do USD, sustentando o par; invalidação apenas com quebra estrutural bearish no H4.",
-    "BTCUSD": "D1 e H4 permanecem em estrutura bullish, mas H1 e M15 iniciaram movimento bearish, sugerindo fase de distribuição ou correção mais profunda no curto prazo. A zona de OB bearish no M15 acima é região de oferta de interesse para entradas vendedoras táticas dentro do contexto corretivo. A liquidez abaixo é o alvo provável do movimento antes de eventual retomada do viés macro bullish. Dado forte de Sentimento americano pode fortalecer o USD e reduzir apetite especulativo, acelerando a correção.",
-    "ETHUSD": "Estrutura semelhante ao BTC: D1 e H4 bullish mas H1 e M15 em queda, configurando pullback dentro da tendência maior. A ausência de OBs identificados no curto prazo sugere que o preço pode buscar liquidez abaixo antes de encontrar suporte estrutural relevante. A falta de zona de demanda clara no M15 eleva o risco de continuação bearish no intraday. Viés operacional favorece paciência até que estruturas de suporte nos timeframes menores sejam estabelecidas e confirmem reacumulação.",
-    "NAS100": "Bias amplamente bullish com D1, H4 e H1 todos alinhados em alta, tornando este um dos setups mais favoráveis para compra entre os ativos monitorados. O M15 exibe correção com OB bearish acima que pode limitar o avanço imediato, mas o cenário preferencial é retração para zona de suporte antes de retomada da alta estrutural. A liquidez acima é o alvo de médio prazo. Dado de Sentimento do Consumidor acima do esperado pode servir de catalisador para o impulso comprador, reforçando o alinhamento de todos os timeframes.",
-    "DXY": "D1 e H4 ambos bearish, confirmando enfraquecimento estrutural do dólar no médio prazo. H1 e M15 mostram recuperação de curto prazo — movimento contra a tendência principal que pode testar liquidez acima antes de retomar a queda. O OB bullish no M15 abaixo sustenta o pullback atual. O Michigan Sentiment é o principal catalisador do dia: leitura acima do esperado poderia intensificar a recuperação de curto prazo, enquanto dado fraco aceleraria a queda alinhada ao viés de médio prazo do D1 e H4.",
-    "US10Y": "Os yields do Tesouro de dez anos apresentam estrutura bullish consolidada nos timeframes intermediários — H4, H1 e M15 alinhados em alta — sinalizando pressão de alta sobre as taxas no curto e médio prazo. O D1 ainda mantém viés bearish de longo prazo, indicando que a recuperação dos yields ocorre dentro de contexto macro ainda baixista. O OB bullish no H1 oferece suporte para continuação da alta dos yields no intraday. Yields em alta tendem a fortalecer o USD, pressionando ouro e pares como EUR e GBP, ao mesmo tempo que podem limitar avanços em ativos de risco como BTC e NAS100."
-  },
-  "bias_refreshed_at": "2026-04-24 11:00:01 -0300"
+    "XAUUSD": "D1 e H4 estão alinhados em viés bearish, estabelecendo pressão vendedora dominante nas maiores temporalidades. O H1 registrou CHoCH de alta recente, criando zona de demanda intradiária que está servindo como suporte imediato ao preço atual. O cenário de curto prazo aponta para possível busca à liquidez acima, mas a zona de oferta M15 acima do preço representa resistência estrutural e gatilho provável de reversão alinhada ao bias macro. Invalidação do viés baixista somente com rompimento acima do CHoCH bearish do H4.",
+    "GBPUSD": "Estrutura mista: D1 bullish em contraste com H4 e H1 bearish, indicando que o movimento ascendente diário está em fase corretiva nos timeframes intermediários. O M15 esboça recuperação com BOS de alta recente, mas ainda inserido dentro do contexto de pressão vendedora nos frames intermediários. A zona de demanda M15 abaixo do preço atual é o suporte de curto prazo mais relevante para eventual retomada compradora. O dado de Michigan pode influenciar o par via DXY, reforçando ou limitando o impulso de alta do M15.",
+    "EURUSD": "Contexto análogo ao GBPUSD: D1 bullish contraposto por H4 e H1 bearish, sinalizando fase corretiva dentro de tendência diária ascendente. O M15 registrou BOS de alta, sugerindo tentativa de recuperação no curtíssimo prazo com as zonas de demanda M15 abaixo funcionando como suporte. A fraqueza estrutural do DXY nas maiores temporalidades favorece o viés comprador do EURUSD no médio prazo. O dado de Michigan pode ser o catalisador que define a direção imediata do par, acelerando ou interrompendo a recuperação do M15.",
+    "USDJPY": "D1, H4 e H1 alinhados em viés bullish, configurando uma das estruturas mais coesas e direcionais entre os ativos monitorados. O M15 apresenta retração bearish momentânea com zona de oferta M15 acima funcionando como resistência de curto prazo. O cenário provável é de pullback controlado no M15 reabastecendo demanda antes de retomada de alta em direção à liquidez acima. Invalidação do bias bullish apenas com quebra estrutural no H1 para baixo, o que ainda não ocorreu.",
+    "BTCUSD": "D1 e H4 alinhados em viés bullish, mantendo contexto macro favorável para continuação de alta. O H1 ainda carrega estrutura bearish após CHoCH de baixa, mas o M15 realizou CHoCH de alta sinalizando possível reversão do movimento corretivo no intradiário. A zona de demanda M15 abaixo representa suporte relevante para eventual recuo antes de nova perna de alta. A liquidez acima permanece como alvo primário dentro do viés macro dominante, com correlação positiva ao ambiente de risk-on favorecido pela fraqueza do DXY.",
+    "ETHUSD": "D1 e H4 alinhados em viés bullish, com H1 ainda bearish após BOS de baixa, porém o M15 já registrou CHoCH de alta sinalizando retomada compradora no curtíssimo prazo. Comportamento correlacionado ao Bitcoin e sujeito ao mesmo viés macro favorável a ativos de risco. A zona de demanda M15 abaixo é suporte relevante; a liquidez imediatamente acima do preço é o primeiro alvo provável. Invalidação do viés intradiário comprador caso o M15 perca o CHoCH de alta recente.",
+    "NAS100": "Todas as temporalidades analisadas — D1, H4, H1 e M15 — estão alinhadas em viés bullish, configurando a estrutura mais consistente e direcional entre todos os ativos monitorados. Não há zonas de oferta relevantes mapeadas acima do preço atual, reduzindo a resistência estrutural imediata. A liquidez abaixo representa a única referência de suporte próximo e zona de interesse para entradas compradoras em eventual recuo. O viés é inequivocamente comprador em todos os frames; qualquer retração é interpretada como oportunidade de entrada a favor da tendência dominante.",
+    "DXY": "D1 e H4 alinhados em viés bearish, confirmando fraqueza estrutural do dólar nas maiores temporalidades. O H1 e M15 esboçam recuperação técnica de curto prazo, com zona de demanda M15 servindo de suporte para esse bounce intradiário. Esse repique é interpretado como correção dentro de tendência baixista maior, e não como reversão de viés. A fraqueza estrutural do DXY é o pano de fundo que sustenta o viés de alta em pares majors como EURUSD e GBPUSD, além de beneficiar ouro e cripto. O dado de Michigan pode gerar impulso pontual no USD sem alterar o quadro macro bearish.",
+    "US10Y": "Os yields do Tesouro de dez anos apresentam divergência entre temporalidades: a estrutura diária é bearish, indicando tendência de queda de yields no médio prazo, enquanto H4, H1 e M15 estão em viés bullish, refletindo recuperação dos yields no curto prazo. Essa recuperação intradiária dos yields pode exercer pressão moderada sobre ativos de risco e ouro no curtíssimo prazo, gerando ruído contra o viés macro favorável ao risk-on. O contexto de queda estrutural de yields no diário permanece como pano de fundo de médio prazo favorável a equities e metais. Invalidação da recuperação intradiária caso a estrutura do H4 perca o CHoCH de alta recente."
+  }
 }
