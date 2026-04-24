@@ -1,6 +1,6 @@
 {
   "date": "24/04/2026",
-  "time": "10:30",
+  "time": "10:45",
   "macro": "O ambiente macro permanece dominado pela incerteza do Fed em relação ao ritmo de cortes de juros, com o mercado reprecificando expectativas diante de dados mistos de inflação e emprego. Geopoliticamente, tensões comerciais e instabilidade em mercados emergentes sustentam demanda por ativos de refúgio. A estrutura do DXY aponta para fraqueza de médio prazo com D1 e H4 alinhados em baixa, enquanto yields do Tesouro exibem recuperação intermediária nos tempos menores, criando tensão entre pressão vendedora no dólar e suporte parcial a juros. O evento do dia — Michigan Consumer Sentiment Final (impacto médio) — pode gerar volatilidade pontual no USD e em pares correlacionados caso a leitura surpreenda as expectativas, funcionando como catalisador direcional para o fechamento da semana.",
   "assets": [
     {
@@ -56,7 +56,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "Bias amplamente bullish com D1, H4 e H1 todos alinhados em alta, tornando este um dos setups mais favoráveis para compra entre os ativos monitorados. O M15 exibe correção com OB bearish acima que pode limitar o avanço imediato, mas o cenário preferencial é retração para zona de suporte antes de retomada da alta estrutural. A liquidez acima é o alvo de médio prazo. Dado de Sentimento do Consumidor acima do esperado pode servir de catalisador para o impulso comprador, reforçando o alinhamento de todos os timeframes."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "D1 e H4 ambos bearish, confirmando enfraquecimento estrutural do dólar no médio prazo. H1 e M15 mostram recuperação de curto prazo — movimento contra a tendência principal que pode testar liquidez acima antes de retomar a queda. O OB bullish no M15 abaixo sustenta o pullback atual. O Michigan Sentiment é o principal catalisador do dia: leitura acima do esperado poderia intensificar a recuperação de curto prazo, enquanto dado fraco aceleraria a queda alinhada ao viés de médio prazo do D1 e H4.",
     "US10Y": "Os yields do Tesouro de dez anos apresentam estrutura bullish consolidada nos timeframes intermediários — H4, H1 e M15 alinhados em alta — sinalizando pressão de alta sobre as taxas no curto e médio prazo. O D1 ainda mantém viés bearish de longo prazo, indicando que a recuperação dos yields ocorre dentro de contexto macro ainda baixista. O OB bullish no H1 oferece suporte para continuação da alta dos yields no intraday. Yields em alta tendem a fortalecer o USD, pressionando ouro e pares como EUR e GBP, ao mesmo tempo que podem limitar avanços em ativos de risco como BTC e NAS100."
   },
-  "bias_refreshed_at": "2026-04-24 10:30:02 -0300"
+  "bias_refreshed_at": "2026-04-24 10:45:02 -0300"
 }
