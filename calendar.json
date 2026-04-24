@@ -1,14 +1,4 @@
 {
-  "updated_at": "2026-04-24 10:45 BRT",
-  "events": [
-    {
-      "title": "Michigan Consumer Sentiment Final",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-24",
-      "time": "11:00",
-      "forecast": "47.6",
-      "previous": "53.3"
-    }
-  ]
+  "updated_at": "2026-04-24 11:00 BRT",
+  "events": []
 }
