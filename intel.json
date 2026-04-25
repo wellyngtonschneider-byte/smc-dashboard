@@ -1,6 +1,6 @@
 {
   "date": "24/04/2026",
-  "time": "21:30",
+  "time": "21:45",
   "macro": "Sem eventos de alto ou médio impacto na agenda hoje, o fluxo é ditado puramente pela estrutura técnica e pelo posicionamento macro acumulado. O dólar mantém fraqueza estrutural nos timeframes maiores, o que favorece ativos de risco e commodities denominadas em USD. Os yields do Tesouro de dez anos apresentam recuperação de curto prazo dentro de um contexto diário ainda descendente, gerando tensão entre o alívio do dólar e o custo de capital. A leitura integrada de DXY e yields sugere um ambiente de transição: recuperação técnica intradiária do dólar sem reversão de tendência maior, o que mantém o viés favorável para pares contra o USD e para ativos de risco no horizonte mais amplo.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Fraqueza estrutural consolidada com D1 e H4 ambos bearish, confirmando o contexto macro de dólar pressionado que sustenta os movimentos nos demais ativos. H1 e M15 mostram recuperação técnica de curto prazo, interpretada como contra-tendência dentro do movimento maior de baixa. Liquidez imediatamente acima do preço atual pode ser o alvo dessa recuperação intradiária antes de eventual retomada da tendência maior. Cenário primário: repique de curto prazo no dólar sem reversão de tendência; qualquer força adicional do DXY tende a ser absorvida; viés macro permanece bearish enquanto H4 mantiver estrutura descendente.",
     "US10Y": "Yields em recuperação técnica de curto prazo com H4, H1 e M15 todos bullish, indicando pressão ascendente nos juros no horizonte intradiário e de curto prazo. Porém o contexto diário permanece bearish para yields, sinalizando que essa recuperação ocorre dentro de uma tendência maior de queda dos juros. A alta intradiária nos yields pode adicionar algum suporte técnico ao dólar nos próximos períodos, criando vento contrário moderado para ativos de risco e para o ouro no curto prazo. Cenário primário: yields testam liquidez acima próxima antes de potencial retomada da tendência descendente do D1; conflito entre recuperação técnica e tendência maior mantém o ambiente macro relativamente incerto para o dólar."
   },
-  "bias_refreshed_at": "2026-04-24 21:30:01 -0300"
+  "bias_refreshed_at": "2026-04-24 21:45:01 -0300"
 }
