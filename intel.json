@@ -1,11 +1,11 @@
 {
-  "date": "24/04/2026",
-  "time": "22:45",
+  "date": "27/04/2026",
+  "time": "06:00",
   "macro": "Sem eventos de alto ou médio impacto na agenda hoje, o fluxo é ditado puramente pela estrutura técnica e pelo posicionamento macro acumulado. O dólar mantém fraqueza estrutural nos timeframes maiores, o que favorece ativos de risco e commodities denominadas em USD. Os yields do Tesouro de dez anos apresentam recuperação de curto prazo dentro de um contexto diário ainda descendente, gerando tensão entre o alívio do dólar e o custo de capital. A leitura integrada de DXY e yields sugere um ambiente de transição: recuperação técnica intradiária do dólar sem reversão de tendência maior, o que mantém o viés favorável para pares contra o USD e para ativos de risco no horizonte mais amplo.",
   "assets": [
     {
       "pair": "XAUUSD",
-      "d1": "bearish",
+      "d1": "neutro",
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bearish",
@@ -22,7 +22,7 @@
     {
       "pair": "EURUSD",
       "d1": "bullish",
-      "h4": "bearish",
+      "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
       "text": "Contexto misto com D1 bullish em conflito com H4 bearish, criando zona de indecisão nos timeframes médios. H1 e M15 recentemente reverteram para cima, sugerindo momentum intradiário positivo, mas o H4 bearish funciona como teto de pressão estrutural. A fraqueza do dólar no macro sustenta o D1 altista, porém a estrutura H4 exige cautela. OBs bullish abaixo do preço atual demarcam zonas de suporte técnico. Cenário primário: tentativa de continuação altista intradiária enquanto o H4 não confirmar reversão; viés condicional até que H4 e D1 se reconciliem em direção única."
@@ -30,7 +30,7 @@
     {
       "pair": "USDJPY",
       "d1": "bullish",
-      "h4": "bullish",
+      "h4": "bearish",
       "h1": "bullish",
       "m15": "bearish",
       "text": "Bias altista sólido com D1, H4 e H1 todos alinhados para cima, com apenas o M15 em correção de baixa momentânea. Essa divergência de curto prazo no M15 é lida como pullback técnico dentro de tendência maior de alta. OBs bearish no M15 acima do preço atual representam zonas de oferta que podem ser testadas durante a recuperação intradiária. Cenário primário: correção de M15 se resolve com reteste de zonas de oferta antes de continuação altista em direção à liquidez acima; invalidação do viés exigiria quebra estrutural no H1 ou H4."
@@ -48,7 +48,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "Semelhante ao BTC com D1 e H4 bullish no macro, mas H1 ainda bearish enquanto M15 acabou de reverter para cima com BOS recente. Essa divergência entre H1 bearish e M15 bullish nascente sugere início de recuperação intradiária ainda sem confirmação no frame superior. OB bullish de M15 abaixo do preço atual como zona de suporte técnico relevante. Cenário primário: M15 busca liquidez acima enquanto H1 se mantém como resistência estrutural; confirmação de viés altista requer CHoCH no H1 para alinhar com o contexto macro de D1 e H4."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Fraqueza estrutural consolidada com D1 e H4 ambos bearish, confirmando o contexto macro de dólar pressionado que sustenta os movimentos nos demais ativos. H1 e M15 mostram recuperação técnica de curto prazo, interpretada como contra-tendência dentro do movimento maior de baixa. Liquidez imediatamente acima do preço atual pode ser o alvo dessa recuperação intradiária antes de eventual retomada da tendência maior. Cenário primário: repique de curto prazo no dólar sem reversão de tendência; qualquer força adicional do DXY tende a ser absorvida; viés macro permanece bearish enquanto H4 mantiver estrutura descendente.",
     "US10Y": "Yields em recuperação técnica de curto prazo com H4, H1 e M15 todos bullish, indicando pressão ascendente nos juros no horizonte intradiário e de curto prazo. Porém o contexto diário permanece bearish para yields, sinalizando que essa recuperação ocorre dentro de uma tendência maior de queda dos juros. A alta intradiária nos yields pode adicionar algum suporte técnico ao dólar nos próximos períodos, criando vento contrário moderado para ativos de risco e para o ouro no curto prazo. Cenário primário: yields testam liquidez acima próxima antes de potencial retomada da tendência descendente do D1; conflito entre recuperação técnica e tendência maior mantém o ambiente macro relativamente incerto para o dólar."
   },
-  "bias_refreshed_at": "2026-04-24 22:45:02 -0300"
+  "bias_refreshed_at": "2026-04-27 06:00:01 -0300"
 }
