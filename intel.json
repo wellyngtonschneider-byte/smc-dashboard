@@ -1,6 +1,6 @@
 {
   "date": "27/04/2026",
-  "time": "12:30",
+  "time": "12:45",
   "macro": "O dólar mantém fraqueza estrutural com DXY alinhado bearish em D1 e H4, criando contexto favorável a ativos denominados em dólar e pares de moedas contra o USD. Os yields do tesouro de dez anos apresentam elevação de curto prazo, mas a estrutura diária ainda aponta para queda, gerando ambiente ambíguo para ativos de risco — pressão altista nos yields pode limitar o apetite especulativo caso se intensifique. O discurso do governador Ueda e o dado de desemprego japonês são os catalisadores mais relevantes do dia, com potencial para volatilidade significativa nos pares JPY. O Dallas Fed Manufacturing adiciona risco de movimento no dólar durante a sessão americana e deve ser monitorado como gatilho de reposicionamento.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "D1 e H4 alinhados bearish confirmam fraqueza estrutural do dólar — contexto que suporta o bias bullish em pares como GBPUSD, EURUSD e ativos de risco em geral. H1 e M15 em recuperação intraday indicam bounce corretivo que pode testar liquidez acima antes de retomada da pressão vendedora. O Dallas Fed Manufacturing é o evento de maior risco para o DXY hoje, podendo amplificar ou interromper temporariamente o bounce corretivo em curso.",
     "US10Y": "Yields em alta de curto a médio prazo com H4, H1 e M15 em estrutura bullish, porém a estrutura diária permanece bearish, sinalizando que a elevação dos yields é ainda de natureza corretiva dentro do movimento macro de queda. Ambiente de yields ambíguo — pressão ascendente de curto prazo pode gerar leve aversão a risco caso se intensifique, mas o viés diário descendente limita o potencial de alta sustentada e favorece eventual retomada da queda nos yields em horizonte maior."
   },
-  "bias_refreshed_at": "2026-04-27 12:30:01 -0300"
+  "bias_refreshed_at": "2026-04-27 12:45:02 -0300"
 }
