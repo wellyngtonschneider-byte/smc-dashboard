@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-27 11:15 BRT",
+  "updated_at": "2026-04-27 11:30 BRT",
   "events": [
-    {
-      "title": "Dallas Fed Manufacturing Index",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-27",
-      "time": "11:30",
-      "forecast": "—",
-      "previous": "-0.2"
-    },
     {
       "title": "Unemployment Rate",
       "country": "JPY",
