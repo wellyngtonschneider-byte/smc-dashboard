@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26 22:45 BRT",
+  "updated_at": "2026-04-27 06:00 BRT",
   "events": [
     {
       "title": "CBI Distributive Trades",
@@ -36,6 +36,69 @@
       "time": "21:00",
       "forecast": "—",
       "previous": "—"
+    },
+    {
+      "title": "BoJ Interest Rate Decision",
+      "country": "JPY",
+      "impact": "High",
+      "date": "2026-04-28",
+      "time": "00:00",
+      "forecast": "0.75",
+      "previous": "0.75"
+    },
+    {
+      "title": "BoJ Quarterly Outlook Report",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-28",
+      "time": "00:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ADP Employment Change Weekly",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-28",
+      "time": "09:15",
+      "forecast": "—",
+      "previous": "54.75"
+    },
+    {
+      "title": "S&P/Case-Shiller Home Price YoY",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-28",
+      "time": "10:00",
+      "forecast": "1.1",
+      "previous": "1.2"
+    },
+    {
+      "title": "CB Consumer Confidence",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-28",
+      "time": "11:00",
+      "forecast": "89.2",
+      "previous": "91.8"
+    },
+    {
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-28",
+      "time": "15:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "API Crude Oil Stock Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-28",
+      "time": "17:30",
+      "forecast": "—",
+      "previous": "-4.4"
     }
   ]
 }
