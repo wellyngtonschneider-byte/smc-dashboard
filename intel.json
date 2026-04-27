@@ -1,6 +1,6 @@
 {
   "date": "27/04/2026",
-  "time": "09:15",
+  "time": "09:30",
   "macro": "O dólar permanece estruturalmente fraco nas maiores timeframes, com o DXY alinhado baixista no diário e no H4, favorecendo pares de risco e commodities precificadas em dólar. Os yields do Tesouro americano de dez anos apresentam divergência entre o macro baixista e a recuperação de curto prazo, criando ambiente de incerteza para ativos de risco. O evento de maior impacto do dia é o discurso do Governador Ueda do BoJ, que pode gerar volatilidade significativa no iene e reposicionamento em pares JPY; a divulgação do desemprego japonês anteriormente também contribui para esse contexto. O Dallas Fed Manufacturing, de impacto médio, oferece leitura marginal sobre o setor industrial americano e pode provocar reação pontual no dólar, sem alterar o viés estrutural dominante.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Bias baixista dominante com diário e H4 alinhados para baixo — DXY estruturalmente em queda, confirmando o ambiente de dólar fraco que sustenta pares como EURUSD e GBPUSD e ativos de risco. O H1 e M15 apresentam recuperação pontual de curto prazo, caracterizando um pullback dentro da tendência baixista maior e potencial varredura de liquidez acima antes da retomada. O Dallas Fed Manufacturing hoje pode gerar reação temporária no dólar, mas o viés estrutural baixista dominante permanece intacto enquanto a estrutura de H4 não for comprometida. Cenário provável: exaustão do pullback de curto prazo e retomada da queda estrutural.",
     "US10Y": "Os yields do Tesouro de dez anos apresentam dicotomia estrutural clara: no macro, os yields estão em queda após CHoCH baixista no diário, indicando pressão compradora em treasuries e contexto de expectativa de afrouxamento monetário ou aversão ao risco no longo prazo. No curto e médio prazo, porém, H4, H1 e M15 mostram yields em alta com BOS sequenciais, sinalizando recuperação temporária dos yields que ainda não invalidou o viés macro. A liquidez acima no curto prazo é o alvo imediato dos yields; após varredura, a tendência macro de queda dos yields tende a retomar pressão. Monitorar dados americanos do dia para confirmar se a recuperação de curto prazo perde força."
   },
-  "bias_refreshed_at": "2026-04-27 09:15:01 -0300"
+  "bias_refreshed_at": "2026-04-27 09:30:01 -0300"
 }
