@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-27 20:15 BRT",
+  "updated_at": "2026-04-27 20:30 BRT",
   "events": [
-    {
-      "title": "Unemployment Rate",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-27",
-      "time": "20:30",
-      "forecast": "2.6",
-      "previous": "2.6"
-    },
     {
       "title": "BoJ Gov Ueda Speech",
       "country": "JPY",
