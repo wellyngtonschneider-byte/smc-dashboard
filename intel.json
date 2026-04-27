@@ -1,6 +1,6 @@
 {
   "date": "27/04/2026",
-  "time": "19:00",
+  "time": "19:15",
   "macro": "O contexto macroeconômico segue marcado pela pressão sobre o dólar, com o DXY exibindo estrutura bearish nos timeframes maiores, favorecendo pares de risco e commodities dolarizadas. Os yields do Tesouro americano de dez anos mostram recuperação técnica de curto prazo, mas permanecem inseridos em estrutura diária de queda, criando leitura mista que pode limitar movimentos extremos de risk-on. No front japonês, os dados de desemprego e o discurso do governador Ueda agendados para o final do dia representam os principais catalisadores de volatilidade, com potencial de impacto direto no iene e reflexos cruzados em ouro e dólar. O cenário macro geral aponta para continuidade do enfraquecimento do USD, com risco de reversão pontual caso os eventos japoneses sinalizem postura hawkish do BoJ.",
   "assets": [
     {
@@ -8,7 +8,7 @@
       "d1": "neutro",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "O ouro opera com viés bearish dominante nos timeframes intermediários e curtos, com o D1 ainda neutro mas sem força compradora evidente. A estrutura de médio prazo já foi quebrada para baixo, e as quebras de estrutura subsequentes no H1 e M15 confirmam o momentum vendedor em curso. A zona de order block bearish no H1 acima do preço atual representa a principal região de interesse para entrada vendedora em caso de reprecificação técnica. O gatilho mais provável é uma recuperação até essa zona de oferta seguida de rejeição, com alvo na liquidez acumulada abaixo do mercado."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "O índice do dólar mantém estrutura bearish nos timeframes maiores — D1 e H4 — reforçando o contexto de enfraquecimento do USD que sustenta pares de risco e commodities. A recuperação técnica em curso nos timeframes menores — H1 e M15 — é interpretada como contra-tendência dentro do movimento de baixa maior, sem força para alterar o viés macro. A liquidez acumulada acima é o alvo provável dessa correção técnica antes de nova pressão vendedora retomar o controle. Enquanto essa estrutura bearish nos timeframes maiores for mantida, o contexto macro favorece EUR, GBP e ativos de risco.",
     "US10Y": "Os yields do Tesouro americano de dez anos apresentam recuperação técnica nos timeframes de curto e médio prazo — H4, H1 e M15 — mas a estrutura diária permanece bearish, indicando que a alta de yields em curso é corretiva dentro de uma tendência maior de queda. Yields em recuperação de curto prazo podem exercer pressão sobre ativos de risco e ouro no intraday, gerando ruído nos movimentos de risco. A liquidez acumulada acima nos timeframes menores é o alvo da continuidade técnica ascendente, mas a estrutura diária bearish permanece como o driver macro relevante. A convergência entre DXY bearish e yields ainda sem direção confirmada de médio prazo sugere indefinição macro temporária, favorecendo cautela em posições direcionais mais longas."
   },
-  "bias_refreshed_at": "2026-04-27 19:00:02 -0300"
+  "bias_refreshed_at": "2026-04-27 19:15:01 -0300"
 }
