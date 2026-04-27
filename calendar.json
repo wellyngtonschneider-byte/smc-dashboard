@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-27 06:45 BRT",
+  "updated_at": "2026-04-27 07:00 BRT",
   "events": [
-    {
-      "title": "CBI Distributive Trades",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-27",
-      "time": "07:00",
-      "forecast": "-48",
-      "previous": "-52"
-    },
     {
       "title": "Dallas Fed Manufacturing Index",
       "country": "USD",
