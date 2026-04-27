@@ -1,6 +1,6 @@
 {
   "date": "27/04/2026",
-  "time": "10:45",
+  "time": "11:00",
   "macro": "O dólar permanece estruturalmente fraco nas maiores timeframes, com o DXY alinhado baixista no diário e no H4, favorecendo pares de risco e commodities precificadas em dólar. Os yields do Tesouro americano de dez anos apresentam divergência entre o macro baixista e a recuperação de curto prazo, criando ambiente de incerteza para ativos de risco. O evento de maior impacto do dia é o discurso do Governador Ueda do BoJ, que pode gerar volatilidade significativa no iene e reposicionamento em pares JPY; a divulgação do desemprego japonês anteriormente também contribui para esse contexto. O Dallas Fed Manufacturing, de impacto médio, oferece leitura marginal sobre o setor industrial americano e pode provocar reação pontual no dólar, sem alterar o viés estrutural dominante.",
   "assets": [
     {
@@ -24,7 +24,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "Alinhamento bullish em todas as timeframes — diário, H4, H1 e M15 confirmam viés comprador de forma consistente, com o par operando próximo à liquidez imediata acima, sugerindo possível varredura dessa liquidez antes de eventual pullback. Os order blocks bullish de H4 e M15 abaixo do preço atual servem como zonas de reacumulação em caso de correção saudável. Cenário provável: varredura da liquidez acima seguida de recuo até a zona de OB mais próxima para nova perna de alta. Invalidação com quebra do OB de H4 e comprometimento da estrutura diária bullish."
     },
     {
@@ -32,7 +32,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "Estrutura dividida e de alto risco: o diário é bullish mas o H4 virou baixista após CHoCH de queda, configurando conflito de bias entre as referências dominantes — sem alinhamento claro, o par exige cautela redobrada. O H1 retomou alta mas o M15 voltou baixista, refletindo indecisão e fluxo rotacional. Os order blocks bullish de H1 e M15 logo abaixo do preço atual são as zonas de interesse para suporte. Os dois eventos do JPY hoje — desemprego e discurso do Governador Ueda — são catalisadores de alta volatilidade: tom hawkish valida o H4 baixista e pressiona o par para baixo, enquanto postura neutra ou dovish favorece recuperação alinhada ao diário bullish. Aguardar definição pós-eventos antes de qualquer posicionamento."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Bias baixista dominante com diário e H4 alinhados para baixo — DXY estruturalmente em queda, confirmando o ambiente de dólar fraco que sustenta pares como EURUSD e GBPUSD e ativos de risco. O H1 e M15 apresentam recuperação pontual de curto prazo, caracterizando um pullback dentro da tendência baixista maior e potencial varredura de liquidez acima antes da retomada. O Dallas Fed Manufacturing hoje pode gerar reação temporária no dólar, mas o viés estrutural baixista dominante permanece intacto enquanto a estrutura de H4 não for comprometida. Cenário provável: exaustão do pullback de curto prazo e retomada da queda estrutural.",
     "US10Y": "Os yields do Tesouro de dez anos apresentam dicotomia estrutural clara: no macro, os yields estão em queda após CHoCH baixista no diário, indicando pressão compradora em treasuries e contexto de expectativa de afrouxamento monetário ou aversão ao risco no longo prazo. No curto e médio prazo, porém, H4, H1 e M15 mostram yields em alta com BOS sequenciais, sinalizando recuperação temporária dos yields que ainda não invalidou o viés macro. A liquidez acima no curto prazo é o alvo imediato dos yields; após varredura, a tendência macro de queda dos yields tende a retomar pressão. Monitorar dados americanos do dia para confirmar se a recuperação de curto prazo perde força."
   },
-  "bias_refreshed_at": "2026-04-27 10:45:01 -0300"
+  "bias_refreshed_at": "2026-04-27 11:00:01 -0300"
 }
