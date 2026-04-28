@@ -1,6 +1,6 @@
 {
   "date": "28/04/2026",
-  "time": "10:45",
+  "time": "11:00",
   "macro": "O dólar americano mantém estrutura de tendência baixista alinhada nas temporalidades maiores, enquanto os yields do Tesouro de dez anos exibem recuperação técnica de curto prazo dentro de um contexto diário ainda frágil. O calendário de hoje concentra risco relevante no período americano, com dados de emprego ADP e Confiança do Consumidor podendo intensificar a volatilidade intradiária no USD e nos ativos correlacionados. O discurso da presidente do BCE, Lagarde, adiciona camada de risco para o euro e pode servir de catalisador para definição direcional nos pares europeus. A correlação inversa entre dólar estruturalmente fraco e ativos de risco permanece como pano de fundo dominante, favorecendo posicionamento em ativos que confirmem alinhamento altista nas temporalidades maiores.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Dólar em tendência baixista alinhada nas temporalidades maiores D1 e H4, com recuperação técnica de curto prazo em H1 e M15 caracterizando pullback dentro da estrutura de baixa dominante. O contexto de dólar estruturalmente fraco serve como pano de fundo favorável para ativos de risco e commodities denominadas em USD, mantendo correlação inversa relevante com EURUSD e XAUUSD. Dados de emprego e Confiança do Consumidor são os principais catalisadores intradiários para o dólar hoje; surpresas positivas podem fortalecer o pullback de curto prazo sem alterar o bias estrutural baixista. A recuperação de curto prazo deve ser monitorada como zona de interesse para operações alinhadas à tendência maior.",
     "US10Y": "Yields do Tesouro americano de dez anos apresentam recuperação nas temporalidades intradiárias, com estrutura bullish em H4, H1 e M15 indicando pressão de alta sobre os juros longos no curto prazo. Contudo, o contexto diário ainda aponta para estrutura de baixa nos yields, sinalizando que a tendência maior permanece de queda nas taxas longas e limitando a convicção no movimento de recuperação. A combinação de yields em recuperação técnica com dólar estruturalmente fraco cria tensão entre classes de ativos e pode gerar volatilidade não-direcional nos pares USD. Os dados de emprego ADP e Confiança do Consumidor são os eventos com maior potencial de impacto nos yields hoje, podendo definir se a recuperação intradiária tem continuidade ou é revertida."
   },
-  "bias_refreshed_at": "2026-04-28 10:45:01 -0300"
+  "bias_refreshed_at": "2026-04-28 11:00:02 -0300"
 }
