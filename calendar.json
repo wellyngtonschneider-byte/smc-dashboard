@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-27 22:45 BRT",
+  "updated_at": "2026-04-28 07:45 BRT",
   "events": [
-    {
-      "title": "BoJ Interest Rate Decision",
-      "country": "JPY",
-      "impact": "High",
-      "date": "2026-04-28",
-      "time": "00:00",
-      "forecast": "0.75",
-      "previous": "0.75"
-    },
-    {
-      "title": "BoJ Quarterly Outlook Report",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-28",
-      "time": "00:00",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "ADP Employment Change Weekly",
       "country": "USD",
@@ -43,7 +25,7 @@
       "impact": "Medium",
       "date": "2026-04-28",
       "time": "11:00",
-      "forecast": "89.2",
+      "forecast": "89",
       "previous": "91.8"
     },
     {
@@ -63,6 +45,204 @@
       "time": "17:30",
       "forecast": "—",
       "previous": "-4.4"
+    },
+    {
+      "title": "Housing Starts YoY",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "02:00",
+      "forecast": "-28.5",
+      "previous": "-4.9"
+    },
+    {
+      "title": "Economic Sentiment",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "06:00",
+      "forecast": "95.2",
+      "previous": "96.6"
+    },
+    {
+      "title": "MBA 30-Year Mortgage Rate",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "08:00",
+      "forecast": "—",
+      "previous": "6.35"
+    },
+    {
+      "title": "Building Permits Prel",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "1.386"
+    },
+    {
+      "title": "Housing Starts",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "1.487"
+    },
+    {
+      "title": "Durable Goods Orders MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "0.5",
+      "previous": "-1.4"
+    },
+    {
+      "title": "Building Permits MoM Prel",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "-4.7"
+    },
+    {
+      "title": "Housing Starts MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Durable Goods Orders Ex Transp MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "0.4",
+      "previous": "0.8"
+    },
+    {
+      "title": "Goods Trade Balance Adv",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "-87",
+      "previous": "-83.5"
+    },
+    {
+      "title": "Building Permits MoM Prel",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Housing Starts MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "7.2"
+    },
+    {
+      "title": "Wholesale Inventories MoM Adv",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "0.8"
+    },
+    {
+      "title": "Retail Inventories Ex Autos MoM Adv",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "0.3"
+    },
+    {
+      "title": "Building Permits Prel",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "1.39",
+      "previous": "—"
+    },
+    {
+      "title": "Housing Starts",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "09:30",
+      "forecast": "1.4",
+      "previous": "—"
+    },
+    {
+      "title": "EIA Gasoline Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "11:30",
+      "forecast": "—",
+      "previous": "-4.57"
+    },
+    {
+      "title": "EIA Crude Oil Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "11:30",
+      "forecast": "—",
+      "previous": "1.925"
+    },
+    {
+      "title": "Fed Interest Rate Decision",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "15:00",
+      "forecast": "3.75",
+      "previous": "3.75"
+    },
+    {
+      "title": "Fed Press Conference",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-29",
+      "time": "15:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Retail Sales YoY",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "20:50",
+      "forecast": "0.8",
+      "previous": "-0.2"
+    },
+    {
+      "title": "Industrial Production MoM Prel",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "20:50",
+      "forecast": "1.1",
+      "previous": "-2"
     }
   ]
 }
