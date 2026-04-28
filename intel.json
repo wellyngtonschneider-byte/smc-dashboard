@@ -1,6 +1,6 @@
 {
   "date": "28/04/2026",
-  "time": "16:00",
+  "time": "16:15",
   "macro": "O dólar mantém estrutura de queda nos timeframes maiores, sugerindo pressão vendedora estrutural sobre o dólar americano e favorecendo ativos de risco e metais preciosos. Os yields do Tesouro norte-americano de dez anos apresentam divergência: enquanto a estrutura macro aponta para queda dos rendimentos, os timeframes de curto prazo mostram recuperação intraday dos yields, criando ambiente de cautela para definir correlações. O discurso da presidente do BCE, Lagarde, é o principal evento do dia e pode gerar volatilidade significativa para o euro e pares correlacionados, especialmente se houver sinalização de postura mais agressiva ou dovish sobre política monetária. O relatório de estoques de petróleo cru da API ao final do dia pode impactar expectativas inflacionárias e provocar movimento secundário no dólar e nos yields.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Estrutura macro de fraqueza do dólar com D1 e H4 alinhados bearish, contexto que favorece ativos denominados em dólar como ouro, criptoativos e pares majors contra o dólar. O H1 e M15 em bullish representam um pullback técnico de curto prazo dentro da tendência macro de baixa, sem alterar o viés estrutural. O cenário mais provável é continuação da fraqueza estrutural após esgotamento do alívio intraday. O discurso de Lagarde e os dados de petróleo podem influenciar o índice de forma secundária via fluxos de risco e expectativas inflacionárias.",
     "US10Y": "Yields do Tesouro norte-americano de dez anos apresentam estrutura macro de queda no diário, sugerindo tendência maior de compressão dos rendimentos consistente com o ambiente de fraqueza do dólar. Em contrapartida, H4, H1 e M15 estão todos em estrutura de alta dos yields, indicando recuperação técnica intraday dos rendimentos de curto prazo. O order block bullish no H1 representa zona de suporte para continuação do movimento de alta dos yields no intraday. A divergência entre estrutura macro e intraday indica recuperação técnica dentro de tendência maior de queda, com implicações mistas para o dólar e ouro."
   },
-  "bias_refreshed_at": "2026-04-28 16:00:01 -0300"
+  "bias_refreshed_at": "2026-04-28 16:15:01 -0300"
 }
