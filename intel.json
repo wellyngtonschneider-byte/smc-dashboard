@@ -1,14 +1,14 @@
 {
-  "date": "27/04/2026",
-  "time": "22:45",
+  "date": "28/04/2026",
+  "time": "07:45",
   "macro": "O ambiente macro segue marcado por postura cautelosa do Fed, sem sinalizações claras de corte de juros próximo, enquanto incertezas geopolíticas sustentam demanda por ativos de proteção. O DXY exibe fraqueza estrutural nos timeframes superiores, favorecendo pares majors contra o dólar e sustentando o apetite a risco em índices e cripto. Os yields do tesouro de dez anos recuperam no curto prazo, mas a tendência diária ainda aponta para alívio, criando tensão entre o discurso de juros altos e as expectativas do mercado. O evento mais relevante da sessão é o discurso do Governador Ueda do BoJ: qualquer tom hawkish pode pressionar o USDJPY e aumentar volatilidade no JPY, enquanto o dado de desemprego japonês serve de contexto para calibrar a leitura do mercado sobre a política monetária nipônica.",
   "assets": [
     {
       "pair": "XAUUSD",
-      "d1": "neutro",
+      "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "O ouro opera em estrutura neutra no diário, com H4 e H1 firmemente bearish após quebras de estrutura de alta relevância recentes. O M15 executa uma recuperação técnica de curto prazo, sugerindo pullback dentro da tendência vendedora dominante. A zona de OB bearish no H1 posiciona-se acima do preço atual como alvo natural do pullback; caso o preço alcance essa região sem recuperar estrutura bullish nos timeframes superiores, o cenário de continuação vendedora permanece ativo. Invalidação do viés ocorre com fechamento acima do OB H1 e recuperação da estrutura de alta no H4."
     },
     {
@@ -40,7 +40,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "O Bitcoin mantém bias bullish no diário, mas executa correção com H4 e H1 em estrutura bearish, dentro de um contexto de distribuição de médio prazo. O M15 inicia recuperação técnica, indicando potencial bounce. Múltiplos OBs bearish acima do preço atual funcionam como tetos de resistência relevantes para qualquer pullback. O cenário predominante é continuação vendedora após recuo às zonas de OB superiores, com alvo na liquidez abaixo; retomada bullish sustentada exige recuperação estrutural no H4."
     },
     {
@@ -48,7 +48,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "text": "O Ethereum espelha o padrão do Bitcoin: diário bullish dentro de correção com H4 e H1 bearish. O M15 iniciou reversão de alta, sugerindo pullback técnico de curto prazo. O OB M15 bull abaixo representa zona de suporte relevante, enquanto os OBs bearish no H4 e H1 acima funcionam como resistências estruturais. A tese predominante é de venda em pullback para as zonas de OB superiores, com alvo na liquidez abaixo; recuperação estrutural no H4 seria necessária para invalidar o viés vendedor de médio prazo."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "O índice do dólar exibe fraqueza estrutural clara nos timeframes superiores, com D1 e H4 firmemente bearish, sinalizando tendência de enfraquecimento do dólar no médio e longo prazo. No curto prazo, H1 e M15 recuperaram viés de alta, indicando pullback técnico dentro da tendência vendedora maior. Essa recuperação de curto prazo pode gerar volatilidade momentânea nos pares correlacionados, mas deve ser interpretada como movimento correctivo. O viés macro do dólar permanece fraco enquanto a estrutura diária não reverter.",
     "US10Y": "Os yields do tesouro de dez anos mostram recuperação nos timeframes de curto e médio prazo, com H4, H1 e M15 em estrutura bullish de yields, indicando pressão de alta nas taxas de juro longas no curto prazo. Contudo, a tendência diária aponta para queda dos yields, sinalizando que o movimento atual pode ser correctivo dentro de um ambiente macro de afrouxamento das tensões nos juros longos. Essa tensão entre yields subindo no curto prazo e tendência diária cadente é variável de atenção para o ouro, índices e pares de dólar — yields em recuperação favorecem USD e pressionam ativos de risco momentaneamente."
   },
-  "bias_refreshed_at": "2026-04-27 22:45:02 -0300"
+  "bias_refreshed_at": "2026-04-28 07:45:02 -0300"
 }
