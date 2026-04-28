@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 12:30 BRT",
+  "updated_at": "2026-04-28 12:45 BRT",
   "events": [
     {
       "title": "ECB President Lagarde Speech",
@@ -16,7 +16,7 @@
       "impact": "Medium",
       "date": "2026-04-28",
       "time": "17:30",
-      "forecast": "—",
+      "forecast": "0.3",
       "previous": "-4.4"
     },
     {
