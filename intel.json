@@ -1,6 +1,6 @@
 {
   "date": "27/04/2026",
-  "time": "21:00",
+  "time": "21:15",
   "macro": "O ambiente macro segue marcado por postura cautelosa do Fed, sem sinalizações claras de corte de juros próximo, enquanto incertezas geopolíticas sustentam demanda por ativos de proteção. O DXY exibe fraqueza estrutural nos timeframes superiores, favorecendo pares majors contra o dólar e sustentando o apetite a risco em índices e cripto. Os yields do tesouro de dez anos recuperam no curto prazo, mas a tendência diária ainda aponta para alívio, criando tensão entre o discurso de juros altos e as expectativas do mercado. O evento mais relevante da sessão é o discurso do Governador Ueda do BoJ: qualquer tom hawkish pode pressionar o USDJPY e aumentar volatilidade no JPY, enquanto o dado de desemprego japonês serve de contexto para calibrar a leitura do mercado sobre a política monetária nipônica.",
   "assets": [
     {
@@ -24,7 +24,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "O euro exibe alinhamento bullish em D1, H4 e H1, com o M15 em correção vendedora após BOS de baixa recente. A fraqueza do DXY no panorama macro sustenta a tese compradora. O OB H4 bull abaixo representa suporte estratégico de alta relevância, enquanto o OB M15 bear acima atua como resistência imediata a qualquer recuperação. O cenário provável é recuo ao OB H4 seguido de retomada altista em direção à liquidez acima; invalidação com perda do OB H4 e reversão estrutural no H1."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "O índice do dólar exibe fraqueza estrutural clara nos timeframes superiores, com D1 e H4 firmemente bearish, sinalizando tendência de enfraquecimento do dólar no médio e longo prazo. No curto prazo, H1 e M15 recuperaram viés de alta, indicando pullback técnico dentro da tendência vendedora maior. Essa recuperação de curto prazo pode gerar volatilidade momentânea nos pares correlacionados, mas deve ser interpretada como movimento correctivo. O viés macro do dólar permanece fraco enquanto a estrutura diária não reverter.",
     "US10Y": "Os yields do tesouro de dez anos mostram recuperação nos timeframes de curto e médio prazo, com H4, H1 e M15 em estrutura bullish de yields, indicando pressão de alta nas taxas de juro longas no curto prazo. Contudo, a tendência diária aponta para queda dos yields, sinalizando que o movimento atual pode ser correctivo dentro de um ambiente macro de afrouxamento das tensões nos juros longos. Essa tensão entre yields subindo no curto prazo e tendência diária cadente é variável de atenção para o ouro, índices e pares de dólar — yields em recuperação favorecem USD e pressionam ativos de risco momentaneamente."
   },
-  "bias_refreshed_at": "2026-04-27 21:00:01 -0300"
+  "bias_refreshed_at": "2026-04-27 21:15:02 -0300"
 }
