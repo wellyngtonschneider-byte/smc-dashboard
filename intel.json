@@ -1,6 +1,6 @@
 {
   "date": "28/04/2026",
-  "time": "14:45",
+  "time": "15:00",
   "macro": "O dólar americano mantém estrutura bearish nos timeframes maiores, sinalizando fraqueza macro do USD que permeia as correlações com commodities e pares de moedas. Os yields do tesouro de dez anos apresentam recuperação intraday dentro de um contexto macro descendente no D1, criando ambiente de risco misto onde alta de yields de curto prazo pode pressionar ativos de risco enquanto o dólar fraco sustenta metais. Os três eventos do dia — confiança do consumidor americano, discurso de Lagarde e estoques de petróleo via API — chegam em sequência e podem gerar volatilidade incremental no USD, EUR e ativos de risco respectivamente. O alinhamento bearish do DXY nos frames maiores favorece pares como EURUSD e GBPUSD no médio prazo, mas correções intraday estão ativas e requerem atenção à estrutura de curto prazo.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "D1 e H4 bearish indicam fraqueza estrutural do dólar no médio prazo, com CHoCH de baixa macro estabelecendo o viés dominante. H1 e M15 apresentam recuperação intraday após BOS de alta recente, mas este movimento ocorre contra a tendência maior e deve ser interpretado como pullback técnico em estrutura bearish. O índice de confiança do consumidor americano é o evento mais relevante para o dólar hoje — dado negativo reforçaria o bias bearish macro e pressionaria o USD. O viés geral permanece vendedor em dólar enquanto não houver reconquista de estrutura nos timeframes maiores com CHoCH de alta confirmado no H4.",
     "US10Y": "Yields em contexto macro de queda no D1, sugerindo tendência bearish de longo prazo para as taxas de juros americanas. Contudo, H4, H1 e M15 mostram estrutura bullish com BOS e CHoCH de alta recentes, indicando que os yields estão subindo no curto e médio prazo dentro de movimento corretivo maior. O OB H1 bullish abaixo do preço atual serve como suporte para eventual reteste antes de continuação da alta intraday das taxas. Yields em alta de curto prazo tendem a pressionar ativos de risco e ouro e podem dar suporte pontual ao dólar; a invalidação do movimento altista intraday ocorreria com perda do OB H1 e reestruturação bearish no H4."
   },
-  "bias_refreshed_at": "2026-04-28 14:45:01 -0300"
+  "bias_refreshed_at": "2026-04-28 15:00:02 -0300"
 }
