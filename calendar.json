@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 18:45 BRT",
+  "updated_at": "2026-04-28 19:00 BRT",
   "events": [
     {
       "title": "Housing Starts YoY",
@@ -180,6 +180,15 @@
       "time": "15:30",
       "forecast": "—",
       "previous": "—"
+    },
+    {
+      "title": "API Crude Oil Stock Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-29",
+      "time": "17:30",
+      "forecast": "0.3",
+      "previous": "-4.4"
     },
     {
       "title": "Retail Sales YoY",
