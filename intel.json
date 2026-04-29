@@ -1,6 +1,6 @@
 {
   "date": "29/04/2026",
-  "time": "12:30",
+  "time": "12:45",
   "macro": "O principal evento do dia é a decisão de juros do Fed e a consequente coletiva de imprensa, que tendem a dominar o fluxo de todos os mercados durante a tarde. O DXY exibe recuperação intradiária mesmo com viés de baixa no diário, sugerindo força técnica do dólar no curto prazo dentro de uma tendência maior ainda descendente. Os yields do tesouro de dez anos espelham essa dinâmica: recuperação nos timeframes menores dentro de tendência de queda no diário, criando pressão sobre metais e ativos de risco. Qualquer surpresa hawkish do Fed deve amplificar a força do dólar e dos yields, enquanto um tom dovish ou pausista tende a reacender o rally em ouro, pares majors e cripto; os dados de estoques de petróleo e os indicadores japoneses noturnos adicionam volatilidade pontual mas de menor impacto sistêmico.",
   "assets": [
     {
@@ -39,7 +39,7 @@
       "pair": "BTCUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bearish",
       "text": "A estrutura do Bitcoin é conflitante: diário altista mas H4 bearish, com H1 bullish e M15 bearish novamente, criando um quadro de indecisão técnica em múltiplas escalas. Há order blocks bearish acima do preço atuando como zonas de oferta de curto e médio prazo, enquanto order blocks bullish abaixo oferecem potencial suporte. A liquidez existe em ambos os lados, sinalizando ambiente de caça a stops antes de um movimento direcional mais claro. O comportamento pós-Fed deve ser determinante para resolver o conflito estrutural entre o bias diário positivo e a pressão vendedora do H4; sem catalisador, o risco de oscilação para ambos os lados permanece elevado."
     },
@@ -47,7 +47,7 @@
       "pair": "ETHUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bearish",
       "text": "O ether replica a estrutura conflitante do Bitcoin: diário altista, H4 bearish, H1 bullish e M15 bearish. O preço se encontra próximo a zonas de order block bullish nos timeframes menores, que representam potencial suporte para impulso de alta em direção à liquidez acima. Os order blocks bearish de M15 acima funcionam como resistência imediata e zona de oferta de curto prazo. A estrutura sugere equilíbrio tenso aguardando catalisador externo — com o Fed sendo o evento mais relevante do dia — para definir a direção do próximo movimento relevante; a liquidez em ambos os lados reforça o potencial de movimento brusco após o evento."
     },
@@ -87,5 +87,5 @@
     "DXY": "O dólar apresenta divergência estrutural relevante: o diário mantém viés bearish, mas H4, H1 e M15 estão todos em recuperação altista, caracterizando um pullback do dólar dentro de uma tendência maior de baixa. Enquanto os timeframes menores sustentarem essa alta, o dólar pode continuar pressionando pares como euro e libra no curto prazo. A liquidez abaixo é o alvo provável na eventual retomada do movimento diário descendente. A decisão do Fed é o evento que mais pode alterar esse balanço: surpresa hawkish estenderia o pullback altista e reforçaria a força do dólar intradiária; surpresa dovish poderia reatavar rapidamente a tendência de baixa do diário.",
     "US10Y": "Os yields do tesouro de dez anos apresentam recuperação técnica nos timeframes menores e intermediários, com H4, H1 e M15 em estrutura de alta de yields, dentro de uma tendência maior de queda no diário. A zona de suporte de yields mapeada no H1 representa região de interesse para sustentação dessa recuperação intradiária. Os alvos de liquidez acima do nível atual de yields indicam potencial continuação do movimento de alta no curto prazo. A decisão do Fed é o evento mais relevante: manutenção hawkish ou sinalização de cautela com inflação tende a sustentar ou ampliar a alta dos yields, enquanto um tom dovish pode reverter rapidamente a estrutura de curto prazo e pressionar os yields de volta à tendência baixista do diário."
   },
-  "bias_refreshed_at": "2026-04-29 12:30:02 -0300"
+  "bias_refreshed_at": "2026-04-29 12:45:01 -0300"
 }
