@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29 10:00 BRT",
+  "updated_at": "2026-04-29 10:15 BRT",
   "events": [
     {
       "title": "EIA Gasoline Stocks Change",
@@ -7,7 +7,7 @@
       "impact": "Medium",
       "date": "2026-04-29",
       "time": "11:30",
-      "forecast": "—",
+      "forecast": "-2.1",
       "previous": "-4.57"
     },
     {
@@ -16,7 +16,7 @@
       "impact": "Medium",
       "date": "2026-04-29",
       "time": "11:30",
-      "forecast": "0.3",
+      "forecast": "-0.2",
       "previous": "1.925"
     },
     {
