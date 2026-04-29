@@ -1,6 +1,6 @@
 {
   "date": "28/04/2026",
-  "time": "22:30",
+  "time": "22:45",
   "macro": "Ausência de eventos de alto ou médio impacto na agenda de hoje remove catalisadores externos de volatilidade, deixando o mercado guiado puramente pela estrutura técnica. O DXY mantém viés macro de baixa consolidado nos timeframes maiores, sustentando pares como euro e libra em suas tendências bullish estruturais. Os yields do tesouro americano de dez anos apresentam recuperação técnica nos timeframes intraday após tendência macro de queda, gerando tensão entre o custo do dinheiro e ativos de risco. Com correlações DXY-ouro e DXY-commodities em foco, a fraqueza estrutural do dólar contrasta com o sell-off técnico do ouro — sinalizando que o movimento do metal pode ter motivação própria de estrutura e não apenas reflexo cambial.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Fraqueza estrutural do dólar consolidada com diário e H4 alinhados bearish — bias macro de baixa sem ambiguidade. H1 e M15 em repique bullish de curto prazo, típico de correção técnica dentro de tendência maior de queda. Este repique intraday pode gerar pressão pontual sobre pares euro e libra, mas tende a ser transitório enquanto a estrutura macro bearish se mantiver. O cenário mais provável é que o repique atual encontre resistência e o DXY retome sua tendência de baixa estrutural nos timeframes maiores.",
     "US10Y": "Yields apresentam tendência macro de queda consolidada no diário, mas estão em fase de recuperação técnica nos timeframes médios e curtos, com H4, H1 e M15 em estrutura bullish de yields. O OB H1 bullish abaixo oferece suporte à recuperação em andamento, e a liquidez imediata acima aponta para continuação do repique de yields no curto prazo. O cenário provável é yields em alta técnica temporária sem ainda reverter o viés macro de queda; se yields subirem com intensidade, pode pressionar ativos de risco e ouro pontualmente, mas o contexto macro de juros ainda favorece tendência descendente."
   },
-  "bias_refreshed_at": "2026-04-28 22:30:01 -0300"
+  "bias_refreshed_at": "2026-04-28 22:45:01 -0300"
 }
