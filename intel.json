@@ -1,6 +1,6 @@
 {
   "date": "29/04/2026",
-  "time": "15:00",
+  "time": "15:15",
   "macro": "O evento dominante do dia é a decisão de juros do Fed seguida de coletiva de imprensa, impondo cautela generalizada em ativos de risco e dólar-sensíveis até a divulgação. O DXY exibe recuperação técnica nos timeframes curtos apesar do viés macro baixista no diário, enquanto os yields do Tesouro de dez anos espelham o mesmo padrão de força intraday contrária à tendência maior. Essa confluência de força do dólar e alta de yields no curto prazo pressiona ouro e criptos, ao mesmo tempo que gera ambiguidade para pares de moedas com viés comprador de médio prazo. Ao final do dia, dados de atividade japonesa podem adicionar volatilidade pontual em pares com JPY.",
   "assets": [
     {
@@ -22,7 +22,7 @@
     {
       "pair": "EURUSD",
       "d1": "bullish",
-      "h4": "bullish",
+      "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
       "text": "Estrutura análoga ao GBPUSD: alinhamento comprador nos timeframes superiores com correção vendedora ativa nos frames operacionais menores. O bloco de oferta mais próximo situa-se muito próximo ao preço atual, sugerindo espaço reduzido de recuperação antes de potencial rechaço, enquanto a liquidez acima representa armadilha potencial para rompimentos falsos. O cenário corretivo de curto prazo permanece favorecido enquanto H1 e M15 mantiverem estrutura baixista. A decisão do Fed é o evento determinante para definir se a correção se aprofunda ou se o bullish de maior grau prevalece."
@@ -45,7 +45,7 @@
     },
     {
       "pair": "ETHUSD",
-      "d1": "bullish",
+      "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
@@ -86,5 +86,6 @@
     "NAS100": "Estrutura dividida entre viés comprador de médio prazo em D1 e H4 e correção vendedora ativa nos frames menores, sem blocos de oferta identificados que delimitem zonas de interesse precisas de curto prazo. A decisão do Fed é o evento catalisador mais relevante para este ativo: postura dovish tende a favorecer retomada altista alinhada ao contexto de D1 e H4, enquanto tom hawkish pode aprofundar a correção em curso. A liquidez acima e abaixo delimita o range de resolução esperado para o movimento pós-evento.",
     "DXY": "O dólar apresenta divergência clara entre o viés macro baixista do diário e a força técnica de curto prazo nos três timeframes inferiores, indicando recuperação técnica dentro de tendência maior de enfraquecimento. A liquidez imediatamente acima é o próximo alvo da recuperação em curso. O Fed é o evento catalisador por excelência para este ativo: decisão hawkish poderia validar e estender a recuperação, testando a estrutura baixista do diário; postura dovish tende a acelerar o retorno ao viés descendente macro e pressionar o dólar. Cautela máxima até a divulgação.",
     "US10Y": "Os yields do Tesouro americano de dez anos apresentam estrutura macro descendente no diário, mas com recuperação técnica ativa e alinhada nos timeframes H4, H1 e M15, todos em viés de alta de yield. A zona de demanda no H1 representa suporte estrutural para a continuidade da recuperação dos yields no curto prazo. A liquidez acima aponta para os próximos alvos caso o movimento ascendente dos yields se mantenha. A decisão do Fed é determinante: postura hawkish ou manutenção com tom cauteloso tende a sustentar ou ampliar a alta dos yields; discurso dovish na coletiva pode reverter o movimento e direcionar yields de volta ao viés macro do diário."
-  }
+  },
+  "bias_refreshed_at": "2026-04-29 15:15:01 -0300"
 }
