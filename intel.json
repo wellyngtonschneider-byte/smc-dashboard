@@ -1,6 +1,6 @@
 {
   "date": "29/04/2026",
-  "time": "14:15",
+  "time": "14:30",
   "macro": "O principal evento do dia é a decisão de juros do Fed e a consequente coletiva de imprensa, que tendem a dominar o fluxo de todos os mercados durante a tarde. O DXY exibe recuperação intradiária mesmo com viés de baixa no diário, sugerindo força técnica do dólar no curto prazo dentro de uma tendência maior ainda descendente. Os yields do tesouro de dez anos espelham essa dinâmica: recuperação nos timeframes menores dentro de tendência de queda no diário, criando pressão sobre metais e ativos de risco. Qualquer surpresa hawkish do Fed deve amplificar a força do dólar e dos yields, enquanto um tom dovish ou pausista tende a reacender o rally em ouro, pares majors e cripto; os dados de estoques de petróleo e os indicadores japoneses noturnos adicionam volatilidade pontual mas de menor impacto sistêmico.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "O dólar apresenta divergência estrutural relevante: o diário mantém viés bearish, mas H4, H1 e M15 estão todos em recuperação altista, caracterizando um pullback do dólar dentro de uma tendência maior de baixa. Enquanto os timeframes menores sustentarem essa alta, o dólar pode continuar pressionando pares como euro e libra no curto prazo. A liquidez abaixo é o alvo provável na eventual retomada do movimento diário descendente. A decisão do Fed é o evento que mais pode alterar esse balanço: surpresa hawkish estenderia o pullback altista e reforçaria a força do dólar intradiária; surpresa dovish poderia reatavar rapidamente a tendência de baixa do diário.",
     "US10Y": "Os yields do tesouro de dez anos apresentam recuperação técnica nos timeframes menores e intermediários, com H4, H1 e M15 em estrutura de alta de yields, dentro de uma tendência maior de queda no diário. A zona de suporte de yields mapeada no H1 representa região de interesse para sustentação dessa recuperação intradiária. Os alvos de liquidez acima do nível atual de yields indicam potencial continuação do movimento de alta no curto prazo. A decisão do Fed é o evento mais relevante: manutenção hawkish ou sinalização de cautela com inflação tende a sustentar ou ampliar a alta dos yields, enquanto um tom dovish pode reverter rapidamente a estrutura de curto prazo e pressionar os yields de volta à tendência baixista do diário."
   },
-  "bias_refreshed_at": "2026-04-29 14:15:02 -0300"
+  "bias_refreshed_at": "2026-04-29 14:30:02 -0300"
 }
