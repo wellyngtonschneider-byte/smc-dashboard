@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-29 14:45 BRT",
+  "updated_at": "2026-04-29 15:00 BRT",
   "events": [
-    {
-      "title": "Fed Interest Rate Decision",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-04-29",
-      "time": "15:00",
-      "forecast": "3.75",
-      "previous": "3.75"
-    },
     {
       "title": "Fed Press Conference",
       "country": "USD",
