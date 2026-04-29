@@ -1,7 +1,7 @@
 {
   "date": "29/04/2026",
   "time": "20:00",
-  "macro": "O evento dominante do dia é a decisão de juros do Fed seguida de coletiva de imprensa, impondo cautela generalizada em ativos de risco e dólar-sensíveis até a divulgação. O DXY exibe recuperação técnica nos timeframes curtos apesar do viés macro baixista no diário, enquanto os yields do Tesouro de dez anos espelham o mesmo padrão de força intraday contrária à tendência maior. Essa confluência de força do dólar e alta de yields no curto prazo pressiona ouro e criptos, ao mesmo tempo que gera ambiguidade para pares de moedas com viés comprador de médio prazo. Ao final do dia, dados de atividade japonesa podem adicionar volatilidade pontual em pares com JPY.",
+  "macro": "O ambiente macro permanece dominado pela trajetória dos yields americanos, que exibem estrutura de alta em todos os timeframes analisados, sugerindo que o mercado ainda precifica pressão hawkish residual do Fed. O dólar apresenta recuperação tática no curto prazo enquanto mantém viés de fraqueza no diário, criando divergência temporária entre tendência primária e impulso intraday. A correlação inversa entre DXY/yields e ouro é o vetor central do dia, com o metal pressionado por ambos os lados simultaneamente. Os dados japoneses de vendas ao varejo e produção industrial, agendados para esta noite, representam o único catalisador exógeno relevante e podem adicionar volatilidade ao iene e aos pares correlacionados.",
   "assets": [
     {
       "pair": "XAUUSD",
@@ -9,7 +9,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Estrutura totalmente alinhada ao viés vendedor em todos os timeframes analisados, do diário ao M15, configurando o cenário técnico mais robusto de continuidade baixista entre os ativos monitorados. Os blocos de oferta nos timeframes menores funcionam como zonas de resistência para qualquer correção técnica, representando pontos de interesse para entradas vendedoras em caso de retração. A liquidez abaixo é o alvo provável da pressão descendente vigente. O tom do Fed é o principal catalisador: postura hawkish fortalece o dólar e amplifica o movimento baixista; invalidação exige recuperação e fechamento acima das estruturas de oferta de médio prazo."
+      "text": "Ativo com viés baixista integralmente alinhado em todos os quatro timeframes — cenário de maior confluência bearish da sessão. O order block de M15 imediatamente acima do preço atual representa a zona de interesse primária para busca de entrada vendedora em caso de rejeição. A liquidez abaixo sinaliza o alvo natural de continuação do movimento descendente. Invalidação do cenário ocorre apenas com recuperação estrutural acima dos order blocks de H4, atualmente distantes do preço."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +17,7 @@
       "h4": "bullish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "O bias de médio e longo prazo permanece comprador, com D1 e H4 alinhados à tendência ascendente, mas a estrutura de curto prazo entrou em fase corretiva com H1 e M15 em viés vendedor. Os blocos de oferta imediatamente acima do preço delimitam a zona de resistência dentro dessa correção, representando áreas de potencial pressão vendedora de curto prazo. O cenário mais provável contempla busca de liquidez abaixo antes de eventual retomada da tendência principal de maior grau. A decisão do Fed é o principal catalisador externo para determinar profundidade e velocidade do movimento corretivo."
+      "text": "Conflito estrutural entre o viés altista do diário e H4 versus a correção em curso no intraday — cenário clássico de pullback dentro de tendência maior de alta. O preço opera exatamente na região do CHoCH de D1, tornando o nível crítico para definição de continuidade direcional. Os order blocks de M15 acima funcionam como resistências táticas enquanto H1 e M15 permanecerem bearish. Retomada altista exige recomposição estrutural no H1 e absorção da liquidez abaixo como condição mínima."
     },
     {
       "pair": "EURUSD",
@@ -25,7 +25,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Estrutura análoga ao GBPUSD: alinhamento comprador nos timeframes superiores com correção vendedora ativa nos frames operacionais menores. O bloco de oferta mais próximo situa-se muito próximo ao preço atual, sugerindo espaço reduzido de recuperação antes de potencial rechaço, enquanto a liquidez acima representa armadilha potencial para rompimentos falsos. O cenário corretivo de curto prazo permanece favorecido enquanto H1 e M15 mantiverem estrutura baixista. A decisão do Fed é o evento determinante para definir se a correção se aprofunda ou se o bullish de maior grau prevalece."
+      "text": "O H4 acabou de registrar CHoCH baixista, marcando uma virada estrutural relevante que coloca o diário e o intraday em conflito. O viés de curto e médio prazo é agora bearish, com H1 e M15 confirmando a direção de queda. Os order blocks de M15 acima representam zonas de distribuição para eventuais puxadas de reteste. A liquidez abaixo é o alvo de arrasto enquanto a estrutura bearish no H4 se mantiver intacta."
     },
     {
       "pair": "USDJPY",
@@ -33,7 +33,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Ativo com alinhamento comprador completo em todos os quatro timeframes, caracterizando tendência técnica robusta e de maior convicção entre os pares de moedas monitorados. Os blocos de demanda abaixo funcionam como suporte estrutural para eventuais correções, preservando o viés ascendente. Uma decisão hawkish do Fed favorece diretamente o movimento comprador, ampliando o diferencial de política monetária em favor do dólar. Os dados de atividade japonesa ao final do dia podem gerar volatilidade pontual, mas dificilmente alteram o viés estrutural enquanto os quatro timeframes permanecerem alinhados."
+      "text": "Ativo com maior alinhamento altista do momento, com todos os quatro timeframes confirmando viés de alta — espelho estrutural oposto do ouro. Os order blocks abaixo do preço funcionam como suporte estrutural para novas entradas compradoras em regressão. A liquidez acima é o alvo natural de continuação do movimento. Os dados japoneses de varejo e produção industrial desta noite são o principal risco: leituras abaixo do esperado tendem a acelerar a pressão sobre o iene e estender o movimento altista."
     },
     {
       "pair": "BTCUSD",
@@ -41,7 +41,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "O viés macro de longo prazo permanece comprador no diário, mas todos os timeframes operacionais estão em estrutura vendedora, caracterizando correção relevante dentro da tendência maior. Os blocos de oferta acima delimitam zonas de resistência para qualquer recuperação técnica, limitando o potencial ascendente de curto prazo. A liquidez abaixo representa os alvos prováveis da pressão vendedora vigente. O apetite a risco gerado pelo resultado do Fed é o catalisador externo mais relevante; invalidação do cenário corretivo exige quebra estrutural compradora nos frames operacionais."
+      "text": "Estrutura em tensão: D1 mantém viés altista consolidado, mas H4, H1 e M15 recentemente viraram bearish de forma coerente, sinalizando correção intraday dentro da tendência maior. Os order blocks bearish acima do preço delimitam as zonas de distribuição a evitar em compras táticas. A liquidez abaixo, formada pelos BOS recentes, é o alvo preferencial da estrutura de curto prazo. Retomada altista exige CHoCH de alta no H4 como condição estrutural mínima."
     },
     {
       "pair": "ETHUSD",
@@ -49,7 +49,7 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bearish",
-      "text": "Estrutura idêntica ao Bitcoin em termos de conflito de timeframes: diário comprador com correção vendedora ativa em H4, H1 e M15. O bloco de oferta de curto prazo situa-se muito próximo ao preço, limitando o espaço de recuperação antes de potencial rechaço. A liquidez acima e abaixo sugere range comprimido com resolução direcional dependente de catalisador externo como o resultado do Fed. O cenário vendedor de curto prazo permanece válido enquanto os três timeframes operacionais não confirmarem reversão estrutural."
+      "text": "Comportamento estrutural idêntico ao BTC: D1 mantém viés altista enquanto H4, H1 e M15 exibem sequência bearish coerente com correção de curto prazo. O order block de H4 acima representa resistência de médio prazo relevante. Os order blocks de M15 próximos do preço configuram as zonas de rejeição mais imediatas. O alvo de liquidez abaixo permanece como destino natural enquanto a estrutura intraday não reverter com CHoCH no H4."
     },
     {
       "pair": "NAS100",
@@ -57,7 +57,7 @@
       "h4": "bullish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "Estrutura dividida entre viés comprador de médio prazo em D1 e H4 e correção vendedora ativa nos frames menores, sem blocos de oferta identificados que delimitem zonas de interesse precisas de curto prazo. A decisão do Fed é o evento catalisador mais relevante para este ativo: postura dovish tende a favorecer retomada altista alinhada ao contexto de D1 e H4, enquanto tom hawkish pode aprofundar a correção em curso. A liquidez acima e abaixo delimita o range de resolução esperado para o movimento pós-evento."
+      "text": "Contexto misto com sinal tático recente: D1 e H4 bullish apontam para tendência maior de alta, H1 ainda bearish, mas M15 acabou de registrar CHoCH de alta — possível sinalização de retomada de curto prazo. O order block de M15 abaixo do preço representa suporte imediato e zona de interesse para continuação altista. A liquidez acima é o alvo natural caso o M15 confirme momentum. Invalidação do cenário de alta ocorre com perda do CHoCH recente de M15."
     },
     {
       "pair": "DXY",
@@ -65,7 +65,7 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "O dólar apresenta divergência clara entre o viés macro baixista do diário e a força técnica de curto prazo nos três timeframes inferiores, indicando recuperação técnica dentro de tendência maior de enfraquecimento. A liquidez imediatamente acima é o próximo alvo da recuperação em curso. O Fed é o evento catalisador por excelência para este ativo: decisão hawkish poderia validar e estender a recuperação, testando a estrutura baixista do diário; postura dovish tende a acelerar o retorno ao viés descendente macro e pressionar o dólar. Cautela máxima até a divulgação."
+      "text": "Proxy UUP indica recuperação tática do dólar: D1 permanece bearish na tendência principal, mas H4, H1 e M15 exibem estrutura bullish consistente, configurando correção altista dentro da fraqueza maior. A direção de curto prazo favorece o dólar, coerente com a pressão simultânea sobre o ouro e o fortalecimento do USDJPY. Enquanto o intraday se mantiver bullish, o DXY atua como vento contrário para pares em que o dólar é cotado como moeda base."
     },
     {
       "pair": "US10Y",
@@ -73,19 +73,18 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Os yields do Tesouro americano de dez anos apresentam estrutura macro descendente no diário, mas com recuperação técnica ativa e alinhada nos timeframes H4, H1 e M15, todos em viés de alta de yield. A zona de demanda no H1 representa suporte estrutural para a continuidade da recuperação dos yields no curto prazo. A liquidez acima aponta para os próximos alvos caso o movimento ascendente dos yields se mantenha. A decisão do Fed é determinante: postura hawkish ou manutenção com tom cauteloso tende a sustentar ou ampliar a alta dos yields; discurso dovish na coletiva pode reverter o movimento e direcionar yields de volta ao viés macro do diário."
+      "text": "Yields do Tesouro americano em alta estrutural em todos os timeframes analisados — confluência total que sustenta o ambiente hawkish. A tendência de yields crescentes reforça a pressão sobre o ouro, sustenta o USDJPY e cria teto para ralis em ativos de risco sensíveis a taxas. Sem liquidez mapeada acima, o movimento de alta nos yields pode ser de extensão livre no curto prazo. Os suportes de liquidez abaixo delimitam os níveis onde uma eventual correção de yields encontraria demanda compradora estrutural."
     }
   ],
   "llm_narratives": {
-    "XAUUSD": "Estrutura totalmente alinhada ao viés vendedor em todos os timeframes analisados, do diário ao M15, configurando o cenário técnico mais robusto de continuidade baixista entre os ativos monitorados. Os blocos de oferta nos timeframes menores funcionam como zonas de resistência para qualquer correção técnica, representando pontos de interesse para entradas vendedoras em caso de retração. A liquidez abaixo é o alvo provável da pressão descendente vigente. O tom do Fed é o principal catalisador: postura hawkish fortalece o dólar e amplifica o movimento baixista; invalidação exige recuperação e fechamento acima das estruturas de oferta de médio prazo.",
-    "GBPUSD": "O bias de médio e longo prazo permanece comprador, com D1 e H4 alinhados à tendência ascendente, mas a estrutura de curto prazo entrou em fase corretiva com H1 e M15 em viés vendedor. Os blocos de oferta imediatamente acima do preço delimitam a zona de resistência dentro dessa correção, representando áreas de potencial pressão vendedora de curto prazo. O cenário mais provável contempla busca de liquidez abaixo antes de eventual retomada da tendência principal de maior grau. A decisão do Fed é o principal catalisador externo para determinar profundidade e velocidade do movimento corretivo.",
-    "EURUSD": "Estrutura análoga ao GBPUSD: alinhamento comprador nos timeframes superiores com correção vendedora ativa nos frames operacionais menores. O bloco de oferta mais próximo situa-se muito próximo ao preço atual, sugerindo espaço reduzido de recuperação antes de potencial rechaço, enquanto a liquidez acima representa armadilha potencial para rompimentos falsos. O cenário corretivo de curto prazo permanece favorecido enquanto H1 e M15 mantiverem estrutura baixista. A decisão do Fed é o evento determinante para definir se a correção se aprofunda ou se o bullish de maior grau prevalece.",
-    "USDJPY": "Ativo com alinhamento comprador completo em todos os quatro timeframes, caracterizando tendência técnica robusta e de maior convicção entre os pares de moedas monitorados. Os blocos de demanda abaixo funcionam como suporte estrutural para eventuais correções, preservando o viés ascendente. Uma decisão hawkish do Fed favorece diretamente o movimento comprador, ampliando o diferencial de política monetária em favor do dólar. Os dados de atividade japonesa ao final do dia podem gerar volatilidade pontual, mas dificilmente alteram o viés estrutural enquanto os quatro timeframes permanecerem alinhados.",
-    "BTCUSD": "O viés macro de longo prazo permanece comprador no diário, mas todos os timeframes operacionais estão em estrutura vendedora, caracterizando correção relevante dentro da tendência maior. Os blocos de oferta acima delimitam zonas de resistência para qualquer recuperação técnica, limitando o potencial ascendente de curto prazo. A liquidez abaixo representa os alvos prováveis da pressão vendedora vigente. O apetite a risco gerado pelo resultado do Fed é o catalisador externo mais relevante; invalidação do cenário corretivo exige quebra estrutural compradora nos frames operacionais.",
-    "ETHUSD": "Estrutura idêntica ao Bitcoin em termos de conflito de timeframes: diário comprador com correção vendedora ativa em H4, H1 e M15. O bloco de oferta de curto prazo situa-se muito próximo ao preço, limitando o espaço de recuperação antes de potencial rechaço. A liquidez acima e abaixo sugere range comprimido com resolução direcional dependente de catalisador externo como o resultado do Fed. O cenário vendedor de curto prazo permanece válido enquanto os três timeframes operacionais não confirmarem reversão estrutural.",
-    "NAS100": "Estrutura dividida entre viés comprador de médio prazo em D1 e H4 e correção vendedora ativa nos frames menores, sem blocos de oferta identificados que delimitem zonas de interesse precisas de curto prazo. A decisão do Fed é o evento catalisador mais relevante para este ativo: postura dovish tende a favorecer retomada altista alinhada ao contexto de D1 e H4, enquanto tom hawkish pode aprofundar a correção em curso. A liquidez acima e abaixo delimita o range de resolução esperado para o movimento pós-evento.",
-    "DXY": "O dólar apresenta divergência clara entre o viés macro baixista do diário e a força técnica de curto prazo nos três timeframes inferiores, indicando recuperação técnica dentro de tendência maior de enfraquecimento. A liquidez imediatamente acima é o próximo alvo da recuperação em curso. O Fed é o evento catalisador por excelência para este ativo: decisão hawkish poderia validar e estender a recuperação, testando a estrutura baixista do diário; postura dovish tende a acelerar o retorno ao viés descendente macro e pressionar o dólar. Cautela máxima até a divulgação.",
-    "US10Y": "Os yields do Tesouro americano de dez anos apresentam estrutura macro descendente no diário, mas com recuperação técnica ativa e alinhada nos timeframes H4, H1 e M15, todos em viés de alta de yield. A zona de demanda no H1 representa suporte estrutural para a continuidade da recuperação dos yields no curto prazo. A liquidez acima aponta para os próximos alvos caso o movimento ascendente dos yields se mantenha. A decisão do Fed é determinante: postura hawkish ou manutenção com tom cauteloso tende a sustentar ou ampliar a alta dos yields; discurso dovish na coletiva pode reverter o movimento e direcionar yields de volta ao viés macro do diário."
-  },
-  "bias_refreshed_at": "2026-04-29 20:00:02 -0300"
+    "XAUUSD": "Ativo com viés baixista integralmente alinhado em todos os quatro timeframes — cenário de maior confluência bearish da sessão. O order block de M15 imediatamente acima do preço atual representa a zona de interesse primária para busca de entrada vendedora em caso de rejeição. A liquidez abaixo sinaliza o alvo natural de continuação do movimento descendente. Invalidação do cenário ocorre apenas com recuperação estrutural acima dos order blocks de H4, atualmente distantes do preço.",
+    "GBPUSD": "Conflito estrutural entre o viés altista do diário e H4 versus a correção em curso no intraday — cenário clássico de pullback dentro de tendência maior de alta. O preço opera exatamente na região do CHoCH de D1, tornando o nível crítico para definição de continuidade direcional. Os order blocks de M15 acima funcionam como resistências táticas enquanto H1 e M15 permanecerem bearish. Retomada altista exige recomposição estrutural no H1 e absorção da liquidez abaixo como condição mínima.",
+    "EURUSD": "O H4 acabou de registrar CHoCH baixista, marcando uma virada estrutural relevante que coloca o diário e o intraday em conflito. O viés de curto e médio prazo é agora bearish, com H1 e M15 confirmando a direção de queda. Os order blocks de M15 acima representam zonas de distribuição para eventuais puxadas de reteste. A liquidez abaixo é o alvo de arrasto enquanto a estrutura bearish no H4 se mantiver intacta.",
+    "USDJPY": "Ativo com maior alinhamento altista do momento, com todos os quatro timeframes confirmando viés de alta — espelho estrutural oposto do ouro. Os order blocks abaixo do preço funcionam como suporte estrutural para novas entradas compradoras em regressão. A liquidez acima é o alvo natural de continuação do movimento. Os dados japoneses de varejo e produção industrial desta noite são o principal risco: leituras abaixo do esperado tendem a acelerar a pressão sobre o iene e estender o movimento altista.",
+    "BTCUSD": "Estrutura em tensão: D1 mantém viés altista consolidado, mas H4, H1 e M15 recentemente viraram bearish de forma coerente, sinalizando correção intraday dentro da tendência maior. Os order blocks bearish acima do preço delimitam as zonas de distribuição a evitar em compras táticas. A liquidez abaixo, formada pelos BOS recentes, é o alvo preferencial da estrutura de curto prazo. Retomada altista exige CHoCH de alta no H4 como condição estrutural mínima.",
+    "ETHUSD": "Comportamento estrutural idêntico ao BTC: D1 mantém viés altista enquanto H4, H1 e M15 exibem sequência bearish coerente com correção de curto prazo. O order block de H4 acima representa resistência de médio prazo relevante. Os order blocks de M15 próximos do preço configuram as zonas de rejeição mais imediatas. O alvo de liquidez abaixo permanece como destino natural enquanto a estrutura intraday não reverter com CHoCH no H4.",
+    "NAS100": "Contexto misto com sinal tático recente: D1 e H4 bullish apontam para tendência maior de alta, H1 ainda bearish, mas M15 acabou de registrar CHoCH de alta — possível sinalização de retomada de curto prazo. O order block de M15 abaixo do preço representa suporte imediato e zona de interesse para continuação altista. A liquidez acima é o alvo natural caso o M15 confirme momentum. Invalidação do cenário de alta ocorre com perda do CHoCH recente de M15.",
+    "DXY": "Proxy UUP indica recuperação tática do dólar: D1 permanece bearish na tendência principal, mas H4, H1 e M15 exibem estrutura bullish consistente, configurando correção altista dentro da fraqueza maior. A direção de curto prazo favorece o dólar, coerente com a pressão simultânea sobre o ouro e o fortalecimento do USDJPY. Enquanto o intraday se mantiver bullish, o DXY atua como vento contrário para pares em que o dólar é cotado como moeda base.",
+    "US10Y": "Yields do Tesouro americano em alta estrutural em todos os timeframes analisados — confluência total que sustenta o ambiente hawkish. A tendência de yields crescentes reforça a pressão sobre o ouro, sustenta o USDJPY e cria teto para ralis em ativos de risco sensíveis a taxas. Sem liquidez mapeada acima, o movimento de alta nos yields pode ser de extensão livre no curto prazo. Os suportes de liquidez abaixo delimitam os níveis onde uma eventual correção de yields encontraria demanda compradora estrutural."
+  }
 }
