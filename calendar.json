@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-29 11:15 BRT",
+  "updated_at": "2026-04-29 11:30 BRT",
   "events": [
-    {
-      "title": "EIA Gasoline Stocks Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "11:30",
-      "forecast": "-2.1",
-      "previous": "-4.57"
-    },
-    {
-      "title": "EIA Crude Oil Stocks Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "11:30",
-      "forecast": "-0.2",
-      "previous": "1.925"
-    },
     {
       "title": "Fed Interest Rate Decision",
       "country": "USD",
