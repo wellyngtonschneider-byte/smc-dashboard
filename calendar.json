@@ -1,33 +1,6 @@
 {
-  "updated_at": "2026-04-28 22:45 BRT",
+  "updated_at": "2026-04-29 08:45 BRT",
   "events": [
-    {
-      "title": "Housing Starts YoY",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "02:00",
-      "forecast": "-28.5",
-      "previous": "-4.9"
-    },
-    {
-      "title": "Economic Sentiment",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "06:00",
-      "forecast": "95.2",
-      "previous": "96.6"
-    },
-    {
-      "title": "MBA 30-Year Mortgage Rate",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "08:00",
-      "forecast": "—",
-      "previous": "6.35"
-    },
     {
       "title": "Building Permits Prel",
       "country": "USD",
@@ -160,7 +133,7 @@
       "impact": "Medium",
       "date": "2026-04-29",
       "time": "11:30",
-      "forecast": "—",
+      "forecast": "0.3",
       "previous": "1.925"
     },
     {
@@ -198,6 +171,276 @@
       "time": "20:50",
       "forecast": "1.1",
       "previous": "-2"
+    },
+    {
+      "title": "Housing Starts YoY",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "02:00",
+      "forecast": "-28.5",
+      "previous": "-4.9"
+    },
+    {
+      "title": "Consumer Confidence",
+      "country": "JPY",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "02:00",
+      "forecast": "33.1",
+      "previous": "33.3"
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "06:00",
+      "forecast": "6.2",
+      "previous": "6.2"
+    },
+    {
+      "title": "Inflation Rate MoM Flash",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "06:00",
+      "forecast": "—",
+      "previous": "1.3"
+    },
+    {
+      "title": "Inflation Rate YoY Flash",
+      "country": "EUR",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "06:00",
+      "forecast": "2.9",
+      "previous": "2.6"
+    },
+    {
+      "title": "GDP Growth Rate YoY Flash",
+      "country": "EUR",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "06:00",
+      "forecast": "0.9",
+      "previous": "1.2"
+    },
+    {
+      "title": "GDP Growth Rate QoQ Flash",
+      "country": "EUR",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "06:00",
+      "forecast": "0.2",
+      "previous": "0.2"
+    },
+    {
+      "title": "Core Inflation Rate YoY Flash",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "06:00",
+      "forecast": "2.3",
+      "previous": "2.3"
+    },
+    {
+      "title": "BoE MPC Vote Unchanged",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "08:00",
+      "forecast": "8",
+      "previous": "9"
+    },
+    {
+      "title": "BoE MPC Vote Hike",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "08:00",
+      "forecast": "1",
+      "previous": "0"
+    },
+    {
+      "title": "BoE MPC Vote Cut",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "08:00",
+      "forecast": "0",
+      "previous": "0"
+    },
+    {
+      "title": "BoE Monetary Policy Report",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "08:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "MPC Meeting Minutes",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "08:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "BoE Interest Rate Decision",
+      "country": "GBP",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "08:00",
+      "forecast": "3.75",
+      "previous": "3.75"
+    },
+    {
+      "title": "ECB Interest Rate Decision",
+      "country": "EUR",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:15",
+      "forecast": "2.15",
+      "previous": "2.15"
+    },
+    {
+      "title": "Deposit Facility Rate",
+      "country": "EUR",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:15",
+      "forecast": "2",
+      "previous": "2"
+    },
+    {
+      "title": "Initial Jobless Claims",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "215",
+      "previous": "214"
+    },
+    {
+      "title": "Core PCE Price Index MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "0.3",
+      "previous": "0.4"
+    },
+    {
+      "title": "PCE Price Index YoY",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "3.5",
+      "previous": "2.8"
+    },
+    {
+      "title": "GDP Price Index QoQ Adv",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "3.8",
+      "previous": "3.7"
+    },
+    {
+      "title": "Employment Cost Index QoQ",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "0.8",
+      "previous": "0.7"
+    },
+    {
+      "title": "Personal Spending MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "0.9",
+      "previous": "0.4"
+    },
+    {
+      "title": "Personal Income MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "0.3",
+      "previous": "-0.1"
+    },
+    {
+      "title": "Employment Cost - Wages QoQ",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "0.7"
+    },
+    {
+      "title": "Employment Cost - Benefits QoQ",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "0.7"
+    },
+    {
+      "title": "GDP Growth Rate QoQ Adv",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "2.3",
+      "previous": "0.5"
+    },
+    {
+      "title": "PCE Price Index MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "09:30",
+      "forecast": "0.7",
+      "previous": "0.4"
+    },
+    {
+      "title": "ECB Press Conference",
+      "country": "EUR",
+      "impact": "High",
+      "date": "2026-04-30",
+      "time": "09:45",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Chicago PMI",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "10:45",
+      "forecast": "53",
+      "previous": "52.8"
+    },
+    {
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-04-30",
+      "time": "12:15",
+      "forecast": "—",
+      "previous": "—"
     }
   ]
 }
