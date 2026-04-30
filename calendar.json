@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-30 10:30 BRT",
+  "updated_at": "2026-04-30 10:45 BRT",
   "events": [
-    {
-      "title": "Chicago PMI",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "10:45",
-      "forecast": "53",
-      "previous": "52.8"
-    },
     {
       "title": "ECB President Lagarde Speech",
       "country": "EUR",
