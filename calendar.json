@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-30 09:00 BRT",
+  "updated_at": "2026-04-30 09:15 BRT",
   "events": [
-    {
-      "title": "ECB Interest Rate Decision",
-      "country": "EUR",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "09:15",
-      "forecast": "2.15",
-      "previous": "2.15"
-    },
-    {
-      "title": "Deposit Facility Rate",
-      "country": "EUR",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "09:15",
-      "forecast": "2",
-      "previous": "2"
-    },
     {
       "title": "Initial Jobless Claims",
       "country": "USD",
