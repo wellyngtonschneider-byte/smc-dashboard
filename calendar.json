@@ -1,60 +1,6 @@
 {
-  "updated_at": "2026-04-30 07:45 BRT",
+  "updated_at": "2026-04-30 08:00 BRT",
   "events": [
-    {
-      "title": "BoE MPC Vote Unchanged",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "08:00",
-      "forecast": "8",
-      "previous": "9"
-    },
-    {
-      "title": "BoE MPC Vote Hike",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "08:00",
-      "forecast": "1",
-      "previous": "0"
-    },
-    {
-      "title": "BoE MPC Vote Cut",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "08:00",
-      "forecast": "0",
-      "previous": "0"
-    },
-    {
-      "title": "BoE Monetary Policy Report",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "08:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "MPC Meeting Minutes",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "08:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "BoE Interest Rate Decision",
-      "country": "GBP",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "08:00",
-      "forecast": "3.75",
-      "previous": "3.75"
-    },
     {
       "title": "ECB Interest Rate Decision",
       "country": "EUR",
