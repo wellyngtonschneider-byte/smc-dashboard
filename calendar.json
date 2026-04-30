@@ -1,78 +1,6 @@
 {
-  "updated_at": "2026-04-29 22:45 BRT",
+  "updated_at": "2026-04-30 06:00 BRT",
   "events": [
-    {
-      "title": "Housing Starts YoY",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "02:00",
-      "forecast": "-28.5",
-      "previous": "-4.9"
-    },
-    {
-      "title": "Consumer Confidence",
-      "country": "JPY",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "02:00",
-      "forecast": "33.1",
-      "previous": "33.3"
-    },
-    {
-      "title": "Unemployment Rate",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "06:00",
-      "forecast": "6.2",
-      "previous": "6.2"
-    },
-    {
-      "title": "Inflation Rate MoM Flash",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "06:00",
-      "forecast": "—",
-      "previous": "1.3"
-    },
-    {
-      "title": "Inflation Rate YoY Flash",
-      "country": "EUR",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "06:00",
-      "forecast": "2.9",
-      "previous": "2.6"
-    },
-    {
-      "title": "GDP Growth Rate YoY Flash",
-      "country": "EUR",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "06:00",
-      "forecast": "0.9",
-      "previous": "1.2"
-    },
-    {
-      "title": "GDP Growth Rate QoQ Flash",
-      "country": "EUR",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "06:00",
-      "forecast": "0.2",
-      "previous": "0.2"
-    },
-    {
-      "title": "Core Inflation Rate YoY Flash",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-04-30",
-      "time": "06:00",
-      "forecast": "2.3",
-      "previous": "2.3"
-    },
     {
       "title": "BoE MPC Vote Unchanged",
       "country": "GBP",
@@ -270,6 +198,69 @@
       "time": "12:15",
       "forecast": "—",
       "previous": "—"
+    },
+    {
+      "title": "Nationwide Housing Prices MoM",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "03:00",
+      "forecast": "-0.3",
+      "previous": "0.9"
+    },
+    {
+      "title": "Nationwide Housing Prices YoY",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "03:00",
+      "forecast": "2.2",
+      "previous": "2.2"
+    },
+    {
+      "title": "BoE Consumer Credit",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "05:30",
+      "forecast": "1.8",
+      "previous": "1.935"
+    },
+    {
+      "title": "Mortgage Approvals",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "05:30",
+      "forecast": "60",
+      "previous": "62.58"
+    },
+    {
+      "title": "Mortgage Lending",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "05:30",
+      "forecast": "4.2",
+      "previous": "4.84"
+    },
+    {
+      "title": "ISM Manufacturing PMI",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-01",
+      "time": "11:00",
+      "forecast": "53",
+      "previous": "52.7"
+    },
+    {
+      "title": "ISM Manufacturing Employment",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "11:00",
+      "forecast": "49",
+      "previous": "48.7"
     }
   ]
 }
