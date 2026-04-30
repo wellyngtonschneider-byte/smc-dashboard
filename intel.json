@@ -1,6 +1,6 @@
 {
   "date": "30/04/2026",
-  "time": "06:30",
+  "time": "06:45",
   "macro": "O ambiente macro permanece dominado pela trajetória dos yields americanos, que exibem estrutura de alta em todos os timeframes analisados, sugerindo que o mercado ainda precifica pressão hawkish residual do Fed. O dólar apresenta recuperação tática no curto prazo enquanto mantém viés de fraqueza no diário, criando divergência temporária entre tendência primária e impulso intraday. A correlação inversa entre DXY/yields e ouro é o vetor central do dia, com o metal pressionado por ambos os lados simultaneamente. Os dados japoneses de vendas ao varejo e produção industrial, agendados para esta noite, representam o único catalisador exógeno relevante e podem adicionar volatilidade ao iene e aos pares correlacionados.",
   "assets": [
     {
@@ -15,7 +15,7 @@
       "pair": "GBPUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bearish",
+      "h1": "bullish",
       "m15": "bullish",
       "text": "Conflito estrutural entre o viés altista do diário e H4 versus a correção em curso no intraday — cenário clássico de pullback dentro de tendência maior de alta. O preço opera exatamente na região do CHoCH de D1, tornando o nível crítico para definição de continuidade direcional. Os order blocks de M15 acima funcionam como resistências táticas enquanto H1 e M15 permanecerem bearish. Retomada altista exige recomposição estrutural no H1 e absorção da liquidez abaixo como condição mínima."
     },
@@ -23,7 +23,7 @@
       "pair": "EURUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bearish",
+      "h1": "bullish",
       "m15": "bullish",
       "text": "O H4 acabou de registrar CHoCH baixista, marcando uma virada estrutural relevante que coloca o diário e o intraday em conflito. O viés de curto e médio prazo é agora bearish, com H1 e M15 confirmando a direção de queda. Os order blocks de M15 acima representam zonas de distribuição para eventuais puxadas de reteste. A liquidez abaixo é o alvo de arrasto enquanto a estrutura bearish no H4 se mantiver intacta."
     },
@@ -48,7 +48,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "Comportamento estrutural idêntico ao BTC: D1 mantém viés altista enquanto H4, H1 e M15 exibem sequência bearish coerente com correção de curto prazo. O order block de H4 acima representa resistência de médio prazo relevante. Os order blocks de M15 próximos do preço configuram as zonas de rejeição mais imediatas. O alvo de liquidez abaixo permanece como destino natural enquanto a estrutura intraday não reverter com CHoCH no H4."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "Proxy UUP indica recuperação tática do dólar: D1 permanece bearish na tendência principal, mas H4, H1 e M15 exibem estrutura bullish consistente, configurando correção altista dentro da fraqueza maior. A direção de curto prazo favorece o dólar, coerente com a pressão simultânea sobre o ouro e o fortalecimento do USDJPY. Enquanto o intraday se mantiver bullish, o DXY atua como vento contrário para pares em que o dólar é cotado como moeda base.",
     "US10Y": "Yields do Tesouro americano em alta estrutural em todos os timeframes analisados — confluência total que sustenta o ambiente hawkish. A tendência de yields crescentes reforça a pressão sobre o ouro, sustenta o USDJPY e cria teto para ralis em ativos de risco sensíveis a taxas. Sem liquidez mapeada acima, o movimento de alta nos yields pode ser de extensão livre no curto prazo. Os suportes de liquidez abaixo delimitam os níveis onde uma eventual correção de yields encontraria demanda compradora estrutural."
   },
-  "bias_refreshed_at": "2026-04-30 06:30:02 -0300"
+  "bias_refreshed_at": "2026-04-30 06:45:01 -0300"
 }
