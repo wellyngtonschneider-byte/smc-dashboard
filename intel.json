@@ -1,6 +1,6 @@
 {
   "date": "30/04/2026",
-  "time": "09:00",
+  "time": "09:15",
   "macro": "O dia concentra eventos de alto impacto simultâneos para três blocos monetários: decisão de juros do BoE e do BCE, além de uma bateria de dados americanos incluindo PIB preliminar, Core PCE, renda e gastos pessoais e custo de emprego — formando uma sessão de volatilidade elevada e potencial de movimento direcional brusco. Os yields do tesouro americano seguem em estrutura altista em todos os timeframes, pressionando o ouro e favorecendo o dólar marginalmente no curto prazo, mesmo que o DXY mantenha viés macro descendente no diário. O dólar apresenta força de curto prazo conflitando com a tendência macro bearish, tornando sua direção muito dependente das leituras de PCE e PIB de hoje. Pares denominados em GBP e EUR enfrentam catalisadores específicos de volatilidade via decisões de banco central, criando risco bidirecional elevado para o período da manhã europeia.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "O dólar exibe dualidade estrutural clara: tendência macro descendente no D1 em conflito com força de curto e médio prazo nos H4, H1 e M15. Esta divergência torna a sessão de hoje particularmente crítica, pois o bloco de dados americanos — PIB preliminar, Core PCE, renda e gastos pessoais — funcionará como árbitro entre os dois regimes. Leituras de inflação e crescimento acima do esperado tendem a reforçar a força intradiária; leituras abaixo podem acelerar o retorno ao viés macro baixista do D1. A zona de demanda de M15 abaixo funciona como suporte imediato; a liquidez mais abaixo representa o alvo do cenário de dominância macro — com implicação direta e inversa para EURUSD e GBPUSD.",
     "US10Y": "Yields do tesouro americano de dez anos em estrutura altista completa — D1, H4, H1 e M15 todos confirmando momentum crescente, sem nenhuma dissidência estrutural, representando o sinal mais coeso e alinhado de toda a sessão. Yields em alta têm implicações cruzadas relevantes: pressionam o ouro via relação inversa histórica, fortalecem o dólar marginalmente e podem pesar sobre ativos de risco como NAS100. Os dados de PCE e GDP de hoje são o gatilho mais relevante para verificar se o mercado mantém ou reverte a precificação de política monetária restritiva por mais tempo. Enquanto a estrutura não mostrar CHoCH descendente em H4 ou D1, a leitura permanece de pressão altista sobre yields, sustentando o narrativo hawkish do Fed."
   },
-  "bias_refreshed_at": "2026-04-30 09:00:02 -0300"
+  "bias_refreshed_at": "2026-04-30 09:15:02 -0300"
 }
