@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-04-30 09:30 BRT",
+  "updated_at": "2026-04-30 09:45 BRT",
   "events": [
-    {
-      "title": "ECB Press Conference",
-      "country": "EUR",
-      "impact": "High",
-      "date": "2026-04-30",
-      "time": "09:45",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "Chicago PMI",
       "country": "USD",
