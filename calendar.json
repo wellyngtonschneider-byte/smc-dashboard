@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-04-29 20:45 BRT",
+  "updated_at": "2026-04-29 21:00 BRT",
   "events": [
-    {
-      "title": "Retail Sales YoY",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "20:50",
-      "forecast": "0.8",
-      "previous": "-0.2"
-    },
-    {
-      "title": "Industrial Production MoM Prel",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-04-29",
-      "time": "20:50",
-      "forecast": "1.1",
-      "previous": "-2"
-    },
     {
       "title": "Housing Starts YoY",
       "country": "JPY",
