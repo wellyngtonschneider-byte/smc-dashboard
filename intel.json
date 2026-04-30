@@ -1,6 +1,6 @@
 {
   "date": "30/04/2026",
-  "time": "14:45",
+  "time": "15:00",
   "macro": "O dólar apresenta divergência entre o viés macro de baixa e a recuperação intradiária, com os yields do Tesouro americano em tendência de alta em todos os timeframes — sinal de que as expectativas de política monetária restritiva permanecem no radar. O discurso da presidente do BCE, Lagarde, é o evento central do dia e tende a ser catalisador de volatilidade nos pares em euro, com potencial de repricing rápido em EURUSD e derivados. A correlação inversa entre dólar forte de curto prazo e ativos de risco é relevante: ouro e cripto operam em correção técnica enquanto o DXY tenta recuperação intradiária. A confluência de yields em alta com recuperação do dólar sugere ambiente de risk-off moderado no curto prazo, mas a estrutura macro ainda favorece ativos não-dólar no prazo mais longo.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Dólar em situação de divergência estrutural relevante: viés macro bearish em D1 contrasta com recuperação intradiária coordenada em H4, H1 e M15, todos bullish. Isso indica que o dólar está em movimento corretivo de alta dentro de tendência maior de baixa — sugerindo que a força atual é temporária e pode ser absorvida antes de nova queda. Essa leitura tem impacto direto nos pares de moeda: força de curto prazo do dólar pressiona compras em EUR, GBP e commodities, mas o macro estrutural segue favorável para a fraqueza do dólar. Atenção ao discurso de Lagarde como catalisador de aceleração.",
     "US10Y": "Yields do Tesouro americano de dez anos em tendência de alta estrutural em todos os timeframes — D1, H4, H1 e M15 todos bullish, indicando pressão crescente sobre os juros longos. Esse movimento de alta nos yields tende a sustentar o dólar no curto prazo e pressionar ativos de risco como ouro e cripto, além de impactar negativamente renda fixa. A confluência de todos os timeframes em alta é um sinal de força consistente, sem evidência de esgotamento próximo. Contexto macro: mercado ainda precifica ambiente de juros elevados por mais tempo, o que mantém pressão sobre ativos sensíveis ao custo do capital."
   },
-  "bias_refreshed_at": "2026-04-30 14:45:01 -0300"
+  "bias_refreshed_at": "2026-04-30 15:00:02 -0300"
 }
