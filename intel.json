@@ -1,6 +1,6 @@
 {
   "date": "30/04/2026",
-  "time": "15:30",
+  "time": "15:45",
   "macro": "Sem eventos de alto impacto no calendário hoje, o fluxo macro é inteiramente guiado pelas correlações estruturais entre os ativos. O DXY apresenta bias bearish consolidado em todos os timeframes analisados, sinalizando fraqueza ampla do dólar e favorecendo pares como EUR e GBP enquanto pressiona USDJPY para baixo. Os yields do tesouro americano de dez anos sustentam estrutura bullish em todos os tempos gráficos, criando uma dinâmica divergente entre dólar fraco e taxas em alta — cenário tipicamente associado a maior prêmio de risco sobre títulos soberanos americanos, independente da direção cambial. Essa combinação macro oferece contexto coerente para os setups técnicos do dia, sem ruído de agenda que distorça os movimentos.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Alinhamento bearish em todos os timeframes — D1, H4, H1 e M15 — confirmando fraqueza ampla e estruturada do dólar no dia. Essa leitura funciona como confirmação macro para os cenários bullish em EUR e GBP e bearish em USDJPY. A liquidez acima representa zonas que o preço pode visitar em repiques técnicos, mas a estrutura indica que esses movimentos seriam oportunidades de reentrada vendedora. O OB de H1 bearish acima é a principal referência de resistência para o curto prazo.",
     "US10Y": "Yields do tesouro americano de dez anos com estrutura bullish em todos os timeframes, indicando pressão altista contínua sobre as taxas de juros. A divergência entre yields em alta e DXY em queda cria um ambiente macro complexo, sugerindo que o mercado precifica maior prêmio de risco nos títulos americanos de forma independente da direção cambial — contexto que pode refletir preocupações fiscais ou expectativas de manutenção de juros elevados pelo Fed por mais tempo. A liquidez abaixo dos yields representa suporte para eventual correção técnica, mas o bias estrutural de médio prazo permanece altista para as taxas."
   },
-  "bias_refreshed_at": "2026-04-30 15:30:02 -0300"
+  "bias_refreshed_at": "2026-04-30 15:45:02 -0300"
 }
