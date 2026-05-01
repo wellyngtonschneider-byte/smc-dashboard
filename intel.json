@@ -1,6 +1,6 @@
 {
   "date": "01/05/2026",
-  "time": "19:45",
+  "time": "20:00",
   "macro": "O dólar americano exibe estrutura bearish consolidada em todos os timeframes relevantes, criando um ambiente favorável a ativos denominados em moedas concorrentes e commodities. Os yields do tesouro de dez anos mantêm viés bullish nos timeframes maiores, gerando uma divergência técnica relevante: dólar fraco com yields em alta sugere realocação de capital em curso, possivelmente de ativos em dólar para renda variável ou ativos reais. O ISM Manufacturing PMI americano, evento de alto impacto previsto para hoje, representa o principal gatilho de volatilidade da sessão e pode reverter ou acelerar o movimento do dólar, impactando diretamente pares com USD e metais. No lado da libra, o bloco de dados do BoE — crédito ao consumidor, aprovações e concessões de hipotecas — pode adicionar volatilidade localizada ao GBP nos timeframes menores antes da abertura americana.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Bearish em D1, H4, H1 e M15, com apenas M5 sinalizando recuperação pontual via CHoCH de alta. O bias é vendedor de forma consistente e alinhada em todos os timeframes relevantes, sem qualquer sinal de reversão estrutural. A recuperação de M5 é tratada como ruído dentro da tendência maior. O ISM Manufacturing PMI americano é o evento do dia que pode provocar spike de força no dólar — caso surpreenda positivamente — mas sem alterar a estrutura macro bearish enquanto não houver CHoCH em H4. A fraqueza do DXY sustenta o cenário bullish de EUR, GBP e metais.",
     "US10Y": "Os yields do tesouro americano de dez anos exibem estrutura bullish em D1, H4, H1 e M15, indicando tendência de alta nas taxas de juros de longo prazo. O recuo pontual em M5 representa acomodação de curto prazo sem impacto estrutural. A divergência entre yields em alta e dólar em queda é o tema macro central do momento, sugerindo que o mercado está precificando um ambiente em que a renda fixa americana perde atratividade relativa mesmo com taxas elevadas. O ISM Manufacturing PMI poderá influenciar a direção dos yields na sessão: dado forte reforça a expectativa de manutenção dos juros altos e pode empurrar yields para cima; dado fraco abre espaço para recuo nas taxas."
   },
-  "bias_refreshed_at": "2026-05-01 19:45:02 -0300"
+  "bias_refreshed_at": "2026-05-01 20:00:03 -0300"
 }
