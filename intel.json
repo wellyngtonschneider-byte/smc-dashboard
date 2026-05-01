@@ -1,6 +1,6 @@
 {
   "date": "30/04/2026",
-  "time": "22:30",
+  "time": "22:45",
   "macro": "Sem eventos de alto ou médio impacto no calendário de hoje, o mercado opera em modo técnico com liquidez reduzida de catalisadores fundamentais. O dólar apresenta fraqueza estrutural generalizada em todos os timeframes, enquanto os yields do Tesouro americano de dez anos exibem alinhamento de alta igualmente completo — divergência incomum que sugere rotação de capitais ou dinâmica de desalavancagem seletiva. Essa combinação favorece pares de euro e libra na direção compradora, mas cria ambiguidade para ativos como o ouro, cuja estrutura de prazo maior permanece vendedora apesar da fraqueza cambial. Na ausência de news drivers, os movimentos intraday tenderão a ser guiados por varridas de liquidez e reações aos order blocks identificados.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Alinhamento bearish completo em todos os timeframes — a fraqueza do dólar é a narrativa técnica dominante da sessão e serve como catalisador para os movimentos bullish em EURUSD, GBPUSD e NAS100. Liquidez acima pode ser varrida em movimento de mitigação antes de retomada da queda. Nenhum order block de referência foi identificado na estrutura atual, o que reforça a pressão vendedora continuada. A manutenção dessa fraqueza é condição essencial para os setups compradores nos pares de moedas.",
     "US10Y": "Yields do Tesouro de dez anos em tendência de alta com alinhamento bullish completo do D1 ao M15 — estrutura que indica pressão vendedora contínua nos treasuries e expectativa de taxas elevadas. A divergência com o dólar em queda é incomum e merece monitoramento: pode sinalizar rotação para fora de ativos denominados em dólar ou dinâmica de risco específica de curto prazo. O NAS100 ainda ignora a pressão dos yields, mas uma aceleração da alta nas taxas poderia provocar correlação negativa com equities e pressão adicional sobre cripto."
   },
-  "bias_refreshed_at": "2026-04-30 22:30:02 -0300"
+  "bias_refreshed_at": "2026-04-30 22:45:01 -0300"
 }
