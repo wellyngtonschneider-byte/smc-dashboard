@@ -1,6 +1,6 @@
 {
   "date": "01/05/2026",
-  "time": "14:49",
+  "time": "15:00",
   "macro": "Sessão dominada pela divulgação do ISM Manufacturing PMI dos EUA às 11h, principal catalisador do dia com potencial de redirecionar DXY e yields. Estrutura macro mostra DXY em viés baixista nos timeframes superiores com reação técnica em M15, enquanto US10Y mantém yields pressionados para cima no contexto maior — combinação que sustenta força em ouro, cripto e majors contra dólar. Reino Unido entrega bateria de dados imobiliários e crédito que podem agitar GBP no início do pregão europeu. Risk-on prevalece com NAS100 em estrutura bullish limpa em todos os timeframes, sinalizando apetite por risco antes do dado americano.",
   "assets": [
     {
@@ -71,7 +71,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bullish",
       "text": "Bias macro bearish dominante em D1, H4 e H1 com DXY perdendo estrutura recente. Reação bullish em M15/M5 é correção contra-tendência buscando liquidez superior antes de retomada do downtrend. Zona de interesse para venda do dólar fica próxima à liquidez superior recém-formada. ISM Manufacturing é o evento divisor — leitura forte pode forçar inversão estrutural de curto prazo; leitura fraca acelera o bias macro bearish, beneficiando ouro, EUR, GBP e cripto."
     },
@@ -95,5 +95,6 @@
     "NAS100": "Estrutura bullish absoluta em todos os timeframes — bias macro e operacional totalmente alinhados, sem conflito. Não há zona de venda válida no contexto atual; foco é exclusivamente compra em pullback. OB H1 bull é a zona principal de interesse para entradas em desconto. ISM Manufacturing é o catalisador — leitura positiva valida continuação da alta; surpresa negativa pode gerar sweep da liquidez superior antes de correção mais profunda buscando o OB H1.",
     "DXY": "Bias macro bearish dominante em D1, H4 e H1 com DXY perdendo estrutura recente. Reação bullish em M15/M5 é correção contra-tendência buscando liquidez superior antes de retomada do downtrend. Zona de interesse para venda do dólar fica próxima à liquidez superior recém-formada. ISM Manufacturing é o evento divisor — leitura forte pode forçar inversão estrutural de curto prazo; leitura fraca acelera o bias macro bearish, beneficiando ouro, EUR, GBP e cripto.",
     "US10Y": "Yields do Tesouro de 10 anos seguem em estrutura bullish macro consistente em D1, H4, H1 e M15 — pressão altista sobre custos de capital permanece. Apenas M5 mostra correção pontual após CHoCH down recente. Cenário base é continuação da alta de yields, o que historicamente pressiona ativos de risco e fortalece dólar — porém DXY está descolado nesse momento, sugerindo que o mercado precifica corte de juros futuro apesar dos yields longos. ISM forte tende a sustentar yields elevados; ISM fraco pode acelerar correção em M15."
-  }
+  },
+  "bias_refreshed_at": "2026-05-01 15:00:02 -0300"
 }
