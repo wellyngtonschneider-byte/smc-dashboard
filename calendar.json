@@ -1,23 +1,4 @@
 {
-  "updated_at": "2026-05-01 10:45 BRT",
-  "events": [
-    {
-      "title": "ISM Manufacturing PMI",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-01",
-      "time": "11:00",
-      "forecast": "53",
-      "previous": "52.7"
-    },
-    {
-      "title": "ISM Manufacturing Employment",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-01",
-      "time": "11:00",
-      "forecast": "49",
-      "previous": "48.7"
-    }
-  ]
+  "updated_at": "2026-05-01 11:00 BRT",
+  "events": []
 }
