@@ -1,7 +1,7 @@
 {
   "date": "01/05/2026",
-  "time": "14:45",
-  "macro": "O dólar segue estruturalmente fraco em todos os timeframes relevantes, com o DXY em viés bearish consolidado, criando ambiente propício para pares majors e metais. Os yields do Tesouro americano de dez anos continuam em trajetória ascendente, sinalizando pressão sobre renda fixa e uma divergência a monitorar em relação ao dólar fraco. O evento de maior impacto do dia é o ISM Manufacturing PMI, de alta relevância, capaz de provocar volatilidade expressiva no USD e repercutir em todos os cruzamentos dólar, commodities e índices. O dado de emprego manufatureiro, de relevância média, complementa o quadro macro antes da abertura americana.",
+  "time": "14:49",
+  "macro": "Sessão dominada pela divulgação do ISM Manufacturing PMI dos EUA às 11h, principal catalisador do dia com potencial de redirecionar DXY e yields. Estrutura macro mostra DXY em viés baixista nos timeframes superiores com reação técnica em M15, enquanto US10Y mantém yields pressionados para cima no contexto maior — combinação que sustenta força em ouro, cripto e majors contra dólar. Reino Unido entrega bateria de dados imobiliários e crédito que podem agitar GBP no início do pregão europeu. Risk-on prevalece com NAS100 em estrutura bullish limpa em todos os timeframes, sinalizando apetite por risco antes do dado americano.",
   "assets": [
     {
       "pair": "XAUUSD",
@@ -9,7 +9,8 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Estrutura bearish alinhada em todos os quatro timeframes analisados, com D1 e H4 conferindo viés vendedor claro e dominante. O preço opera no interior de um order block bearish de M15 recém-formado, com liquidez buyside imediatamente acima servindo como isca antes de possível distribuição. Cenário provável: varredura da liquidez acima do preço atual seguida de rejeição e busca da liquidez sellside abaixo. Gatilho de venda mediante confirmação de rejeição no OB M15 bear; invalidação acima da estrutura de topo do H1."
+      "m5": "bearish",
+      "text": "Estrutura macro segue bearish em D1 e H4, mas timeframes operacionais viraram bullish após CHoCH recente — cenário típico de pullback corretivo dentro de tendência maior baixista. As zonas de interesse para venda ficam nas regiões de OB inferiores onde há confluência com liquidez não tomada. Gatilho provável é teste da liquidez superior seguido de reação vendedora alinhada ao bias do D1. ISM americano é o evento decisivo — surpresa positiva tende a empurrar ouro de volta ao bias macro bearish."
     },
     {
       "pair": "GBPUSD",
@@ -17,7 +18,8 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bearish",
-      "text": "Todos os timeframes alinhados em viés bullish, com D1, H4, H1 e M15 confirmando estrutura compradora íntegra. O preço já alcança a liquidez buyside acima identificada, o que pode antecipar fase de consolidação ou retração leve antes de continuação. Os order blocks bullish de H1 e M15 formados nas últimas horas representam zonas de interesse para reentradas compradoras em pullback. O ISM pode amplificar a fraqueza do dólar e favorecer o par; invalidação estrutural somente abaixo dos níveis de referência do H4."
+      "m5": "bearish",
+      "text": "Bias macro bullish forte com D1 e H4 alinhados após BOS up recente, mas operacional virou bearish em M15/M5 indicando correção pontual. Zona de interesse para compra fica no OB H1 bull onde houve formação de estrutura comprada na sessão asiática. Cenário base é varredura de liquidez inferior seguida de retomada do bias macro. Dados de crédito e habitação UK podem antecipar volatilidade no início; ISM americano define o desfecho — DXY fraco favorece continuidade da alta."
     },
     {
       "pair": "EURUSD",
@@ -25,7 +27,8 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bearish",
-      "text": "Estrutura compradora em D1, H4, H1 e M15, com viés bullish totalmente alinhado e sem conflito entre timeframes. O preço se aproxima da liquidez acima identificada, sendo este o alvo imediato do cenário principal. Os order blocks bullish de H1 e M15 formados nas últimas horas funcionam como zonas de suporte e ponto de reentrada em retração. O ISM Manufacturing é o principal catalisador do dia: leitura abaixo do esperado tende a enfraquecer o dólar e favorecer continuação; leitura acima pode provocar retração técnica até os OBs."
+      "m5": "bearish",
+      "text": "Alinhamento bullish macro em D1/H4/H1 com correção operacional em M15/M5 — estrutura clássica de pullback comprador. Existe um OB bear em M15 que serve como zona de absorção da correção antes de retomada. Liquidez superior recente foi parcialmente tomada, deixando espaço para varredura inferior antes de novo impulso. Com DXY pressionado e foco no ISM, viés é manter cenário de compra em zona de desconto após sweep de liquidez baixa."
     },
     {
       "pair": "USDJPY",
@@ -33,7 +36,8 @@
       "h4": "bearish",
       "h1": "bearish",
       "m15": "bullish",
-      "text": "Viés bearish alinhado em todos os quatro timeframes — D1, H4, H1 e M15 —, configurando cenário de venda estrutural consistente. Os order blocks bearish de timeframes maiores estão posicionados bem acima do preço atual, fora de alcance imediato, enquanto a liquidez mais próxima existe tanto acima quanto abaixo. Cenário provável: busca da liquidez sellside abaixo após eventual varredura da liquidez buyside imediata. Um ISM forte poderia criar pullback temporário, mas não altera o bias estrutural enquanto a estrutura bearish permanecer intacta."
+      "m5": "bullish",
+      "text": "Estrutura claramente bearish em D1, H4 e H1 com múltiplos OBs bear empilhados acima — cenário macro de venda bem definido. Reação bullish em M15/M5 é apenas correção dentro do downtrend buscando preencher liquidez superior. Zona de interesse para venda fica na região do OB H1 bear próximo onde houve BOS down recente. Gatilho ideal é tap nesse OB com rejeição em M5; ISM fraco potencializa a venda alinhada ao bias macro."
     },
     {
       "pair": "BTCUSD",
@@ -41,7 +45,8 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Estrutura bullish consolidada em todos os timeframes, com D1, H4, H1 e M15 alinhados para cima, confirmando viés comprador sólido. O preço opera com folga acima dos order blocks bullish de referência, que agora funcionam como zonas de suporte relevantes em eventual retração. A liquidez sellside abaixo do preço atual representa o alvo de um possível pullback antes de continuação, sendo os OBs inferiores as zonas de interesse para posicionamento comprador. Enquanto a estrutura não for violada, o bias de alta se mantém."
+      "m5": "bearish",
+      "text": "Bull market estrutural confirmado com D1, H4, H1 e M15 todos bullish — apenas M5 mostra correção pontual. Zonas de interesse para recompra estão concentradas nos OBs bull formados na transição da sessão asiática para europeia. Liquidez superior próxima é alvo natural; gatilho é varredura de liquidez inferior recente seguida de retomada. ISM americano em modo risk-on amplifica o movimento; viés é manter compras em zona de desconto."
     },
     {
       "pair": "ETHUSD",
@@ -49,7 +54,8 @@
       "h4": "bearish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Conflito estrutural relevante: D1 e H4 permanecem bearish, enquanto H1 e M15 acabaram de virar bullish em movimento de curto prazo. O preço se aproxima de um order block bearish de H4 posicionado logo acima, criando zona de resistência significativa contra a qual o rally intraday pode esbarrar. Cenário mais provável: rejeição na zona do OB de H4 e retomada do viés bearish dos timeframes maiores, com liquidez sellside abaixo como alvo. Gatilho de venda é confirmação de rejeição no OB H4; invalidação se H4 virar estruturalmente bullish."
+      "m5": "bullish",
+      "text": "Conflito estrutural interessante: D1 e H4 ainda bearish enquanto operacional virou bullish em todos os timeframes menores. Cenário operacional é continuação da correção altista até testar OB H4 bear que serve como zona de venda macro. Gatilho conservador é aguardar reação no OB H4 bear para shorts alinhados ao bias maior; gatilho agressivo é compra em pullback nos OBs M5 bull para pegar a perna corretiva. Correlação com BTC favorece continuidade altista no curto prazo."
     },
     {
       "pair": "NAS100",
@@ -57,15 +63,17 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Todos os timeframes alinhados em viés bullish — D1, H4, H1 e M15 —, com estrutura compradora bem definida e sem divergências. Os order blocks bullish de H1 e M15 abaixo do preço atual representam zonas de suporte e reentrada em eventual recuo. A liquidez sellside abaixo pode ser varrida antes de nova perna de alta. O ISM Manufacturing é o principal risco intraday: leitura fraca favorece o índice via queda do dólar; leitura forte com narrativa restritiva pode pressionar temporariamente antes da retomada estrutural."
+      "m5": "bullish",
+      "text": "Estrutura bullish absoluta em todos os timeframes — bias macro e operacional totalmente alinhados, sem conflito. Não há zona de venda válida no contexto atual; foco é exclusivamente compra em pullback. OB H1 bull é a zona principal de interesse para entradas em desconto. ISM Manufacturing é o catalisador — leitura positiva valida continuação da alta; surpresa negativa pode gerar sweep da liquidez superior antes de correção mais profunda buscando o OB H1."
     },
     {
       "pair": "DXY",
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
-      "text": "O dólar apresenta estrutura bearish consolidada em todos os timeframes relevantes, com D1, H4, H1 e M15 alinhados para baixo sem qualquer conflito. A liquidez acima do preço representa o único ponto de interesse para possível pullback técnico antes da continuação da queda. O ISM Manufacturing é o catalisador mais relevante do dia para o DXY: leitura acima do esperado pode provocar recuperação temporária rumo à liquidez acima; abaixo do esperado reforça e acelera o viés vendedor. O ambiente de dólar fraco sustenta o bias bullish dos pares majors."
+      "m15": "bullish",
+      "m5": "bullish",
+      "text": "Bias macro bearish dominante em D1, H4 e H1 com DXY perdendo estrutura recente. Reação bullish em M15/M5 é correção contra-tendência buscando liquidez superior antes de retomada do downtrend. Zona de interesse para venda do dólar fica próxima à liquidez superior recém-formada. ISM Manufacturing é o evento divisor — leitura forte pode forçar inversão estrutural de curto prazo; leitura fraca acelera o bias macro bearish, beneficiando ouro, EUR, GBP e cripto."
     },
     {
       "pair": "US10Y",
@@ -73,19 +81,19 @@
       "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
-      "text": "Os yields do Tesouro americano de dez anos encontram-se em trajetória de alta estrutural, com bias bullish confirmado em D1, H4, H1 e M15 — todos os timeframes alinhados para cima. A liquidez acima dos yields atuais representa o próximo alvo, indicando continuidade da pressão vendedora sobre renda fixa. Essa configuração de yields ascendentes cria ambiente de custo de oportunidade elevado para ativos de risco, embora a fraqueza simultânea do dólar mitigue parte dessa pressão. Um ISM acima do esperado pode reforçar a narrativa de yields mais altos ao sinalizar resiliência econômica."
+      "m5": "bearish",
+      "text": "Yields do Tesouro de 10 anos seguem em estrutura bullish macro consistente em D1, H4, H1 e M15 — pressão altista sobre custos de capital permanece. Apenas M5 mostra correção pontual após CHoCH down recente. Cenário base é continuação da alta de yields, o que historicamente pressiona ativos de risco e fortalece dólar — porém DXY está descolado nesse momento, sugerindo que o mercado precifica corte de juros futuro apesar dos yields longos. ISM forte tende a sustentar yields elevados; ISM fraco pode acelerar correção em M15."
     }
   ],
   "llm_narratives": {
-    "XAUUSD": "Estrutura bearish alinhada em todos os quatro timeframes analisados, com D1 e H4 conferindo viés vendedor claro e dominante. O preço opera no interior de um order block bearish de M15 recém-formado, com liquidez buyside imediatamente acima servindo como isca antes de possível distribuição. Cenário provável: varredura da liquidez acima do preço atual seguida de rejeição e busca da liquidez sellside abaixo. Gatilho de venda mediante confirmação de rejeição no OB M15 bear; invalidação acima da estrutura de topo do H1.",
-    "GBPUSD": "Todos os timeframes alinhados em viés bullish, com D1, H4, H1 e M15 confirmando estrutura compradora íntegra. O preço já alcança a liquidez buyside acima identificada, o que pode antecipar fase de consolidação ou retração leve antes de continuação. Os order blocks bullish de H1 e M15 formados nas últimas horas representam zonas de interesse para reentradas compradoras em pullback. O ISM pode amplificar a fraqueza do dólar e favorecer o par; invalidação estrutural somente abaixo dos níveis de referência do H4.",
-    "EURUSD": "Estrutura compradora em D1, H4, H1 e M15, com viés bullish totalmente alinhado e sem conflito entre timeframes. O preço se aproxima da liquidez acima identificada, sendo este o alvo imediato do cenário principal. Os order blocks bullish de H1 e M15 formados nas últimas horas funcionam como zonas de suporte e ponto de reentrada em retração. O ISM Manufacturing é o principal catalisador do dia: leitura abaixo do esperado tende a enfraquecer o dólar e favorecer continuação; leitura acima pode provocar retração técnica até os OBs.",
-    "USDJPY": "Viés bearish alinhado em todos os quatro timeframes — D1, H4, H1 e M15 —, configurando cenário de venda estrutural consistente. Os order blocks bearish de timeframes maiores estão posicionados bem acima do preço atual, fora de alcance imediato, enquanto a liquidez mais próxima existe tanto acima quanto abaixo. Cenário provável: busca da liquidez sellside abaixo após eventual varredura da liquidez buyside imediata. Um ISM forte poderia criar pullback temporário, mas não altera o bias estrutural enquanto a estrutura bearish permanecer intacta.",
-    "BTCUSD": "Estrutura bullish consolidada em todos os timeframes, com D1, H4, H1 e M15 alinhados para cima, confirmando viés comprador sólido. O preço opera com folga acima dos order blocks bullish de referência, que agora funcionam como zonas de suporte relevantes em eventual retração. A liquidez sellside abaixo do preço atual representa o alvo de um possível pullback antes de continuação, sendo os OBs inferiores as zonas de interesse para posicionamento comprador. Enquanto a estrutura não for violada, o bias de alta se mantém.",
-    "ETHUSD": "Conflito estrutural relevante: D1 e H4 permanecem bearish, enquanto H1 e M15 acabaram de virar bullish em movimento de curto prazo. O preço se aproxima de um order block bearish de H4 posicionado logo acima, criando zona de resistência significativa contra a qual o rally intraday pode esbarrar. Cenário mais provável: rejeição na zona do OB de H4 e retomada do viés bearish dos timeframes maiores, com liquidez sellside abaixo como alvo. Gatilho de venda é confirmação de rejeição no OB H4; invalidação se H4 virar estruturalmente bullish.",
-    "NAS100": "Todos os timeframes alinhados em viés bullish — D1, H4, H1 e M15 —, com estrutura compradora bem definida e sem divergências. Os order blocks bullish de H1 e M15 abaixo do preço atual representam zonas de suporte e reentrada em eventual recuo. A liquidez sellside abaixo pode ser varrida antes de nova perna de alta. O ISM Manufacturing é o principal risco intraday: leitura fraca favorece o índice via queda do dólar; leitura forte com narrativa restritiva pode pressionar temporariamente antes da retomada estrutural.",
-    "DXY": "O dólar apresenta estrutura bearish consolidada em todos os timeframes relevantes, com D1, H4, H1 e M15 alinhados para baixo sem qualquer conflito. A liquidez acima do preço representa o único ponto de interesse para possível pullback técnico antes da continuação da queda. O ISM Manufacturing é o catalisador mais relevante do dia para o DXY: leitura acima do esperado pode provocar recuperação temporária rumo à liquidez acima; abaixo do esperado reforça e acelera o viés vendedor. O ambiente de dólar fraco sustenta o bias bullish dos pares majors.",
-    "US10Y": "Os yields do Tesouro americano de dez anos encontram-se em trajetória de alta estrutural, com bias bullish confirmado em D1, H4, H1 e M15 — todos os timeframes alinhados para cima. A liquidez acima dos yields atuais representa o próximo alvo, indicando continuidade da pressão vendedora sobre renda fixa. Essa configuração de yields ascendentes cria ambiente de custo de oportunidade elevado para ativos de risco, embora a fraqueza simultânea do dólar mitigue parte dessa pressão. Um ISM acima do esperado pode reforçar a narrativa de yields mais altos ao sinalizar resiliência econômica."
-  },
-  "bias_refreshed_at": "2026-05-01 14:45:02 -0300"
+    "XAUUSD": "Estrutura macro segue bearish em D1 e H4, mas timeframes operacionais viraram bullish após CHoCH recente — cenário típico de pullback corretivo dentro de tendência maior baixista. As zonas de interesse para venda ficam nas regiões de OB inferiores onde há confluência com liquidez não tomada. Gatilho provável é teste da liquidez superior seguido de reação vendedora alinhada ao bias do D1. ISM americano é o evento decisivo — surpresa positiva tende a empurrar ouro de volta ao bias macro bearish.",
+    "GBPUSD": "Bias macro bullish forte com D1 e H4 alinhados após BOS up recente, mas operacional virou bearish em M15/M5 indicando correção pontual. Zona de interesse para compra fica no OB H1 bull onde houve formação de estrutura comprada na sessão asiática. Cenário base é varredura de liquidez inferior seguida de retomada do bias macro. Dados de crédito e habitação UK podem antecipar volatilidade no início; ISM americano define o desfecho — DXY fraco favorece continuidade da alta.",
+    "EURUSD": "Alinhamento bullish macro em D1/H4/H1 com correção operacional em M15/M5 — estrutura clássica de pullback comprador. Existe um OB bear em M15 que serve como zona de absorção da correção antes de retomada. Liquidez superior recente foi parcialmente tomada, deixando espaço para varredura inferior antes de novo impulso. Com DXY pressionado e foco no ISM, viés é manter cenário de compra em zona de desconto após sweep de liquidez baixa.",
+    "USDJPY": "Estrutura claramente bearish em D1, H4 e H1 com múltiplos OBs bear empilhados acima — cenário macro de venda bem definido. Reação bullish em M15/M5 é apenas correção dentro do downtrend buscando preencher liquidez superior. Zona de interesse para venda fica na região do OB H1 bear próximo onde houve BOS down recente. Gatilho ideal é tap nesse OB com rejeição em M5; ISM fraco potencializa a venda alinhada ao bias macro.",
+    "BTCUSD": "Bull market estrutural confirmado com D1, H4, H1 e M15 todos bullish — apenas M5 mostra correção pontual. Zonas de interesse para recompra estão concentradas nos OBs bull formados na transição da sessão asiática para europeia. Liquidez superior próxima é alvo natural; gatilho é varredura de liquidez inferior recente seguida de retomada. ISM americano em modo risk-on amplifica o movimento; viés é manter compras em zona de desconto.",
+    "ETHUSD": "Conflito estrutural interessante: D1 e H4 ainda bearish enquanto operacional virou bullish em todos os timeframes menores. Cenário operacional é continuação da correção altista até testar OB H4 bear que serve como zona de venda macro. Gatilho conservador é aguardar reação no OB H4 bear para shorts alinhados ao bias maior; gatilho agressivo é compra em pullback nos OBs M5 bull para pegar a perna corretiva. Correlação com BTC favorece continuidade altista no curto prazo.",
+    "NAS100": "Estrutura bullish absoluta em todos os timeframes — bias macro e operacional totalmente alinhados, sem conflito. Não há zona de venda válida no contexto atual; foco é exclusivamente compra em pullback. OB H1 bull é a zona principal de interesse para entradas em desconto. ISM Manufacturing é o catalisador — leitura positiva valida continuação da alta; surpresa negativa pode gerar sweep da liquidez superior antes de correção mais profunda buscando o OB H1.",
+    "DXY": "Bias macro bearish dominante em D1, H4 e H1 com DXY perdendo estrutura recente. Reação bullish em M15/M5 é correção contra-tendência buscando liquidez superior antes de retomada do downtrend. Zona de interesse para venda do dólar fica próxima à liquidez superior recém-formada. ISM Manufacturing é o evento divisor — leitura forte pode forçar inversão estrutural de curto prazo; leitura fraca acelera o bias macro bearish, beneficiando ouro, EUR, GBP e cripto.",
+    "US10Y": "Yields do Tesouro de 10 anos seguem em estrutura bullish macro consistente em D1, H4, H1 e M15 — pressão altista sobre custos de capital permanece. Apenas M5 mostra correção pontual após CHoCH down recente. Cenário base é continuação da alta de yields, o que historicamente pressiona ativos de risco e fortalece dólar — porém DXY está descolado nesse momento, sugerindo que o mercado precifica corte de juros futuro apesar dos yields longos. ISM forte tende a sustentar yields elevados; ISM fraco pode acelerar correção em M15."
+  }
 }
