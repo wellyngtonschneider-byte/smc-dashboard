@@ -1,6 +1,6 @@
 {
   "date": "01/05/2026",
-  "time": "08:30",
+  "time": "08:45",
   "macro": "O dólar americano segue estruturalmente vendido em todos os timeframes relevantes, refletindo deterioração do sentimento em relação ao USD e possível reposicionamento global de capitais para fora de ativos denominados em dólar. Os yields do tesouro de dez anos sustentam viés de alta em toda a estrutura, sinalizando pressão inflacionária persistente ou prêmio de risco fiscal elevado — combinação que pressiona o Fed a manter postura cautelosa. O evento de maior peso do dia é o ISM Manufacturing PMI, dado de impacto alto, com potencial de provocar volatilidade relevante: leitura abaixo do esperado reforçaria a narrativa de enfraquecimento do ciclo industrial americano e intensificaria a venda do dólar, ao passo que surpresa positiva poderia desencadear reversão técnica pontual nas estruturas bearish do DXY e pressionar pares como EURUSD e GBPUSD de volta às suas zonas de suporte. O ISM Manufacturing Employment, de impacto médio, funcionará como dado secundário de confirmação do estado do mercado de trabalho no setor produtivo.",
   "assets": [
     {
@@ -87,5 +87,5 @@
     "DXY": "Bearish em todos os timeframes sem exceção — D1, H4, H1 e M15 confirmam estrutura de enfraquecimento contínuo do dólar, com CHoCH descendentes em cascata. Essa leitura funciona como contexto macro unificador: valida o bullish em EURUSD, GBPUSD e NAS100, e reforça o bearish em USDJPY. A liquidez acumulada acima do preço atual pode atrair um sweep técnico antes de continuação da queda — padrão clássico de caça a stops antes de nova perna baixista. O ISM de hoje é evento-chave: leitura fraca reaceleraria o selloff do USD; leitura forte poderia causar recuperação técnica em direção à liquidez superior, mas sem mudar a estrutura maior. Nenhum sinal de reversão estrutural identificado nos dados.",
     "US10Y": "Yields do tesouro de dez anos em trajetória bullish consistente em todos os timeframes — D1, H4, H1 e M15 todos confirmam tendência de alta das taxas, com BOS e CHoCH ascendentes recentes. A elevação dos yields em contexto de DXY bearish aponta para uma dinâmica não convencional, possivelmente relacionada a prêmio de risco fiscal americano elevado, percepção de inflação persistente ou realocação de carteiras globais para fora de treasuries. Essa combinação — yields subindo com dólar caindo — pode indicar desconfiança estrutural no ativo livre de risco americano. O ISM de hoje impacta diretamente: PMI fraco reduziria expectativas de hawkishness do Fed e poderia pressionar yields para baixo em curto prazo; PMI forte confirmaria resiliência e suportaria a continuação da alta dos yields. Liquidez acima dos níveis atuais representa o próximo alvo natural da estrutura."
   },
-  "bias_refreshed_at": "2026-05-01 08:30:01 -0300"
+  "bias_refreshed_at": "2026-05-01 08:45:02 -0300"
 }
