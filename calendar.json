@@ -1,4 +1,68 @@
 {
   "updated_at": "2026-05-01 14:01 BRT",
-  "events": []
+  "events": [
+    {
+      "title": "Nationwide Housing Prices MoM",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "03:00",
+      "forecast": "-0.3",
+      "previous": "0.9"
+    },
+    {
+      "title": "Nationwide Housing Prices YoY",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "03:00",
+      "forecast": "2.2",
+      "previous": "2.2"
+    },
+    {
+      "title": "BoE Consumer Credit",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "05:30",
+      "forecast": "1.8",
+      "previous": "1.975"
+    },
+    {
+      "title": "Mortgage Approvals",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "05:30",
+      "forecast": "60",
+      "previous": "62.71"
+    },
+    {
+      "title": "Mortgage Lending",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "05:30",
+      "forecast": "4.2",
+      "previous": "5.22"
+    },
+    {
+      "title": "ISM Manufacturing PMI",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-01",
+      "time": "11:00",
+      "forecast": "53",
+      "previous": "52.7"
+    },
+    {
+      "title": "ISM Manufacturing Employment",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-01",
+      "time": "11:00",
+      "forecast": "49",
+      "previous": "48.7"
+    }
+  ]
 }
