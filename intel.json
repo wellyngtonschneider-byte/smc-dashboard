@@ -1,6 +1,6 @@
 {
   "date": "01/05/2026",
-  "time": "12:45",
+  "time": "13:00",
   "macro": "O dólar segue estruturalmente fraco em todos os timeframes relevantes, com o DXY em viés bearish consolidado, criando ambiente propício para pares majors e metais. Os yields do Tesouro americano de dez anos continuam em trajetória ascendente, sinalizando pressão sobre renda fixa e uma divergência a monitorar em relação ao dólar fraco. O evento de maior impacto do dia é o ISM Manufacturing PMI, de alta relevância, capaz de provocar volatilidade expressiva no USD e repercutir em todos os cruzamentos dólar, commodities e índices. O dado de emprego manufatureiro, de relevância média, complementa o quadro macro antes da abertura americana.",
   "assets": [
     {
@@ -32,7 +32,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "text": "Viés bearish alinhado em todos os quatro timeframes — D1, H4, H1 e M15 —, configurando cenário de venda estrutural consistente. Os order blocks bearish de timeframes maiores estão posicionados bem acima do preço atual, fora de alcance imediato, enquanto a liquidez mais próxima existe tanto acima quanto abaixo. Cenário provável: busca da liquidez sellside abaixo após eventual varredura da liquidez buyside imediata. Um ISM forte poderia criar pullback temporário, mas não altera o bias estrutural enquanto a estrutura bearish permanecer intacta."
     },
     {
@@ -87,5 +87,5 @@
     "DXY": "O dólar apresenta estrutura bearish consolidada em todos os timeframes relevantes, com D1, H4, H1 e M15 alinhados para baixo sem qualquer conflito. A liquidez acima do preço representa o único ponto de interesse para possível pullback técnico antes da continuação da queda. O ISM Manufacturing é o catalisador mais relevante do dia para o DXY: leitura acima do esperado pode provocar recuperação temporária rumo à liquidez acima; abaixo do esperado reforça e acelera o viés vendedor. O ambiente de dólar fraco sustenta o bias bullish dos pares majors.",
     "US10Y": "Os yields do Tesouro americano de dez anos encontram-se em trajetória de alta estrutural, com bias bullish confirmado em D1, H4, H1 e M15 — todos os timeframes alinhados para cima. A liquidez acima dos yields atuais representa o próximo alvo, indicando continuidade da pressão vendedora sobre renda fixa. Essa configuração de yields ascendentes cria ambiente de custo de oportunidade elevado para ativos de risco, embora a fraqueza simultânea do dólar mitigue parte dessa pressão. Um ISM acima do esperado pode reforçar a narrativa de yields mais altos ao sinalizar resiliência econômica."
   },
-  "bias_refreshed_at": "2026-05-01 12:45:02 -0300"
+  "bias_refreshed_at": "2026-05-01 13:00:02 -0300"
 }
