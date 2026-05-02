@@ -1,6 +1,6 @@
 {
   "date": "01/05/2026",
-  "time": "21:30",
+  "time": "21:45",
   "macro": "O dólar americano exibe estrutura dominantemente fraca nos timeframes superiores, enquanto os yields do Tesouro de dez anos sustentam viés altista no macro, criando tensão de correlação entre as duas referências. O principal catalisador do dia é o ISM Manufacturing PMI americano, dado de alto impacto capaz de reprimir ou amplificar os movimentos do USD e, por correlação, dos pares majors e commodities. Os dados britânicos do mercado imobiliário divulgados esta manhã têm impacto médio, mas podem gerar volatilidade pontual na libra em um momento em que o par já apresenta pressão corretiva intradiária. A combinação de DXY estruturalmente fraco com yields em alta representa uma divergência que o mercado deverá arbitrar ao longo da sessão americana, tornando o ISM o principal ponto de inflexão do dia.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Dólar com estrutura bearish dominante em D1, H4 e H1, sinalizando fraqueza persistente do USD no médio prazo e sendo fator de suporte para commodities e pares como EUR/USD e GBP/USD. O pullback intradiário em M15 e M5 representa recuperação técnica dentro da tendência maior de baixa. O ISM de hoje é o gatilho principal: surpresa positiva poderia fortalecer o dólar temporariamente e testar a estrutura bearish nos timeframes superiores, enquanto leitura fraca reforça o movimento de enfraquecimento já estruturado. Enquanto os níveis de CHoCH não forem recuperados nos timeframes maiores, o viés vendedor permanece dominante.",
     "US10Y": "Yields do Tesouro americano de dez anos apresentam estrutura bullish robusta e alinhada em D1, H4 e H1, sinalizando que o mercado precifica expectativas de manutenção ou elevação das taxas de juros no médio prazo. O recuo intradiário em M15 e M5 representa realização técnica dentro da tendência altista de yields, sem ameaça à estrutura maior. A tensão entre yields em alta e DXY estruturalmente fraco é uma dicotomia que o mercado deverá arbitrar com os dados do ISM: PMI forte poderia reacender expectativas hawkish e pressionar ainda mais os yields, enquanto dado fraco alimentaria narrativa de corte de juros e reverteria a estrutura nos timeframes menores."
   },
-  "bias_refreshed_at": "2026-05-01 21:30:01 -0300"
+  "bias_refreshed_at": "2026-05-01 21:45:02 -0300"
 }
