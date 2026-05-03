@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 22:45 BRT",
+  "updated_at": "2026-05-03 06:00 BRT",
   "events": [
     {
       "title": "Eurogroup Meeting",
@@ -24,6 +24,87 @@
       "country": "EUR",
       "impact": "Medium",
       "date": "2026-05-03",
+      "time": "21:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Survey of Professional Forecasters",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "05:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Survey of Monetary Analysts",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "05:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Cipollone Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "08:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Annual Report",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB de Guindos Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Factory Orders MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "11:00",
+      "forecast": "0.4",
+      "previous": "0"
+    },
+    {
+      "title": "Fed Williams Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "13:50",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECOFIN Meeting",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
+      "time": "21:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB de Guindos Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-04",
       "time": "21:00",
       "forecast": "—",
       "previous": "—"
