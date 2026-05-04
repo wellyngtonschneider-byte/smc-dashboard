@@ -1,6 +1,6 @@
 {
   "date": "04/05/2026",
-  "time": "12:45",
+  "time": "13:00",
   "macro": "O cenário macro do dia é dominado pelo BCE, com múltiplos eventos concentrados na sessão europeia: pesquisas de expectativas, relatório anual e dois discursos de De Guindos — qualquer sinalização hawkish ou dovish pode mover pares EUR com força. No lado americano, os Pedidos às Fábricas e o discurso de Williams (Fed) podem reforçar ou questionar o atual bias de enfraquecimento do dólar. O DXY mantém estrutura bearish nos timeframes maiores, mas exibe sinais de recuperação intraday, enquanto os yields do tesouro americano de dez anos seguem bullish no macro com pressão corretiva pontual — contexto que cria tensão entre dólar fraco e yields resistentes, favorecendo ativos de risco seletivamente.",
   "assets": [
     {
@@ -35,7 +35,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "O ativo mais bearish do painel: D1, H4, H1, M15 e M5 todos alinhados para baixo, sem qualquer sinal de reversão nos timeframes menores. Estrutura completamente vendedora em cascata, com o D1 tendo confirmado mudança de caráter recentemente. Os order blocks bearish em múltiplos timeframes reforçam a oferta estrutural acima do preço atual. A liquidez abaixo é o alvo natural do movimento, com a zona de suporte mais relevante servindo como próxima referência. Qualquer pullback em direção às zonas de oferta identificadas representa oportunidade de continuidade bearish; não há gatilho comprador no momento."
     },
@@ -96,5 +96,5 @@
     "DXY": "O dólar mantém estrutura bearish sólida nos timeframes maiores com D1 e H4 alinhados para baixo, refletindo tendência de enfraquecimento do índice. M15 e M5 apresentam recuperação intraday, sugerindo pullback técnico dentro da tendência bearish maior. Esta recuperação de curto prazo tem implicações inversas para pares como EURUSD e GBPUSD, podendo pressioná-los brevemente. O cenário dominante continua sendo de dólar fraco no médio prazo; os eventos do BCE e o discurso de Williams são os principais catalisadores intraday que podem determinar se a recuperação atual se sustenta ou cede à pressão bearish estrutural.",
     "US10Y": "Os yields do tesouro americano de dez anos mantêm estrutura bullish nos timeframes maiores, com D1, H4 e H1 todos alinhados indicando pressão altista sobre os rendimentos no médio prazo. No curto prazo, M15 e M5 mostram retração dos yields, configurando pullback técnico dentro da tendência maior de alta. Yields em alta pressionam ativos de risco de forma seletiva e sustentam o dólar no médio prazo, embora a relação esteja atualmente dissociada. O discurso de Williams é o evento mais relevante do dia para a trajetória dos yields; qualquer sinalização hawkish pode reiniciar o movimento ascendente dos rendimentos alinhado com a estrutura macro."
   },
-  "bias_refreshed_at": "2026-05-04 12:45:02 -0300"
+  "bias_refreshed_at": "2026-05-04 13:00:02 -0300"
 }
