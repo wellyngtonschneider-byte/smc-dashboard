@@ -1,6 +1,6 @@
 {
   "date": "04/05/2026",
-  "time": "19:00",
+  "time": "19:15",
   "macro": "O dia é marcado por forte presença do BCE, com múltiplos surveys, discursos e o Relatório Anual — eventos que elevam o risco de volatilidade no EUR ao longo de toda a sessão europeia e americana, culminando na reunião ECOFIN à noite. Do lado americano, os Pedidos de Fábrica e o discurso do Fed Williams podem sinalizar a direção de curto prazo do USD e reforçar ou suavizar as expectativas de política monetária. O DXY mantém estrutura bearish nos timeframes maiores com recuo técnico intraday ainda em curso, enquanto os yields do tesouro de dez anos permanecem em tendência de alta macro mas corrigem no intraday — combinação que gera ambiente ambíguo para commodities e pares majors. A direção que emergir dos catalisadores do BCE e do Fed determinará se o recuo do DXY é absorvido ou intensificado, o que terá reflexo direto no ouro, EUR e JPY.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "O índice do dólar mantém estrutura bearish consolidada em D1, H4 e H1, confirmando tendência de enfraquecimento macro. O movimento bullish em M15 e M5 representa um recuo técnico dentro da tendência de baixa — movimento de retracement para absorver liquidez acima antes de retomar o movimento principal. BCE hawkish ou Fed dovish intensificariam a fraqueza do DXY; o oposto poderia prolongar o recuo intraday. Viés tático: bearish macro com o recuo intraday sendo zona potencial de venda alinhada à estrutura dos timeframes maiores.",
     "US10Y": "Os yields do tesouro de dez anos mantêm estrutura bullish nos timeframes maiores — D1, H4 e H1 — indicando tendência de alta de juros no médio prazo e ambiente macro de aperto financeiro. A correção intraday em M15 e M5 representa pausa técnica antes de possível retomada da pressão de alta nos yields. O discurso do Fed Williams e os Pedidos de Fábrica hoje são os catalisadores mais relevantes para expectativas de trajetória de juros. A manutenção de yields elevados pressiona ouro e tecnologia; uma queda brusca e sustentada nos yields reverteria essa dinâmica e poderia beneficiar ativos de risco."
   },
-  "bias_refreshed_at": "2026-05-04 19:00:02 -0300"
+  "bias_refreshed_at": "2026-05-04 19:15:02 -0300"
 }
