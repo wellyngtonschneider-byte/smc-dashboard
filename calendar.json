@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04 06:30 BRT",
+  "updated_at": "2026-05-04 06:45 BRT",
   "events": [
     {
       "title": "ECB Survey of Professional Forecasters",
@@ -97,7 +97,7 @@
       "impact": "Medium",
       "date": "2026-05-05",
       "time": "09:30",
-      "forecast": "-59",
+      "forecast": "-60.5",
       "previous": "-57.3"
     },
     {
@@ -124,7 +124,7 @@
       "impact": "High",
       "date": "2026-05-05",
       "time": "11:00",
-      "forecast": "53.8",
+      "forecast": "53.7",
       "previous": "54"
     },
     {
@@ -151,7 +151,7 @@
       "impact": "High",
       "date": "2026-05-05",
       "time": "11:00",
-      "forecast": "6.87",
+      "forecast": "6.83",
       "previous": "6.882"
     },
     {
