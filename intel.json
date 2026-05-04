@@ -1,6 +1,6 @@
 {
   "date": "04/05/2026",
-  "time": "10:00",
+  "time": "10:15",
   "macro": "O calendário é dominado por eventos do BCE — pesquisas de expectativas, relatório anual, discursos de Cipollone e de Guindos (dois ao longo do dia) e a reunião do ECOFIN ao final da sessão — criando janelas de volatilidade relevantes para pares EUR ao longo de toda a jornada europeia e americana. O discurso de Williams pelo Fed à tarde pode reacender leituras sobre a trajetória dos juros americanos, em especial com yields macro em estrutura bullish e DXY em estrutura bearish, sinalizando tensão entre pressão nos treasuries e fraqueza do dólar. Essa dicotomia DXY fraco / yields em alta favorece ativos de risco seletivamente, mas comprime o ouro que segue com viés baixista em toda a estrutura. A correlação inversa DXY-commodities e o peso dos eventos BCE criam o principal risco de surpresa do dia.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "D1 e H4 alinhados bearish, confirmando tendência de enfraquecimento do dólar no médio prazo. A recuperação observada em M15 e M5 representa apenas um pullback técnico dentro da estrutura maior de baixa — interpretado como oportunidade de realinhamento vendedor, não como reversão. A liquidez acumulada acima é o alvo provável dessa recuperação de curto prazo antes da retomada do fluxo bearish macro. O discurso de Williams hoje pode catalisar volatilidade no dólar; tom dovish reforçaria a estrutura bearish do DXY.",
     "US10Y": "Yields em tendência de alta consolidada — D1, H4 e H1 todos com estrutura bullish, indicando pressão vendedora contínua sobre os treasuries de longo prazo. O recuo observado em M15 e M5 é uma correção de curto prazo dentro do contexto macro de yields em elevação. O discurso de Williams pelo Fed é o evento do dia mais relevante para essa classe — um tom hawkish ou manutenção de expectativas de juros elevados por mais tempo seria consistente com a estrutura e poderia renovar o movimento de alta dos yields. Invalidação do viés bullish de yields exigiria quebra da estrutura em H4 ou superior."
   },
-  "bias_refreshed_at": "2026-05-04 10:00:02 -0300"
+  "bias_refreshed_at": "2026-05-04 10:15:01 -0300"
 }
