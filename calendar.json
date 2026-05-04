@@ -1,33 +1,6 @@
 {
-  "updated_at": "2026-05-03 22:45 BRT",
+  "updated_at": "2026-05-04 06:00 BRT",
   "events": [
-    {
-      "title": "Eurogroup Meeting",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-03",
-      "time": "21:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB President Lagarde Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-03",
-      "time": "21:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Buch Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-03",
-      "time": "21:00",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "ECB Survey of Professional Forecasters",
       "country": "EUR",
@@ -79,7 +52,7 @@
       "impact": "Medium",
       "date": "2026-05-04",
       "time": "11:00",
-      "forecast": "0.4",
+      "forecast": "0.5",
       "previous": "0"
     },
     {
@@ -108,6 +81,141 @@
       "time": "21:00",
       "forecast": "—",
       "previous": "—"
+    },
+    {
+      "title": "Imports",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "372.1"
+    },
+    {
+      "title": "Balance of Trade",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "09:30",
+      "forecast": "-59",
+      "previous": "-57.3"
+    },
+    {
+      "title": "Exports",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "314.8"
+    },
+    {
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ISM Services PMI",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "53.8",
+      "previous": "54"
+    },
+    {
+      "title": "New Home Sales",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "0.587"
+    },
+    {
+      "title": "New Home Sales MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "JOLTs Job Openings",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "6.87",
+      "previous": "6.882"
+    },
+    {
+      "title": "New Home Sales MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "-17.6"
+    },
+    {
+      "title": "New Home Sales",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "0.668",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Bowman Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Lane Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "12:40",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Barr Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "13:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "BoE Woods Speech",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "13:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "API Crude Oil Stock Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-05",
+      "time": "17:30",
+      "forecast": "—",
+      "previous": "-1.79"
     }
   ]
 }
