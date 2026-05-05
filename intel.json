@@ -1,6 +1,6 @@
 {
   "date": "05/05/2026",
-  "time": "07:45",
+  "time": "08:00",
   "macro": "O dia concentra múltiplos eventos do BCE — pesquisas de analistas e profissionais, relatório anual e dois discursos de de Guindos — elevando o risco de volatilidade no EUR ao longo de toda a sessão europeia e americana. O discurso do Fed Williams no período americano é o principal catalisador para o USD, podendo confirmar ou interromper o repique intraday do dólar. Os yields do tesouro de dez anos mantêm alinhamento bullish em todos os timeframes, exercendo pressão sobre ativos de risco e ouro. O DXY segue estruturalmente fraco nos timeframes maiores, com o repique de curto prazo representando correção dentro de tendência bearish mais ampla — cenário consistente com EUR e GBP relativamente sustentados no macro, mas sob pressão intraday.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "D1, H4 e H1 bearish alinhados — USD estruturalmente fraco no macro. O repique de M15 e M5 para bullish é uma correção dentro da tendência dominante de queda do dólar, interpretada como varredura de liquidez antes de eventual continuação bearish. O discurso do Fed Williams é o principal evento de risco intraday: tom hawkish pode estender o repique; tom dovish acelera a retomada bearish. A fraqueza estrutural do DXY é consistente com sustentação de EUR, GBP e ouro no médio prazo.",
     "US10Y": "Yields do tesouro de dez anos em alta em todos os timeframes — alinhamento bullish total, sem dissidência entre D1, H4, H1, M15 e M5. Essa pressão ascendente nos yields cria headwinds para ativos de risco como cripto e equities, e tende a suportar o USD no intraday apesar da fraqueza macro do DXY. O discurso do Fed Williams pode ser o catalisador que define se o movimento de yields tem continuidade imediata ou pausa técnica. Há liquidez acima dos níveis atuais, sugerindo potencial para nova perna de alta nos yields caso o discurso reforce expectativas de política restritiva."
   },
-  "bias_refreshed_at": "2026-05-05 07:45:02 -0300"
+  "bias_refreshed_at": "2026-05-05 08:00:02 -0300"
 }
