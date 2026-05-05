@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05 11:00 BRT",
+  "updated_at": "2026-05-05 11:15 BRT",
   "events": [
     {
       "title": "Imports",
@@ -62,7 +62,7 @@
       "date": "2026-05-05",
       "time": "11:00",
       "forecast": "—",
-      "previous": "—"
+      "previous": "-17.6"
     },
     {
       "title": "JOLTs Job Openings",
@@ -71,7 +71,7 @@
       "date": "2026-05-05",
       "time": "11:00",
       "forecast": "6.84",
-      "previous": "6.882"
+      "previous": "6.922"
     },
     {
       "title": "New Home Sales MoM",
@@ -89,7 +89,7 @@
       "date": "2026-05-05",
       "time": "11:00",
       "forecast": "0.65",
-      "previous": "—"
+      "previous": "587"
     },
     {
       "title": "Fed Bowman Speech",
