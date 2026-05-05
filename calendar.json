@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05 18:15 BRT",
+  "updated_at": "2026-05-05 18:30 BRT",
   "events": [
     {
       "title": "Imports",
@@ -132,7 +132,7 @@
       "country": "USD",
       "impact": "Medium",
       "date": "2026-05-05",
-      "time": "17:30",
+      "time": "18:30",
       "forecast": "-2.8",
       "previous": "-1.79"
     },
