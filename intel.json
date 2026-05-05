@@ -1,6 +1,6 @@
 {
   "date": "05/05/2026",
-  "time": "11:45",
+  "time": "12:00",
   "macro": "O ambiente macro segue marcado por tensão entre um dólar estruturalmente fraco e yields do Tesouro americano em ascensão contínua — combinação que pressiona ativos de risco de forma seletiva e mantém o ouro em zona de disputa. O dia conta com catalisadores de alta relevância: ISM Services PMI e JOLTs Job Openings podem redefinir expectativas sobre o ciclo do Fed, especialmente com discursos de Bowman e Barr no radar. Na Europa, Lagarde e Lane falam em sequência, o que pode amplificar a volatilidade nos pares do euro. A narrativa tarifária e geopolítica continua como pano de fundo, favorecendo demanda por refúgio em momentos de surpresa negativa nos dados.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Viés estrutural baixista consolidado em D1, H4 e H1 — três timeframes alinhados para baixo. A recuperação observada em M15 e M5 é de natureza corretiva dentro de estrutura maior de distribuição. O DXY fraco sustenta o cenário altista de EURUSD, GBPUSD e ativos de risco em geral. Eventos do dia que podem fortalecer o dólar temporariamente: ISM Services PMI, JOLTs e falas de dirigentes do Fed. Esses catalisadores podem aprofundar a correção altista intraday sem, contudo, alterar o bias baixista dominante. Enquanto H4 não reverter para alta, qualquer força do dólar é tratada como oportunidade de venda.",
     "US10Y": "Yields do Tesouro americano de dez anos em tendência de alta clara e alinhada em todos os timeframes — de D1 até M5, estrutura integralmente bullish. A escalada dos yields cria pressão sobre ativos sensíveis ao custo de capital e sustenta parcialmente o dólar no intraday, gerando contradição com o DXY estruturalmente fraco. O contexto sugere que o mercado ainda precifica cautela em relação ao ciclo do Fed. Discursos de Bowman e Barr hoje podem reforçar o tom hawkish e pressionar yields ainda mais para cima. A leitura de JOLTs e ISM será determinante para validar ou questionar a continuidade altista dos yields no curto prazo."
   },
-  "bias_refreshed_at": "2026-05-05 11:45:01 -0300"
+  "bias_refreshed_at": "2026-05-05 12:00:01 -0300"
 }
