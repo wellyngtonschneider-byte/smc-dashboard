@@ -1,6 +1,6 @@
 {
   "date": "05/05/2026",
-  "time": "10:00",
+  "time": "10:15",
   "macro": "O dia apresenta agenda densa com dois eventos de alto impacto simultâneos às 11h — ISM Services PMI e JOLTs Job Openings — que devem ser os principais catalisadores de volatilidade para ativos denominados em dólar. Múltiplos discursos de autoridades do Fed (Bowman e Barr) e do BCE (Lagarde e Lane) ampliam o risco de reprecificação das expectativas de política monetária em ambos os lados do Atlântico. Destaca-se uma divergência estrutural relevante: o DXY mantém viés macro bearish consolidado nos timeframes maiores, enquanto os yields do tesouro de dez anos apresentam estrutura bullish completa em todos os timeframes simultaneamente — tensão que tende a ser resolvida pelos dados do dia. Esse contexto cria ambiente de alta volatilidade cruzada, especialmente para pares EUR e GBP, ouro e índices de risco.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Viés macro bearish com D1, H4 e H1 alinhados para baixo — dólar sob pressão estrutural de venda nos timeframes relevantes. A recuperação intraday em M15 e M5 representa contramovimento dentro da tendência maior, sem alterar o viés dominante. Essa fraqueza estrutural do dólar é coerente com o viés bullish do D1 em EURUSD e GBPUSD, mas diverge da estrutura bullish dos yields — tensão que os dados do ISM e JOLTs tendem a resolver. Discursos do Fed (Bowman e Barr) são catalisadores secundários relevantes. Invalidação do viés bearish: retomada de estrutura bullish no H4 sustentada por dado macro acima do esperado.",
     "US10Y": "Yields do tesouro de dez anos em estrutura bullish completa — todos os timeframes, de D1 a M5, alinhados para cima simultaneamente, configuração de maior uniformidade entre todos os ativos monitorados. Yields em alta exercem pressão negativa sobre ouro e ativos de risco em geral, e tendem a suportar o dólar — embora o DXY apresente divergência bearish estrutural no momento, o que constitui uma tensão macro relevante. ISM Services PMI e JOLTs são os catalisadores diretos do dia: leituras acima do esperado validam o ciclo de yields elevados; leituras fracas podem iniciar correção nos timeframes menores. Discursos do Fed são eventos críticos para a narrativa de política monetária e trajetória dos yields."
   },
-  "bias_refreshed_at": "2026-05-05 10:00:02 -0300"
+  "bias_refreshed_at": "2026-05-05 10:15:02 -0300"
 }
