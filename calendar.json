@@ -1,87 +1,6 @@
 {
-  "updated_at": "2026-05-04 22:45 BRT",
+  "updated_at": "2026-05-05 06:00 BRT",
   "events": [
-    {
-      "title": "ECB Survey of Professional Forecasters",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "05:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Survey of Monetary Analysts",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "05:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Cipollone Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "08:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Annual Report",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB de Guindos Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Factory Orders MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "11:00",
-      "forecast": "0.5",
-      "previous": "0.3"
-    },
-    {
-      "title": "Fed Williams Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "13:50",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECOFIN Meeting",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "21:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB de Guindos Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-04",
-      "time": "21:00",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "Imports",
       "country": "USD",
@@ -214,8 +133,116 @@
       "impact": "Medium",
       "date": "2026-05-05",
       "time": "17:30",
-      "forecast": "—",
+      "forecast": "-2.8",
       "previous": "-1.79"
+    },
+    {
+      "title": "ECB Buch Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "04:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Lane Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "05:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Cipollone Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "05:20",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Buch Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "06:45",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "MBA 30-Year Mortgage Rate",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "08:00",
+      "forecast": "—",
+      "previous": "6.37"
+    },
+    {
+      "title": "ADP Employment Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "09:15",
+      "forecast": "99",
+      "previous": "62"
+    },
+    {
+      "title": "Fed Musalem Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "10:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "EIA Gasoline Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "11:30",
+      "forecast": "-1.7",
+      "previous": "-6.075"
+    },
+    {
+      "title": "EIA Crude Oil Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "11:30",
+      "forecast": "-2.8",
+      "previous": "-6.233"
+    },
+    {
+      "title": "Fed Goolsbee Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "14:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Hammack Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "14:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "BoJ Monetary Policy Meeting Minutes",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-05-06",
+      "time": "20:50",
+      "forecast": "—",
+      "previous": "—"
     }
   ]
 }
