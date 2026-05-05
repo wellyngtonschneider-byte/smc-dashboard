@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05 09:30 BRT",
+  "updated_at": "2026-05-05 09:45 BRT",
   "events": [
     {
       "title": "Imports",
@@ -26,7 +26,7 @@
       "date": "2026-05-05",
       "time": "09:30",
       "forecast": "—",
-      "previous": "314.8"
+      "previous": "314.7"
     },
     {
       "title": "ECB President Lagarde Speech",
@@ -70,7 +70,7 @@
       "impact": "High",
       "date": "2026-05-05",
       "time": "11:00",
-      "forecast": "6.83",
+      "forecast": "6.84",
       "previous": "6.882"
     },
     {
@@ -88,7 +88,7 @@
       "impact": "Medium",
       "date": "2026-05-05",
       "time": "11:00",
-      "forecast": "0.668",
+      "forecast": "0.65",
       "previous": "—"
     },
     {
