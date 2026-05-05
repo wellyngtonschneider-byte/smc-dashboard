@@ -1,6 +1,6 @@
 {
   "date": "05/05/2026",
-  "time": "15:00",
+  "time": "15:15",
   "macro": "O dólar segue em estrutura bearish em todos os timeframes, criando um ambiente macro favorável a ativos de risco e pares contra o USD. Os yields do tesouro americano de dez anos exibem estrutura bullish consistente em todas as temporalidades, o que representa um sinal de cautela para o ouro e comprime o apetite por duration. O dia concentra eventos de alto impacto: ISM Serviços e JOLTs às onze horas podem ser catalisadores decisivos para a direção do dólar e dos yields — dados fracos reforçam o bearish do DXY, dados fortes podem provocar reversão técnica. Múltiplos discursos do Fed (Bowman, Barr) e do BCE (Lagarde, Lane) ao longo do dia elevam o risco de volatilidade impulsiva, exigindo cautela na gestão de posições abertas próximas a zonas de interesse.",
   "assets": [
     {
@@ -95,5 +95,6 @@
     "NAS100": "Estrutura bullish unânime em todos os timeframes, com D1, H4, H1, M15 e M5 alinhados para cima — bias comprador forte e sem conflito entre temporalidades. OBs de H1 e M15 abaixo do preço atual delimitam zonas de interesse para entradas em pullback, funcionando como suporte estrutural recente. ISM Serviços às onze horas é o evento mais relevante do dia para o índice — leitura acima do esperado pode catalisar continuação bullish; leitura abaixo seria o principal risco de reversão intraday. Liquidez abaixo representa os alvos em caso de correção, mas o bias macro e técnico favorece compras em dips enquanto estrutura H4 permanecer intacta.",
     "DXY": "Dólar em estrutura bearish absoluta com todos os timeframes — D1, H4, H1, M15 e M5 — alinhados para baixo, configurando o bias mais direcional e consistente do dia no sentido vendedor. OBs de M15 e M5 bear logo acima do preço atual funcionam como resistência imediata e zona de entrada para continuação bearish. Qualquer rally intraday até essas zonas sem recuperação estrutural no H1 é oportunidade de continuação de baixa. Discursos de Bowman e Barr (Fed) às treze e meia e dados de ISM e JOLTs às onze são os gatilhos externos que podem reforçar ou interromper temporariamente o movimento. Liquidez acima é alvo para stop hunts; liquidez abaixo é o destino provável.",
     "US10Y": "Yields do tesouro americano de dez anos em estrutura bullish em todos os timeframes — D1, H4, H1, M15 e M5 apontam para alta de juros — sinalizando expectativa de manutenção ou endurecimento do discurso do Fed. Ausência de zonas de resistência estrutural próximas sugere que yields têm espaço para continuar subindo no curto prazo, com liquidez acima como próximo alvo. JOLTs e ISM Serviços às onze horas são os catalisadores imediatos mais relevantes: mercado de trabalho resiliente e serviços em expansão reforçam o narrativo hawkish e sustentam a trajetória de alta dos yields. Discursos de Bowman e Barr são monitorados para qualquer sinalização sobre o ritmo de cortes; yield em alta pressiona ativos de risco e ouro via custo de oportunidade."
-  }
+  },
+  "bias_refreshed_at": "2026-05-05 15:15:02 -0300"
 }
