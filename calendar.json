@@ -1,141 +1,6 @@
 {
-  "updated_at": "2026-05-05 21:45 BRT",
+  "updated_at": "2026-05-06 08:45 BRT",
   "events": [
-    {
-      "title": "Imports",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "372.4"
-    },
-    {
-      "title": "Balance of Trade",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "09:30",
-      "forecast": "-60.9",
-      "previous": "-57.8"
-    },
-    {
-      "title": "Exports",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "314.7"
-    },
-    {
-      "title": "ECB President Lagarde Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ISM Services PMI",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "53.7",
-      "previous": "54"
-    },
-    {
-      "title": "New Home Sales",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "0.583"
-    },
-    {
-      "title": "New Home Sales MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "8.9"
-    },
-    {
-      "title": "JOLTs Job Openings",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "6.84",
-      "previous": "6.922"
-    },
-    {
-      "title": "New Home Sales MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "-19.9"
-    },
-    {
-      "title": "New Home Sales",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "0.65",
-      "previous": "0.635"
-    },
-    {
-      "title": "Fed Bowman Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Lane Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "12:40",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Barr Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "13:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "BoE Woods Speech",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "13:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "API Crude Oil Stock Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-05",
-      "time": "18:30",
-      "forecast": "-2.8",
-      "previous": "-1.79"
-    },
     {
       "title": "ECB Buch Speech",
       "country": "EUR",
@@ -241,6 +106,105 @@
       "impact": "Medium",
       "date": "2026-05-06",
       "time": "20:50",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB de Guindos Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "04:15",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "S&P Global Construction PMI",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "05:30",
+      "forecast": "45.7",
+      "previous": "45.6"
+    },
+    {
+      "title": "Retail Sales MoM",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "06:00",
+      "forecast": "-0.3",
+      "previous": "-0.2"
+    },
+    {
+      "title": "ECB Elderson Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "09:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Initial Jobless Claims",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "09:30",
+      "forecast": "205",
+      "previous": "189"
+    },
+    {
+      "title": "Unit Labour Costs QoQ Prel",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "09:30",
+      "forecast": "2.6",
+      "previous": "4.4"
+    },
+    {
+      "title": "Nonfarm Productivity QoQ Prel",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "09:30",
+      "forecast": "1.4",
+      "previous": "1.8"
+    },
+    {
+      "title": "ECB Lane Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "09:40",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB Schnabel Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "14:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Hammack Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "15:05",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Williams Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-07",
+      "time": "16:30",
       "forecast": "—",
       "previous": "—"
     }
