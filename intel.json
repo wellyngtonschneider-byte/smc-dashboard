@@ -1,66 +1,66 @@
 {
   "date": "06/05/2026",
-  "time": "16:15",
+  "time": "16:30",
   "macro": "O dia é marcado por múltiplos discursos de membros do BCE pela manhã europeia, seguidos de dados de emprego ADP e falas de dirigentes do Fed no período americano, compondo um ambiente de elevada sensibilidade a tom hawkish ou dovish. O DXY permanece em estrutura bearish em todos os timeframes maiores, enquanto yields do tesouro de dez anos seguem bullish, sugerindo dinâmica de dólar fraco por razões de risco sistêmico e não de aperto monetário tradicional. Esse contexto sustenta metais, cripto e índices, ao mesmo tempo que pressiona pares como USDJPY. Os dados de emprego ADP e estoques de petróleo podem introduzir volatilidade intraday relevante, especialmente se os números divergirem das expectativas e forçarem reposicionamento no dólar.",
   "assets": [
     {
       "pair": "XAUUSD",
-      "d1": "neutro",
-      "h4": "neutro",
-      "h1": "neutro",
-      "m15": "neutro",
+      "d1": "bearish",
+      "h4": "bullish",
+      "h1": "bullish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Bias diário continua bearish após CHoCH de baixa estrutural, mas H4 e H1 viraram bullish, criando tensão entre o macro e o intraday. Os order blocks de H4 e H1 nas proximidades atuais representam zonas de interesse comprador caso haja pullback, enquanto a liquidez acima do preço atual constitui o alvo provável de uma extensão bullish de curto prazo. O cenário mais provável é uma busca à liquidez do lado de cima antes de eventual reversão em direção ao viés diário. Gatilho: discursos hawkish do Fed ou dado ADP fraco podem corrigir o movimento e reativar o bearish diário."
     },
     {
       "pair": "GBPUSD",
-      "d1": "neutro",
-      "h4": "neutro",
-      "h1": "neutro",
-      "m15": "neutro",
+      "d1": "bullish",
+      "h4": "bearish",
+      "h1": "bullish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "Estrutura diária bullish consolidada por BOS, enquanto H4 está bearish, gerando conflito de timeframes. A tendência de curto prazo (H1) reverteu para cima, mas M15 e M5 seguem bearish, indicando pressão vendedora imediata. Os order blocks de H1 e M15 logo abaixo do preço atual servem como zonas de suporte e possível gatilho comprador, com a liquidez acima como alvo de continuação. Discursos do BCE ao longo da manhã e dados do Fed à tarde podem influenciar o par via movimento do dólar; um dollar fraco favorece retomada da tendência diária altista."
     },
     {
       "pair": "EURUSD",
-      "d1": "neutro",
-      "h4": "neutro",
-      "h1": "neutro",
-      "m15": "neutro",
+      "d1": "bullish",
+      "h4": "bullish",
+      "h1": "bullish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Alinhamento bullish em D1, H4, H1 e M15 confere bias comprador robusto, com o único timeframe discordante sendo o M5 bearish mais recente, que representa apenas ruído de curto prazo. Os order blocks de M15 ligeiramente abaixo do preço são as zonas de interesse para entrada comprada em eventual pullback. A liquidez acima do mercado é o alvo natural da continuação. Múltiplos discursos do BCE hoje têm alto potencial de catalisar volatilidade no euro; tom dovish representa risco de invalidação do viés bullish de curto prazo."
     },
     {
       "pair": "USDJPY",
-      "d1": "neutro",
-      "h4": "neutro",
-      "h1": "neutro",
-      "m15": "neutro",
+      "d1": "bearish",
+      "h4": "bearish",
+      "h1": "bearish",
+      "m15": "bullish",
       "m5": "bullish",
       "text": "Bias bearish dominante de D1 a H1, com apenas M15 e M5 recentemente virando para cima em movimento de pullback. Os order blocks de baixa em H4 e H1 situados acima do preço atual são zonas de interesse para entradas vendidas na continuação do viés macro. A liquidez acima serve como alvo de curto prazo antes da potencial retomada do sell-off. A publicação das atas do BoJ no período noturno japonês pode adicionar volatilidade; o par é também sensível ao ADP e falas do Fed, pois qualquer fortalecimento do dólar tensionaria o viés bearish estrutural."
     },
     {
       "pair": "BTCUSD",
-      "d1": "neutro",
-      "h4": "neutro",
-      "h1": "neutro",
-      "m15": "neutro",
+      "d1": "bullish",
+      "h4": "bullish",
+      "h1": "bullish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Alinhamento bullish em D1, H4, H1 e M15 configura bias comprador forte e consistente. Apenas o M5 reverteu para baixo recentemente, sugerindo micro-correção dentro da tendência maior. Os order blocks de H4 e H1 bem abaixo do preço atual são suportes estruturais relevantes em caso de recuo mais profundo. A liquidez imediatamente acima é o alvo mais próximo de continuação. O ambiente macro de dólar fraco e yields estabilizados favorece a narrativa bullish cripto; volatilidade pode surgir com o ADP ou falas do Fed."
     },
     {
       "pair": "ETHUSD",
-      "d1": "neutro",
-      "h4": "neutro",
-      "h1": "neutro",
-      "m15": "neutro",
+      "d1": "bearish",
+      "h4": "bullish",
+      "h1": "bearish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "Estrutura mista e conflitante: D1 bearish, H4 bullish, H1 bearish, M15 bullish — sinalizando indecisão estrutural significativa. Há order blocks de baixa relevantes acima do preço e order blocks de alta logo abaixo, comprimindo o preço entre zonas opostas de interesse. A liquidez acima é alvo de uma eventual expansão bullish, mas a estrutura diária bearish representa a ameaça de invalidação maior. Sem alinhamento claro entre os timeframes principais, o par demanda confirmação de direção antes de qualquer comprometimento; gatilho mais confiável seria uma rejeição limpa em um dos OBs visíveis."
     },
     {
       "pair": "NAS100",
-      "d1": "neutro",
-      "h4": "neutro",
+      "d1": "bullish",
+      "h4": "bullish",
       "h1": "bullish",
       "m15": "bullish",
       "m5": "bullish",
@@ -96,5 +96,5 @@
     "DXY": "Bearish em D1, H4, H1 e M15, com apenas M5 virando levemente para cima em possível pullback de curto prazo. O order block de M5 bullish abaixo do preço atual representa uma zona de suporte técnico intraday, mas não altera o viés macro de dólar fraco. A liquidez acima serve como alvo de recuo pontual antes da potencial retomada da pressão vendedora. Dados ADP e discursos do Fed são os principais catalisadores do dia; surpresa positiva no emprego ou tom hawkish dos dirigentes seriam os únicos gatilhos capazes de interromper a estrutura bearish dominante.",
     "US10Y": "Yields do tesouro de dez anos em estrutura bullish em todos os timeframes, de D1 a M5, indicando tendência de alta de juros bem estabelecida e sem sinal de reversão no horizonte imediato. A liquidez acima dos yields atuais é o próximo alvo da continuação da alta. Esse ambiente de yields em ascensão, combinado com DXY fraco, sugere dinâmica de desconfiança no dólar como ativo seguro — favorável a ouro e cripto, mas potencialmente restritivo para ações de crescimento. Falas dos dirigentes do Fed ao longo do período americano têm alto poder de reforçar ou temperar a narrativa de yields elevados."
   },
-  "bias_refreshed_at": "2026-05-06 16:15:01 -0300"
+  "bias_refreshed_at": "2026-05-06 16:30:01 -0300"
 }
