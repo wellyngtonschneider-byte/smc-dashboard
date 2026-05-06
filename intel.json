@@ -1,6 +1,6 @@
 {
   "date": "06/05/2026",
-  "time": "12:15",
+  "time": "12:30",
   "macro": "O dólar americano opera em franca fraqueza estrutural em todos os timeframes, enquanto os yields do Tesouro de dez anos sustentam viés de alta igualmente consistente em todos os horizontes — divergência que sugere contexto de desconfiança no dólar como reserva de valor, favorecendo ativos alternativos e pares de risco. A jornada concentra múltiplos catalisadores de alto impacto: discursos de membros do ECB (Buch, Lane e Cipollone) que podem dar tom ao euro; dado de emprego privado americano (ADP) e três falas do Fed (Musalem, Goolsbee e Hammack) que devem pautar expectativas de política monetária ao longo do dia; e atas do BoJ ao final da sessão que podem reacender o debate sobre ajuste de juros no Japão. A combinação de dólar sistematicamente fraco, yields em alta e múltiplos bancos centrais em foco cria ambiente de volatilidade elevada, com risco de reversões pontuais em qualquer tom surpreendente de comunicação.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Alinhamento bearish total: D1, H4, H1, M15 e M5 todos em estrutura de baixa — dólar em fraqueza sistêmica e consistente em todos os horizontes de tempo, sem sinal de reversão estrutural em nenhum referencial. Este cenário funciona como contexto macro para os demais ativos: favorece pares de risco contra o dólar e contribui para sustentação do ouro e criptoativos. A liquidez acima representa zonas de resistência onde correções do dólar podem encontrar oferta renovada antes da retomada baixista. O alvo natural é a liquidez abaixo. Múltiplas falas do Fed hoje e o dado de ADP são os principais catalisadores; tom hawkish surpreendente representaria o principal risco de reversão temporária da tendência dominante.",
     "US10Y": "Yields do Tesouro americano de dez anos em alta estrutural em todos os timeframes: D1, H4, H1, M15 e M5 alinhados em viés de alta — sinal de expectativa de política monetária restritiva persistente ou de pressão inflacionária que ainda não foi totalmente precificada. A combinação de yields em alta com dólar em queda representa uma anomalia estrutural relevante, sugerindo possível repositionamento global de reservas ou desconfiança no dólar como ativo de porto seguro isolado. A liquidez de yields acima representa o alvo natural da tendência dominante; os pools de yields abaixo funcionam como suporte. As falas do Fed ao longo do dia (Musalem, Goolsbee, Hammack) são o gatilho mais direto para o movimento dos yields — tom hawkish tende a ampliar a alta, enquanto sinalizações dovish representam o principal risco de reversão da estrutura vigente."
   },
-  "bias_refreshed_at": "2026-05-06 12:15:02 -0300"
+  "bias_refreshed_at": "2026-05-06 12:30:02 -0300"
 }
