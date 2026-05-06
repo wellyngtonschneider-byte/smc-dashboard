@@ -1,6 +1,6 @@
 {
   "date": "05/05/2026",
-  "time": "21:00",
+  "time": "21:15",
   "macro": "O ambiente macroeconômico está marcado por uma divergência relevante: o dólar exibe estrutura bearish dominante em todos os principais timeframes, enquanto os yields do Tesouro americano de dez anos sustentam viés bullish consistente — divergência que tende a resolver com volatilidade em dados ou falas de Fed. A agenda de hoje é pesada: ISM Serviços e JOLTs (ambos de alto impacto) são os principais gatilhos para reconfigurar correlações DXY/yields/ouro/risco. Os múltiplos discursos de banqueiros centrais — Bowman e Barr pelo Fed, Lagarde e Lane pelo BCE, Woods pelo BoE — ampliam o risco de declarações surpresa. Fraqueza do dólar e yields em alta criam um cenário de pressão cruzada: risco-on para ativos como NAS100 e BTC, mas teto potencial para movimentos de ouro e pares dólar.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Bearish em todos os timeframes relevantes — D1, H4, H1 e M15 — com apenas M5 apresentando breve repique. O dólar está sob pressão estrutural consistente, o que tem implicações diretas: suporte para ouro, pares de moedas versus USD e ativos de risco. Os eventos de alto impacto do dia (ISM, JOLTs) e os discursos do Fed (Bowman, Barr) são os principais catalisadores capazes de confirmar ou interromper temporariamente o viés bearish. Surpresa hawkish seria a invalidação primária; dados fracos de emprego e serviços acelerariam a continuação da fraqueza do dólar.",
     "US10Y": "Yields em alta com estrutura bullish alinhada em todos os timeframes — D1, H4, H1, M15 e M5 — sinalizando pressão vendedora consistente sobre os títulos do Tesouro e expectativa de manutenção ou elevação do custo do dinheiro. Essa alta de yields cria uma divergência notável com a fraqueza do DXY, tensão que tende a resolver-se no evento de risco mais relevante do dia: JOLTs e ISM Serviços. Dados de emprego e atividade acima do esperado acelerariam a alta dos yields e poderiam pressionar o DXY a recuperar — reorganizando toda a grade de correlações. Yields em trajetória ascendente representam teto potencial para ouro e pressão latente sobre valuations de crescimento como NAS100."
   },
-  "bias_refreshed_at": "2026-05-05 21:00:02 -0300"
+  "bias_refreshed_at": "2026-05-05 21:15:02 -0300"
 }
