@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06 10:30 BRT",
+  "updated_at": "2026-05-06 10:45 BRT",
   "events": [
     {
       "title": "ECB Buch Speech",
@@ -70,7 +70,7 @@
       "impact": "Medium",
       "date": "2026-05-06",
       "time": "11:30",
-      "forecast": "-1.7",
+      "forecast": "-2.1",
       "previous": "-6.075"
     },
     {
@@ -79,7 +79,7 @@
       "impact": "Medium",
       "date": "2026-05-06",
       "time": "11:30",
-      "forecast": "-2.8",
+      "forecast": "-3.3",
       "previous": "-6.233"
     },
     {
