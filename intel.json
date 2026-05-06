@@ -1,6 +1,6 @@
 {
   "date": "06/05/2026",
-  "time": "15:15",
+  "time": "15:30",
   "macro": "O dia é marcado por múltiplos discursos de membros do BCE pela manhã europeia, seguidos de dados de emprego ADP e falas de dirigentes do Fed no período americano, compondo um ambiente de elevada sensibilidade a tom hawkish ou dovish. O DXY permanece em estrutura bearish em todos os timeframes maiores, enquanto yields do tesouro de dez anos seguem bullish, sugerindo dinâmica de dólar fraco por razões de risco sistêmico e não de aperto monetário tradicional. Esse contexto sustenta metais, cripto e índices, ao mesmo tempo que pressiona pares como USDJPY. Os dados de emprego ADP e estoques de petróleo podem introduzir volatilidade intraday relevante, especialmente se os números divergirem das expectativas e forçarem reposicionamento no dólar.",
   "assets": [
     {
@@ -53,7 +53,7 @@
       "d1": "bearish",
       "h4": "bullish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "Estrutura mista e conflitante: D1 bearish, H4 bullish, H1 bearish, M15 bullish — sinalizando indecisão estrutural significativa. Há order blocks de baixa relevantes acima do preço e order blocks de alta logo abaixo, comprimindo o preço entre zonas opostas de interesse. A liquidez acima é alvo de uma eventual expansão bullish, mas a estrutura diária bearish representa a ameaça de invalidação maior. Sem alinhamento claro entre os timeframes principais, o par demanda confirmação de direção antes de qualquer comprometimento; gatilho mais confiável seria uma rejeição limpa em um dos OBs visíveis."
     },
@@ -96,5 +96,5 @@
     "DXY": "Bearish em D1, H4, H1 e M15, com apenas M5 virando levemente para cima em possível pullback de curto prazo. O order block de M5 bullish abaixo do preço atual representa uma zona de suporte técnico intraday, mas não altera o viés macro de dólar fraco. A liquidez acima serve como alvo de recuo pontual antes da potencial retomada da pressão vendedora. Dados ADP e discursos do Fed são os principais catalisadores do dia; surpresa positiva no emprego ou tom hawkish dos dirigentes seriam os únicos gatilhos capazes de interromper a estrutura bearish dominante.",
     "US10Y": "Yields do tesouro de dez anos em estrutura bullish em todos os timeframes, de D1 a M5, indicando tendência de alta de juros bem estabelecida e sem sinal de reversão no horizonte imediato. A liquidez acima dos yields atuais é o próximo alvo da continuação da alta. Esse ambiente de yields em ascensão, combinado com DXY fraco, sugere dinâmica de desconfiança no dólar como ativo seguro — favorável a ouro e cripto, mas potencialmente restritivo para ações de crescimento. Falas dos dirigentes do Fed ao longo do período americano têm alto poder de reforçar ou temperar a narrativa de yields elevados."
   },
-  "bias_refreshed_at": "2026-05-06 15:15:02 -0300"
+  "bias_refreshed_at": "2026-05-06 15:30:02 -0300"
 }
