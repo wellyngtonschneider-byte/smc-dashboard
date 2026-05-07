@@ -1,6 +1,6 @@
 {
-  "date": "06/05/2026",
-  "time": "20:30",
+  "date": "07/05/2026",
+  "time": "08:45",
   "macro": "O dia é marcado por múltiplos discursos de membros do BCE pela manhã europeia, seguidos de dados de emprego ADP e falas de dirigentes do Fed no período americano, compondo um ambiente de elevada sensibilidade a tom hawkish ou dovish. O DXY permanece em estrutura bearish em todos os timeframes maiores, enquanto yields do tesouro de dez anos seguem bullish, sugerindo dinâmica de dólar fraco por razões de risco sistêmico e não de aperto monetário tradicional. Esse contexto sustenta metais, cripto e índices, ao mesmo tempo que pressiona pares como USDJPY. Os dados de emprego ADP e estoques de petróleo podem introduzir volatilidade intraday relevante, especialmente se os números divergirem das expectativas e forçarem reposicionamento no dólar.",
   "assets": [
     {
@@ -17,7 +17,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Estrutura diária bullish consolidada por BOS, enquanto H4 está bearish, gerando conflito de timeframes. A tendência de curto prazo (H1) reverteu para cima, mas M15 e M5 seguem bearish, indicando pressão vendedora imediata. Os order blocks de H1 e M15 logo abaixo do preço atual servem como zonas de suporte e possível gatilho comprador, com a liquidez acima como alvo de continuação. Discursos do BCE ao longo da manhã e dados do Fed à tarde podem influenciar o par via movimento do dólar; um dollar fraco favorece retomada da tendência diária altista."
     },
@@ -35,7 +35,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bullish",
       "text": "Bias bearish dominante de D1 a H1, com apenas M15 e M5 recentemente virando para cima em movimento de pullback. Os order blocks de baixa em H4 e H1 situados acima do preço atual são zonas de interesse para entradas vendidas na continuação do viés macro. A liquidez acima serve como alvo de curto prazo antes da potencial retomada do sell-off. A publicação das atas do BoJ no período noturno japonês pode adicionar volatilidade; o par é também sensível ao ADP e falas do Fed, pois qualquer fortalecimento do dólar tensionaria o viés bearish estrutural."
     },
@@ -43,8 +43,8 @@
       "pair": "BTCUSD",
       "d1": "bullish",
       "h4": "bullish",
-      "h1": "bullish",
-      "m15": "bullish",
+      "h1": "bearish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "Alinhamento bullish em D1, H4, H1 e M15 configura bias comprador forte e consistente. Apenas o M5 reverteu para baixo recentemente, sugerindo micro-correção dentro da tendência maior. Os order blocks de H4 e H1 bem abaixo do preço atual são suportes estruturais relevantes em caso de recuo mais profundo. A liquidez imediatamente acima é o alvo mais próximo de continuação. O ambiente macro de dólar fraco e yields estabilizados favorece a narrativa bullish cripto; volatilidade pode surgir com o ADP ou falas do Fed."
     },
@@ -96,5 +96,5 @@
     "DXY": "Bearish em D1, H4, H1 e M15, com apenas M5 virando levemente para cima em possível pullback de curto prazo. O order block de M5 bullish abaixo do preço atual representa uma zona de suporte técnico intraday, mas não altera o viés macro de dólar fraco. A liquidez acima serve como alvo de recuo pontual antes da potencial retomada da pressão vendedora. Dados ADP e discursos do Fed são os principais catalisadores do dia; surpresa positiva no emprego ou tom hawkish dos dirigentes seriam os únicos gatilhos capazes de interromper a estrutura bearish dominante.",
     "US10Y": "Yields do tesouro de dez anos em estrutura bullish em todos os timeframes, de D1 a M5, indicando tendência de alta de juros bem estabelecida e sem sinal de reversão no horizonte imediato. A liquidez acima dos yields atuais é o próximo alvo da continuação da alta. Esse ambiente de yields em ascensão, combinado com DXY fraco, sugere dinâmica de desconfiança no dólar como ativo seguro — favorável a ouro e cripto, mas potencialmente restritivo para ações de crescimento. Falas dos dirigentes do Fed ao longo do período americano têm alto poder de reforçar ou temperar a narrativa de yields elevados."
   },
-  "bias_refreshed_at": "2026-05-06 20:30:01 -0300"
+  "bias_refreshed_at": "2026-05-07 08:45:01 -0300"
 }
