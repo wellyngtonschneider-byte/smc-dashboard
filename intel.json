@@ -1,6 +1,6 @@
 {
   "date": "07/05/2026",
-  "time": "13:00",
+  "time": "13:15",
   "macro": "O ambiente macro é marcado por dólar estruturalmente fraco em todos os timeframes, enquanto os yields do Tesouro americano de dez anos sustentam viés de alta, criando tensão entre pressão vendedora no dólar e potencial aperto de condições financeiras. O calendário de hoje concentra risco relevante: múltiplos discursos de membros do BCE ao longo do dia podem gerar volatilidade acentuada no euro, e os dados americanos de produtividade, custos de mão de obra e pedidos de seguro-desemprego — todos no mesmo horário da manhã americana — tendem a pautar o dólar de forma decisiva. As falas de Hammack e Williams do Fed no período da tarde podem recalibrar expectativas sobre cortes de juros, afetando diretamente cripto, ouro e índices. A combinação de DXY bearish com yields em alta é um cenário misto para ativos de risco, exigindo atenção ao fluxo de cada ativo individualmente.",
   "assets": [
     {
@@ -8,7 +8,7 @@
       "d1": "bearish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bullish",
       "text": "Estrutura conflitante: D1 preserva viés de baixa desde o CHoCH recente, enquanto H4, H1, M15 e M5 estão alinhados em alta — o ouro encontra-se em movimento de recuperação dentro de um contexto diário ainda bearish. Os OBs de H4 e H1 mais próximos ao preço atual funcionam como suportes táticos e zonas de interesse comprador. A liquidez acima é o alvo mais imediato de curto prazo; abaixo, os OBs de H1 mais distantes e a liquidez subjacente são regiões de invalidação gradual. Gatilho de continuidade: sustentação acima dos OBs de M5 e M15; gatilho de reversão: retorno aos OBs de H1 inferiores indicaria pressão vendedora do D1 reassumindo o controle."
     },
@@ -17,7 +17,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "Estrutura mista com D1, H1 e M15 bullish, mas H4 bearish e M5 recém-virando vendedor via BOS de baixa — o par está em momento de indecisão no curto prazo. O PMI de Construção britânico pela manhã pode ser catalisador para a libra, enquanto os dados americanos de trabalho e produtividade pressionam o lado do dólar. OBs de H1 e M15 abaixo do preço atual são zonas de interesse para eventual retomada compradora; o OB de M5 bearish sinaliza possível rejeição pontual no curto prazo. O cenário base é de eventual realinhamento com o viés diário de alta após absorção da pressão dos timeframes menores."
     },
@@ -26,7 +26,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "D1 e H4 explicitamente alinhados em alta — bias comprador robusto e consistente nos timeframes estruturais, com H1 e M15 confirmando a tendência. Apenas M5 mostra fraqueza momentânea via CHoCH de baixa, sugerindo pullback tático de curto prazo. Os OBs de H1 e M15 logo abaixo do preço atual são zonas de interesse para reentrada compradora. Os múltiplos discursos do BCE ao longo do dia são o principal risco de volatilidade — tom hawkish reforça o viés de alta do euro; tom dovish pode acionar o pullback em direção aos OBs. O DXY bearish estrutural suporta o cenário comprador."
     },
@@ -34,7 +34,7 @@
       "pair": "USDJPY",
       "d1": "bearish",
       "h4": "bearish",
-      "h1": "bearish",
+      "h1": "bullish",
       "m15": "bullish",
       "m5": "bearish",
       "text": "Estrutura completamente alinhada em baixa em todos os timeframes — D1, H4, H1, M15 e M5 são unanimemente bearish, configurando um dos cenários mais definidos da sessão. OBs bearish escalonados em múltiplos timeframes funcionam como zonas de resistência e potenciais gatilhos de continuidade vendedora em eventual correção. A liquidez abaixo é o alvo natural da estrutura. A leitura do DXY fraco é consistente com a pressão de queda do par. Dados americanos e falas do Fed são os principais vetores de risco — uma surpresa hawkish poderia oferecer correção técnica, mas não invalida o viés estrutural consolidado."
@@ -96,5 +96,5 @@
     "DXY": "Estrutura completamente bearish em todos os timeframes — D1, H4, H1, M15 e M5 confirmam tendência de queda do dólar sem divergência relevante. O contexto macro de dólar fraco é consistente com o movimento bullish observado em EURUSD e GBPUSD e com a pressão de baixa no USDJPY. A liquidez acima representa regiões de potencial rejeição e continuidade vendedora caso o DXY tente recuperação. Os dados de trabalho e produtividade americanos e as falas de Hammack e Williams são os gatilhos de risco mais diretos — dados robustos poderiam provocar reação compradora pontual sem alterar o viés estrutural consolidado.",
     "US10Y": "Yields do Tesouro americano de dez anos em estrutura bullish em todos os timeframes — D1, H4, H1, M15 e M5 confirmam tendência de alta dos yields, sinalizando posicionamento de mercado para manutenção de juros elevados por mais tempo. Essa configuração cria tensão com o DXY bearish: yields subindo normalmente suportariam o dólar, sugerindo que outros fatores — fluxos de capital, geopolítica — estão pressionando o dólar de forma independente. A liquidez acima dos yields é o alvo estrutural de curto prazo; os dados americanos de hoje e as falas do Fed são os catalisadores mais diretos. Yields persistentemente elevados representam um headwind de médio prazo para cripto e ouro."
   },
-  "bias_refreshed_at": "2026-05-07 13:00:01 -0300"
+  "bias_refreshed_at": "2026-05-07 13:15:02 -0300"
 }
