@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 10:45 BRT",
+  "updated_at": "2026-05-07 11:00 BRT",
   "events": [
     {
       "title": "ECB de Guindos Speech",
@@ -106,7 +106,7 @@
       "impact": "Medium",
       "date": "2026-05-08",
       "time": "03:00",
-      "forecast": "—",
+      "forecast": "0.6",
       "previous": "0.8"
     },
     {
@@ -115,7 +115,7 @@
       "impact": "Medium",
       "date": "2026-05-08",
       "time": "03:00",
-      "forecast": "0.2",
+      "forecast": "-0.1",
       "previous": "-0.5"
     },
     {
@@ -160,7 +160,7 @@
       "impact": "High",
       "date": "2026-05-08",
       "time": "09:30",
-      "forecast": "60",
+      "forecast": "62",
       "previous": "178"
     },
     {
