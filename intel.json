@@ -1,6 +1,6 @@
 {
   "date": "07/05/2026",
-  "time": "11:15",
+  "time": "11:30",
   "macro": "O ambiente macro é marcado por dólar estruturalmente fraco em todos os timeframes, enquanto os yields do Tesouro americano de dez anos sustentam viés de alta, criando tensão entre pressão vendedora no dólar e potencial aperto de condições financeiras. O calendário de hoje concentra risco relevante: múltiplos discursos de membros do BCE ao longo do dia podem gerar volatilidade acentuada no euro, e os dados americanos de produtividade, custos de mão de obra e pedidos de seguro-desemprego — todos no mesmo horário da manhã americana — tendem a pautar o dólar de forma decisiva. As falas de Hammack e Williams do Fed no período da tarde podem recalibrar expectativas sobre cortes de juros, afetando diretamente cripto, ouro e índices. A combinação de DXY bearish com yields em alta é um cenário misto para ativos de risco, exigindo atenção ao fluxo de cada ativo individualmente.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Estrutura completamente bearish em todos os timeframes — D1, H4, H1, M15 e M5 confirmam tendência de queda do dólar sem divergência relevante. O contexto macro de dólar fraco é consistente com o movimento bullish observado em EURUSD e GBPUSD e com a pressão de baixa no USDJPY. A liquidez acima representa regiões de potencial rejeição e continuidade vendedora caso o DXY tente recuperação. Os dados de trabalho e produtividade americanos e as falas de Hammack e Williams são os gatilhos de risco mais diretos — dados robustos poderiam provocar reação compradora pontual sem alterar o viés estrutural consolidado.",
     "US10Y": "Yields do Tesouro americano de dez anos em estrutura bullish em todos os timeframes — D1, H4, H1, M15 e M5 confirmam tendência de alta dos yields, sinalizando posicionamento de mercado para manutenção de juros elevados por mais tempo. Essa configuração cria tensão com o DXY bearish: yields subindo normalmente suportariam o dólar, sugerindo que outros fatores — fluxos de capital, geopolítica — estão pressionando o dólar de forma independente. A liquidez acima dos yields é o alvo estrutural de curto prazo; os dados americanos de hoje e as falas do Fed são os catalisadores mais diretos. Yields persistentemente elevados representam um headwind de médio prazo para cripto e ouro."
   },
-  "bias_refreshed_at": "2026-05-07 11:15:01 -0300"
+  "bias_refreshed_at": "2026-05-07 11:30:02 -0300"
 }
