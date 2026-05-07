@@ -1,6 +1,6 @@
 {
   "date": "07/05/2026",
-  "time": "15:45",
+  "time": "16:00",
   "macro": "O cenário macro é marcado por fraqueza estrutural do dólar em múltiplos timeframes, enquanto os yields do tesouro americano de dez anos exibem força consistente em todas as temporalidades — uma divergência que cria tensão interpretativa sobre o fluxo de capital. O calendário do dia é denso em catalisadores: quatro discursos do BCE com potencial de sinalização sobre política monetária europeia, além de dados americanos de produtividade e custos trabalhistas que podem reforçar ou questionar o viés do Fed. Os discursos de Hammack e Williams no período americano são os eventos de maior risco para os pares em dólar. A combinação de DXY estruturalmente fraco com yields em alta sugere um ambiente de risco complexo, onde o fluxo para ativos de risco como tecnologia e cripto pode ser sustentado enquanto o ouro navega em conflito de estrutura entre timeframes.",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "pair": "GBPUSD",
       "d1": "bullish",
       "h4": "bearish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bearish",
       "m5": "bearish",
       "text": "Diário bullish em conflito com H4 bearish — o par opera em correção dentro de tendência maior de alta. O H1 recuperou viés bullish, mas M15 e M5 reverteram novamente para baixo, indicando pressão vendedora intradiária ativa. O order block bullish no H1 serve como zona de suporte e potencial gatilho para continuação altista alinhada ao diário. O PMI de Construção britânico hoje é catalisador direto para o par; resultado acima do consenso pode reforçar o viés bullish do diário e provocar oferta nos OBs bearish de curto prazo. Liquidez abaixo pode ser varrida antes de retomada."
@@ -96,5 +96,5 @@
     "DXY": "Fraqueza estrutural do dólar alinhada em D1, H4, H1 e M15 — todos bearish após CHoCH descendentes encadeados. Apenas o M5 exibe recuperação técnica pontual. Esse contexto de DXY estruturalmente fraco é coerente com os vieses altistas do EURUSD e GBPUSD em timeframes maiores. Os dados americanos do período matutino — Jobless Claims, custos trabalhistas e produtividade — são catalisadores diretos, com potencial de aceleração ou alívio temporário da tendência. Os discursos de Hammack e Williams são os gatilhos de maior peso para o dólar no período americano. Qualquer recuperação no M5 deve ser interpretada como oportunidade de venda alinhada ao macro.",
     "US10Y": "Yields do tesouro americano de dez anos em tendência de alta estrutural alinhada em todos os timeframes: D1, H4, H1, M15 e M5 todos bullish — a estrutura mais coesa entre os ativos de referência macro. Yields ascendentes em todos os prazos sugerem expectativa de política monetária restritiva sustentada ou prêmio de risco fiscal crescente. A tensão com a fraqueza simultânea do DXY é o ponto interpretativo central: pode refletir desconfiança estrutural no dólar apesar dos juros elevados. Os dados de produtividade e custos trabalhistas hoje, somados aos discursos do Fed, são os catalisadores mais diretos para a continuação ou reversão dessa tendência. Sem sinal de exaustão estrutural visível."
   },
-  "bias_refreshed_at": "2026-05-07 15:45:02 -0300"
+  "bias_refreshed_at": "2026-05-07 16:00:02 -0300"
 }
