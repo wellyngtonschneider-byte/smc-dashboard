@@ -1,6 +1,6 @@
 {
   "date": "08/05/2026",
-  "time": "07:45",
+  "time": "08:00",
   "macro": "O ambiente macroeconômico permanece tenso com múltiplos discursos de membros do Fed e do BCE concentrados na sessão de hoje, elevando o risco de volatilidade intraday em ativos correlacionados ao dólar e ao euro. Os dados de produtividade e custo de trabalho dos EUA no período da manhã americana podem reforçar ou amenizar as expectativas de afrouxamento do Fed, sendo catalisadores diretos para o dólar e os yields do tesouro. A estrutura técnica do DXY em todos os timeframes relevantes aponta fraqueza estrutural do dólar, enquanto os yields de dez anos ainda demonstram viés macro de alta, criando uma divergência que merece atenção — essa tensão tende a resolver em favor de um ou outro dado o fluxo de notícias do dia. O cenário geopolítico continua como pano de fundo de suporte ao ouro e a ativos de refúgio, enquanto o apetite por risco nos índices americanos permanece sustentado pela estrutura bullish de médio prazo no NAS100.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "O dólar (via proxy) apresenta alinhamento bearish em todos os timeframes principais, do diário ao M15, com apenas o M5 exibindo repique técnico de curto prazo sem relevância estrutural. Essa fraqueza ampla do dólar é o contexto macro que sustenta os pares em que o USD é cotado como moeda base, especialmente EUR e GBP no médio prazo diário. Os dados americanos de hoje, incluindo pedidos de seguro-desemprego e indicadores de produtividade, são o principal risco de reversão do viés bearish do dólar caso venham acima do esperado. Qualquer fortalecimento do DXY intraday deve ser tratado como contra-tendência enquanto a estrutura dos timeframes maiores não se alterar.",
     "US10Y": "Os yields do tesouro americano de dez anos mantêm viés bullish estrutural no diário e H4, indicando que o mercado ainda precifica pressão inflacionária ou resiliência econômica que adia cortes do Fed. A correção bearish no H1 foi seguida de retomada bullish no M15 e M5, sugerindo que o movimento de alta dos yields ainda não se esgotou e que novas máximas relativas podem ser testadas. Os dados de produtividade e custo de trabalho americanos desta manhã são catalisadores críticos para a direção de curto prazo dos yields, com números mais quentes sustentando o viés altista e dados fracos podendo aprofundar a correção do H1. Os discursos de Hammack e Williams ao longo da tarde americana adicionam risco bidirecional ao movimento."
   },
-  "bias_refreshed_at": "2026-05-08 07:45:01 -0300"
+  "bias_refreshed_at": "2026-05-08 08:00:02 -0300"
 }
