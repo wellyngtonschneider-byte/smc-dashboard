@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 08:00 BRT",
+  "updated_at": "2026-05-08 08:15 BRT",
   "events": [
     {
       "title": "Halifax House Price Index YoY",
@@ -110,11 +110,29 @@
       "previous": "49.8"
     },
     {
+      "title": "Fed Goolsbee Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-08",
+      "time": "12:05",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
       "title": "ECB Schnabel Speech",
       "country": "EUR",
       "impact": "Medium",
       "date": "2026-05-08",
       "time": "13:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Goolsbee Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-08",
+      "time": "15:20",
       "forecast": "—",
       "previous": "—"
     },
