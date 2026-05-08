@@ -1,6 +1,6 @@
 {
   "date": "08/05/2026",
-  "time": "12:15",
+  "time": "12:30",
   "macro": "O dia é dominado pelo NFP americano e pela Taxa de Desemprego, ambos de alto impacto, com o Sentimento do Consumidor Michigan completando o trio de catalisadores de primeira ordem. O Fed terá múltiplos membros em discurso ao longo de toda a sessão — incluindo Goolsbee em três janelas distintas e Waller, Bowman e Daly à noite — amplificando o risco de volatilidade intraday. O DXY apresenta estrutura bearish alinhada em todos os grandes timeframes, sinalizando fraqueza estrutural do dólar, enquanto os yields dos Treasuries de dez anos mantêm bias bullish macro — uma divergência que o NFP pode resolver de forma abrupta. Um payroll robusto tende a reanimar o dólar, pressionar ativos de risco e acelerar yields; uma decepção consolida o cenário de dólar fraco e favorece euro, libra e metais.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Estrutura bearish dominante e alinhada em D1, H4, H1 e M15, refletindo fraqueza estrutural consistente do dólar no médio e curto prazo. O repique bullish isolado de M5 representa retração dentro do contexto distribuidor maior. A liquidez acima do preço atual pode ser varrida antes de continuação de baixa, funcionando como armadilha de compradores. O NFP é o principal catalisador de reversão potencial: payroll expressivamente acima das expectativas poderia gerar rotação para o dólar e questionar o viés bearish estrutural. Os múltiplos discursos do Fed ao longo do dia adicionam risco de volatilidade nas leituras intraday do índice.",
     "US10Y": "Os yields do Tesouro de dez anos apresentam estrutura bullish alinhada em D1 e H4, indicando tendência macro de alta nos juros longos com CHoCH de alta confirmados. H1 registrou CHoCH de baixa configurando correção técnica de curto prazo, mas M15 e M5 já retomaram a direção bullish de yields com nova sequência de CHoCH e BOS de alta. O cenário macro de yields em elevação é consistente com a narrativa de política monetária restritiva e pressão inflacionária residual. O NFP de hoje é o catalisador de maior impacto direto: payroll robusto tende a acelerar a alta dos yields em linha com a estrutura predominante, enquanto dados fracos podem aprofundar a correção de H1. Os discursos do Fed ao longo do dia, especialmente o bloco noturno com múltiplos membros simultâneos, podem reforçar ou questionar as expectativas de trajetória dos juros."
   },
-  "bias_refreshed_at": "2026-05-08 12:15:02 -0300"
+  "bias_refreshed_at": "2026-05-08 12:30:02 -0300"
 }
