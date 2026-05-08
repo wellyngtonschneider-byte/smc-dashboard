@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 09:30 BRT",
+  "updated_at": "2026-05-08 09:45 BRT",
   "events": [
     {
       "title": "Halifax House Price Index YoY",
@@ -62,7 +62,7 @@
       "date": "2026-05-08",
       "time": "09:30",
       "forecast": "62",
-      "previous": "178"
+      "previous": "185"
     },
     {
       "title": "Average Hourly Earnings MoM",
@@ -89,7 +89,7 @@
       "date": "2026-05-08",
       "time": "09:30",
       "forecast": "3.8",
-      "previous": "3.5"
+      "previous": "3.4"
     },
     {
       "title": "Participation Rate",
