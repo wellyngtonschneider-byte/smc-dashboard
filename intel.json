@@ -1,6 +1,6 @@
 {
   "date": "08/05/2026",
-  "time": "08:45",
+  "time": "09:00",
   "macro": "O dia é dominado pelo NFP americano e pela taxa de desemprego, dois eventos de alto impacto que definem o tom para o dólar e ativos de risco. A estrutura do DXY permanece bearish em todos os timeframes relevantes, refletindo fraqueza estrutural do dólar e criando ambiente favorável a pares como EUR e GBP, além de suporte ao ouro. Os yields do tesouro de dez anos mostram bias macro bullish alinhado em D1 e H4, mas com pressão corretiva intraday — um NFP forte pode reacender alta de yields e reverter temporariamente a fraqueza do dólar. Múltiplos membros do Fed falam ao longo do dia (Cook, Goolsbee, Daly, Waller, Bowman), além de discursos do BCE (Lagarde, de Guindos, Cipollone, Schnabel), elevando o risco de volatilidade em sessões americana e europeia.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "D1, H4, H1 e M15 estão todos alinhados bearish — fraqueza estrutural do dólar é dominante em todos os timeframes relevantes. Apenas M5 mostrou recuperação pontual, caracterizando repique de curto prazo dentro de tendência de baixa consolidada. O contexto corrobora o bias bullish em pares como EURUSD e GBPUSD, além de suporte ao ouro. O NFP é o único evento capaz de reverter essa estrutura intraday caso venha muito acima do esperado, forçando um CHoCH de alta em timeframes menores. Ausente surpresa altista no NFP, o cenário base é continuação da fraqueza do dólar com busca à liquidez abaixo.",
     "US10Y": "Yields do tesouro de dez anos exibem bias macro bullish com D1 e H4 alinhados em alta — estrutura de médio prazo aponta para yields em ascensão. H1 corrigiu para baixo com CHoCH de baixa recente, mas M15 e M5 já retomaram trajetória altista. A leitura macro sugere que o mercado de renda fixa está precificando pressão inflacionária ou resiliência econômica no horizonte. O NFP de hoje é o gatilho mais importante: dado forte valida a estrutura bullish de yields e pode pressionar risco; dado fraco abre espaço para continuação do CHoCH de baixa no H1. Cenário base: yields retomam alta após correção intraday, alinhados ao bias D1/H4."
   },
-  "bias_refreshed_at": "2026-05-08 08:45:02 -0300"
+  "bias_refreshed_at": "2026-05-08 09:00:02 -0300"
 }
