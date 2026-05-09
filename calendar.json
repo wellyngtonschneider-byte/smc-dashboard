@@ -1,48 +1,12 @@
 {
-  "updated_at": "2026-05-08 19:45 BRT",
+  "updated_at": "2026-05-09 10:32 BRT",
   "events": [
     {
-      "title": "Halifax House Price Index YoY",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "03:00",
-      "forecast": "0.6",
-      "previous": "0.8"
-    },
-    {
-      "title": "Halifax House Price Index MoM",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "03:00",
-      "forecast": "-0.1",
-      "previous": "-0.5"
-    },
-    {
-      "title": "ECB President Lagarde Speech",
+      "title": "ECB Donnery Speech",
       "country": "EUR",
       "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "04:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB de Guindos Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "04:05",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Cook Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "06:45",
+      "date": "2026-05-09",
+      "time": "08:00",
       "forecast": "—",
       "previous": "—"
     },
@@ -50,134 +14,8 @@
       "title": "ECB Cipollone Speech",
       "country": "EUR",
       "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "09:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Non Farm Payrolls",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-08",
-      "time": "09:30",
-      "forecast": "62",
-      "previous": "185"
-    },
-    {
-      "title": "Average Hourly Earnings MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "09:30",
-      "forecast": "0.3",
-      "previous": "0.2"
-    },
-    {
-      "title": "Unemployment Rate",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-08",
-      "time": "09:30",
-      "forecast": "4.3",
-      "previous": "4.3"
-    },
-    {
-      "title": "Average Hourly Earnings YoY",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "09:30",
-      "forecast": "3.8",
-      "previous": "3.4"
-    },
-    {
-      "title": "Participation Rate",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "09:30",
-      "forecast": "—",
-      "previous": "61.9"
-    },
-    {
-      "title": "Michigan Consumer Sentiment Prel",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-08",
-      "time": "11:00",
-      "forecast": "49.5",
-      "previous": "49.8"
-    },
-    {
-      "title": "Fed Goolsbee Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "12:05",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Schnabel Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "13:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Goolsbee Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "15:20",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Goolsbee Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "20:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Daly Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "20:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Waller Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "20:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Bowman Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-08",
-      "time": "20:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB Donnery Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-09",
-      "time": "08:00",
+      "date": "2026-05-10",
+      "time": "06:30",
       "forecast": "—",
       "previous": "—"
     }
