@@ -1,21 +1,66 @@
 {
-  "updated_at": "2026-05-09 22:45 BRT",
+  "updated_at": "2026-05-10 06:00 BRT",
   "events": [
-    {
-      "title": "ECB Donnery Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-09",
-      "time": "08:00",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "ECB Cipollone Speech",
       "country": "EUR",
       "impact": "Medium",
       "date": "2026-05-10",
       "time": "06:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Existing Home Sales",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-11",
+      "time": "11:00",
+      "forecast": "4.05",
+      "previous": "3.98"
+    },
+    {
+      "title": "Existing Home Sales MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-11",
+      "time": "11:00",
+      "forecast": "—",
+      "previous": "-3.6"
+    },
+    {
+      "title": "BRC Retail Sales Monitor YoY",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-11",
+      "time": "20:01",
+      "forecast": "0.8",
+      "previous": "3.1"
+    },
+    {
+      "title": "Household Spending MoM",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-05-11",
+      "time": "20:30",
+      "forecast": "—",
+      "previous": "1.5"
+    },
+    {
+      "title": "Household Spending YoY",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-05-11",
+      "time": "20:30",
+      "forecast": "-1.5",
+      "previous": "-1.8"
+    },
+    {
+      "title": "BoJ Summary of Opinions",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-05-11",
+      "time": "20:50",
       "forecast": "—",
       "previous": "—"
     }
