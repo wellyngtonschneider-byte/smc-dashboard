@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11 10:45 BRT",
+  "updated_at": "2026-05-11 11:00 BRT",
   "events": [
     {
       "title": "Existing Home Sales",
@@ -8,7 +8,7 @@
       "date": "2026-05-11",
       "time": "11:00",
       "forecast": "4.05",
-      "previous": "3.98"
+      "previous": "4.01"
     },
     {
       "title": "Existing Home Sales MoM",
@@ -17,7 +17,7 @@
       "date": "2026-05-11",
       "time": "11:00",
       "forecast": "—",
-      "previous": "-3.6"
+      "previous": "-2.9"
     },
     {
       "title": "BRC Retail Sales Monitor YoY",
