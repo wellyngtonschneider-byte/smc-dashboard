@@ -1,6 +1,6 @@
 {
   "date": "11/05/2026",
-  "time": "09:15",
+  "time": "09:30",
   "macro": "Dia de altíssimo impacto com NFP, Taxa de Desemprego e Michigan Consumer Sentiment concentrados na sessão americana, além de múltiplos discursos de membros do Fed ao longo do dia. O DXY exibe fraqueza estrutural alinhada do diário ao quinze minutos, refletindo pressão vendedora sobre o dólar que sustenta o rali em pares como EURUSD e XAUUSD. Os yields do treasury de dez anos mantêm viés altista nas timeframes maiores, sinalizando que qualquer leitura forte do payroll pode reacender demanda por dólar e pressionar ativos de risco. O alinhamento bearish do DXY versus o viés bullish dos yields cria uma tensão macro que o NFP de hoje deve resolver — resultado acima do esperado favorece reversão do DXY e compressão em ouro e índices; resultado fraco confirma tendência atual de dólar fraco.",
   "assets": [
     {
@@ -8,7 +8,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bullish",
       "text": "Conflito entre o viés bearish do diário e o alinhamento bullish do H4 ao M5 — o ouro está em movimento corretivo ascendente dentro de uma estrutura maior ainda negativa. O order block bearish no M5, formado na sessão de hoje, coincide com a região de preço atual e representa a primeira zona de resistência a ser monitorada. O order block bullish do M15, logo abaixo, é o suporte imediato: enquanto sustentado, o cenário de alta intradia permanece válido. O NFP é o gatilho central — fraqueza no payroll amplifica a pressão vendedora no dólar e abre espaço para liquidez acima ser varrida; surpresa positiva invalida o setup bullish intradia e direciona preço ao OB do M15 abaixo."
     },
@@ -96,5 +96,5 @@
     "DXY": "Fraqueza generalizada do dólar com D1, H4, H1 e M15 todos bearish — o DXY (via proxy UUP) está em tendência de enfraquecimento claro e sustentado. O M5 bullish é apenas um micro-repique em direção à liquidez acima, sem alterar o quadro dominante. O NFP de hoje é o evento mais crítico: uma surpresa positiva no payroll pode acionar corrida à liquidez acima no M5, pressionando pares como EURUSD e XAUUSD para baixo; uma leitura fraca confirma continuação bearish do dólar, validando os movimentos altistas em ouro, euro e libra. A invalidação estrutural do bearish dominante exigiria reversão no H4, cenário improvável num único dado.",
     "US10Y": "Yields do treasury de dez anos em trajetória altista de médio prazo, com D1 e H4 alinhados para cima — a tendência macro de yields crescentes permanece intacta. O H1 registrou uma queda pontual de yield, mas M15 e M5 já retomaram a direção ascendente, sinalizando retomada da pressão sobre bonds. O NFP é o catalisador chave: payrolls fortes validam e aceleram a alta dos yields, reforçando pressão sobre ativos de risco e suportando o dólar; payrolls fracos estendem o recuo do H1 e podem abrir espaço para queda de yield de curto prazo. A liquidez acima representa o próximo alvo na estrutura de yields, alinhada com o cenário de continuação caso o dado venha favorável."
   },
-  "bias_refreshed_at": "2026-05-11 09:15:01 -0300"
+  "bias_refreshed_at": "2026-05-11 09:30:02 -0300"
 }
