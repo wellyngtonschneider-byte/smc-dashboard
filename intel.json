@@ -1,6 +1,6 @@
 {
   "date": "11/05/2026",
-  "time": "14:30",
+  "time": "14:45",
   "macro": "O dólar americano opera em distribuição consistente — todas as estruturas de DXY confirmam viés baixista sem contradição entre timeframes, favorecendo pares majorados e commodities cotadas em USD. Os yields do Tesouro de dez anos mantêm bias de alta no macro, criando uma correlação atípica com o dólar fraco que pode sinalizar repricing de risco ou expectativas inflacionárias persistentes, não convergência de política. O evento de maior impacto do dia é o Existing Home Sales americano na abertura da sessão de Nova York — leitura surpreendente pode catalisar volatilidade no USD e revisar expectativas de ciclo do Fed. À noite, dados de consumo japonês e o Resumo de Opiniões do BoJ são os gatilhos mais relevantes para o iene, com postura mais hawkish representando risco para posições compradas no USDJPY.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Bearish absoluto — todas as timeframes de D1 a M5 em estrutura de baixa sem qualquer contradição entre frames. O dólar está em distribuição consistente e o contexto macro reforça essa narrativa. Liquidez acima pode ser varrida em movimento de stop hunt antes de nova perna de queda. Correlatamente, esse quadro sustenta o bias bullish macro de EURUSD e GBPUSD. Um Existing Home Sales acima do esperado poderia oferecer alívio temporário e varre a liquidez acima, mas dificilmente reverte a estrutura macro sem confirmação de CHoCH no D1.",
     "US10Y": "Yields em alta com D1 e H4 bullish — bias macro de yields ascendentes consolidado e consistente. H1 em pullback bearish mas M15 e M5 já retomaram estrutura de alta, sugerindo que a correção de curto prazo pode estar se esgotando. A combinação de yields subindo com dólar enfraquecido é atípica e pode refletir expectativas de inflação persistente ou repricing de prêmio de risco, não um ciclo de aperto convencional. Os dados de habitação americanos do dia podem influenciar expectativas sobre a trajetória do Fed e adicionar volatilidade intradiária nos yields. Gatilho de continuação altista nos yields seria BOS no H1 com renovação estrutural."
   },
-  "bias_refreshed_at": "2026-05-11 14:30:01 -0300"
+  "bias_refreshed_at": "2026-05-11 14:45:01 -0300"
 }
