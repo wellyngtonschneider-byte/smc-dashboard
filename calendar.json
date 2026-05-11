@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-05-10 22:45 BRT",
+  "updated_at": "2026-05-11 08:45 BRT",
   "events": [
-    {
-      "title": "ECB Cipollone Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-10",
-      "time": "06:30",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "Existing Home Sales",
       "country": "USD",
@@ -43,7 +34,7 @@
       "impact": "Medium",
       "date": "2026-05-11",
       "time": "20:30",
-      "forecast": "—",
+      "forecast": "0.6",
       "previous": "1.5"
     },
     {
@@ -52,7 +43,7 @@
       "impact": "Medium",
       "date": "2026-05-11",
       "time": "20:30",
-      "forecast": "-1.5",
+      "forecast": "-1.3",
       "previous": "-1.8"
     },
     {
@@ -63,6 +54,123 @@
       "time": "20:50",
       "forecast": "—",
       "previous": "—"
+    },
+    {
+      "title": "Fed Williams Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "04:15",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ZEW Economic Sentiment Index",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "06:00",
+      "forecast": "-20",
+      "previous": "-20.4"
+    },
+    {
+      "title": "ADP Employment Change Weekly",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "09:15",
+      "forecast": "—",
+      "previous": "39.25"
+    },
+    {
+      "title": "Core Inflation Rate MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-12",
+      "time": "09:30",
+      "forecast": "0.4",
+      "previous": "0.2"
+    },
+    {
+      "title": "Inflation Rate MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-12",
+      "time": "09:30",
+      "forecast": "0.6",
+      "previous": "0.9"
+    },
+    {
+      "title": "Core Inflation Rate YoY",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-12",
+      "time": "09:30",
+      "forecast": "2.7",
+      "previous": "2.6"
+    },
+    {
+      "title": "Inflation Rate YoY",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-12",
+      "time": "09:30",
+      "forecast": "3.7",
+      "previous": "3.3"
+    },
+    {
+      "title": "CPI",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "330.21"
+    },
+    {
+      "title": "CPI s.a",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "09:30",
+      "forecast": "—",
+      "previous": "330.293"
+    },
+    {
+      "title": "Fed Goolsbee Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "14:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Monthly Budget Statement",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "15:00",
+      "forecast": "37.5",
+      "previous": "-164.1"
+    },
+    {
+      "title": "API Crude Oil Stock Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "17:30",
+      "forecast": "—",
+      "previous": "-8.1"
+    },
+    {
+      "title": "Current Account",
+      "country": "JPY",
+      "impact": "Medium",
+      "date": "2026-05-12",
+      "time": "20:50",
+      "forecast": "3879",
+      "previous": "3933"
     }
   ]
 }
