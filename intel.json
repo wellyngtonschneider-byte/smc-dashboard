@@ -1,6 +1,6 @@
 {
   "date": "11/05/2026",
-  "time": "11:30",
+  "time": "14:15",
   "macro": "O dólar americano opera em distribuição consistente — todas as estruturas de DXY confirmam viés baixista sem contradição entre timeframes, favorecendo pares majorados e commodities cotadas em USD. Os yields do Tesouro de dez anos mantêm bias de alta no macro, criando uma correlação atípica com o dólar fraco que pode sinalizar repricing de risco ou expectativas inflacionárias persistentes, não convergência de política. O evento de maior impacto do dia é o Existing Home Sales americano na abertura da sessão de Nova York — leitura surpreendente pode catalisar volatilidade no USD e revisar expectativas de ciclo do Fed. À noite, dados de consumo japonês e o Resumo de Opiniões do BoJ são os gatilhos mais relevantes para o iene, com postura mais hawkish representando risco para posições compradas no USDJPY.",
   "assets": [
     {
@@ -8,15 +8,15 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bullish",
       "text": "D1 e H4 alinhados bearish — o bias macro e intermediário apontam para continuação da pressão vendedora. Os timeframes menores estão em estrutura bullish, configurando um movimento corretivo contra a tendência maior, com Order Blocks intradiários atuando como zonas de suporte temporário de interesse. A liquidez posicionada abaixo do preço atual é o alvo natural do bias macro. O gatilho de entrada vendedora seria uma rejeição estrutural nos Order Blocks de H1 ou H4 com formação de CHoCH bearish no H1, enquanto a invalidação do cenário baixista seria uma quebra limpa acima do último CHoCH de D1."
     },
     {
       "pair": "GBPUSD",
       "d1": "bullish",
-      "h4": "bearish",
-      "h1": "bearish",
+      "h4": "bullish",
+      "h1": "bullish",
       "m15": "bullish",
       "m5": "bullish",
       "text": "D1 bullish em conflito com H4 e H1 bearish — a estrutura intermediária está corrigindo contra a tendência macro. Os timeframes menores ensaiaram recuperação, mas enquanto H4 mantiver viés de baixa, o contexto de curto prazo favorece resistência e rejeição. O Order Block bearish de H1 próximo ao preço atual é zona crítica de interesse vendedor intradiário. O BRC Retail Sales britânico à noite representa catalisador adicional de volatilidade. Cenário bullish exige quebra e sustentação acima do OB de H1 com continuidade estrutural; invalidação vendedora seria alinhamento de M15 com H4 e migração da liquidez abaixo."
@@ -35,7 +35,7 @@
       "d1": "bearish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "D1 bearish em conflito com H4 e H1 bullish — o rali intermediário vai na contramão do bias macro. M15 e M5 já reverteram para baixa, sinalizando potencial esgotamento do movimento de H4 e reaproximação do bias de D1. Order Blocks bullish de H4 e H1 são zonas de suporte relevantes para eventual recuo. O Resumo de Opiniões do BoJ e os dados de Household Spending japonês à noite são catalisadores-chave — retórica hawkish seria pressão vendedora relevante no par. Cenário de realinhamento bearish se consolida com CHoCH de baixa no H1; invalidação seria novo BOS de alta acima do CHoCH de D1."
     },
@@ -53,7 +53,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "D1 e H4 alinhados bearish — bias macro de baixa claro e sustentado. H1 ainda mantém estrutura bullish, criando tensão entre médio e curto prazo, mas M15 e M5 já reverteram para baixa sugerindo que H1 tende a ceder. Order Block bullish de H1 é zona de suporte relevante mas provavelmente sob pressão crescente. A liquidez posicionada abaixo é o alvo natural do bias macro. Gatilho vendedor prioritário seria quebra do suporte de H1 com rejeição e confirmação bearish nos menores; invalidação seria BOS de alta no H4 com reversão estrutural no médio prazo."
     },
@@ -71,7 +71,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Bearish absoluto — todas as timeframes de D1 a M5 em estrutura de baixa sem qualquer contradição entre frames. O dólar está em distribuição consistente e o contexto macro reforça essa narrativa. Liquidez acima pode ser varrida em movimento de stop hunt antes de nova perna de queda. Correlatamente, esse quadro sustenta o bias bullish macro de EURUSD e GBPUSD. Um Existing Home Sales acima do esperado poderia oferecer alívio temporário e varre a liquidez acima, mas dificilmente reverte a estrutura macro sem confirmação de CHoCH no D1."
     },
@@ -96,5 +96,5 @@
     "DXY": "Bearish absoluto — todas as timeframes de D1 a M5 em estrutura de baixa sem qualquer contradição entre frames. O dólar está em distribuição consistente e o contexto macro reforça essa narrativa. Liquidez acima pode ser varrida em movimento de stop hunt antes de nova perna de queda. Correlatamente, esse quadro sustenta o bias bullish macro de EURUSD e GBPUSD. Um Existing Home Sales acima do esperado poderia oferecer alívio temporário e varre a liquidez acima, mas dificilmente reverte a estrutura macro sem confirmação de CHoCH no D1.",
     "US10Y": "Yields em alta com D1 e H4 bullish — bias macro de yields ascendentes consolidado e consistente. H1 em pullback bearish mas M15 e M5 já retomaram estrutura de alta, sugerindo que a correção de curto prazo pode estar se esgotando. A combinação de yields subindo com dólar enfraquecido é atípica e pode refletir expectativas de inflação persistente ou repricing de prêmio de risco, não um ciclo de aperto convencional. Os dados de habitação americanos do dia podem influenciar expectativas sobre a trajetória do Fed e adicionar volatilidade intradiária nos yields. Gatilho de continuação altista nos yields seria BOS no H1 com renovação estrutural."
   },
-  "bias_refreshed_at": "2026-05-11 11:30:01 -0300"
+  "bias_refreshed_at": "2026-05-11 14:15:01 -0300"
 }
