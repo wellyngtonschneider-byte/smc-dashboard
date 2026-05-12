@@ -1,60 +1,6 @@
 {
-  "updated_at": "2026-05-11 22:45 BRT",
+  "updated_at": "2026-05-12 06:00 BRT",
   "events": [
-    {
-      "title": "Existing Home Sales",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-11",
-      "time": "11:00",
-      "forecast": "4.05",
-      "previous": "4.01"
-    },
-    {
-      "title": "Existing Home Sales MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-11",
-      "time": "11:00",
-      "forecast": "—",
-      "previous": "-2.9"
-    },
-    {
-      "title": "BRC Retail Sales Monitor YoY",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-05-11",
-      "time": "20:01",
-      "forecast": "0.8",
-      "previous": "3.1"
-    },
-    {
-      "title": "Household Spending MoM",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-05-11",
-      "time": "20:30",
-      "forecast": "0.6",
-      "previous": "1.5"
-    },
-    {
-      "title": "Household Spending YoY",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-05-11",
-      "time": "20:30",
-      "forecast": "-1.3",
-      "previous": "-1.8"
-    },
-    {
-      "title": "BoJ Summary of Opinions",
-      "country": "JPY",
-      "impact": "Medium",
-      "date": "2026-05-11",
-      "time": "20:50",
-      "forecast": "—",
-      "previous": "—"
-    },
     {
       "title": "Fed Williams Speech",
       "country": "USD",
@@ -88,7 +34,7 @@
       "impact": "High",
       "date": "2026-05-12",
       "time": "09:30",
-      "forecast": "0.4",
+      "forecast": "0.3",
       "previous": "0.2"
     },
     {
@@ -151,7 +97,7 @@
       "impact": "Medium",
       "date": "2026-05-12",
       "time": "15:00",
-      "forecast": "37.5",
+      "forecast": "157.2",
       "previous": "-164.1"
     },
     {
@@ -171,6 +117,123 @@
       "time": "20:50",
       "forecast": "3879",
       "previous": "3933"
+    },
+    {
+      "title": "Employment Change QoQ Prel",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "06:00",
+      "forecast": "0.1",
+      "previous": "0.2"
+    },
+    {
+      "title": "Employment Change YoY Prel",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "06:00",
+      "forecast": "—",
+      "previous": "0.7"
+    },
+    {
+      "title": "Industrial Production MoM",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "06:00",
+      "forecast": "0.2",
+      "previous": "0.4"
+    },
+    {
+      "title": "MBA 30-Year Mortgage Rate",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "08:00",
+      "forecast": "—",
+      "previous": "6.45"
+    },
+    {
+      "title": "Core PPI MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "09:30",
+      "forecast": "0.3",
+      "previous": "0.1"
+    },
+    {
+      "title": "PPI MoM",
+      "country": "USD",
+      "impact": "High",
+      "date": "2026-05-13",
+      "time": "09:30",
+      "forecast": "0.5",
+      "previous": "0.5"
+    },
+    {
+      "title": "EIA Gasoline Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "11:30",
+      "forecast": "—",
+      "previous": "-2.504"
+    },
+    {
+      "title": "EIA Crude Oil Stocks Change",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "11:30",
+      "forecast": "—",
+      "previous": "-2.314"
+    },
+    {
+      "title": "Fed Collins Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "12:30",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Kashkari Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "14:15",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "16:15",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Logan Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "20:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "RICS House Price Balance",
+      "country": "GBP",
+      "impact": "Medium",
+      "date": "2026-05-13",
+      "time": "20:01",
+      "forecast": "-25",
+      "previous": "-23"
     }
   ]
 }
