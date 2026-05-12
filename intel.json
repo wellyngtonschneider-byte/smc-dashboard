@@ -1,6 +1,6 @@
 {
   "date": "12/05/2026",
-  "time": "15:45",
+  "time": "16:00",
   "macro": "O ambiente macroeconômico do dia é dominado pelo dado de inflação americana (CPI), evento de alto impacto capaz de repriceificar drasticamente dólar, yields e ativos de risco em toda a sessão de Nova York. Os yields do Tesouro de dez anos mantêm estrutura bullish alinhada em todos os timeframes, sinalizando pressão persistente sobre ouro e ativos de risco e suporte fundamental para o dólar. O DXY apresenta divergência técnica relevante: bearish no swing e nos timeframes intermediários, mas com bounce nas timeframes menores que pode se ampliar caso o CPI surpreenda para cima. Discursos de membros do Fed (Williams e Goolsbee) adicionam risco de volatilidade pontual ao longo do dia, especialmente se os comentários sinalizarem postura mais hawkish em resposta ao dado de inflação.",
   "assets": [
     {
@@ -17,7 +17,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Estrutura diária bullish contrasta com bias bearish alinhado do H4 ao M5, indicando fase de retracement dentro da tendência maior, com o preço operando na região superior do OB bullish diário. Essa zona representa potencial de suporte de longo prazo, mas o contexto intraday favorece continuação de baixa em direção à liquidez abaixo. O CPI americano é crítico para o par: dado forte pressiona o GBPUSD para baixo, intensificando o bearish intraday; dado fraco pode catalisar recuperação e busca de liquidez acima. Invalidação do viés vendedor de curto prazo ocorre caso o preço rompa com estrutura os OBs bearish de H4 e H1 posicionados acima."
     },
@@ -26,7 +26,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bullish",
       "text": "Bias diário bullish diverge da estrutura bearish dominante nos timeframes intermediários (H4, H1, M15), sinalizando fase corretiva sobre a tendência maior. O M5 iniciou recuperação estrutural, mas ainda dentro de contexto vendedor mais amplo. O ZEW de sentimento europeu divulgado hoje pode adicionar volatilidade pontual: leitura positiva favorece recuperação técnica, leitura negativa amplia pressão baixista. O CPI americano permanece o principal driver do dia: surpresa inflacionária fortalece o dólar e pressiona o par em direção à liquidez abaixo, enquanto dado benigno pode empurrar o preço de volta ao OB bearish de M5 como alvo imediato."
     },
@@ -96,5 +96,5 @@
     "DXY": "Estrutura macro do dólar é bearish alinhada do D1 ao H1, mas M15 e M5 iniciaram recuperação técnica dentro dessa tendência maior. O bounce intraday está em progresso, porém ainda não representa reversão estrutural — contexto swing permanece vendedor. O CPI americano hoje é o evento mais crítico: leitura acima do esperado pode ampliar o bounce das timeframes menores e questionar o bearish intermediário; leitura abaixo valida continuação da fraqueza estrutural do dólar. Discursos de Williams e Goolsbee adicionam risco de volatilidade adicional que pode catalisar movimentos direcionais ao longo da sessão.",
     "US10Y": "Yields do Tesouro de dez anos apresentam estrutura altista plenamente alinhada em todos os timeframes analisados, sinalizando pressão persistente e crescente sobre as taxas. Esse contexto é macro-relevante: yields em alta impõem pressão sobre ouro, cripto e índices de ações, ao mesmo tempo que suportam o dólar fundamentalmente. O dado de CPI americano hoje é o principal teste para essa estrutura: leitura acima do esperado reforça a narrativa hawkish e potencializa a busca pela liquidez acima nos yields; leitura abaixo pode provocar rotação rápida com pressão baixista temporária, mas o alinhamento bullish acumulado em todos os timeframes sugere que o bias altista de yields permanece estruturalmente íntegro enquanto não houver CHoCH confirmado nos timeframes maiores."
   },
-  "bias_refreshed_at": "2026-05-12 15:45:01 -0300"
+  "bias_refreshed_at": "2026-05-12 16:00:01 -0300"
 }
