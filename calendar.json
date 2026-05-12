@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12 11:45 BRT",
+  "updated_at": "2026-05-12 12:00 BRT",
   "events": [
     {
       "title": "Fed Williams Speech",
@@ -97,7 +97,7 @@
       "impact": "Medium",
       "date": "2026-05-12",
       "time": "15:00",
-      "forecast": "157.2",
+      "forecast": "220",
       "previous": "-164.1"
     },
     {
@@ -106,7 +106,7 @@
       "impact": "Medium",
       "date": "2026-05-12",
       "time": "17:30",
-      "forecast": "—",
+      "forecast": "-1.65",
       "previous": "-8.1"
     },
     {
@@ -142,7 +142,7 @@
       "impact": "Medium",
       "date": "2026-05-13",
       "time": "06:00",
-      "forecast": "0.2",
+      "forecast": "0.3",
       "previous": "0.4"
     },
     {
@@ -178,7 +178,7 @@
       "impact": "Medium",
       "date": "2026-05-13",
       "time": "11:30",
-      "forecast": "—",
+      "forecast": "-2.55",
       "previous": "-2.504"
     },
     {
