@@ -1,6 +1,6 @@
 {
   "date": "12/05/2026",
-  "time": "08:30",
+  "time": "08:45",
   "macro": "O evento dominante do dia é a divulgação do CPI norte-americano (núcleo e total, mensal e anual), de alto impacto, que deve ditar a direção dos principais pares e ativos de risco nas sessões americanas. Discursos de membros do Fed (Williams antes da abertura europeia e Goolsbee à tarde) adicionam risco de volatilidade retórica ao longo da sessão. A divergência entre o enfraquecimento estrutural do DXY e a alta consistente dos yields do Treasury de dez anos sugere que o mercado precifica inflação persistente sem necessariamente fortalecer o dólar — contexto que favorece ativos alternativos e comprime o carry tradicional. Um CPI acima do esperado pode provocar recuperação temporária do dólar, repricing hawkish e pressão sobre equities e cripto; dado abaixo do esperado tende a favorecer risk-on e retomada das tendências macro de alta em ativos como NAS100 e metais.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Tendência macro claramente bearish com D1, H4 e H1 alinhados para baixo — dólar estruturalmente fraco no médio e longo prazo. M15 e M5 estão em pullback bullish de curto prazo, sugerindo recuperação técnica dentro do downtrend maior que pode buscar liquidez acima antes de retomar a queda. O CPI americano é o principal catalisador: dado de inflação acima do esperado pode temporariamente validar o pullback intraday e fortalecer o dólar; resultado benigno tende a renovar a pressão baixista macro e afundar o índice em direção à liquidez abaixo. Discursos de Williams e Goolsbee podem adicionar direcionalidade retórica ao movimento.",
     "US10Y": "Yields do Treasury de dez anos em tendência de alta consistente e amplamente alinhada: D1, H4, H1, M15 e M5 todos bullish — estrutura multitimeframe sem conflito que reflete expectativa de inflação persistente e postura hawkish do Fed no médio prazo. O CPI de hoje é o evento mais relevante para essa estrutura: dados acima do esperado tendem a elevar ainda mais os yields, reforçando o viés e pressionando ativos sensíveis a juros como equities de alta duration e ouro. A divergência com o DXY estruturalmente fraco é notável — yields altos sem dólar forte sugere que o mercado precifica inflação persistente mas também desconta riscos fiscais ou de prazo nos EUA, o que é um contexto atípico que merece atenção."
   },
-  "bias_refreshed_at": "2026-05-12 08:30:01 -0300"
+  "bias_refreshed_at": "2026-05-12 08:45:02 -0300"
 }
