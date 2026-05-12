@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12 18:30 BRT",
+  "updated_at": "2026-05-12 18:45 BRT",
   "events": [
     {
       "title": "Fed Williams Speech",
@@ -105,7 +105,7 @@
       "country": "USD",
       "impact": "Medium",
       "date": "2026-05-12",
-      "time": "17:30",
+      "time": "17:34",
       "forecast": "-1.65",
       "previous": "-8.1"
     },
