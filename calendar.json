@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12 15:00 BRT",
+  "updated_at": "2026-05-12 15:15 BRT",
   "events": [
     {
       "title": "Fed Williams Speech",
@@ -98,7 +98,7 @@
       "date": "2026-05-12",
       "time": "15:00",
       "forecast": "220",
-      "previous": "-164.1"
+      "previous": "-164"
     },
     {
       "title": "API Crude Oil Stock Change",
