@@ -1,6 +1,6 @@
 {
   "date": "11/05/2026",
-  "time": "21:45",
+  "time": "22:00",
   "macro": "O dólar segue estruturalmente fraco com DXY bearish em D1, H4 e H1, refletindo um ambiente de aversão ao USD que beneficia pares majors comprados e commodities. Os yields dos Treasuries de dez anos mantêm viés de alta no macro, criando tensão entre dólar fraco e custo de carregamento crescente — uma assimetria que merece atenção na leitura do ouro. O Existing Home Sales americano da manhã pode ter gerado volatilidade pontual no USD, enquanto o BRC Retail Sales britânico e os dados de gastos das famílias japonesas, junto ao BoJ Summary of Opinions no período noturno, representam riscos direcionais para GBP e JPY respectivamente.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Dólar em estrutura bearish consolidada em D1, H4 e H1 — tendência de enfraquecimento do USD com múltiplos CHoCH de baixa confirmados nos timeframes relevantes. O rali recente no M15 e M5 aparenta ser um pullback técnico dentro da tendência maior de baixa, buscando liquidez pontual antes de retomar o viés vendedor. Esse enfraquecimento estrutural do dólar serve como contexto macro de suporte para pares como GBPUSD, EURUSD e commodities. Cenário principal: o pullback intradiário tende a ser absorvido pela estrutura bearish maior, com retomada da pressão vendedora no dólar favorecendo os ativos inversamente correlacionados.",
     "US10Y": "Yields do Tesouro americano de dez anos mantêm estrutura de alta no macro com D1 e H4 bullish — ambiente de yields em ascensão que pressiona teoricamente ativos de risco e ouro, embora o DXY fraco atenue essa correlação clássica. A correção pontual dos yields no H1 parece estar sendo absorvida, com M15 e M5 retomando estrutura bullish nos yields. A liquidez acima sinaliza alvos próximos para os yields antes de qualquer reversão significativa. Cenário principal: yields devem continuar escalando em direção à liquidez acima, criando ambiente de tensão para ativos de risco, mas sem suporte equivalente para o dólar dada sua fraqueza estrutural independente."
   },
-  "bias_refreshed_at": "2026-05-11 21:45:01 -0300"
+  "bias_refreshed_at": "2026-05-11 22:00:01 -0300"
 }
