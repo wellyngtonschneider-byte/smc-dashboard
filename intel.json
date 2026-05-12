@@ -1,6 +1,6 @@
 {
   "date": "12/05/2026",
-  "time": "12:30",
+  "time": "12:45",
   "macro": "O evento dominante do dia é a divulgação do CPI americano — núcleo e cheio, mensal e anual — que tende a ditar o tom para o dólar e ativos de risco. Os yields do Tesouro de dez anos estão em estrutura bullish em todos os timeframes, sinalizando que o mercado precifica juros elevados por mais tempo, o que cria pressão sobre ativos de risco e moedas contra o dólar. O DXY apresenta divergência clara: bearish nas timeframes altas com recuperação incipiente nas baixas, tornando o CPI o catalisador para definir qual viés prevalece. Os discursos de Williams e Goolsbee adicionam camada de risco de comunicação do Fed, podendo amplificar a reação pós-dado.",
   "assets": [
     {
@@ -42,7 +42,7 @@
     {
       "pair": "BTCUSD",
       "d1": "bullish",
-      "h4": "bearish",
+      "h4": "bullish",
       "h1": "bearish",
       "m15": "bearish",
       "m5": "bearish",
@@ -96,5 +96,5 @@
     "DXY": "Interpretando via proxy como DXY: estrutura bearish dominante em D1, H4 e H1, com recuperação incipiente apenas nas timeframes baixas. O viés de médio e longo prazo é claramente vendedor para o dólar. O bounce atual nos timeframes menores tem caráter técnico dentro da tendência baixista maior. O CPI de hoje é o evento definidor: inflação acima do esperado pode validar a recuperação de curto prazo e testar liquidez acima; inflação em linha ou abaixo reforça o viés bearish e sustenta moedas como euro e libra. Os discursos do Fed ao longo do dia podem amplificar ou atenuar a reação.",
     "US10Y": "Yields em alta estrutural em todos os timeframes, do D1 ao M5 — viés bullish completamente alinhado, indicando que o mercado precifica um ambiente de juros elevados por mais tempo sem sinais de reversão. Essa dinâmica de yields em ascensão pressiona ativos de risco, impacta negativamente ouro e cripto no curto prazo, e fornece suporte técnico ao dólar americano. O CPI de hoje é o evento macro mais relevante para os yields: leitura acima do esperado pode acelerar o movimento de alta dos juros em direção à liquidez acima; leitura benigna pode provocar realização técnica, mas dificilmente reverte o viés estrutural dominante."
   },
-  "bias_refreshed_at": "2026-05-12 12:30:02 -0300"
+  "bias_refreshed_at": "2026-05-12 12:45:02 -0300"
 }
