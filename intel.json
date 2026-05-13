@@ -1,6 +1,6 @@
 {
   "date": "13/05/2026",
-  "time": "12:15",
+  "time": "12:30",
   "macro": "O dia é dominado por múltiplos discursos de membros do Fed (Collins, Kashkari e Logan) e pelo dado de PPI americano de alto impacto, que é o principal gatilho macro para direção do dólar e ativos correlacionados. Os yields do Tesouro americano estão com estrutura plenamente bullish em todos os timeframes, criando pressão sistêmica sobre metais e ativos de risco enquanto sustentam o dólar. O DXY, apesar de bearish no macro, exibe recuperação intraday consistente com esse movimento de yields — sinaliza alinhamento dólar-juros no curto prazo. O discurso da presidente do BCE, Lagarde, à tarde adiciona camada de volatilidade relevante para os pares do euro, enquanto o RICS britânico ao fim do dia pode catalisar movimentação tardia na libra.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "D1 e H4 ambos bearish configuram tendência macro vendedora do dólar, mas H1, M15 e M5 estão alinhados bullish em recuperação intraday — clássico pullback dentro de tendência bearish. Os yields subindo suportam essa recuperação de curto prazo e criam coerência entre juros e dólar no intraday. Os múltiplos discursos do Fed hoje — Collins, Kashkari e Logan — e o PPI são os catalisadores críticos: Tom hawkish ou PPI quente podem ampliar a recuperação intraday; dado fraco ou retórica dovish reativaria a tendência bearish macro. A liquidez abaixo permanece como alvo estrutural caso o movimento bajista do D1/H4 retome controle.",
     "US10Y": "Yields em alta com estrutura bullish plenamente alinhada em todos os timeframes — D1, H4, H1, M15 e M5 —, sem nenhum conflito ou divergência: é a tendência mais coesa e de maior convicção da análise. Yields subindo pressionam ouro e ativos de risco de forma estrutural e sustentam o dólar intraday, funcionando como driver transversal para todos os outros ativos. Os múltiplos discursos do Fed hoje são os eventos mais diretos para ampliar ou moderar esse movimento; retórica hawkish, especialmente combinada com um PPI quente, seria o gatilho para nova aceleração dos yields. Não há estrutura contrária identificável no momento — a narrativa de alta nos juros é dominante."
   },
-  "bias_refreshed_at": "2026-05-13 12:15:01 -0300"
+  "bias_refreshed_at": "2026-05-13 12:30:01 -0300"
 }
