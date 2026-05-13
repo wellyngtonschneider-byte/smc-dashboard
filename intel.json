@@ -1,6 +1,6 @@
 {
   "date": "13/05/2026",
-  "time": "19:45",
+  "time": "20:00",
   "macro": "O ambiente macro segue condicionado por múltiplos discursos do Fed ao longo do dia (Collins, Kashkari e Logan) e pelo dado de PPI americano como principal catalisador inflacionário da sessão, com impacto direto nas expectativas de política monetária. Yields do Tesouro em alta estrutural amplificam a pressão sobre ativos de risco e ouro, enquanto o dólar exibe recuperação técnica de curto prazo após tendência baixista mais ampla. A fala da presidente Lagarde do BCE à tarde, combinada com os dados preliminares de emprego e produção industrial europeus divulgados pela manhã, adiciona camada de volatilidade às crosses europeias. A correlação inversa entre yields, dólar e ativos de risco é o eixo interpretativo central da sessão.",
   "assets": [
     {
@@ -26,7 +26,7 @@
       "d1": "bullish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Alinhamento baixista coeso de quatro horas até cinco minutos configura viés intraday claramente vendedor, mesmo com o diário ainda em estrutura compradora macro. Múltiplos OBs vendedores posicionados acima do preço atual reforçam a pressão de oferta e definem zonas de referência para retomada da queda. Dados preliminares de emprego e produção industrial europeus, além da fala de Lagarde, são os principais catalisadores do par hoje; leitura negativa amplifica o alinhamento vendedor. Cenário provável é continuação da queda em direção à liquidez abaixo; invalidação requer fechamento acima dos OBs de venda de uma hora."
     },
@@ -96,5 +96,5 @@
     "DXY": "Macro baixista consolidado com diário e quatro horas em tendência de queda, mas timeframes menores exibindo recuperação técnica de curto prazo — movimento interpretado como pullback dentro da estrutura maior de fraqueza do dólar. A liquidez abaixo continua como alvo macro predominante, sugerindo que o bounce atual é de caráter corretivo e não reverteu o viés estrutural. PPI e discursos do Fed são os catalisadores: dados hawkish podem estender a recuperação intraday; dados dovish reativam a pressão baixista macro. Correlação inversa com pares europeus deve ser monitorada como confirmação direcional.",
     "US10Y": "Yields em alta estrutural com alinhamento comprador completo do diário ao de cinco minutos, sinalizando pressão persistente e crescente sobre o custo do capital sem sinais de reversão visíveis em nenhum timeframe. Esse ambiente de yields crescentes funciona como vento contrário para ativos de risco e ouro, enquanto sustenta a recuperação intraday do dólar e a alta do USDJPY. O dado de PPI é o evento mais crítico do dia: leitura acima do esperado tende a acelerar a alta dos yields, amplificando pressão vendedora em EURUSD, GBPUSD e XAUUSD; leitura abaixo pode desacelerar o movimento sem necessariamente reverter a estrutura. Sem zona de suporte relevante à vista nos timeframes menores."
   },
-  "bias_refreshed_at": "2026-05-13 19:45:01 -0300"
+  "bias_refreshed_at": "2026-05-13 20:00:02 -0300"
 }
