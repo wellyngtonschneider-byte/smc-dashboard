@@ -1,6 +1,6 @@
 {
   "date": "13/05/2026",
-  "time": "10:15",
+  "time": "10:30",
   "macro": "O calendário desta sessão é denso, com o PPI americano de alta relevância sendo o evento central para o dólar e ativos de risco — uma leitura acima do esperado reforçaria pressão inflacionária e poderia reancorar expectativas do Fed em postura mais hawkish. Três discursos de autoridades do Fed ao longo do dia (Collins, Kashkari e Logan) ampliam o risco de volatilidade intermitente e sinalização de política monetária divergente. O DXY mantém estrutura bearish consolidada em D1, H4 e H1, indicando dólar sistemicamente fraco, enquanto os yields do tesouro americano de dez anos exibem estrutura bullish em todos os timeframes — essa divergência cria dinâmica de pressão cruzada em ouro, pares em dólar e ativos de risco. Dados de emprego e produção industrial da zona do euro abrem a sessão europeia e podem gerar volatilidade nos pares EUR antes do PPI americano, com o discurso de Lagarde à tarde adicionando uma segunda janela de risco para o bloco.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "D1, H4 e H1 alinhados bearish — dólar em fraqueza estrutural consolidada nos principais timeframes, contexto que favorece pares de risco e commodities em dólar. M15 tentou recuperação com quebra de estrutura ascendente recente, mas M5 voltou bearish, indicando que o pullback do dólar parece limitado e a tendência principal se mantém. O PPI desta tarde é o principal catalisador capaz de alterar a dinâmica: leitura hawkish reacende força do dólar e desafia o bias bearish estrutural; leitura dovish consolida a fraqueza. Enquanto a estrutura macro bearish prevalecer, o contexto cambial favorece ouro, moedas de risco e ativos denominados em dólar.",
     "US10Y": "Os yields do tesouro americano de dez anos exibem estrutura bullish em todos os timeframes — D1, H4, H1, M15 e M5 plenamente alinhados para alta, indicando pressão crescente e consistente sobre as taxas longas. Esse contexto de yields em alta, combinado com dólar estruturalmente fraco, cria tensão nos mercados: o cenário é tipicamente compressivo para ouro e ações de crescimento, embora a divergência com o DXY sinalize que fluxos de capital e prêmio de risco também estão operando. O PPI de hoje e os três discursos do Fed são catalisadores diretos: qualquer sinalização hawkish pode ampliar a alta dos yields, enquanto tom dovish abriria espaço para realização e alívio na curva. O cenário de base é continuidade da pressão altista enquanto a estrutura bullish não for quebrada."
   },
-  "bias_refreshed_at": "2026-05-13 10:15:01 -0300"
+  "bias_refreshed_at": "2026-05-13 10:30:01 -0300"
 }
