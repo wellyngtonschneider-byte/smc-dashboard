@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13 09:30 BRT",
+  "updated_at": "2026-05-13 09:45 BRT",
   "events": [
     {
       "title": "Employment Change QoQ Prel",
@@ -44,7 +44,7 @@
       "date": "2026-05-13",
       "time": "09:30",
       "forecast": "0.3",
-      "previous": "0.1"
+      "previous": "0.2"
     },
     {
       "title": "PPI MoM",
@@ -53,7 +53,7 @@
       "date": "2026-05-13",
       "time": "09:30",
       "forecast": "0.5",
-      "previous": "0.5"
+      "previous": "0.7"
     },
     {
       "title": "EIA Gasoline Stocks Change",
