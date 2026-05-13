@@ -1,6 +1,6 @@
 {
   "date": "12/05/2026",
-  "time": "22:15",
+  "time": "22:30",
   "macro": "O evento central do dia são os dados de inflação americana — CPI e Core CPI — classificados como alto impacto e com potencial de gerar volatilidade expressiva em todos os mercados dependentes do dólar. Dois discursos de dirigentes do Fed ao longo da sessão ampliam o risco de ruído e reposicionamento intraday. O dólar mantém estrutura bearish alinhada nas principais temporalidades, enquanto os yields do Tesouro americano de dez anos exibem estrutura bullish em todas as temporalidades — uma divergência incomum que sugere tensão entre fluxo de renda fixa e percepção de risco cambial. A leitura do CPI será o catalisador mais provável para resolução dessa divergência: surpresa hawkish favorece yields e dólar, surpresa dovish reforça o bearish do DXY e pressiona pares como ouro, euro e libra para cima.",
   "assets": [
     {
@@ -53,7 +53,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Estrutura completamente bearish em todos os timeframes — D1, H4, H1, M15 e M5 alinhados para baixo, configurando o bias mais direcional e coeso entre todos os ativos analisados. O preço está imediatamente abaixo do OB de oferta do M5, recém formado, criando risco de rejeição imediata em qualquer tentativa de recuperação. A liquidez abaixo representa os alvos mais prováveis de curto e médio prazo. Não há confluência bullish em nenhuma temporalidade; invalidação do cenário bearish exigiria reversão estrutural em H1 ou H4, o que não está ocorrendo no momento."
     },
@@ -96,5 +96,5 @@
     "DXY": "Dólar em estrutura bearish dominante com D1, H4 e H1 alinhados para baixo — viés direcional claro de fraqueza do dólar. M15 havia tentado recuperação mas M5 voltou bearish, confirmando a continuidade do movimento vendedor de curto prazo também. A sessão de hoje é crítica: o CPI americano pode definir se o dólar aprofunda a fraqueza estrutural com varredura da liquidez abaixo, ou inicia recuperação técnica em direção à liquidez acima. Discursos do Fed (Williams e Goolsbee) adicionam volatilidade e podem amplificar ou contradizer o sinal do CPI, sendo o conjunto dos dois o principal motor intraday.",
     "US10Y": "Yields do Tesouro americano de dez anos em tendência de alta com todos os timeframes alinhados bullish — sinal de expectativa de juros mais altos por mais tempo e pressão sobre renda fixa. A convergência bullish em todas as temporalidades, incluindo M5, indica momentum forte sem sinais de exaustão imediata. A divergência entre yields subindo e DXY caindo sugere tensão de fluxo — possivelmente demanda de Treasuries por compradores não-americanos que vendem dólares ao mesmo tempo. O CPI de hoje é o gatilho: surpresa hawkish pode acelerar a alta dos yields com impactos diretos em ouro, índices e pares de câmbio; surpresa dovish pode iniciar correção nos yields apesar da estrutura bullish dominante."
   },
-  "bias_refreshed_at": "2026-05-12 22:15:01 -0300"
+  "bias_refreshed_at": "2026-05-12 22:30:01 -0300"
 }
