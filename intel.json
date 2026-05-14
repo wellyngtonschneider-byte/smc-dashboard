@@ -1,6 +1,6 @@
 {
   "date": "14/05/2026",
-  "time": "07:30",
+  "time": "07:45",
   "macro": "Múltiplos discursos de membros do Fed ao longo do dia (Collins, Kashkari, Logan) podem gerar reprecificação de expectativas de política monetária, com impacto direto em USD e ativos de risco. O PPI americano — evento de alta importância — é o principal catalisador do dia: dado acima do esperado reforça pressão sobre yields e fortalece o dólar; dado abaixo pode reverter o fluxo de curto prazo. Yields do Tesouro americano (US10Y) exibem estrutura bullish consolidada em todos os timeframes, criando ambiente macro de pressão sobre ouro, criptoativos e equities. DXY mostra recuperação de curto prazo sobre estrutura macro ainda bearish — contexto de dólar misto que pode ser resolvido pelo PPI e pelos discursos do Fed.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Estrutura macro bearish em D1 e H4 se mantém, mas H1, M15 e M5 mostram recuperação de curto prazo — movimento corretivo dentro de tendência baixista maior. Liquidez imediatamente acima pode ser varrida antes da retomada da tendência principal. O PPI americano é o catalisador direto: dado forte pode estender a correção bullish de curto prazo; dado fraco reforça a tendência bearish de D1/H4. A fraqueza macro do DXY sustenta viés favorável de longo prazo para pares como EURUSD e GBPUSD, mesmo que o curto prazo mostre recuperação temporária do dólar.",
     "US10Y": "Yields do Tesouro americano em tendência altista consolidada e uniforme em todos os timeframes — sinal macro de aperto financeiro contínuo. Estrutura bullish do D1 ao M5 indica pressão sustentada sobre ativos correlacionados negativamente com yields, como ouro, criptoativos e equities alavancadas. Yields mais altos reforçam viés de fortalecimento do dólar no médio e longo prazo, potencialmente limitando rallies em EURUSD e GBPUSD. Os discursos do Fed ao longo do dia são pontos de atenção críticos: tom hawkish reforça a tendência altista dos yields; tom mais dovish seria o principal catalisador de reversão neste cenário."
   },
-  "bias_refreshed_at": "2026-05-14 07:30:01 -0300"
+  "bias_refreshed_at": "2026-05-14 07:45:01 -0300"
 }
