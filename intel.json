@@ -1,6 +1,6 @@
 {
   "date": "14/05/2026",
-  "time": "16:45",
+  "time": "17:00",
   "macro": "O dia é dominado por um calendário denso: o relatório de Vendas no Varejo americano (alto impacto) é o principal catalisador para o dólar e ativos de risco, com potencial de validar ou reverter o repique intraday do DXY. Yields do tesouro americano de dez anos estão em estrutura de alta em todos os tempos gráficos, sinalizando aperto financeiro e pressão sobre ouro e ativos de risco. O GBP enfrenta bateria de dados de PIB e produção industrial de alta relevância ainda na abertura europeia, tornando o par extremamente sensível a surpresas na margem. Múltiplos discursos do Fed ao longo do dia (Schmid, Hammack, Bowman, Williams, Barr) e a fala de Lagarde do BCE adicionam ruído de reação rápida, podendo amplificar movimentos pós-dado ou iniciar reversões caso o tom seja mais hawkish ou dovish do que o precificado.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Divergência clássica: D1 e H4 confirmam viés bearish estrutural do dólar, mas H1, M15 e M5 executaram BOS de alta em conjunto, sinalizando repique intraday robusto contra a tendência macro. O dado de Vendas no Varejo americano é o árbitro do dia — surpresa positiva pode dar tração ao repique intraday, enquanto dado fraco retomaria a pressão vendedora macro e apagaria o movimento de curto prazo. A liquidez abaixo em dois alvos representa o destino macro do DXY caso a estrutura D1/H4 prevaleça. Múltiplos discursos do Fed ao longo do dia podem alterar o tom e acionar reavaliação direcional. Cenário central: repique intraday com resistência nas zonas de liquidez pendentes acima, sem capacidade de reversão estrutural sem catalisador macro significativo.",
     "US10Y": "Yields do tesouro americano de dez anos estão em estrutura de alta em todos os cinco tempos gráficos, com D1, H4, H1, M15 e M5 todos confirmando sequência de BOS e CHoCH ascendentes — alinhamento de máxima confluência direcional bullish para os yields. Yields em alta pressionam ativos de risco de valuation longo, pesam sobre o ouro via custo de oportunidade e tendem a sustentar o dólar. O dado de Varejo americano é o principal catalisador imediato: consumo forte reforça expectativa de juros elevados por mais tempo, dando continuidade à alta dos yields; dado fraco seria o principal fator de reversão técnica no curto prazo. A liquidez acima é o próximo alvo de extensão; a liquidez abaixo representa suporte estrutural de médio prazo. Cenário dominante: yields continuam pressionados para cima em contexto macro até que dados fracos ou discurso dovish do Fed mudem a narrativa."
   },
-  "bias_refreshed_at": "2026-05-14 16:45:02 -0300"
+  "bias_refreshed_at": "2026-05-14 17:00:01 -0300"
 }
