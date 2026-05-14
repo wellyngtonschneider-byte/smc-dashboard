@@ -1,6 +1,6 @@
 {
   "date": "14/05/2026",
-  "time": "20:30",
+  "time": "20:45",
   "macro": "O ambiente macro é dominado por yields do tesouro americano em alta consistente em todos os timeframes, sinalizando postura hawkish e suporte ao dólar no curto prazo. O DXY apresenta estrutura maior bearish, mas exibe recuperação técnica nos timeframes intradiários, criando tensão entre tendência dominante e impulso corrente. O dia é extremamente carregado de catalisadores: dados de PIB britânico já divulgados na abertura europeia impactaram diretamente a libra, e o Retail Sales americano no horário de Nova York é o evento de maior potencial de movimentação para pares em USD. A sequência de cinco discursos do Fed ao longo do dia adiciona risco de volatilidade episódica e pode reforçar ou questionar o atual viés hawkish precificado nas taxas longas.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "Índice do dólar em conflito estrutural: D1 e H4 mantêm viés bearish dominante, mas os três timeframes intradiários menores (H1, M15, M5) estão em recuperação altista — caracterizando um pullback técnico dentro de tendência maior de baixa. O Retail Sales americano é o evento-chave que pode determinar se este repique intradiário ganha tração ou reverte. Múltiplos discursos do Fed ao longo do dia adicionam volatilidade bidirecional. Liquidez abaixo do preço atual representa os alvos finais conforme a estrutura maior bearish. A atual recuperação deve ser monitorada como possível zona de oferta institucional antes de retomada da tendência dominante de baixa.",
     "US10Y": "Yields do tesouro americano de dez anos em alta consistente e alinhada em todos os cinco timeframes — estrutura plenamente bullish de yields sem qualquer dissidência entre as granularidades. Isso sinaliza postura hawkish precificada pelo mercado de renda fixa, com expectativa de juros altos por mais tempo. O ambiente de yields crescentes suporta fundamentalmente o dólar e pressiona ativos como ouro e pares de moedas emergentes. Liquidez acima representa a próxima zona de aceleração dos yields; suportes abaixo ficam em zonas de liquidez que seriam varridas apenas em reversão de narrativa macro significativa, como uma surpresa muito negativa no Retail Sales ou comunicação dovish coordenada do Fed."
   },
-  "bias_refreshed_at": "2026-05-14 20:30:02 -0300"
+  "bias_refreshed_at": "2026-05-14 20:45:01 -0300"
 }
