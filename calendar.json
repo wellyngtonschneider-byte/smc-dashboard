@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14 09:30 BRT",
+  "updated_at": "2026-05-14 09:45 BRT",
   "events": [
     {
       "title": "GDP Growth Rate YoY Prel",
@@ -98,7 +98,7 @@
       "date": "2026-05-14",
       "time": "09:30",
       "forecast": "205",
-      "previous": "200"
+      "previous": "199"
     },
     {
       "title": "Retail Sales MoM",
@@ -116,7 +116,7 @@
       "date": "2026-05-14",
       "time": "09:30",
       "forecast": "1",
-      "previous": "0.8"
+      "previous": "0.9"
     },
     {
       "title": "Export Prices MoM",
@@ -125,7 +125,7 @@
       "date": "2026-05-14",
       "time": "09:30",
       "forecast": "1.1",
-      "previous": "1.6"
+      "previous": "1.5"
     },
     {
       "title": "Retail Sales Ex Autos MoM",
@@ -143,7 +143,7 @@
       "date": "2026-05-14",
       "time": "09:30",
       "forecast": "0.4",
-      "previous": "0.7"
+      "previous": "0.8"
     },
     {
       "title": "Business Inventories MoM",
