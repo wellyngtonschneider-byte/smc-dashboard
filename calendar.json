@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14 07:30 BRT",
+  "updated_at": "2026-05-14 07:45 BRT",
   "events": [
     {
       "title": "GDP Growth Rate YoY Prel",
@@ -155,7 +155,25 @@
       "previous": "0.4"
     },
     {
+      "title": "Fed Schmid Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-14",
+      "time": "11:15",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
       "title": "Fed Hammack Speech",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-14",
+      "time": "14:00",
+      "forecast": "—",
+      "previous": "—"
+    },
+    {
+      "title": "Fed Bowman Speech",
       "country": "USD",
       "impact": "Medium",
       "date": "2026-05-14",
