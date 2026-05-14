@@ -1,123 +1,6 @@
 {
-  "updated_at": "2026-05-13 22:45 BRT",
+  "updated_at": "2026-05-14 06:00 BRT",
   "events": [
-    {
-      "title": "Employment Change QoQ Prel",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "06:00",
-      "forecast": "0.1",
-      "previous": "0.2"
-    },
-    {
-      "title": "Employment Change YoY Prel",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "06:00",
-      "forecast": "0.5",
-      "previous": "0.7"
-    },
-    {
-      "title": "Industrial Production MoM",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "06:00",
-      "forecast": "0.3",
-      "previous": "0.2"
-    },
-    {
-      "title": "MBA 30-Year Mortgage Rate",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "08:00",
-      "forecast": "—",
-      "previous": "6.45"
-    },
-    {
-      "title": "Core PPI MoM",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "09:30",
-      "forecast": "0.3",
-      "previous": "0.2"
-    },
-    {
-      "title": "PPI MoM",
-      "country": "USD",
-      "impact": "High",
-      "date": "2026-05-13",
-      "time": "09:30",
-      "forecast": "0.5",
-      "previous": "0.7"
-    },
-    {
-      "title": "EIA Gasoline Stocks Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "11:30",
-      "forecast": "-2.85",
-      "previous": "-2.504"
-    },
-    {
-      "title": "EIA Crude Oil Stocks Change",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "11:30",
-      "forecast": "-2.1",
-      "previous": "-2.313"
-    },
-    {
-      "title": "Fed Collins Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "12:30",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Kashkari Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "14:15",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "ECB President Lagarde Speech",
-      "country": "EUR",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "16:15",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "Fed Logan Speech",
-      "country": "USD",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "20:00",
-      "forecast": "—",
-      "previous": "—"
-    },
-    {
-      "title": "RICS House Price Balance",
-      "country": "GBP",
-      "impact": "Medium",
-      "date": "2026-05-13",
-      "time": "20:01",
-      "forecast": "-25",
-      "previous": "-25"
-    },
     {
       "title": "GDP Growth Rate YoY Prel",
       "country": "GBP",
@@ -134,7 +17,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "—",
-      "previous": "-7.1"
+      "previous": "-10.944"
     },
     {
       "title": "Goods Trade Balance",
@@ -143,7 +26,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "-20",
-      "previous": "-18.79"
+      "previous": "-22.8"
     },
     {
       "title": "GDP MoM",
@@ -152,7 +35,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "-0.2",
-      "previous": "0.5"
+      "previous": "0.4"
     },
     {
       "title": "GDP 3-Month Avg",
@@ -170,7 +53,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "0.6",
-      "previous": "0.1"
+      "previous": "0.2"
     },
     {
       "title": "Industrial Production MoM",
@@ -179,7 +62,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "-0.3",
-      "previous": "0.5"
+      "previous": "0.3"
     },
     {
       "title": "Manufacturing Production MoM",
@@ -188,7 +71,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "-0.2",
-      "previous": "-0.1"
+      "previous": "-0.2"
     },
     {
       "title": "Business Investment QoQ Prel",
@@ -197,7 +80,7 @@
       "date": "2026-05-14",
       "time": "03:00",
       "forecast": "1.1",
-      "previous": "-2.5"
+      "previous": "-2.9"
     },
     {
       "title": "ECB President Lagarde Speech",
@@ -297,6 +180,24 @@
       "time": "20:00",
       "forecast": "—",
       "previous": "—"
+    },
+    {
+      "title": "NY Empire State Manufacturing Index",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-15",
+      "time": "09:30",
+      "forecast": "7.5",
+      "previous": "11"
+    },
+    {
+      "title": "Industrial Production MoM",
+      "country": "USD",
+      "impact": "Medium",
+      "date": "2026-05-15",
+      "time": "10:15",
+      "forecast": "0.3",
+      "previous": "-0.5"
     }
   ]
 }
