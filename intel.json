@@ -1,6 +1,6 @@
 {
   "date": "14/05/2026",
-  "time": "12:30",
+  "time": "12:45",
   "macro": "O dia é dominado por dados de alto impacto nos EUA — Retail Sales e múltiplos discursos de dirigentes do Fed ao longo da sessão americana. Os yields do Tesouro de 10 anos mantêm estrutura bullish intacta em todos os timeframes, sinalizando pressão vendedora persistente sobre ativos de risco e ouro. O DXY, embora bearish no macro, está em recuperação de curto prazo, o que reforça a pressão sobre pares com USD no denominador (EURUSD, GBPUSD) e sobre metais. No GBP, os dados de PIB britânico já foram divulgados na abertura europeia e podem ter catalisado o movimento de baixa já registrado nas estruturas intraday. A leitura conjunta de yields subindo e DXY recuperando no curto prazo favorece um ambiente de apetite reduzido por risco e dólar mais forte no intraday, com potencial de reversão mais ampla caso os dados de Retail Sales surpreendam.",
   "assets": [
     {
@@ -96,5 +96,5 @@
     "DXY": "O proxy do dólar mostra bearish no D1 e H4, confirmando tendência macro de enfraquecimento do USD — porém, os três timeframes curtos (H1, M15 e M5) estão todos bullish, indicando recuperação intraday dentro da tendência maior de baixa. Esse bounce de curto prazo é consistente com o que se observa nos pares (EURUSD, GBPUSD sob pressão). A liquidez abaixo é o alvo de médio prazo alinhado à estrutura maior. O gatilho mais relevante para direção hoje é o Retail Sales: leitura forte pode estender o rally intraday; leitura fraca pode acelerar a retomada da baixa macro. Múltiplos Feds falando ao longo do dia ampliam risco de volatilidade no USD.",
     "US10Y": "Yields do Tesouro de 10 anos em alta consistente: D1, H4, H1, M15 e M5 todos bullish, sem nenhum conflito de estrutura — o viés macro é inequivocamente de alta nos yields. Esse ambiente é restritivo para ouro, pressiona pares de emergentes e pode limitar o upside em renda variável (NAS100 desafia essa correlação momentaneamente). A liquidez acima sugere que o mercado ainda pode buscar níveis maiores antes de qualquer reversão. O dado de Retail Sales de hoje é o principal catalisador: resultado acima do esperado tende a reforçar expectativas de juros elevados por mais tempo, sustentando yields altos. Não há sinal de enfraquecimento estrutural nos yields no momento."
   },
-  "bias_refreshed_at": "2026-05-14 12:30:01 -0300"
+  "bias_refreshed_at": "2026-05-14 12:45:02 -0300"
 }
