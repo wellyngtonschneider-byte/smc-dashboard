@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14 10:00 BRT",
+  "updated_at": "2026-05-14 10:15 BRT",
   "events": [
     {
       "title": "GDP Growth Rate YoY Prel",
@@ -107,7 +107,7 @@
       "date": "2026-05-14",
       "time": "09:30",
       "forecast": "0.5",
-      "previous": "1.7"
+      "previous": "1.6"
     },
     {
       "title": "Import Prices MoM",
