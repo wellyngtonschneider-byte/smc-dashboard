@@ -1,6 +1,6 @@
 {
   "date": "14/05/2026",
-  "time": "09:00",
+  "time": "09:15",
   "macro": "O mercado opera sob influência direta de uma agenda macroeconômica densa: dados de PIB britânico de alta relevância abrem a sessão europeia, seguidos por Vendas ao Varejo americanas — o principal catalisador do dia para o dólar. O yield do tesouro de dez anos apresenta estrutura altista em todos os timeframes, sinalizando pressão vendedora sobre os títulos e potencial suporte técnico ao dólar, porém o DXY em si mantém viés macro baixista nos timeframes maiores, evidenciando uma desconexão que pode refletir dinâmica fiscal ou geopolítica ainda não resolvida. A sequência de discursos do Fed ao longo do dia — cinco membros programados — aumenta o risco de ruído direcional para pares com dólar, especialmente se houver divergência de tom entre os oradores. O par EUR também fica exposto ao discurso de Lagarde no período europeu, enquanto a combinação yields-altos com dólar estruturalmente fraco sugere ambiente de risco ainda não consolidado.",
   "assets": [
     {
@@ -53,7 +53,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bearish",
       "text": "Estrutura consistentemente baixista: D1, H4 e H1 todos alinhados para baixo, com BOS e CHoCH descendentes encadeados nos três timeframes maiores. O M15 tentou reversão com CHoCH altista, mas o M5 já reverteu com novo BOS de baixa, negando o repique. O OB de oferta no M15 representa zona de interesse para vendedores caso o preço retome a região; o viés predominante favorece continuidade da pressão descendente. A liquidez abaixo do preço atual é o alvo natural. Ethereum mostra estrutura mais fraca que Bitcoin no momento, sem suporte de diário altista — risco assimétrico para baixo enquanto os três timeframes maiores permanecerem alinhados."
     },
@@ -96,5 +96,5 @@
     "DXY": "Proxy do dólar em contexto de divergência temporal: estrutura macro baixista consolidada no diário e no H4, com CHoCH descendentes que definem o viés dominante de médio prazo. Contudo, H1, M15 e M5 estão todos em recuperação altista — movimento contratendência que pode se tratar de coleta de liquidez antes de nova perna baixista. A confluência de discursos do Fed ao longo do dia e o dado de Varejo americano são os principais catalisadores; tom hawkish e dado forte poderiam estender a recuperação de curto prazo, mas o teto estrutural dos timeframes maiores limita o potencial. A direção de médio prazo segue baixista enquanto D1 e H4 não reverterem estrutura.",
     "US10Y": "Yields do tesouro de dez anos em estrutura altista em todos os cinco timeframes analisados — D1, H4, H1, M15 e M5 — configurando um dos cenários técnicos mais alinhados do conjunto. Yields em alta sustentada refletem expectativa de juros elevados por mais tempo ou pressão fiscal crescente, o que normalmente pressiona ativos de risco e deveria apoiar o dólar; a desconexão com o DXY macro baixista merece atenção como sinal de dinâmica mais complexa no mercado. O draw natural é a liquidez acima do preço atual. Não há estrutura de reversão visível em nenhum timeframe — o viés altista de yields se mantém intacto até surgir algum CHoCH descendente nos timeframes intermediários."
   },
-  "bias_refreshed_at": "2026-05-14 09:00:02 -0300"
+  "bias_refreshed_at": "2026-05-14 09:15:02 -0300"
 }
