@@ -1,6 +1,6 @@
 {
-  "date": "14/05/2026",
-  "time": "22:45",
+  "date": "15/05/2026",
+  "time": "08:30",
   "macro": "O ambiente macro é dominado por yields do tesouro americano em alta consistente em todos os timeframes, sinalizando postura hawkish e suporte ao dólar no curto prazo. O DXY apresenta estrutura maior bearish, mas exibe recuperação técnica nos timeframes intradiários, criando tensão entre tendência dominante e impulso corrente. O dia é extremamente carregado de catalisadores: dados de PIB britânico já divulgados na abertura europeia impactaram diretamente a libra, e o Retail Sales americano no horário de Nova York é o evento de maior potencial de movimentação para pares em USD. A sequência de cinco discursos do Fed ao longo do dia adiciona risco de volatilidade episódica e pode reforçar ou questionar o atual viés hawkish precificado nas taxas longas.",
   "assets": [
     {
@@ -17,7 +17,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Estrutura excecionalmente alinhada para baixo em todos os cinco timeframes analisados, configurando o cenário mais direcional do dia. Os dados de PIB britânico divulgados cedo reforçaram a pressão vendedora sobre a libra, e o CHoCH diário recente consolida o viés D1 bearish. Múltiplos order blocks bearish acima do preço formam uma parede de oferta em diferentes granularidades, reduzindo espaço para pullbacks significativos. Liquidez imediata abaixo do preço atual é o alvo natural. Operacionalmente, qualquer recuperação intradiária até as zonas de OB é oportunidade de alinhamento com a tendência; invalidação apenas com quebra estrutural dos blocos H4 e retomada acima dos máximos relevantes."
     },
@@ -26,7 +26,7 @@
       "d1": "bearish",
       "h4": "bearish",
       "h1": "bearish",
-      "m15": "bearish",
+      "m15": "bullish",
       "m5": "bearish",
       "text": "Ativo em conflito estrutural: D1 mantém viés altista desde mudança de caráter em abril, mas H4, H1, M15 e M5 estão alinhados bearish, indicando que a correção intradiária é dominante no curto prazo. O discurso de Lagarde no horário europeu e o Retail Sales americano são os principais catalisadores que podem definir a próxima direção. OBs bearish em H4 e H1 acima do preço funcionam como resistências para retomada vendedora; enquanto a estrutura D1 não for invalidada, existe suporte de longo prazo que limita alvos de queda. Cenário mais provável: pressão vendedora continua até que um evento macroeconômico relevante justifique rotação."
     },
@@ -35,7 +35,7 @@
       "d1": "bullish",
       "h4": "bullish",
       "h1": "bullish",
-      "m15": "bullish",
+      "m15": "bearish",
       "m5": "bullish",
       "text": "Viés fortemente altista com D1, H4, H1, M15 e M5 todos alinhados para cima — o ativo mais alinhado entre os forex do dia. O ambiente de yields americanos em alta sustenta fundamentalmente a pressão compradora no par. OBs bullish em múltiplos timeframes abaixo do preço funcionam como suporte em caso de recuo. Liquidez imediata acima do preço atual é o gatilho natural de continuação. O Retail Sales americano positivo seria o catalisador ideal para acelerar a busca por liquidez acima; invalidação da estrutura bullish exigiria quebra abaixo dos blocos H1 com perda de estrutura higher low."
     },
@@ -52,7 +52,7 @@
       "pair": "ETHUSD",
       "d1": "bearish",
       "h4": "bearish",
-      "h1": "bullish",
+      "h1": "bearish",
       "m15": "bearish",
       "m5": "bearish",
       "text": "Estrutura mista com conflito entre timeframes maiores e menores: D1 e H4 alinhados bearish estabelecem o viés dominante, enquanto H1 e M15 mostram recuperação técnica que pode estar em fase de esgotamento, dado que o M5 já voltou bearish. O preço está próximo de um OB bearish em M5, elevando a probabilidade de rejeição imediata. Liquidez abaixo é o alvo prioritário conforme o viés D1+H4. Em contraste com o BTC que está plenamente bullish, o ETH mostra fraqueza relativa relevante. Gatilho bearish é recusa no OB M5 com perda de suporte imediato; invalidação da estrutura bearish dominante exigiria recuperação acima dos blocos H4."
@@ -96,5 +96,5 @@
     "DXY": "Índice do dólar em conflito estrutural: D1 e H4 mantêm viés bearish dominante, mas os três timeframes intradiários menores (H1, M15, M5) estão em recuperação altista — caracterizando um pullback técnico dentro de tendência maior de baixa. O Retail Sales americano é o evento-chave que pode determinar se este repique intradiário ganha tração ou reverte. Múltiplos discursos do Fed ao longo do dia adicionam volatilidade bidirecional. Liquidez abaixo do preço atual representa os alvos finais conforme a estrutura maior bearish. A atual recuperação deve ser monitorada como possível zona de oferta institucional antes de retomada da tendência dominante de baixa.",
     "US10Y": "Yields do tesouro americano de dez anos em alta consistente e alinhada em todos os cinco timeframes — estrutura plenamente bullish de yields sem qualquer dissidência entre as granularidades. Isso sinaliza postura hawkish precificada pelo mercado de renda fixa, com expectativa de juros altos por mais tempo. O ambiente de yields crescentes suporta fundamentalmente o dólar e pressiona ativos como ouro e pares de moedas emergentes. Liquidez acima representa a próxima zona de aceleração dos yields; suportes abaixo ficam em zonas de liquidez que seriam varridas apenas em reversão de narrativa macro significativa, como uma surpresa muito negativa no Retail Sales ou comunicação dovish coordenada do Fed."
   },
-  "bias_refreshed_at": "2026-05-14 22:45:01 -0300"
+  "bias_refreshed_at": "2026-05-15 08:30:01 -0300"
 }
